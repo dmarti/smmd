@@ -1,9 +1,33 @@
 
-# Kochava
+# Kochava Inc.
 
-Name: Kochava
+Name: Kochava Inc.
+
 Domain: kochava.com
-Home: https://www.kochava.com/
-Privacy_policy: https://www.kochava.com/support-privacy/
-Email: privacy@kochava.com
-Member_of: Interactive Advertising Bureau (IAB)
+
+Home: http://www.kochava.com/
+
+Email: 
+
+Privacy_policy: 
+
+Opt_out_url: 
+
+Vermont_id: 368030
+
+
+
+## How to opt out
+
+
+
+## How to delete
+
+
+
+## Additional info
+
+
+
+201 Church St, Sandpoint, ID, 83864, USA
+

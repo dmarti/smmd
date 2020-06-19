@@ -1,8 +1,35 @@
 
-# TechTarget
+# TechTarget, Inc.
 
-Name: TechTarget
+Name: TechTarget, Inc.
+
 Domain: techtarget.com
-Home: https://www.techtarget.com/
-Privacy_policy: https://www.techtarget.com/privacy-policy/
-Email: privacy@techtarget.com
+
+Home: http://www.techtarget.com
+
+Email: legal [at] techtarget.com
+
+Privacy_policy: 
+
+Opt_out_url: 
+
+California_date: 02/07/2020
+
+Vermont_id: 367909
+
+
+
+## How to opt out
+
+A consumer may opt out of sale or submit requests under the CCPA by (i) completing our web form located at https://www.techtarget.com/CA-rights-request/, (ii) emailing us at privacy@techtarget.com, or (iii) calling us at (888) 274-4111.
+
+## How to delete
+
+A consumer and/or protected individual can demand deletion of information by (i) completing our web form located at https://www.techtarget.com/CA-rights-request/, (ii) emailing us at privacy@techtarget.com, or (iii) calling us at (888) 274-4111.
+
+## Additional info
+
+A consumer can review the categories of personal information that we collect and our data collecting practices in our Privacy Notice for California Residents located at https://www.techtarget.com/ccpa-privacy-notice/. Additional information about data collection and use can be found in our Privacy Policy located at https://www.techtarget.com/privacy-policy .
+
+275 Grove StreetNewton, MA 02466United States
+

@@ -2,7 +2,30 @@
 # Cardlytics
 
 Name: Cardlytics
+
 Domain: cardlytics.com
-Home: http://www.cardlytics.com/
-Privacy_policy: http://www.cardlytics.com/us-privacy-policy/
-Email: privacy@cardlytics.com;
+
+Home: cardlytics.com
+
+Email: 
+
+Privacy_policy: 
+
+Opt_out_url: 
+
+
+
+## How to opt out
+
+
+
+## How to delete
+
+
+
+## Additional info
+
+
+
+
+

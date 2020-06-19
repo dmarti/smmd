@@ -1,11 +1,35 @@
 
-# ownerIQ
+# Inmar-OIQ, LLC
 
-Name: ownerIQ
+Name: Inmar-OIQ, LLC
+
 Domain: owneriq.com
-Home: http://www.owneriq.com/
-Privacy_policy: http://www.owneriq.com/privacy-notice
-Email: privacy@owneriq.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+
+Home: http://www.owneriq.com
+
+Email: privacy [at] owneriq.com
+
+Privacy_policy: 
+
+Opt_out_url: 
+
+California_date: 03/03/2020
+
+Vermont_id: 367894
+
+
+
+## How to opt out
+
+The consumer can opt out by clicking on the Do Not Sell opt out link on our website and in our privacy notice, under "California Rights" section.
+
+## How to delete
+
+The consumer can make a deletion request through the form listed in our privacy notice on our website, under "California Rights" section.
+
+## Additional info
+
+
+
+635 Vine StreetWinston-Salem, NC 27101United States
+

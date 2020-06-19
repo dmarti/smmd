@@ -1,12 +1,35 @@
 
-# LiveRamp
+# LiveRamp, Inc.
 
-Name: LiveRamp
+Name: LiveRamp, Inc.
+
 Domain: liveramp.com
-Home: http://liveramp.com/
-Privacy_policy: http://liveramp.com/privacy/
-Email: privacy@liveramp.com
-Owned_by: Acxiom
-Member_of: Digital Advertising Alliance
-Member_of: DMA_ANA
-Member_of: Interactive Advertising Bureau (IAB)
+
+Home: http://www.liveramp.com
+
+Email: consumercare [at] liveramp.com
+
+Privacy_policy: https://www.liveramp.com/privacy/
+
+Opt_out_url: https://your-rights.liveramp.com/templates/access_individual.html
+
+California_date: 03/19/2020
+
+
+
+## How to opt out
+
+California residents may submit an opt-out of sale request online at https://your-rights.liveramp.com/ or by calling 866-467-8688 and entering 321.
+
+## How to delete
+
+California residents and protected individuals may submit deletion requests online at https://your-rights.liveramp.com/ or by calling 866-467-8688 and entering 322.
+
+## Additional info
+
+LiveRamp is a technology company of innovators, engineers, marketers, and data ethics specialists who are on a mission to make data safe and easy-to-use. Our technology platform helps enable personalized and meaningful ad experiences for people by helping companies connect their data in a privacy-focused manner. 
+
+Additional information on LiveRamp’s data collecting practices is available within our privacy page (https://liveramp.com/privacy/) and our California Privacy Notice (https://liveramp.com/privacy/california-privacy-notice/).
+
+225 Bush Street 17th FloorSan Francisco, CA 94104United States
+

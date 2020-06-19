@@ -1,9 +1,33 @@
 
-# ALC
+# ALC LLC
 
-Name: ALC
+Name: ALC LLC
+
 Domain: alc.com
-Home: http://www.alc.com/
-Privacy_policy: http://www.alc.com/privacy-policy/
-Email: privacy.officer@alc.com
-Member_of: DMA_ANA
+
+Home: www.alc.com
+
+Email: 
+
+Privacy_policy: 
+
+Opt_out_url: 
+
+Vermont_id: 367551
+
+
+
+## How to opt out
+
+
+
+## How to delete
+
+
+
+## Additional info
+
+
+
+750 College Road East, Suite 201, Princeton, NJ, 08540, USA
+

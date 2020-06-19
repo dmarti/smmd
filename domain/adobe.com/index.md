@@ -1,13 +1,31 @@
 
-# Adobe Experience Platform
+# Adobe
 
-Name: Adobe Experience Platform
+Name: Adobe
+
 Domain: adobe.com
-Home: https://www.adobe.com/experience-platform.html
-Privacy_policy: https://www.adobe.com/privacy/policy.html
-Email: DPO@adobe.com
-Owned_by: Adobe
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
-Member_of: Network Advertising Initiative
+
+Home: adobe.com
+
+Email: 
+
+Privacy_policy: https://www.adobe.com/privacy.html
+
+Opt_out_url: 
+
+
+
+## How to opt out
+
+
+
+## How to delete
+
+
+
+## Additional info
+
+
+
+
+

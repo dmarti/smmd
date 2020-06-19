@@ -1,0 +1,85 @@
+#!/usr/bin/env python3
+
+import base64
+import binascii
+import configparser
+import csv
+import io
+import json
+import os
+import pathlib
+import sys
+import tempfile
+import urllib
+
+import tldextract
+
+def spew_file(pathname, content):
+    try:
+        os.makedirs(os.path.split(pathname)[0])
+    except FileExistsError:
+        pass
+    with tempfile.NamedTemporaryFile(dir=os.path.dirname(pathname), mode='w+',
+                                     delete=False, encoding='utf-8') as scratch:
+        scratch.write(content)
+    os.replace(scratch.name, pathname)
+
+
+if __name__ == '__main__':
+    for thing in csv.reader(sys.stdin):
+        (name, email, home, pp, oo, physical, how1, how2, addl, cadate, k, vid, sdm, cdp, eoo, notes) = thing
+
+# Data Broker Name,Email Address (Accessible to the public),Website URL,Privacy policy URL,Opt out URL,Physical Address,How a consumer may opt out of sale or submit requests under the CCPA,How a protected individual can demand deletion of information posted online under Gov. Code sections 6208.1(b) or 6254.21(c)(1),Additional information about data collecting practices,Date Added to California AG list ( https://oag.ca.gov/data-brokers ),Kanary,Vermont ID,stopdatamining.me,Criteo data partner,Excessive opt-out,Notes
+
+        tld = tldextract.extract(home)
+        domain = '.'.join([tld.domain, tld.suffix])
+
+        extras = ''
+        if cadate:
+            extras += "California_date: %s\n\n" % cadate
+        if vid:
+            extras += "Vermont_id: %s\n\n" % vid
+
+
+        entry = '''
+# %s
+
+Name: %s
+
+Domain: %s
+
+Home: %s
+
+Email: %s
+
+Privacy_policy: %s
+
+Opt_out_url: %s
+
+%s
+
+## How to opt out
+
+%s
+
+## How to delete
+
+%s
+
+## Additional info
+
+%s
+
+%s
+
+''' % (name, name, domain, home, email, pp, oo, extras, how1, how2, addl, physical)
+
+        path = 'domain/%s/index.md' % domain
+        try:
+            spew_file(path, entry)
+        except:
+            pass
+
+
+# vim: autoindent textwidth=100 tabstop=4 shiftwidth=4 expandtab softtabstop=4 filetype=python
+
