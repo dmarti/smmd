@@ -1,4 +1,3 @@
-
 # xAd, Inc. dba GroundTruth
 
 Name: xAd, Inc. dba GroundTruth
@@ -9,9 +8,9 @@ Home: http://www.groundtruth.com
 
 Email: legal [at] groundtruth.com
 
-Privacy_policy: 
+Privacy_policy: https://www.groundtruth.com/privacy-policy/
 
-Opt_out_url: 
+Opt_out_url: https://www.groundtruth.com/california-ccpa-rights/
 
 California_date: 02/12/2020
 
@@ -29,5 +28,12 @@ Not applicable
 
 A description of our data collecting practices is available at: https://www.groundtruth.com/privacy-policy/
 
-One World Trade60th FloorNew York, NY 10007United States
+One World Trade 60th Floor
+New York, NY 10007
+
+
+## Notes
+
+Requires mobile advertising ID for consumer opt-outs.
+
 
