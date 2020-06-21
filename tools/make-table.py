@@ -132,7 +132,7 @@ if __name__ == '__main__':
         except:
             raise
 
-    print('<html><head><title>Results</title><style type="text/css">')
+    print('<html><head><title>Surveillance Marketing Meta-Directory</title><style type="text/css">')
     print(tablestyle)
     print('</style>')
     print('<script src="sorttable.js"></script>')
