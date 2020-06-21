@@ -11,6 +11,7 @@ domain/%/index.html : domain/%/index.md
 	pandoc $< > $@
 
 clean :
+	rm -f index.html
 
 .PHONY : all clean pristine
 
