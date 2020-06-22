@@ -1,6 +1,10 @@
-LISTINGS = $(shell find domains -type f)
+LISTINGS = $(shell find domain -type f -name *.md)
 
-PAGES = $(KEYWORDS:%/index.md=%/index.html)
+# PAGES = $(LISTINGS:%/index.md=%/index.html)
+
+# PAGES = $(shell find domain -type d | xargs -n 1 echo "$1/index.html")
+
+PAGES = $(shell tools/list-pages.sh)
 
 all : index.html
 
@@ -12,6 +16,7 @@ domain/%/index.html : domain/%/index.md
 
 clean :
 	rm -f index.html
+	rm -f ${PAGES}
 
 .PHONY : all clean pristine
 

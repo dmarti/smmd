@@ -1,4 +1,3 @@
-
 # Resonate
 
 Name: Resonate
@@ -7,15 +6,15 @@ Domain: resonate.com
 
 Home: http://www.resonate.com
 
-Email: privacy [at] resonate.com
+Email: privacy@resonate.com
 
 Privacy_policy: 
 
-Opt_out_url: 
+Opt_out_url: https://www.resonate.com/ccpa-do-not-sell/
 
 California_date: 02/27/2020
 
-
+California_listing: https://oag.ca.gov/data-broker/registration/187093
 
 ## How to opt out
 
