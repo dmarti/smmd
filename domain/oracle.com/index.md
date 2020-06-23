@@ -1,3 +1,7 @@
+---
+domain: oracle.com
+name "Oracle America, Inc. (Oracle Data Cloud)"
+---
 
 # Oracle America, Inc. (Oracle Data Cloud)
 

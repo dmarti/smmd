@@ -1,4 +1,4 @@
 #!/usr/bin/bash
 
-find domain -type d -mindepth 1 | perl -ne 'chomp; print "$_/index.html\n"'
+find domain -mindepth 1 -type d | perl -ne 'chomp; print "$_/index.html\n"'
 

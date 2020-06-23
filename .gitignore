@@ -12,3 +12,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
