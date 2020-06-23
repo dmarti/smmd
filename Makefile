@@ -1,15 +1,12 @@
 LISTINGS = $(shell find domain -type f -name *.md)
 
-PAGES = $(shell tools/list-pages.sh)
-
 all : index.html
 
-index.html : Makefile tools/list-pages.sh tools/make-table.py ${PAGES}
+index.html : Makefile tools/make-table.py ${LISTINGS}
 	tools/make-table.py > $@
 
 clean :
 	rm -f index.html
-	rm -f ${PAGES}
 
 hooks : .git/hooks/pre-add
 

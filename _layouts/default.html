@@ -2,20 +2,19 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <title>{%if page.title %}{{ page.title }}{% else %}{{ page.companyname }}{% endif %}</title>
+    <link rel="stylesheet" href="/site.css">
   </head>
   <body>
     <nav>
       <a href="/">Home</a>
-      <a href="/blog/">Blog</a>
     </nav>
-    <h1>{{ page.title }}</h1>
-    <section>
+    <h1>{%if page.title %}{{ page.title }}{% else %}{{ page.companyname }}{% endif %}</h1>
+    <main>
       {{ content }}
-    </section>
+    </main>
     <footer>
-      This page is part of the Surveillance Marketing Meta Directory.
+      This page is part of the <a href="/">Surveillance Marketing Meta Directory.</a>
     </footer>
   </body>
 </html>
