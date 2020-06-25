@@ -1,5 +1,6 @@
 # smmd
-Surveillance Marketing Meta Directory
+
+[Surveillance Marketing Meta Directory](https://dmarti.github.io/smmd/)
 
 Goals: generate reports of differences among various
 directories of surveillance marketing companies,
