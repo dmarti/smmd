@@ -1,6 +1,8 @@
+---
+company-name: "Abrams Media"
+domain: abrams-media.com
+home: http://www.abrams-media.com/
+---
 
-# Abrams Media
 
-Name: Abrams Media
-Domain: abrams-media.com
-Home: http://www.abrams-media.com/
+

@@ -1,6 +1,8 @@
+---
+company-name: Fulcrum5
+domain: fulcrum5.com
+home: http://www.fulcrum5.com/
+---
 
-# Fulcrum5
 
-Name: Fulcrum5
-Domain: fulcrum5.com
-Home: http://www.fulcrum5.com/
+

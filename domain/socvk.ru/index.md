@@ -1,6 +1,8 @@
+---
+company-name: SocVK
+domain: socvk.ru
+home: https://socvk.ru/
+---
 
-# SocVK
 
-Name: SocVK
-Domain: socvk.ru
-Home: https://socvk.ru/
+

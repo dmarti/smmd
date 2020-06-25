@@ -1,9 +1,11 @@
+---
+company-name: "Hipcricket (formerly Augme Technologies)"
+domain: hipcricket.com
+home: http://www.hipcricket.com/
+privacy-policy: http://hipcricket2013.g.aug.me/privacy-policy
+email: privacy@hipcricket.com
+member-of: TrustE_TrustArc
+---
 
-# Hipcricket (formerly Augme Technologies)
 
-Name: Hipcricket (formerly Augme Technologies)
-Domain: hipcricket.com
-Home: http://www.hipcricket.com/
-Privacy_policy: http://hipcricket2013.g.aug.me/privacy-policy
-Email: privacy@hipcricket.com
-Member_of: TrustE_TrustArc
+

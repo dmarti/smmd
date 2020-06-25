@@ -1,8 +1,10 @@
+---
+company-name: "H12 Media Ads"
+domain: h12-media.com
+home: http://www.h12-media.com/
+privacy-policy: https://www.h12-media.com/privacy-policy/
+email: contact@h12-media.com
+---
 
-# H12 Media Ads
 
-Name: H12 Media Ads
-Domain: h12-media.com
-Home: http://www.h12-media.com/
-Privacy_policy: https://www.h12-media.com/privacy-policy/
-Email: contact@h12-media.com
+

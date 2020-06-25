@@ -1,7 +1,9 @@
+---
+company-name: "Free Hit Counter"
+domain: freecounterstat.com
+home: https://www.freecounterstat.com/index.php
+owned-by: Idealpes
+---
 
-# Free Hit Counter
 
-Name: Free Hit Counter
-Domain: freecounterstat.com
-Home: https://www.freecounterstat.com/index.php
-Owned_by: Idealpes
+

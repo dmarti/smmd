@@ -1,8 +1,10 @@
+---
+company-name: Tapone
+domain: tapone.jp
+home: http://tapone.jp
+email: tapone@akinasista.co.jp
+owned-by: Akinasista
+---
 
-# Tapone
 
-Name: Tapone
-Domain: tapone.jp
-Home: http://tapone.jp
-Email: tapone@akinasista.co.jp
-Owned_by: Akinasista
+

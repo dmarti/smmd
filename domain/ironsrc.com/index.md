@@ -1,6 +1,8 @@
+---
+company-name: ironSource
+domain: ironsrc.com
+home: http://www.ironsrc.com/
+---
 
-# ironSource
 
-Name: ironSource
-Domain: ironsrc.com
-Home: http://www.ironsrc.com/
+

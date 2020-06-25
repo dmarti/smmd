@@ -1,8 +1,10 @@
+---
+company-name: Plentyoffish
+domain: pof.com
+home: https://www.pof.com/
+privacy-policy: https://www.pof.com/privacypolicy.aspx
+email: legal@plentyoffish.com.
+---
 
-# Plentyoffish
 
-Name: Plentyoffish
-Domain: pof.com
-Home: https://www.pof.com/
-Privacy_policy: https://www.pof.com/privacypolicy.aspx
-Email: legal@plentyoffish.com.
+

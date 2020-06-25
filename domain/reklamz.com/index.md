@@ -1,8 +1,10 @@
+---
+company-name: ReklamZ
+domain: reklamz.com
+home: http://www.reklamz.com/
+email: bilgi@reklamz.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# ReklamZ
 
-Name: ReklamZ
-Domain: reklamz.com
-Home: http://www.reklamz.com/
-Email: bilgi@reklamz.com
-Member_of: Interactive Advertising Bureau (IAB)
+

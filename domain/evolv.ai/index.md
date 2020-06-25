@@ -1,8 +1,10 @@
+---
+company-name: "Evolv Technology Solutions"
+domain: evolv.ai
+home: https://www.evolv.ai/
+privacy-policy: https://www.evolv.ai/privacy-policy/
+email: privacy@evolv.ai
+---
 
-# Evolv Technology Solutions
 
-Name: Evolv Technology Solutions
-Domain: evolv.ai
-Home: https://www.evolv.ai/
-Privacy_policy: https://www.evolv.ai/privacy-policy/
-Email: privacy@evolv.ai
+

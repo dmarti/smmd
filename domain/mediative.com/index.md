@@ -1,8 +1,10 @@
+---
+company-name: Mediative
+domain: mediative.com
+home: http://www.mediative.com/
+privacy-policy: http://www.mediative.com/privacy/
+email: privacy@mediative.com
+---
 
-# Mediative
 
-Name: Mediative
-Domain: mediative.com
-Home: http://www.mediative.com/
-Privacy_policy: http://www.mediative.com/privacy/
-Email: privacy@mediative.com
+

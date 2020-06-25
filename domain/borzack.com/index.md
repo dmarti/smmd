@@ -1,6 +1,8 @@
+---
+company-name: "Page Peel Ads"
+domain: borzack.com
+home: http://pagepeelscript.borzack.com/
+---
 
-# Page Peel Ads
 
-Name: Page Peel Ads
-Domain: borzack.com
-Home: http://pagepeelscript.borzack.com/
+

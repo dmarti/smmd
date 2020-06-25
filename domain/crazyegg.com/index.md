@@ -1,8 +1,10 @@
+---
+company-name: "Crazy Egg"
+domain: crazyegg.com
+home: https://www.crazyegg.com/
+privacy-policy: https://www.crazyegg.com/privacy
+email: privacy@crazyegg.com
+---
 
-# Crazy Egg
 
-Name: Crazy Egg
-Domain: crazyegg.com
-Home: https://www.crazyegg.com/
-Privacy_policy: https://www.crazyegg.com/privacy
-Email: privacy@crazyegg.com
+

@@ -1,6 +1,8 @@
+---
+company-name: "Digital Agency"
+domain: d-agency.net
+home: http://d-agency.net/
+---
 
-# Digital Agency
 
-Name: Digital Agency
-Domain: d-agency.net
-Home: http://d-agency.net/
+

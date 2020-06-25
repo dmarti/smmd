@@ -1,8 +1,10 @@
+---
+company-name: Twiago
+domain: twiago.com
+home: https://twiago.com/
+privacy-policy: https://twiago.com/datenschutz/
+email: info@twiago.com
+---
 
-# Twiago
 
-Name: Twiago
-Domain: twiago.com
-Home: https://twiago.com/
-Privacy_policy: https://twiago.com/datenschutz/
-Email: info@twiago.com
+

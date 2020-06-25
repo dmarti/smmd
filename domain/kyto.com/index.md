@@ -1,8 +1,10 @@
+---
+company-name: Kyto
+domain: kyto.com
+home: https://www.kyto.com/
+privacy-policy: https://www.kyto.com/imprint/
+email: info@kyto.com
+---
 
-# Kyto
 
-Name: Kyto
-Domain: kyto.com
-Home: https://www.kyto.com/
-Privacy_policy: https://www.kyto.com/imprint/
-Email: info@kyto.com
+

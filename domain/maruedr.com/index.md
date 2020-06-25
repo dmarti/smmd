@@ -1,8 +1,10 @@
+---
+company-name: MaruEdr
+domain: maruedr.com
+home: https://www.maruedr.com
+privacy-policy: https://www.maruedr.com/privacy-policy/
+email: privacy@maruedr.com
+---
 
-# MaruEdr
 
-Name: MaruEdr
-Domain: maruedr.com
-Home: https://www.maruedr.com
-Privacy_policy: https://www.maruedr.com/privacy-policy/
-Email: privacy@maruedr.com
+

@@ -1,7 +1,9 @@
+---
+company-name: OnScroll
+domain: onscroll.com
+home: http://www.onscroll.com/
+email: enquiries@onscroll.com
+---
 
-# OnScroll
 
-Name: OnScroll
-Domain: onscroll.com
-Home: http://www.onscroll.com/
-Email: enquiries@onscroll.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "SalesForce Pardot"
+domain: pardot.com
+home: https://www.pardot.com/
+privacy-policy: https://www.salesforce.com/company/privacy/full_privacy/
+---
 
-# SalesForce Pardot
 
-Name: SalesForce Pardot
-Domain: pardot.com
-Home: https://www.pardot.com/
-Privacy_policy: https://www.salesforce.com/company/privacy/full_privacy/
+

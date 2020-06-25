@@ -1,8 +1,10 @@
+---
+company-name: QuestBack
+domain: questback.com
+home: http://www.questback.com/
+privacy-policy: https://www.questback.com/data-privacy/
+email: post@questback.com
+---
 
-# QuestBack
 
-Name: QuestBack
-Domain: questback.com
-Home: http://www.questback.com/
-Privacy_policy: https://www.questback.com/data-privacy/
-Email: post@questback.com
+

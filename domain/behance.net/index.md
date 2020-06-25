@@ -1,7 +1,9 @@
+---
+company-name: Behance
+domain: behance.net
+home: http://www.behance.net/
+privacy-policy: http://www.adobe.com/privacy/policy.html
+---
 
-# Behance
 
-Name: Behance
-Domain: behance.net
-Home: http://www.behance.net/
-Privacy_policy: http://www.adobe.com/privacy/policy.html
+

@@ -1,6 +1,8 @@
+---
+company-name: HQHRT
+domain: hqhrt.com
+home: http://hqhrt.com/blog/
+---
 
-# HQHRT
 
-Name: HQHRT
-Domain: hqhrt.com
-Home: http://hqhrt.com/blog/
+

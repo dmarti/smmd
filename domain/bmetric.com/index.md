@@ -1,7 +1,9 @@
+---
+company-name: bmetric
+domain: bmetric.com
+home: https://bmetric.com/
+email: hello@bmetric.com
+---
 
-# bmetric
 
-Name: bmetric
-Domain: bmetric.com
-Home: https://bmetric.com/
-Email: hello@bmetric.com
+

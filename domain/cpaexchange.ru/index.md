@@ -1,7 +1,9 @@
+---
+company-name: CPAExchange
+domain: cpaexchange.ru
+home: https://www.cpaexchange.ru/
+privacy-policy: https://www.cpaexchange.ru/Privacy
+---
 
-# CPAExchange
 
-Name: CPAExchange
-Domain: cpaexchange.ru
-Home: https://www.cpaexchange.ru/
-Privacy_policy: https://www.cpaexchange.ru/Privacy
+

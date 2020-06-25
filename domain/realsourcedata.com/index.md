@@ -1,23 +1,12 @@
-
-# RealSource Inc.
-
-Name: RealSource Inc.
-
-Domain: realsourcedata.com
-
-Home: http://www.realsourcedata.com
-
-Email: privacy [at] realsourcedata.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/07/2020
-
-
-
+---
+company-name: "RealSource Inc."
+domain: realsourcedata.com
+home: http://www.realsourcedata.com
+email: "privacy [at] realsourcedata.com"
+california-date: 02/07/2020
+---
 ## How to opt out
+
 
 Privacy Policy on website:
 
@@ -43,12 +32,14 @@ Do-Not-Sell-My-Personal-Information
 
 ## How to delete
 
+
 Privacy Policy on website: 
 You have the right to request that RealSource Data delete any personal information about you that RealSource Data has collected. To request this information, click on the following link:
 
  privacy@realsourcedata.com
 
 ## Additional info
+
 
 Below is listed on our Privacy Policy page:
 
@@ -116,4 +107,16 @@ Marketing and
 Validation of consumer identity
 
 8N980 Dittman RoadElgin, IL 60124United States
+
+
+
+
+
+
+
+
+
+
+
+
 

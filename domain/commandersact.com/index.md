@@ -1,8 +1,10 @@
+---
+company-name: "Commanders Act"
+domain: commandersact.com
+home: https://www.commandersact.com
+privacy-policy: https://www.commandersact.com/en/privacy/
+email: contact@commandersact.com
+---
 
-# Commanders Act
 
-Name: Commanders Act
-Domain: commandersact.com
-Home: https://www.commandersact.com
-Privacy_policy: https://www.commandersact.com/en/privacy/
-Email: contact@commandersact.com
+

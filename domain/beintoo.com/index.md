@@ -1,8 +1,10 @@
+---
+company-name: Beintoo
+domain: beintoo.com
+home: http://www.beintoo.com/en
+privacy-policy: http://www.beintoo.com/privacy-cookie-policy/
+email: info@beintoo.com
+---
 
-# Beintoo
 
-Name: Beintoo
-Domain: beintoo.com
-Home: http://www.beintoo.com/en
-Privacy_policy: http://www.beintoo.com/privacy-cookie-policy/
-Email: info@beintoo.com
+

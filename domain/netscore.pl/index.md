@@ -1,8 +1,10 @@
+---
+company-name: "Net Score"
+domain: netscore.pl
+home: http://netscore.pl/
+privacy-policy: http://netscore.pl/polityka-prywatnosci/
+email: rodo@netscore.pl
+---
 
-# Net Score
 
-Name: Net Score
-Domain: netscore.pl
-Home: http://netscore.pl/
-Privacy_policy: http://netscore.pl/polityka-prywatnosci/
-Email: rodo@netscore.pl
+

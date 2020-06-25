@@ -1,7 +1,9 @@
+---
+company-name: Virgul
+domain: virgul.com
+home: http://www.virgul.com/
+email: Info@virgul.com
+---
 
-# Virgul
 
-Name: Virgul
-Domain: virgul.com
-Home: http://www.virgul.com/
-Email: Info@virgul.com
+

@@ -1,7 +1,9 @@
+---
+company-name: AdReactor
+domain: adreactor.com
+home: https://www.adreactor.com/
+email: info@adreactor.com
+---
 
-# AdReactor
 
-Name: AdReactor
-Domain: adreactor.com
-Home: https://www.adreactor.com/
-Email: info@adreactor.com
+

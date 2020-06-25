@@ -1,7 +1,9 @@
-# GrubHub
+---
+company-name: GrubHub
+domain: grubhub.com
+opt-out-url: https://www.grubhub.com/help/privacy/opt-out
+---
 
-Name: GrubHub
 
-Domain: grubhub.com
 
-Opt_out_url: https://www.grubhub.com/help/privacy/opt-out
+

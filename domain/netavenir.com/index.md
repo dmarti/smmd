@@ -1,7 +1,9 @@
+---
+company-name: "Net Avenir"
+domain: netavenir.com
+home: http://www.netavenir.com/
+privacy-policy: http://www.netavenir.com/index/privacy
+---
 
-# Net Avenir
 
-Name: Net Avenir
-Domain: netavenir.com
-Home: http://www.netavenir.com/
-Privacy_policy: http://www.netavenir.com/index/privacy
+

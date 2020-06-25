@@ -1,8 +1,10 @@
+---
+company-name: Truoptik
+domain: truoptik.com
+home: http://truoptik.com/
+privacy-policy: http://truoptik.com/privacy-policy.php
+email: privacy@truoptik.com
+---
 
-# Truoptik
 
-Name: Truoptik
-Domain: truoptik.com
-Home: http://truoptik.com/
-Privacy_policy: http://truoptik.com/privacy-policy.php
-Email: privacy@truoptik.com
+

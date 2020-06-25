@@ -1,6 +1,8 @@
+---
+company-name: "Viral Ad Network (VAN)"
+domain: joinvan.com
+home: http://viraladnetwork.joinvan.com/
+---
 
-# Viral Ad Network (VAN)
 
-Name: Viral Ad Network (VAN)
-Domain: joinvan.com
-Home: http://viraladnetwork.joinvan.com/
+

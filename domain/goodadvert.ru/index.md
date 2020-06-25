@@ -1,6 +1,8 @@
+---
+company-name: GoodADVERT
+domain: goodadvert.ru
+home: http://goodadvert.ru/
+---
 
-# GoodADVERT
 
-Name: GoodADVERT
-Domain: goodadvert.ru
-Home: http://goodadvert.ru/
+

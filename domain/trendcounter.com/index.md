@@ -1,7 +1,9 @@
+---
+company-name: trendcounter
+domain: trendcounter.com
+home: http://www.trendcounter.com/
+privacy-policy: https://www.trendcounter.com/privacy/
+---
 
-# trendcounter
 
-Name: trendcounter
-Domain: trendcounter.com
-Home: http://www.trendcounter.com/
-Privacy_policy: https://www.trendcounter.com/privacy/
+

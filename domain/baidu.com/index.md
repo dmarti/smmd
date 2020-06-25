@@ -1,8 +1,10 @@
+---
+company-name: Baidu
+domain: baidu.com
+home: http://www.baidu.com/
+privacy-policy: http://ir.baidu.com/phoenix.zhtml?c=188488&p=privacy
+email: ir@baidu.com
+---
 
-# Baidu
 
-Name: Baidu
-Domain: baidu.com
-Home: http://www.baidu.com/
-Privacy_policy: http://ir.baidu.com/phoenix.zhtml?c=188488&p=privacy
-Email: ir@baidu.com
+

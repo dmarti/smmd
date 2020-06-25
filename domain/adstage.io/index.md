@@ -1,7 +1,9 @@
+---
+company-name: AdStage
+domain: adstage.io
+home: https://www.adstage.io/
+email: support@adstage.io
+---
 
-# AdStage
 
-Name: AdStage
-Domain: adstage.io
-Home: https://www.adstage.io/
-Email: support@adstage.io
+

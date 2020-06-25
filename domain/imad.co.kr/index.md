@@ -1,6 +1,8 @@
+---
+company-name: "i'mad republic"
+domain: imad.co.kr
+home: http://www.imad.co.kr/
+---
 
-# i'mad republic
 
-Name: i'mad republic
-Domain: imad.co.kr
-Home: http://www.imad.co.kr/
+

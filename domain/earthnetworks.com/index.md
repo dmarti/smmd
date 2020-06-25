@@ -1,8 +1,10 @@
+---
+company-name: "Earth Networks"
+domain: earthnetworks.com
+home: https://www.earthnetworks.com/
+privacy-policy: https://www.earthnetworks.com/privacy-policy/
+email: privacy@earthnetworks.com
+---
 
-# Earth Networks
 
-Name: Earth Networks
-Domain: earthnetworks.com
-Home: https://www.earthnetworks.com/
-Privacy_policy: https://www.earthnetworks.com/privacy-policy/
-Email: privacy@earthnetworks.com
+

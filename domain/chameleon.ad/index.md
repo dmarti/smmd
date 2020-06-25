@@ -1,8 +1,10 @@
+---
+company-name: Chameleon.ad
+domain: chameleon.ad
+home: https://chameleon.ad/
+privacy-policy: https://chameleon.ad/privacy-policy
+email: support@chameleon.ad
+---
 
-# Chameleon.ad
 
-Name: Chameleon.ad
-Domain: chameleon.ad
-Home: https://chameleon.ad/
-Privacy_policy: https://chameleon.ad/privacy-policy
-Email: support@chameleon.ad
+

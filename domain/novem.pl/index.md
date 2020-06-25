@@ -1,8 +1,10 @@
+---
+company-name: Novem
+domain: novem.pl
+home: http://novem.pl/
+privacy-policy: http://novem.pl/polityka-prywatnosci
+email: kontakt@novem.pl
+---
 
-# Novem
 
-Name: Novem
-Domain: novem.pl
-Home: http://novem.pl/
-Privacy_policy: http://novem.pl/polityka-prywatnosci
-Email: kontakt@novem.pl
+

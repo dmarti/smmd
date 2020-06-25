@@ -1,8 +1,10 @@
+---
+company-name: "Liberty Advertising"
+domain: libertyadvertising.com
+home: http://www.libertyadvertising.com/
+privacy-policy: https://www.evite.com/content/privacy_policy
+email: support@evite.com
+---
 
-# Liberty Advertising
 
-Name: Liberty Advertising
-Domain: libertyadvertising.com
-Home: http://www.libertyadvertising.com/
-Privacy_policy: https://www.evite.com/content/privacy_policy
-Email: support@evite.com
+

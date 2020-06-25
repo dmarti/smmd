@@ -1,9 +1,11 @@
+---
+company-name: RealVu
+domain: realvu.net
+home: http://www.realvu.net/
+privacy-policy: http://www.realvu.com/privacy-policy/
+email: privacy@RealVu.net
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# RealVu
 
-Name: RealVu
-Domain: realvu.net
-Home: http://www.realvu.net/
-Privacy_policy: http://www.realvu.com/privacy-policy/
-Email: privacy@RealVu.net
-Member_of: Interactive Advertising Bureau (IAB)
+

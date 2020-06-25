@@ -1,8 +1,10 @@
+---
+company-name: AddValue.de
+domain: addvalue.de
+home: http://www.addvalue.de/en/
+privacy-policy: http://www.addvalue.de/en/datenschutz.html
+email: info@addvalue.de
+---
 
-# AddValue.de
 
-Name: AddValue.de
-Domain: addvalue.de
-Home: http://www.addvalue.de/en/
-Privacy_policy: http://www.addvalue.de/en/datenschutz.html
-Email: info@addvalue.de
+

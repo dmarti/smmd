@@ -1,8 +1,10 @@
+---
+company-name: "Scarab research"
+domain: scarabresearch.com
+home: https://www.scarabresearch.com/
+privacy-policy: https://www.scarabresearch.com/privacy/
+email: privacy@scarabresearch.com
+---
 
-# Scarab research
 
-Name: Scarab research
-Domain: scarabresearch.com
-Home: https://www.scarabresearch.com/
-Privacy_policy: https://www.scarabresearch.com/privacy/
-Email: privacy@scarabresearch.com
+

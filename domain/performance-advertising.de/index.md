@@ -1,9 +1,11 @@
+---
+company-name: "Performance Advertising"
+domain: performance-advertising.de
+home: https://www.performance-advertising.de/
+privacy-policy: https://www.performance-advertising.de/datenschutz/
+email: info@performance-advertising.de
+member-of: "European Data Interactive Alliance"
+---
 
-# Performance Advertising
 
-Name: Performance Advertising
-Domain: performance-advertising.de
-Home: https://www.performance-advertising.de/
-Privacy_policy: https://www.performance-advertising.de/datenschutz/
-Email: info@performance-advertising.de
-Member_of: European Data Interactive Alliance
+

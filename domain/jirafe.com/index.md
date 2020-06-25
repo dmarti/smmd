@@ -1,7 +1,9 @@
+---
+company-name: Jirafe
+domain: jirafe.com
+home: http://jirafe.com/
+email: support@Jirafe.com
+---
 
-# Jirafe
 
-Name: Jirafe
-Domain: jirafe.com
-Home: http://jirafe.com/
-Email: support@Jirafe.com
+

@@ -1,9 +1,11 @@
+---
+company-name: Maist
+domain: maist.jp
+home: https://maist.jp
+privacy-policy: https://maist.jp/company.html
+email: iawase@toakinasista.Co.Jp
+owned-by: Akinasista
+---
 
-# Maist
 
-Name: Maist
-Domain: maist.jp
-Home: https://maist.jp
-Privacy_policy: https://maist.jp/company.html
-Email: iawase@toakinasista.Co.Jp
-Owned_by: Akinasista
+

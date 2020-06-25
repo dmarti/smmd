@@ -1,8 +1,10 @@
+---
+company-name: Etsy
+domain: etsy.com
+home: http://www.etsy.com/
+email: legal@etsy.com
+member-of: TrustE_TrustArc
+---
 
-# Etsy
 
-Name: Etsy
-Domain: etsy.com
-Home: http://www.etsy.com/
-Email: legal@etsy.com
-Member_of: TrustE_TrustArc
+

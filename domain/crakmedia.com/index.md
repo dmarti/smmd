@@ -1,6 +1,8 @@
+---
+company-name: "Crakmedia Network"
+domain: crakmedia.com
+home: http://crakmedia.com/
+---
 
-# Crakmedia Network
 
-Name: Crakmedia Network
-Domain: crakmedia.com
-Home: http://crakmedia.com/
+

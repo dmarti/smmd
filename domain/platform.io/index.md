@@ -1,8 +1,10 @@
+---
+company-name: Platform.io
+domain: platform.io
+home: https://platform.io/
+privacy-policy: https://platform.io/privacy_policy.txt
+email: hello@platform.io
+---
 
-# Platform.io
 
-Name: Platform.io
-Domain: platform.io
-Home: https://platform.io/
-Privacy_policy: https://platform.io/privacy_policy.txt
-Email: hello@platform.io
+

@@ -1,9 +1,11 @@
+---
+company-name: "CX Digital Media"
+domain: cxdigitalmedia.com
+home: http://www.cxdigitalmedia.com/
+privacy-policy: http://www.cxdigitalmedia.com/privacy.php
+email: customerservice@cxdigital.com
+owned-by: "EQ Works (formerly Cyberplex)"
+---
 
-# CX Digital Media
 
-Name: CX Digital Media
-Domain: cxdigitalmedia.com
-Home: http://www.cxdigitalmedia.com/
-Privacy_policy: http://www.cxdigitalmedia.com/privacy.php
-Email: customerservice@cxdigital.com
-Owned_by: EQ Works (formerly Cyberplex)
+

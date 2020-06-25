@@ -1,8 +1,10 @@
+---
+company-name: WeatherBug
+domain: weatherbug.com
+home: http://weather.weatherbug.com/
+email: privacy@weatherbugsupport.com
+member-of: TrustE_TrustArc
+---
 
-# WeatherBug
 
-Name: WeatherBug
-Domain: weatherbug.com
-Home: http://weather.weatherbug.com/
-Email: privacy@weatherbugsupport.com
-Member_of: TrustE_TrustArc
+

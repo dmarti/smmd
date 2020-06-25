@@ -1,7 +1,9 @@
+---
+company-name: Testnet
+domain: testnet.be
+home: http://www.testnet.be/
+email: info@testnet.be
+---
 
-# Testnet
 
-Name: Testnet
-Domain: testnet.be
-Home: http://www.testnet.be/
-Email: info@testnet.be
+

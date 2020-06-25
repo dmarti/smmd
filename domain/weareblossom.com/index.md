@@ -1,9 +1,11 @@
+---
+company-name: "We are Blossom"
+domain: weareblossom.com
+home: http://www.weareblossom.com/
+privacy-policy: http://www.weareblossom.com/cookies/
+email: info@weareblossom.com
+owned-by: "Greenhouse Group"
+---
 
-# We are Blossom
 
-Name: We are Blossom
-Domain: weareblossom.com
-Home: http://www.weareblossom.com/
-Privacy_policy: http://www.weareblossom.com/cookies/
-Email: info@weareblossom.com
-Owned_by: Greenhouse Group
+

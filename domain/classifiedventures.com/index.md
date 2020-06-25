@@ -1,6 +1,8 @@
+---
+company-name: "Classified Ventures"
+domain: classifiedventures.com
+home: http://www.classifiedventures.com/
+---
 
-# Classified Ventures
 
-Name: Classified Ventures
-Domain: classifiedventures.com
-Home: http://www.classifiedventures.com/
+

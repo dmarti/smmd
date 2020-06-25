@@ -1,8 +1,10 @@
+---
+company-name: "MRP (Market Resource Partners)"
+domain: mrpfd.com
+home: https://www.mrpfd.com/
+privacy-policy: https://www.mrpfd.com/privacy-policy/
+email: privacy@mrpfd.com
+---
 
-# MRP (Market Resource Partners)
 
-Name: MRP (Market Resource Partners)
-Domain: mrpfd.com
-Home: https://www.mrpfd.com/
-Privacy_policy: https://www.mrpfd.com/privacy-policy/
-Email: privacy@mrpfd.com
+

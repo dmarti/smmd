@@ -1,7 +1,9 @@
-# DigitalOcean
+---
+company-name: DigitalOcean
+domain: digitalocean.com
+opt-out-url: https://www.digitalocean.com/legal/ccpa-privacy-notice/
+---
 
-Name: DigitalOcean
 
-Domain: digitalocean.com
 
-Opt_out_url: https://www.digitalocean.com/legal/ccpa-privacy-notice/
+

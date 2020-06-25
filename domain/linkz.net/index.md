@@ -1,6 +1,8 @@
+---
+company-name: LinkZ
+domain: linkz.net
+home: http://www.linkz.net/
+---
 
-# LinkZ
 
-Name: LinkZ
-Domain: linkz.net
-Home: http://www.linkz.net/
+

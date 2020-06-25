@@ -1,8 +1,10 @@
+---
+company-name: "Launch Darkly"
+domain: launchdarkly.com
+home: https://launchdarkly.com
+privacy-policy: https://launchdarkly.com/policies/privacy/
+email: privacy@launchdarkly.com
+---
 
-# Launch Darkly
 
-Name: Launch Darkly
-Domain: launchdarkly.com
-Home: https://launchdarkly.com
-Privacy_policy: https://launchdarkly.com/policies/privacy/
-Email: privacy@launchdarkly.com
+

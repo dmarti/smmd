@@ -1,6 +1,8 @@
+---
+company-name: 8digits
+domain: 8digits.com
+home: http://8digits.com/
+---
 
-# 8digits
 
-Name: 8digits
-Domain: 8digits.com
-Home: http://8digits.com/
+

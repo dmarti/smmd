@@ -1,8 +1,10 @@
+---
+company-name: "Urban Airship"
+domain: urbanairship.com
+home: http://urbanairship.com/
+privacy-policy: https://www.urbanairship.com/legal/privacy-policy
+email: support@urbanairship.com
+---
 
-# Urban Airship
 
-Name: Urban Airship
-Domain: urbanairship.com
-Home: http://urbanairship.com/
-Privacy_policy: https://www.urbanairship.com/legal/privacy-policy
-Email: support@urbanairship.com
+

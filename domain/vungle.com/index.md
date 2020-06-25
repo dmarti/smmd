@@ -1,8 +1,10 @@
+---
+company-name: Vungle
+domain: vungle.com
+home: https://vungle.com/
+privacy-policy: http://vungle.com/privacy/
+email: privacy@vungle.com
+---
 
-# Vungle
 
-Name: Vungle
-Domain: vungle.com
-Home: https://vungle.com/
-Privacy_policy: http://vungle.com/privacy/
-Email: privacy@vungle.com
+

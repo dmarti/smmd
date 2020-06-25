@@ -1,7 +1,9 @@
+---
+company-name: "Thomas Cook"
+domain: thomascook.com
+home: http://www.thomascook.com/
+privacy-policy: https://www.thomascook.com/privacy-policy/
+---
 
-# Thomas Cook
 
-Name: Thomas Cook
-Domain: thomascook.com
-Home: http://www.thomascook.com/
-Privacy_policy: https://www.thomascook.com/privacy-policy/
+

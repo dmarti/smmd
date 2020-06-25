@@ -1,7 +1,9 @@
+---
+company-name: "AFS Analytics"
+domain: afsanalytics.com
+home: https://www.afsanalytics.com/
+privacy-policy: https://www.afsanalytics.com/privacy.html
+---
 
-# AFS Analytics
 
-Name: AFS Analytics
-Domain: afsanalytics.com
-Home: https://www.afsanalytics.com/
-Privacy_policy: https://www.afsanalytics.com/privacy.html
+

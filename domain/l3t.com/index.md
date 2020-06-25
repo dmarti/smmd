@@ -1,7 +1,9 @@
+---
+company-name: "L-3 Communications"
+domain: l3t.com
+home: https://www.l3t.com/
+privacy-policy: https://www.l3t.com/privacy-policy
+---
 
-# L-3 Communications
 
-Name: L-3 Communications
-Domain: l3t.com
-Home: https://www.l3t.com/
-Privacy_policy: https://www.l3t.com/privacy-policy
+

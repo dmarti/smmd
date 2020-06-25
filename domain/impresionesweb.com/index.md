@@ -1,7 +1,9 @@
+---
+company-name: "Impresiones Web"
+domain: impresionesweb.com
+home: http://www.impresionesweb.com/index.php?op=main.&data=
+email: info@ImpresionesWeb.com
+---
 
-# Impresiones Web
 
-Name: Impresiones Web
-Domain: impresionesweb.com
-Home: http://www.impresionesweb.com/index.php?op=main.&data=
-Email: info@ImpresionesWeb.com
+

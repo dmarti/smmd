@@ -1,6 +1,8 @@
+---
+company-name: CPMProfit
+domain: cpmprofit.com
+home: http://www.cpmprofit.com/
+---
 
-# CPMProfit
 
-Name: CPMProfit
-Domain: cpmprofit.com
-Home: http://www.cpmprofit.com/
+

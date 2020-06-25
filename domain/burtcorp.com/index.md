@@ -1,8 +1,10 @@
+---
+company-name: Burt
+domain: burtcorp.com
+home: http://www.burtcorp.com/
+privacy-policy: https://www.burtcorp.com/privacypolicy
+email: privacy@burtcorp.com
+---
 
-# Burt
 
-Name: Burt
-Domain: burtcorp.com
-Home: http://www.burtcorp.com/
-Privacy_policy: https://www.burtcorp.com/privacypolicy
-Email: privacy@burtcorp.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "General Nutrition Center (GNC)"
+domain: gnc.com
+home: http://www.gnc.com
+email: privacyconcerns@gnc.com
+---
 
-# General Nutrition Center (GNC)
 
-Name: General Nutrition Center (GNC)
-Domain: gnc.com
-Home: http://www.gnc.com
-Email: privacyconcerns@gnc.com
+

@@ -1,23 +1,11 @@
-
-# NCR Corporation
-
-Name: NCR Corporation
-
-Domain: ncr.com
-
-Home: www.ncr.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 367368
-
-
-
+---
+company-name: "NCR Corporation"
+domain: ncr.com
+home: www.ncr.com
+vermont-id: 367368
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 367368
 
 
 
+
 ## Additional info
 
 
 
+
 864 Spring Street NW, Atlanta, GA, 30308, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,9 +1,10 @@
+---
+company-name: WebSpectator
+domain: webspectator.com
+home: http://webspectator.com/
+email: info@webspectator.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# WebSpectator
 
-Name: WebSpectator
-Domain: webspectator.com
-Home: http://webspectator.com/
-Email: info@webspectator.com
-Member_of: Digital Content Network(?)
-Member_of: Interactive Advertising Bureau (IAB)
+

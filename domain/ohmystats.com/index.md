@@ -1,7 +1,9 @@
+---
+company-name: "Oh My Stats"
+domain: ohmystats.com
+home: https://ohmystats.com/
+email: support@ohmystats.com
+---
 
-# Oh My Stats
 
-Name: Oh My Stats
-Domain: ohmystats.com
-Home: https://ohmystats.com/
-Email: support@ohmystats.com
+

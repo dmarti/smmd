@@ -1,9 +1,11 @@
+---
+company-name: Getfeedback
+domain: getfeedback.com
+home: https://www.getfeedback.com/
+privacy-policy: https://www.getfeedback.com/privacy
+email: privacy@getfeedback.com
+member-of: TrustE_TrustArc
+---
 
-# Getfeedback
 
-Name: Getfeedback
-Domain: getfeedback.com
-Home: https://www.getfeedback.com/
-Privacy_policy: https://www.getfeedback.com/privacy
-Email: privacy@getfeedback.com
-Member_of: TrustE_TrustArc
+

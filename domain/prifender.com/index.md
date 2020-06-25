@@ -1,8 +1,10 @@
+---
+company-name: Prifender
+domain: prifender.com
+home: http://www.prifender.com/
+privacy-policy: http://www.prifender.com/privacy.php
+email: privacy@prifender.com
+---
 
-# Prifender
 
-Name: Prifender
-Domain: prifender.com
-Home: http://www.prifender.com/
-Privacy_policy: http://www.prifender.com/privacy.php
-Email: privacy@prifender.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Unibet
+domain: unibet.eu
+home: https://www.unibet.eu/
+privacy-policy: https://www.unibet.eu/general-info/cookies
+email: dpa.officer@unibet.com
+---
 
-# Unibet
 
-Name: Unibet
-Domain: unibet.eu
-Home: https://www.unibet.eu/
-Privacy_policy: https://www.unibet.eu/general-info/cookies
-Email: dpa.officer@unibet.com
+

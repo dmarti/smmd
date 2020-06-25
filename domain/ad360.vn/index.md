@@ -1,6 +1,8 @@
+---
+company-name: Ad360
+domain: ad360.vn
+home: http://ad360.vn
+---
 
-# Ad360
 
-Name: Ad360
-Domain: ad360.vn
-Home: http://ad360.vn
+

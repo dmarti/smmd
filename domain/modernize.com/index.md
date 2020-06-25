@@ -1,23 +1,11 @@
-
-# Modernize, Inc.
-
-Name: Modernize, Inc.
-
-Domain: modernize.com
-
-Home: https://modernize.com/
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 367287
-
-
-
+---
+company-name: "Modernize, Inc."
+domain: modernize.com
+home: https://modernize.com/
+vermont-id: 367287
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 367287
 
 
 
+
 ## Additional info
 
 
 
+
 804 Congress Ave, Ste 400, Austin, TX, 78701, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

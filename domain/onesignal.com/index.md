@@ -1,8 +1,10 @@
+---
+company-name: OneSignal
+domain: onesignal.com
+home: https://onesignal.com
+privacy-policy: https://onesignal.com/privacy_policy
+email: privacy@onesignal
+---
 
-# OneSignal
 
-Name: OneSignal
-Domain: onesignal.com
-Home: https://onesignal.com
-Privacy_policy: https://onesignal.com/privacy_policy
-Email: privacy@onesignal
+

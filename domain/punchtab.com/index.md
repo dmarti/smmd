@@ -1,8 +1,10 @@
+---
+company-name: PunchTab
+domain: punchtab.com
+home: http://www.punchtab.com/
+privacy-policy: http://www.punchtab.com/privacy
+email: help@punchtab.com
+---
 
-# PunchTab
 
-Name: PunchTab
-Domain: punchtab.com
-Home: http://www.punchtab.com/
-Privacy_policy: http://www.punchtab.com/privacy
-Email: help@punchtab.com
+

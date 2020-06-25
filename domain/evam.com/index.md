@@ -1,7 +1,9 @@
+---
+company-name: EVAM
+domain: evam.com
+home: http://evam.com/
+email: info@evam.com
+---
 
-# EVAM
 
-Name: EVAM
-Domain: evam.com
-Home: http://evam.com/
-Email: info@evam.com
+

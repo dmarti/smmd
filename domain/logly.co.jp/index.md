@@ -1,8 +1,10 @@
+---
+company-name: logly
+domain: logly.co.jp
+home: http://corp.logly.co.jp/
+privacy-policy: https://www.logly.co.jp/privacy.html
+email: info@logly.co.jp
+---
 
-# logly
 
-Name: logly
-Domain: logly.co.jp
-Home: http://corp.logly.co.jp/
-Privacy_policy: https://www.logly.co.jp/privacy.html
-Email: info@logly.co.jp
+

@@ -1,9 +1,11 @@
+---
+company-name: TargetSpot
+domain: targetspot.com
+home: http://www.targetspot.com/
+privacy-policy: https://www.targetspot.com/en/privacy-policy/
+email: privacy@targetspot.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# TargetSpot
 
-Name: TargetSpot
-Domain: targetspot.com
-Home: http://www.targetspot.com/
-Privacy_policy: https://www.targetspot.com/en/privacy-policy/
-Email: privacy@targetspot.com
-Member_of: Interactive Advertising Bureau (IAB)
+

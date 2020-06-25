@@ -1,7 +1,9 @@
+---
+company-name: "AD EBiS"
+domain: ebis.ne.jp
+home: http://www.ebis.ne.jp/
+privacy-policy: http://www.lockon.co.jp/policy/
+---
 
-# AD EBiS
 
-Name: AD EBiS
-Domain: ebis.ne.jp
-Home: http://www.ebis.ne.jp/
-Privacy_policy: http://www.lockon.co.jp/policy/
+

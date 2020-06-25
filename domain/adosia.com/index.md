@@ -1,7 +1,9 @@
+---
+company-name: Adosia
+domain: adosia.com
+home: https://adosia.com
+privacy-policy: https://adosia.com/privacy.php
+---
 
-# Adosia
 
-Name: Adosia
-Domain: adosia.com
-Home: https://adosia.com
-Privacy_policy: https://adosia.com/privacy.php
+

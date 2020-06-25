@@ -1,7 +1,9 @@
+---
+company-name: Adinfinity
+domain: adinfinity.com.au
+home: http://www.adinfinity.com.au/
+email: info@adinfinity.com
+---
 
-# Adinfinity
 
-Name: Adinfinity
-Domain: adinfinity.com.au
-Home: http://www.adinfinity.com.au/
-Email: info@adinfinity.com
+

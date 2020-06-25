@@ -1,10 +1,11 @@
+---
+company-name: VerticalResponse
+domain: verticalresponse.com
+home: http://www.verticalresponse.com/
+privacy-policy: https://www.deluxe.com/policy/privacy-shield
+email: info@verticalresponse.com
+member-of: TrustE_TrustArc
+---
 
-# VerticalResponse
 
-Name: VerticalResponse
-Domain: verticalresponse.com
-Home: http://www.verticalresponse.com/
-Privacy_policy: https://www.deluxe.com/policy/privacy-shield
-Email: info@verticalresponse.com
-Member_of: Better Business Bureau
-Member_of: TrustE_TrustArc
+

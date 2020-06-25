@@ -1,8 +1,10 @@
+---
+company-name: "ID Services"
+domain: id.services
+home: https://id.services/
+privacy-policy: https://id.discount/privacy-policy
+email: support@id.services
+---
 
-# ID Services
 
-Name: ID Services
-Domain: id.services
-Home: https://id.services/
-Privacy_policy: https://id.discount/privacy-policy
-Email: support@id.services
+

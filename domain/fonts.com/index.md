@@ -1,9 +1,11 @@
+---
+company-name: Fonts.com
+domain: fonts.com
+home: https://www.fonts.com
+privacy-policy: https://www.monotype.com/legal/privacy-policy
+email: privacy@monotype.com
+owned-by: Monotype
+---
 
-# Fonts.com
 
-Name: Fonts.com
-Domain: fonts.com
-Home: https://www.fonts.com
-Privacy_policy: https://www.monotype.com/legal/privacy-policy
-Email: privacy@monotype.com
-Owned_by: Monotype
+

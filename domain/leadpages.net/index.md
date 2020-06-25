@@ -1,8 +1,10 @@
+---
+company-name: Leadpages
+domain: leadpages.net
+home: https://www.leadpages.net/
+privacy-policy: https://www.leadpages.net/privacy
+email: accounts@ave81.com
+---
 
-# Leadpages
 
-Name: Leadpages
-Domain: leadpages.net
-Home: https://www.leadpages.net/
-Privacy_policy: https://www.leadpages.net/privacy
-Email: accounts@ave81.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Acquia
+domain: acquia.com
+home: https://www.acquia.com
+privacy-policy: https://www.acquia.com/about-us/legal/privacy-policy
+email: privacy@acquia.com
+---
 
-# Acquia
 
-Name: Acquia
-Domain: acquia.com
-Home: https://www.acquia.com
-Privacy_policy: https://www.acquia.com/about-us/legal/privacy-policy
-Email: privacy@acquia.com
+

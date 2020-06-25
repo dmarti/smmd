@@ -1,7 +1,9 @@
+---
+company-name: Hotjar
+domain: hotjar.com
+home: http://www.hotjar.com/
+privacy-policy: https://www.hotjar.com/legal/policies/privacy
+---
 
-# Hotjar
 
-Name: Hotjar
-Domain: hotjar.com
-Home: http://www.hotjar.com/
-Privacy_policy: https://www.hotjar.com/legal/policies/privacy
+

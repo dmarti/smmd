@@ -1,11 +1,12 @@
+---
+company-name: searchads
+domain: apple.com
+home: https://searchads.apple.com/
+privacy-policy: https://searchads.apple.com/privacy/
+email: privacy@apple.com
+owned-by: Apple
+member-of: TrustE_TrustArc
+---
 
-# searchads
 
-Name: searchads
-Domain: apple.com
-Home: https://searchads.apple.com/
-Privacy_policy: https://searchads.apple.com/privacy/
-Email: privacy@apple.com
-Owned_by: Apple
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: TrustE_TrustArc
+

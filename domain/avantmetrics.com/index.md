@@ -1,9 +1,11 @@
+---
+company-name: "Avant Metrics"
+domain: avantmetrics.com
+home: http://www.avantmetrics.com/
+privacy-policy: http://www.avantlink.com/privacy
+email: support@avantlink.com
+owned-by: AvantLink
+---
 
-# Avant Metrics
 
-Name: Avant Metrics
-Domain: avantmetrics.com
-Home: http://www.avantmetrics.com/
-Privacy_policy: http://www.avantlink.com/privacy
-Email: support@avantlink.com
-Owned_by: AvantLink
+

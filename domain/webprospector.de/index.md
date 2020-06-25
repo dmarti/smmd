@@ -1,7 +1,9 @@
+---
+company-name: WebProspector
+domain: webprospector.de
+home: https://www.webprospector.de/
+privacy-policy: https://www.webprospector.de/datenschutz
+---
 
-# WebProspector
 
-Name: WebProspector
-Domain: webprospector.de
-Home: https://www.webprospector.de/
-Privacy_policy: https://www.webprospector.de/datenschutz
+

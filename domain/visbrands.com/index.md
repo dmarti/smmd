@@ -1,7 +1,9 @@
+---
+company-name: VisibleBrands
+domain: visbrands.com
+home: http://www.visbrands.com/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# VisibleBrands
 
-Name: VisibleBrands
-Domain: visbrands.com
-Home: http://www.visbrands.com/
-Member_of: Interactive Advertising Bureau (IAB)
+

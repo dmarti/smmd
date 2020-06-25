@@ -1,8 +1,10 @@
+---
+company-name: TripAdvisor
+domain: tripadvisor.com
+home: https://www.tripadvisor.com/
+privacy-policy: https://tripadvisor.mediaroom.com/us-privacy-policy
+email: membersupport@tripadvisor.com
+---
 
-# TripAdvisor
 
-Name: TripAdvisor
-Domain: tripadvisor.com
-Home: https://www.tripadvisor.com/
-Privacy_policy: https://tripadvisor.mediaroom.com/us-privacy-policy
-Email: membersupport@tripadvisor.com
+

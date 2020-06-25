@@ -1,7 +1,9 @@
+---
+company-name: "Media Needle"
+domain: medianeedle.com
+home: http://www.medianeedle.com/
+privacy-policy: http://www.medianeedle.com/privacy-policy/
+---
 
-# Media Needle
 
-Name: Media Needle
-Domain: medianeedle.com
-Home: http://www.medianeedle.com/
-Privacy_policy: http://www.medianeedle.com/privacy-policy/
+

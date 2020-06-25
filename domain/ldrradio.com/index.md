@@ -1,6 +1,8 @@
+---
+company-name: "Listener Driven Radio"
+domain: ldrradio.com
+home: http://ldrradio.com
+---
 
-# Listener Driven Radio
 
-Name: Listener Driven Radio
-Domain: ldrradio.com
-Home: http://ldrradio.com
+

@@ -1,10 +1,11 @@
+---
+company-name: Leiki
+domain: leiki.com
+home: http://www.leiki.com
+privacy-policy: https://www.leiki.com/privacy
+email: info@leiki.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Leiki
 
-Name: Leiki
-Domain: leiki.com
-Home: http://www.leiki.com
-Privacy_policy: https://www.leiki.com/privacy
-Email: info@leiki.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

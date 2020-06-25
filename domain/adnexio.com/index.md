@@ -1,6 +1,8 @@
+---
+company-name: AdNexio
+domain: adnexio.com
+home: http://adnexio.com/
+---
 
-# AdNexio
 
-Name: AdNexio
-Domain: adnexio.com
-Home: http://adnexio.com/
+

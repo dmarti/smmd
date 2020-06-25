@@ -1,7 +1,9 @@
+---
+company-name: Wyng
+domain: wyng.com
+home: http://wyng.com
+privacy-policy: http://
+---
 
-# Wyng
 
-Name: Wyng
-Domain: wyng.com
-Home: http://wyng.com
-Privacy_policy: http://
+

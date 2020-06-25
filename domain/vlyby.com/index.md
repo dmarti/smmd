@@ -1,8 +1,10 @@
+---
+company-name: "Vlyby Digital"
+domain: vlyby.com
+home: http://www.vlyby.com/index.html
+privacy-policy: http://www.vlyby.com/data_privacy.html
+email: info@vlyby.com
+---
 
-# Vlyby Digital
 
-Name: Vlyby Digital
-Domain: vlyby.com
-Home: http://www.vlyby.com/index.html
-Privacy_policy: http://www.vlyby.com/data_privacy.html
-Email: info@vlyby.com
+

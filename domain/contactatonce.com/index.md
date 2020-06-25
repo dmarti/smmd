@@ -1,9 +1,11 @@
+---
+company-name: "Contact At Once!"
+domain: contactatonce.com
+home: https://www.contactatonce.com/
+privacy-policy: https://www.contactatonce.com/privacy-policy
+email: info@contactatonce.com
+owned-by: LivePerson
+---
 
-# Contact At Once!
 
-Name: Contact At Once!
-Domain: contactatonce.com
-Home: https://www.contactatonce.com/
-Privacy_policy: https://www.contactatonce.com/privacy-policy
-Email: info@contactatonce.com
-Owned_by: LivePerson
+

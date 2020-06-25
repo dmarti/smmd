@@ -1,9 +1,11 @@
+---
+company-name: MobFox
+domain: mobfox.com
+home: https://www.mobfox.com/
+privacy-policy: https://www.mobfox.com/privacy-policy/
+email: support@mobfox.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# MobFox
 
-Name: MobFox
-Domain: mobfox.com
-Home: https://www.mobfox.com/
-Privacy_policy: https://www.mobfox.com/privacy-policy/
-Email: support@mobfox.com
-Member_of: Interactive Advertising Bureau (IAB)
+

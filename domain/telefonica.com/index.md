@@ -1,9 +1,11 @@
+---
+company-name: InstantAds
+domain: telefonica.com
+home: https://instantads.telefonica.com/
+privacy-policy: https://instantads.telefonica.com/privacy-policy
+email: privacy@freedomtelefonica.com
+owned-by: Telefonica
+---
 
-# InstantAds 
 
-Name: InstantAds 
-Domain: telefonica.com
-Home: https://instantads.telefonica.com/
-Privacy_policy: https://instantads.telefonica.com/privacy-policy
-Email: privacy@freedomtelefonica.com
-Owned_by: Telefonica
+

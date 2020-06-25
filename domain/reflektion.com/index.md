@@ -1,8 +1,10 @@
+---
+company-name: Reflektion
+domain: reflektion.com
+home: http://reflektion.com/
+privacy-policy: http://reflektion.com/privacy-policy-2/
+email: support@reflektion.com
+---
 
-# Reflektion
 
-Name: Reflektion
-Domain: reflektion.com
-Home: http://reflektion.com/
-Privacy_policy: http://reflektion.com/privacy-policy-2/
-Email: support@reflektion.com
+

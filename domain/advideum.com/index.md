@@ -1,7 +1,9 @@
+---
+company-name: AdVideum
+domain: advideum.com
+home: http://www.advideum.com/
+privacy-policy: http://www.advideum.com/espace-prive/
+---
 
-# AdVideum
 
-Name: AdVideum
-Domain: advideum.com
-Home: http://www.advideum.com/
-Privacy_policy: http://www.advideum.com/espace-prive/
+

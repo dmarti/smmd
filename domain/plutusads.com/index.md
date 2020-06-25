@@ -1,7 +1,9 @@
+---
+company-name: Plutusads
+domain: plutusads.com
+home: http://plutusads.com
+email: contact@plutusads.com
+---
 
-# Plutusads
 
-Name: Plutusads
-Domain: plutusads.com
-Home: http://plutusads.com
-Email: contact@plutusads.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "HDC Media"
+domain: hdcmedia.nl
+home: http://www.hdcmedia.nl/
+privacy-policy: http://www.hdcmedia.nl/privacy/
+---
 
-# HDC Media
 
-Name: HDC Media
-Domain: hdcmedia.nl
-Home: http://www.hdcmedia.nl/
-Privacy_policy: http://www.hdcmedia.nl/privacy/
+

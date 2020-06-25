@@ -1,8 +1,10 @@
+---
+company-name: Usersnap
+domain: usersnap.com
+home: http://usersnap.com/
+privacy-policy: http://usersnap.com/privacy-policy
+email: help@usersnap.com
+---
 
-# Usersnap
 
-Name: Usersnap
-Domain: usersnap.com
-Home: http://usersnap.com/
-Privacy_policy: http://usersnap.com/privacy-policy
-Email: help@usersnap.com
+

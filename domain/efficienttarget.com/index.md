@@ -1,7 +1,9 @@
+---
+company-name: Efficienttarget
+domain: efficienttarget.com
+home: http://www.efficienttarget.com/
+owned-by: "OI2 MEDIA RESPONSE"
+---
 
-# Efficienttarget
 
-Name: Efficienttarget
-Domain: efficienttarget.com
-Home: http://www.efficienttarget.com/
-Owned_by: OI2 MEDIA RESPONSE
+

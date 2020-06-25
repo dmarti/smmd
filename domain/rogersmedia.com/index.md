@@ -1,8 +1,10 @@
+---
+company-name: "Rogers Media (formerly BV Media)"
+domain: rogersmedia.com
+home: https://www.rogersmedia.com/
+privacy-policy: https://www.rogersmedia.com/privacy-policy/
+email: privacy@rci.rogers.com
+---
 
-# Rogers Media (formerly BV Media)
 
-Name: Rogers Media (formerly BV Media)
-Domain: rogersmedia.com
-Home: https://www.rogersmedia.com/
-Privacy_policy: https://www.rogersmedia.com/privacy-policy/
-Email: privacy@rci.rogers.com
+

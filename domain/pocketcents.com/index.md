@@ -1,6 +1,8 @@
+---
+company-name: PocketCents
+domain: pocketcents.com
+home: http://pocketcents.com/
+---
 
-# PocketCents
 
-Name: PocketCents
-Domain: pocketcents.com
-Home: http://pocketcents.com/
+

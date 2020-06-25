@@ -1,8 +1,10 @@
+---
+company-name: "Black Planet"
+domain: blackplanet.com
+home: http://www.blackplanet.com/
+privacy-policy: https://ionedigital.com/privacy/
+email: membersafetyteam@mail.blackplanet.com
+---
 
-# Black Planet
 
-Name: Black Planet
-Domain: blackplanet.com
-Home: http://www.blackplanet.com/
-Privacy_policy: https://ionedigital.com/privacy/
-Email: membersafetyteam@mail.blackplanet.com
+

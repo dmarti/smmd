@@ -1,8 +1,10 @@
+---
+company-name: "Six Apart"
+domain: sixapart.jp
+home: https://www.sixapart.jp/
+privacy-policy: http://www.sixapart.jp/privacy/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Six Apart
 
-Name: Six Apart
-Domain: sixapart.jp
-Home: https://www.sixapart.jp/
-Privacy_policy: http://www.sixapart.jp/privacy/
-Member_of: Interactive Advertising Bureau (IAB)
+

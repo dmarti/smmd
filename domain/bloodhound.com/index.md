@@ -1,8 +1,10 @@
+---
+company-name: Bloodhound
+domain: bloodhound.com
+home: http://bloodhound.com/
+privacy-policy: http://bloodhound.com/terms
+email: privacy@bloodhound.com
+---
 
-# Bloodhound
 
-Name: Bloodhound
-Domain: bloodhound.com
-Home: http://bloodhound.com/
-Privacy_policy: http://bloodhound.com/terms
-Email: privacy@bloodhound.com
+

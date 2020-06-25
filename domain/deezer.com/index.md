@@ -1,8 +1,10 @@
+---
+company-name: DEEZER
+domain: deezer.com
+home: http://www.deezer.com/us/
+privacy-policy: http://www.deezer.com/legal/personal-datas
+email: support@deezer.com
+---
 
-# DEEZER
 
-Name: DEEZER
-Domain: deezer.com
-Home: http://www.deezer.com/us/
-Privacy_policy: http://www.deezer.com/legal/personal-datas
-Email: support@deezer.com
+

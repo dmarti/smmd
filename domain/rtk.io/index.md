@@ -1,7 +1,9 @@
+---
+company-name: rtk.io
+domain: rtk.io
+home: http://rtk.io/
+privacy-policy: http://www.rtk.io/privacy.html
+---
 
-# rtk.io
 
-Name: rtk.io
-Domain: rtk.io
-Home: http://rtk.io/
-Privacy_policy: http://www.rtk.io/privacy.html
+

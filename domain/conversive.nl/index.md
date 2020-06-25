@@ -1,6 +1,8 @@
+---
+company-name: Conversive
+domain: conversive.nl
+home: https://www.conversive.nl/
+---
 
-# Conversive
 
-Name: Conversive
-Domain: conversive.nl
-Home: https://www.conversive.nl/
+

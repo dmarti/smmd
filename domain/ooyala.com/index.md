@@ -1,8 +1,10 @@
+---
+company-name: Ooyala
+domain: ooyala.com
+home: http://www.ooyala.com/
+privacy-policy: http://www.ooyala.com/privacy
+email: DPO@ooyala.com
+---
 
-# Ooyala
 
-Name: Ooyala
-Domain: ooyala.com
-Home: http://www.ooyala.com/
-Privacy_policy: http://www.ooyala.com/privacy
-Email: DPO@ooyala.com
+

@@ -1,9 +1,11 @@
+---
+company-name: Netsprint
+domain: netsprint.eu
+home: http://netsprint.eu/
+privacy-policy: http://spoldzielnia.nsaudience.pl/opt-out/
+email: informacje@netsprint.eu
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Netsprint
 
-Name: Netsprint
-Domain: netsprint.eu
-Home: http://netsprint.eu/
-Privacy_policy: http://spoldzielnia.nsaudience.pl/opt-out/
-Email: informacje@netsprint.eu
-Member_of: Interactive Advertising Bureau (IAB)
+

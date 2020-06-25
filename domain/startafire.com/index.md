@@ -1,8 +1,10 @@
+---
+company-name: "Start A Fire"
+domain: startafire.com
+home: http://startafire.com/
+privacy-policy: http://startafire.com/privacy/
+email: hello@startafire.com
+---
 
-# Start A Fire
 
-Name: Start A Fire
-Domain: startafire.com
-Home: http://startafire.com/
-Privacy_policy: http://startafire.com/privacy/
-Email: hello@startafire.com
+

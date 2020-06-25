@@ -1,7 +1,9 @@
+---
+company-name: "Money Smart"
+domain: moneysmart.sg
+home: https://www.moneysmart.sg/
+privacy-policy: https://www.moneysmart.sg/privacy-policy
+---
 
-# Money Smart
 
-Name: Money Smart
-Domain: moneysmart.sg
-Home: https://www.moneysmart.sg/
-Privacy_policy: https://www.moneysmart.sg/privacy-policy
+

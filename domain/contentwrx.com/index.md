@@ -1,8 +1,10 @@
+---
+company-name: ContentWrx
+domain: contentwrx.com
+home: http://contentwrx.com/
+privacy-policy: http://contentwrx.com/privacy/
+email: contentwrx@content-science.com
+---
 
-# ContentWrx
 
-Name: ContentWrx
-Domain: contentwrx.com
-Home: http://contentwrx.com/
-Privacy_policy: http://contentwrx.com/privacy/
-Email: contentwrx@content-science.com
+

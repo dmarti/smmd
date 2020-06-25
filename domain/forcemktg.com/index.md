@@ -1,8 +1,10 @@
+---
+company-name: "Force Marketing"
+domain: forcemktg.com
+home: http://forcemktg.com/
+privacy-policy: http://forcemktg.com/privacy-policy/
+email: info@forcemktg.com
+---
 
-# Force Marketing
 
-Name: Force Marketing
-Domain: forcemktg.com
-Home: http://forcemktg.com/
-Privacy_policy: http://forcemktg.com/privacy-policy/
-Email: info@forcemktg.com
+

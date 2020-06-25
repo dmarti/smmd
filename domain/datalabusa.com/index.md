@@ -1,8 +1,10 @@
+---
+company-name: "DataLab USA"
+domain: datalabusa.com
+home: http://datalabusa.com/
+email: info@datalabusa.com
+member-of: DMA_ANA
+---
 
-# DataLab USA
 
-Name: DataLab USA
-Domain: datalabusa.com
-Home: http://datalabusa.com/
-Email: info@datalabusa.com
-Member_of: DMA_ANA
+

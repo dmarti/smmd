@@ -1,8 +1,10 @@
+---
+company-name: Giphy
+domain: giphy.com
+home: https://giphy.com
+privacy-policy: https://giphy.com/privacy
+email: datagov@giphy.com
+---
 
-# Giphy
 
-Name: Giphy
-Domain: giphy.com
-Home: https://giphy.com
-Privacy_policy: https://giphy.com/privacy
-Email: datagov@giphy.com
+

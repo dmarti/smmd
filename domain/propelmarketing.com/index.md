@@ -1,9 +1,11 @@
+---
+company-name: "Propel Marketing"
+domain: propelmarketing.com
+home: http://propelmarketing.com/
+privacy-policy: http://propelmarketing.com/legal/privacy_policy/
+email: webmaster@gatehousemedia.com
+owned-by: "Gatehouse Media, LLC."
+---
 
-# Propel Marketing
 
-Name: Propel Marketing
-Domain: propelmarketing.com
-Home: http://propelmarketing.com/
-Privacy_policy: http://propelmarketing.com/legal/privacy_policy/
-Email: webmaster@gatehousemedia.com
-Owned_by: Gatehouse Media, LLC.
+

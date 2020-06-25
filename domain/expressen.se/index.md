@@ -1,7 +1,9 @@
+---
+company-name: Expressen
+domain: expressen.se
+home: http://www.expressen.se/
+owned-by: "Akamai Technologies"
+---
 
-# Expressen
 
-Name: Expressen
-Domain: expressen.se
-Home: http://www.expressen.se/
-Owned_by: Akamai Technologies
+

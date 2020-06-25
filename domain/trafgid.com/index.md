@@ -1,8 +1,10 @@
+---
+company-name: Trafgid
+domain: trafgid.com
+home: http://trafgid.com/
+privacy-policy: http://trafgid.com/mutual/privacy-policy
+email: hi@trafgid.com
+---
 
-# Trafgid
 
-Name: Trafgid
-Domain: trafgid.com
-Home: http://trafgid.com/
-Privacy_policy: http://trafgid.com/mutual/privacy-policy
-Email: hi@trafgid.com
+

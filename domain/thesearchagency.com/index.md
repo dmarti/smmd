@@ -1,8 +1,10 @@
+---
+company-name: "The Search Agency"
+domain: thesearchagency.com
+home: https://www.thesearchagency.com/
+privacy-policy: https://www.thesearchagency.com/privacy-policy/
+email: dataprivacy@thesearchagency.com
+---
 
-# The Search Agency
 
-Name: The Search Agency
-Domain: thesearchagency.com
-Home: https://www.thesearchagency.com/
-Privacy_policy: https://www.thesearchagency.com/privacy-policy/
-Email: dataprivacy@thesearchagency.com
+

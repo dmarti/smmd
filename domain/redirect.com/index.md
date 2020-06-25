@@ -1,8 +1,10 @@
+---
+company-name: Redirect.com
+domain: redirect.com
+home: https://redirect.com/
+privacy-policy: https://redirect.com/privacy
+email: DPO@mediabreakaway.com
+---
 
-# Redirect.com
 
-Name: Redirect.com
-Domain: redirect.com
-Home: https://redirect.com/
-Privacy_policy: https://redirect.com/privacy
-Email: DPO@mediabreakaway.com
+

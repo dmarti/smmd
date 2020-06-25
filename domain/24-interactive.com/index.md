@@ -1,8 +1,10 @@
+---
+company-name: "24 interactive"
+domain: 24-interactive.com
+home: http://www.24-interactive.com
+privacy-policy: http://www.24-interactive.com/site/datenschutz
+email: info@revcloud.net
+---
 
-# 24 interactive
 
-Name: 24 interactive
-Domain: 24-interactive.com
-Home: http://www.24-interactive.com
-Privacy_policy: http://www.24-interactive.com/site/datenschutz
-Email: info@revcloud.net
+

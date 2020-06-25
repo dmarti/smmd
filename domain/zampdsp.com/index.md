@@ -1,8 +1,10 @@
+---
+company-name: zampdsp
+domain: zampdsp.com
+home: http://www.zampdsp.com/
+privacy-policy: http://www.zampdsp.com/privacy
+email: service@zampdsp.com
+---
 
-# zampdsp
 
-Name: zampdsp
-Domain: zampdsp.com
-Home: http://www.zampdsp.com/
-Privacy_policy: http://www.zampdsp.com/privacy
-Email: service@zampdsp.com
+

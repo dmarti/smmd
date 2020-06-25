@@ -1,7 +1,9 @@
+---
+company-name: MyPagerank
+domain: mypagerank.net
+home: http://www.mypagerank.net/
+privacy-policy: http://www.mypagerank.net/policy.html
+---
 
-# MyPagerank
 
-Name: MyPagerank
-Domain: mypagerank.net
-Home: http://www.mypagerank.net/
-Privacy_policy: http://www.mypagerank.net/policy.html
+

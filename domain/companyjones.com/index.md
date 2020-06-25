@@ -1,7 +1,9 @@
+---
+company-name: "Jones Media Company"
+domain: companyjones.com
+home: http://www.companyjones.com/
+email: victor.otero@me.com
+---
 
-# Jones Media Company
 
-Name: Jones Media Company
-Domain: companyjones.com
-Home: http://www.companyjones.com/
-Email: victor.otero@me.com
+

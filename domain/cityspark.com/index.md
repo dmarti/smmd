@@ -1,8 +1,10 @@
+---
+company-name: "City Spark"
+domain: cityspark.com
+home: http://www.cityspark.com/
+privacy-policy: http://www.cityspark.com/privacy-policy/
+email: sales@cityspark.com
+---
 
-# City Spark
 
-Name: City Spark
-Domain: cityspark.com
-Home: http://www.cityspark.com/
-Privacy_policy: http://www.cityspark.com/privacy-policy/
-Email: sales@cityspark.com
+

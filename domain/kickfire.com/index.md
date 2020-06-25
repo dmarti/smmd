@@ -1,8 +1,10 @@
+---
+company-name: "Kickfire (fka VisiStat)"
+domain: kickfire.com
+home: http://id.kickfire.com/
+privacy-policy: http://id.kickfire.com/privacy-policy
+email: support@kickfire.com
+---
 
-# Kickfire (fka VisiStat)
 
-Name: Kickfire (fka VisiStat)
-Domain: kickfire.com
-Home: http://id.kickfire.com/
-Privacy_policy: http://id.kickfire.com/privacy-policy
-Email: support@kickfire.com
+

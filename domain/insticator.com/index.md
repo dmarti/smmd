@@ -1,7 +1,9 @@
+---
+company-name: Insticator
+domain: insticator.com
+home: https://www.insticator.com/
+email: hello@insticator.com
+---
 
-# Insticator
 
-Name: Insticator
-Domain: insticator.com
-Home: https://www.insticator.com/
-Email: hello@insticator.com
+

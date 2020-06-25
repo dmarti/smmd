@@ -1,8 +1,10 @@
+---
+company-name: "Visible World"
+domain: visibleworld.com
+home: http://www.visibleworld.com/
+privacy-policy: http://www.visibleworld.com/privacy/
+email: PrivacyInfo@visibleworld.com
+---
 
-# Visible World
 
-Name: Visible World
-Domain: visibleworld.com
-Home: http://www.visibleworld.com/
-Privacy_policy: http://www.visibleworld.com/privacy/
-Email: PrivacyInfo@visibleworld.com
+

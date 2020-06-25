@@ -1,11 +1,11 @@
+---
+company-name: Simpli.fi
+domain: simpli.fi
+home: https://www.simpli.fi/
+privacy-policy: https://www.simpli.fi/site-privacy-policy/
+email: privacy@simpli.fi
+member-of: TrustE_TrustArc
+---
 
-# Simpli.fi
 
-Name: Simpli.fi
-Domain: simpli.fi
-Home: https://www.simpli.fi/
-Privacy_policy: https://www.simpli.fi/site-privacy-policy/
-Email: privacy@simpli.fi
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
-Member_of: TrustE_TrustArc
+

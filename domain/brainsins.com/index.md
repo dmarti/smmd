@@ -1,7 +1,9 @@
+---
+company-name: BrainSINS
+domain: brainsins.com
+home: http://www.brainsins.com/
+email: info@brainsins.com
+---
 
-# BrainSINS
 
-Name: BrainSINS
-Domain: brainsins.com
-Home: http://www.brainsins.com/
-Email: info@brainsins.com
+

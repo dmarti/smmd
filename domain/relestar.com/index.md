@@ -1,8 +1,10 @@
+---
+company-name: "Relestar (Relevad Corporation)"
+domain: relestar.com
+home: https://relestar.com/
+privacy-policy: https://relestar.com/adnetwork/privacy-policy/
+email: info@relevad.com
+---
 
-# Relestar (Relevad Corporation) 
 
-Name: Relestar (Relevad Corporation) 
-Domain: relestar.com
-Home: https://relestar.com/
-Privacy_policy: https://relestar.com/adnetwork/privacy-policy/
-Email: info@relevad.com
+

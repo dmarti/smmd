@@ -1,7 +1,9 @@
+---
+company-name: Clickwinks
+domain: clickwinks.com
+home: http://www.clickwinks.com/
+email: support@clickwinks.com
+---
 
-# Clickwinks
 
-Name: Clickwinks
-Domain: clickwinks.com
-Home: http://www.clickwinks.com/
-Email: support@clickwinks.com
+

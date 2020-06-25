@@ -1,8 +1,10 @@
+---
+company-name: SoundCloud
+domain: soundcloud.com
+home: https://soundcloud.com/
+privacy-policy: https://soundcloud.com/pages/privacy
+email: privacy@soundcloud.com
+---
 
-# SoundCloud
 
-Name: SoundCloud
-Domain: soundcloud.com
-Home: https://soundcloud.com/
-Privacy_policy: https://soundcloud.com/pages/privacy
-Email: privacy@soundcloud.com
+

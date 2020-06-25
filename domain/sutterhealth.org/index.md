@@ -1,7 +1,9 @@
-# SutterHealth
+---
+company-name: SutterHealth
+domain: sutterhealth.org
+opt-out-url: https://www.sutterhealth.org/privacy/privacy-request
+---
 
-Name: SutterHealth
 
-Domain: sutterhealth.org
 
-Opt_out_url: https://www.sutterhealth.org/privacy/privacy-request
+

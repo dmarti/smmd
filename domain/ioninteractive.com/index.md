@@ -1,9 +1,11 @@
+---
+company-name: "Ion Interactive"
+domain: ioninteractive.com
+home: https://www.ioninteractive.com/
+privacy-policy: https://www2.ioninteractive.com/privacy-policy
+email: security@ioninteractive.com
+owned-by: ScribbleLive
+---
 
-# Ion Interactive
 
-Name: Ion Interactive
-Domain: ioninteractive.com
-Home: https://www.ioninteractive.com/
-Privacy_policy: https://www2.ioninteractive.com/privacy-policy
-Email: security@ioninteractive.com
-Owned_by: ScribbleLive
+

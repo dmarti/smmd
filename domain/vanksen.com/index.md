@@ -1,8 +1,10 @@
+---
+company-name: Vanksen
+domain: vanksen.com
+home: https://www.vanksen.com
+privacy-policy: https://www.vanksen.com/en/legal-mentions
+email: legal@vanksen.com
+---
 
-# Vanksen
 
-Name: Vanksen
-Domain: vanksen.com
-Home: https://www.vanksen.com
-Privacy_policy: https://www.vanksen.com/en/legal-mentions
-Email: legal@vanksen.com
+

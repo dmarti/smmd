@@ -1,8 +1,10 @@
+---
+company-name: Digiteka
+domain: digiteka.com
+home: http://digiteka.com/
+privacy-policy: http://digiteka.com/policy/
+email: itsupport@digiteka.com
+---
 
-# Digiteka
 
-Name: Digiteka
-Domain: digiteka.com
-Home: http://digiteka.com/
-Privacy_policy: http://digiteka.com/policy/
-Email: itsupport@digiteka.com
+

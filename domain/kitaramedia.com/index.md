@@ -1,8 +1,10 @@
+---
+company-name: "Kitara Media"
+domain: kitaramedia.com
+home: http://kitaramedia.com/
+privacy-policy: http://kitaramedia.com/company/privacy-policy/
+email: info@kitaramedia.com
+---
 
-# Kitara Media
 
-Name: Kitara Media
-Domain: kitaramedia.com
-Home: http://kitaramedia.com/
-Privacy_policy: http://kitaramedia.com/company/privacy-policy/
-Email: info@kitaramedia.com
+

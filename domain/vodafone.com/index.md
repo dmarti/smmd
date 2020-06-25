@@ -1,8 +1,10 @@
+---
+company-name: Vodafone
+domain: vodafone.com
+home: https://www.vodafone.com/content/index.html
+privacy-policy: https://www.vodafone.com/content/index/misc/privacy-policy.html
+email: Ask.GroupPrivacy@vodafone.com
+---
 
-# Vodafone
 
-Name: Vodafone
-Domain: vodafone.com
-Home: https://www.vodafone.com/content/index.html
-Privacy_policy: https://www.vodafone.com/content/index/misc/privacy-policy.html
-Email: Ask.GroupPrivacy@vodafone.com
+

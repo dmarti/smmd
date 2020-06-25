@@ -1,7 +1,9 @@
+---
+company-name: "Stampede Media"
+domain: stampedemedia.net
+home: http://stampedemedia.net/
+email: sales@stampedemedia.net
+---
 
-# Stampede Media
 
-Name: Stampede Media
-Domain: stampedemedia.net
-Home: http://stampedemedia.net/
-Email: sales@stampedemedia.net
+

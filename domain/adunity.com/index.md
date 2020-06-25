@@ -1,9 +1,11 @@
+---
+company-name: AdUnity
+domain: adunity.com
+home: https://www.adunity.com
+privacy-policy: https://www.adunity.com/privacy-policy.html
+email: privacy@adunity.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# AdUnity
 
-Name: AdUnity
-Domain: adunity.com
-Home: https://www.adunity.com
-Privacy_policy: https://www.adunity.com/privacy-policy.html
-Email: privacy@adunity.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,9 +1,11 @@
+---
+company-name: RUINART
+domain: ruinart.com
+home: http://www.ruinart.com/us/home/#home
+privacy-policy: https://www.ruinart.com/en-uk/personal-data-cookies
+email: contact@ruinart.com
+owned-by: LVMH
+---
 
-# RUINART
 
-Name: RUINART
-Domain: ruinart.com
-Home: http://www.ruinart.com/us/home/#home
-Privacy_policy: https://www.ruinart.com/en-uk/personal-data-cookies
-Email: contact@ruinart.com
-Owned_by: LVMH
+

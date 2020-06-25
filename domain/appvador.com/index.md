@@ -1,8 +1,10 @@
+---
+company-name: AppVador
+domain: appvador.com
+home: http://www.appvador.com/
+privacy-policy: https://supership.jp/privacy/
+owned-by: Supership
+---
 
-# AppVador
 
-Name: AppVador
-Domain: appvador.com
-Home: http://www.appvador.com/
-Privacy_policy: https://supership.jp/privacy/
-Owned_by: Supership
+

@@ -1,6 +1,8 @@
+---
+company-name: Freshplum
+domain: freshplum.com
+home: https://freshplum.com/
+---
 
-# Freshplum
 
-Name: Freshplum
-Domain: freshplum.com
-Home: https://freshplum.com/
+

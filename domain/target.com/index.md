@@ -1,11 +1,11 @@
+---
+company-name: Target
+domain: target.com
+home: http://www.target.com/
+privacy-policy: https://www.target.com/c/target-privacy-policy/-/N-4sr7p
+email: guest.relations@target.com
+member-of: "Network Advertising Initiative"
+---
 
-# Target
 
-Name: Target
-Domain: target.com
-Home: http://www.target.com/
-Privacy_policy: https://www.target.com/c/target-privacy-policy/-/N-4sr7p
-Email: guest.relations@target.com
-Member_of: Association of National Advertisers
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

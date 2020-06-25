@@ -1,8 +1,10 @@
+---
+company-name: Tabligheirani
+domain: tabligheirani.com
+home: https://tabligheirani.com/
+privacy-policy: https://tabligheirani.com/rules/
+email: info@tabligheirani.com
+---
 
-# Tabligheirani
 
-Name: Tabligheirani
-Domain: tabligheirani.com
-Home: https://tabligheirani.com/
-Privacy_policy: https://tabligheirani.com/rules/
-Email: info@tabligheirani.com
+

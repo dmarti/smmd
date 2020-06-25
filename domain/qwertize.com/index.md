@@ -1,9 +1,11 @@
+---
+company-name: Qwertize
+domain: qwertize.com
+home: https://www.qwertize.com/
+privacy-policy: https://www.qwertize.com/confidentialite
+email: dpo-fr@qwertize.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Qwertize
 
-Name: Qwertize
-Domain: qwertize.com
-Home: https://www.qwertize.com/
-Privacy_policy: https://www.qwertize.com/confidentialite
-Email: dpo-fr@qwertize.com
-Member_of: Interactive Advertising Bureau (IAB)
+

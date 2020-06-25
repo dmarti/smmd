@@ -1,8 +1,10 @@
+---
+company-name: CommerceHub
+domain: commercehub.com
+home: https://www.commercehub.com
+privacy-policy: https://www.commercehub.com/privacy-policy/
+email: privacy@commercehub.com
+---
 
-# CommerceHub
 
-Name: CommerceHub
-Domain: commercehub.com
-Home: https://www.commercehub.com
-Privacy_policy: https://www.commercehub.com/privacy-policy/
-Email: privacy@commercehub.com
+

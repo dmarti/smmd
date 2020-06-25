@@ -1,8 +1,10 @@
+---
+company-name: "MarketTrack (FKA Channel IQ)"
+domain: markettrack.com
+home: https://markettrack.com/
+privacy-policy: https://www.numerator.com/privacy-notice
+email: info@channeliq.com
+---
 
-# MarketTrack (FKA Channel IQ)
 
-Name: MarketTrack (FKA Channel IQ)
-Domain: markettrack.com
-Home: https://markettrack.com/
-Privacy_policy: https://www.numerator.com/privacy-notice
-Email: info@channeliq.com
+

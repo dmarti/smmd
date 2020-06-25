@@ -1,9 +1,11 @@
+---
+company-name: "Genius Monkey"
+domain: geniusmonkey.com
+home: https://www.geniusmonkey.com/
+privacy-policy: https://www.geniusmonkey.com/privacy.php
+email: info@geniusmonkey.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Genius Monkey
 
-Name: Genius Monkey
-Domain: geniusmonkey.com
-Home: https://www.geniusmonkey.com/
-Privacy_policy: https://www.geniusmonkey.com/privacy.php
-Email: info@geniusmonkey.com
-Member_of: Interactive Advertising Bureau (IAB)
+

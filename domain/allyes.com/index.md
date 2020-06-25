@@ -1,7 +1,9 @@
+---
+company-name: Allyes
+domain: allyes.com
+home: http://www.allyes.com/
+email: service_quantone@allyes.com
+---
 
-# Allyes
 
-Name: Allyes
-Domain: allyes.com
-Home: http://www.allyes.com/
-Email: service_quantone@allyes.com
+

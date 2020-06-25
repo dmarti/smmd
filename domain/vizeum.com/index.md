@@ -1,8 +1,10 @@
+---
+company-name: Vizeum
+domain: vizeum.com
+home: http://www.vizeum.com/
+email: hello.uk@vizeum.com
+owned-by: "Dentsu Aegis Network"
+---
 
-# Vizeum
 
-Name: Vizeum
-Domain: vizeum.com
-Home: http://www.vizeum.com/
-Email: hello.uk@vizeum.com
-Owned_by: Dentsu Aegis Network
+

@@ -1,8 +1,10 @@
+---
+company-name: Mintigo
+domain: mintigo.com
+home: https://www.mintigo.com/
+privacy-policy: https://www.mintigo.com/about-us/privacy-policy/
+email: privacy@mintigo.com
+---
 
-# Mintigo
 
-Name: Mintigo
-Domain: mintigo.com
-Home: https://www.mintigo.com/
-Privacy_policy: https://www.mintigo.com/about-us/privacy-policy/
-Email: privacy@mintigo.com
+

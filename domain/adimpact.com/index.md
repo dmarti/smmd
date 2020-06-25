@@ -1,7 +1,9 @@
+---
+company-name: Adimpact
+domain: adimpact.com
+home: http://www.adimpact.com/
+privacy-policy: http://www.adimpact.com/privacy.html
+---
 
-# Adimpact
 
-Name: Adimpact
-Domain: adimpact.com
-Home: http://www.adimpact.com/
-Privacy_policy: http://www.adimpact.com/privacy.html
+

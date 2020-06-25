@@ -1,6 +1,8 @@
+---
+company-name: Star
+domain: star.com.tr
+home: http://www.star.com.tr/
+---
 
-# Star
 
-Name: Star
-Domain: star.com.tr
-Home: http://www.star.com.tr/
+

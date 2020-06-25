@@ -1,8 +1,10 @@
+---
+company-name: UpScope
+domain: upscope.io
+home: https://upscope.io/
+privacy-policy: https://upscope.io/legal/
+email: pkullar@upscope.io
+---
 
-# UpScope
 
-Name: UpScope
-Domain: upscope.io
-Home: https://upscope.io/
-Privacy_policy: https://upscope.io/legal/
-Email: pkullar@upscope.io
+

@@ -1,8 +1,10 @@
+---
+company-name: Divvit
+domain: divvit.com
+home: https://www.divvit.com/
+privacy-policy: https://www.divvit.com/privacy
+email: support@divvit.com
+---
 
-# Divvit
 
-Name: Divvit
-Domain: divvit.com
-Home: https://www.divvit.com/
-Privacy_policy: https://www.divvit.com/privacy
-Email: support@divvit.com
+

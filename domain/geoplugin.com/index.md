@@ -1,6 +1,8 @@
+---
+company-name: geoPlugin
+domain: geoplugin.com
+home: http://www.geoplugin.com/
+---
 
-# geoPlugin
 
-Name: geoPlugin
-Domain: geoplugin.com
-Home: http://www.geoplugin.com/
+

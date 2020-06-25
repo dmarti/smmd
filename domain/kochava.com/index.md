@@ -1,23 +1,11 @@
-
-# Kochava Inc.
-
-Name: Kochava Inc.
-
-Domain: kochava.com
-
-Home: http://www.kochava.com/
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 368030
-
-
-
+---
+company-name: "Kochava Inc."
+domain: kochava.com
+home: http://www.kochava.com/
+vermont-id: 368030
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 368030
 
 
 
+
 ## Additional info
 
 
 
+
 201 Church St, Sandpoint, ID, 83864, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

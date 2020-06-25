@@ -1,8 +1,10 @@
+---
+company-name: Credebat
+domain: credebat.com
+home: https://www.credebat.com/
+privacy-policy: https://www.credebat.com/privacy-policy
+email: info@credebat.com
+---
 
-# Credebat
 
-Name: Credebat
-Domain: credebat.com
-Home: https://www.credebat.com/
-Privacy_policy: https://www.credebat.com/privacy-policy
-Email: info@credebat.com
+

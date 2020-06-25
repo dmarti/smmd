@@ -1,11 +1,11 @@
+---
+company-name: "Kelley Blue Book"
+domain: kbb.com
+home: https://www.kbb.com/
+privacy-policy: https://www.kbb.com/company/privacy-policy/
+email: privacy@kbb.com
+member-of: "Network Advertising Initiative"
+---
 
-# Kelley Blue Book
 
-Name: Kelley Blue Book
-Domain: kbb.com
-Home: https://www.kbb.com/
-Privacy_policy: https://www.kbb.com/company/privacy-policy/
-Email: privacy@kbb.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

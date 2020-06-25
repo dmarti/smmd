@@ -1,7 +1,9 @@
+---
+company-name: RSSPump
+domain: rsspump.com
+home: http://www.rsspump.com
+email: "development @ rsspump.com"
+---
 
-# RSSPump
 
-Name: RSSPump
-Domain: rsspump.com
-Home: http://www.rsspump.com
-Email: development @ rsspump.com
+

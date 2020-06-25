@@ -1,8 +1,10 @@
+---
+company-name: MarketLinc
+domain: marketlinc.com
+home: http://marketlinc.com/
+privacy-policy: https://www.marketlinc.com/privacy/
+email: privacy@marketlinc.com
+---
 
-# MarketLinc
 
-Name: MarketLinc
-Domain: marketlinc.com
-Home: http://marketlinc.com/
-Privacy_policy: https://www.marketlinc.com/privacy/
-Email: privacy@marketlinc.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Gruuv Interactive"
+domain: gruuvinteractive.com
+home: https://www.gruuvinteractive.com
+privacy-policy: https://www.gruuvinteractive.com/privacy-policy/
+email: privacy@gruuvinteractive.com
+---
 
-# Gruuv Interactive
 
-Name: Gruuv Interactive
-Domain: gruuvinteractive.com
-Home: https://www.gruuvinteractive.com
-Privacy_policy: https://www.gruuvinteractive.com/privacy-policy/
-Email: privacy@gruuvinteractive.com
+

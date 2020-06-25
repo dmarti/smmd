@@ -1,7 +1,9 @@
+---
+company-name: "Rune Inc."
+domain: secretrune.com
+home: http://www.secretrune.com/
+privacy-policy: http://www.secretrune.com/privacy-policy
+---
 
-# Rune Inc. 
 
-Name: Rune Inc. 
-Domain: secretrune.com
-Home: http://www.secretrune.com/
-Privacy_policy: http://www.secretrune.com/privacy-policy
+

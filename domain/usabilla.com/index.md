@@ -1,8 +1,10 @@
+---
+company-name: Usabilla
+domain: usabilla.com
+home: https://usabilla.com/
+privacy-policy: https://usabilla.com/privacy
+email: support@usabilla.com
+---
 
-# Usabilla
 
-Name: Usabilla
-Domain: usabilla.com
-Home: https://usabilla.com/
-Privacy_policy: https://usabilla.com/privacy
-Email: support@usabilla.com
+

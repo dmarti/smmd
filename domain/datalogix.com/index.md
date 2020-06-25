@@ -1,12 +1,11 @@
+---
+company-name: Datalogix
+domain: datalogix.com
+home: http://www.datalogix.com/
+privacy-policy: https://www.datalogix.com/privacy/
+owned-by: "Oracle Corporation"
+member-of: "Network Advertising Initiative"
+---
 
-# Datalogix
 
-Name: Datalogix
-Domain: datalogix.com
-Home: http://www.datalogix.com/
-Privacy_policy: https://www.datalogix.com/privacy/
-Owned_by: Oracle Corporation
-Member_of: Digital Advertising Alliance
-Member_of: DMA_ANA
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

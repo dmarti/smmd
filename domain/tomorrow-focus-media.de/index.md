@@ -1,9 +1,11 @@
+---
+company-name: ForwardAdGroup
+domain: tomorrow-focus-media.de
+home: http://www.tomorrow-focus-media.de/home/
+privacy-policy: https://www.burda-forward.de/datenschutz/
+email: datenschutz@forward-adgroup.com
+owned-by: "Hubert Burda Media"
+---
 
-# ForwardAdGroup
 
-Name: ForwardAdGroup
-Domain: tomorrow-focus-media.de
-Home: http://www.tomorrow-focus-media.de/home/
-Privacy_policy: https://www.burda-forward.de/datenschutz/
-Email: datenschutz@forward-adgroup.com
-Owned_by: Hubert Burda Media
+

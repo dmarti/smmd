@@ -1,6 +1,8 @@
+---
+company-name: Dataspora
+domain: dataspora.com
+home: http://www.dataspora.com/
+---
 
-# Dataspora
 
-Name: Dataspora
-Domain: dataspora.com
-Home: http://www.dataspora.com/
+

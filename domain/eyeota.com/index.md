@@ -1,9 +1,11 @@
+---
+company-name: Eyeota
+domain: eyeota.com
+home: http://www.eyeota.com/
+privacy-policy: https://www.eyeota.com/privacy-policy/
+email: privacy@eyeota.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Eyeota
 
-Name: Eyeota
-Domain: eyeota.com
-Home: http://www.eyeota.com/
-Privacy_policy: https://www.eyeota.com/privacy-policy/
-Email: privacy@eyeota.com
-Member_of: European Data Interactive Alliance
+

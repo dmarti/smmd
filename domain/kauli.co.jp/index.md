@@ -1,7 +1,9 @@
+---
+company-name: Kauli
+domain: kauli.co.jp
+home: http://kauli.co.jp/
+privacy-policy: http://kauli.co.jp/pages/privacy.html
+---
 
-# Kauli
 
-Name: Kauli
-Domain: kauli.co.jp
-Home: http://kauli.co.jp/
-Privacy_policy: http://kauli.co.jp/pages/privacy.html
+

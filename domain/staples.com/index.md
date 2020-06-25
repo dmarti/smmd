@@ -1,7 +1,9 @@
+---
+company-name: Staples
+domain: staples.com
+home: http://www.staples.com/
+email: privacy@staples.com
+---
 
-# Staples
 
-Name: Staples
-Domain: staples.com
-Home: http://www.staples.com/
-Email: privacy@staples.com
+

@@ -1,9 +1,11 @@
+---
+company-name: Lycos
+domain: lycos.com
+home: http://www.lycos.com/
+privacy-policy: http://info.lycos.com/resources/privacy-policy/
+email: privacy@lycos.com
+member-of: TrustE_TrustArc
+---
 
-# Lycos
 
-Name: Lycos
-Domain: lycos.com
-Home: http://www.lycos.com/
-Privacy_policy: http://info.lycos.com/resources/privacy-policy/
-Email: privacy@lycos.com
-Member_of: TrustE_TrustArc
+

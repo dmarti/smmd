@@ -1,8 +1,10 @@
+---
+company-name: Unite
+domain: unite.me
+home: http://unite.me/#
+privacy-policy: https://www.operam.com/privacy-policy.html
+email: hello@unite.io
+---
 
-# Unite
 
-Name: Unite
-Domain: unite.me
-Home: http://unite.me/#
-Privacy_policy: https://www.operam.com/privacy-policy.html
-Email: hello@unite.io
+

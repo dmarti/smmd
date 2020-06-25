@@ -1,7 +1,9 @@
+---
+company-name: RadarURL
+domain: radarurl.com
+home: http://radarurl.com/
+privacy-policy: http://radarurl.com/policy
+---
 
-# RadarURL
 
-Name: RadarURL
-Domain: radarurl.com
-Home: http://radarurl.com/
-Privacy_policy: http://radarurl.com/policy
+

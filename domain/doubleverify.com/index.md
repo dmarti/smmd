@@ -1,9 +1,11 @@
+---
+company-name: DoubleVerify
+domain: doubleverify.com
+home: https://www.doubleverify.com/
+privacy-policy: https://www.doubleverify.com/privacy/
+email: privacy-policy@doubleverify.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# DoubleVerify
 
-Name: DoubleVerify
-Domain: doubleverify.com
-Home: https://www.doubleverify.com/
-Privacy_policy: https://www.doubleverify.com/privacy/
-Email: privacy-policy@doubleverify.com
-Member_of: Interactive Advertising Bureau (IAB)
+

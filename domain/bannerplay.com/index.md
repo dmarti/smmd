@@ -1,8 +1,10 @@
+---
+company-name: Bannerplay
+domain: bannerplay.com
+home: http://www.bannerplay.com/
+privacy-policy: http://bannerplay.com/privacy-policy/
+email: info@bannerplay.com
+---
 
-# Bannerplay
 
-Name: Bannerplay
-Domain: bannerplay.com
-Home: http://www.bannerplay.com/
-Privacy_policy: http://bannerplay.com/privacy-policy/
-Email: info@bannerplay.com
+

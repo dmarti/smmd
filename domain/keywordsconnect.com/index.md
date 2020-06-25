@@ -1,7 +1,9 @@
+---
+company-name: "Direct Keyword Link"
+domain: keywordsconnect.com
+home: http://www.keywordsconnect.com/
+privacy-policy: http://
+---
 
-# Direct Keyword Link
 
-Name: Direct Keyword Link
-Domain: keywordsconnect.com
-Home: http://www.keywordsconnect.com/
-Privacy_policy: http://
+

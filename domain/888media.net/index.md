@@ -1,10 +1,11 @@
+---
+company-name: "888 Media"
+domain: 888media.net
+home: http://888media.net/
+privacy-policy: http://888media.net/privacy_policy.html
+email: admin@888media.net
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# 888 Media
 
-Name: 888 Media
-Domain: 888media.net
-Home: http://888media.net/
-Privacy_policy: http://888media.net/privacy_policy.html
-Email: admin@888media.net
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

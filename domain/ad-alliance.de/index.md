@@ -1,8 +1,10 @@
+---
+company-name: "Ad Alliance"
+domain: ad-alliance.de
+home: https://www.ad-alliance.de/
+privacy-policy: https://www.ad-alliance.de/datenschutz/
+email: info@ad-alliance.de
+---
 
-# Ad Alliance
 
-Name: Ad Alliance
-Domain: ad-alliance.de
-Home: https://www.ad-alliance.de/
-Privacy_policy: https://www.ad-alliance.de/datenschutz/
-Email: info@ad-alliance.de
+

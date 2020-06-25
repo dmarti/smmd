@@ -1,9 +1,11 @@
+---
+company-name: AdEspresso
+domain: adespresso.com
+home: http://adespresso.com
+privacy-policy: https://adespresso.com/privacy/
+email: privacy@adespresso.com
+owned-by: Hootsuite
+---
 
-# AdEspresso
 
-Name: AdEspresso
-Domain: adespresso.com
-Home: http://adespresso.com
-Privacy_policy: https://adespresso.com/privacy/
-Email: privacy@adespresso.com
-Owned_by: Hootsuite
+

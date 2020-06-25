@@ -1,25 +1,13 @@
-
-# Lender Feed LC
-
-Name: Lender Feed LC
-
-Domain: monitorbase.com
-
-Home: https://ww3.monitorbase.com/
-
-Email: support [at] monitorbase.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 01/16/2020
-
-Vermont_id: 366818
-
-
-
+---
+company-name: "Lender Feed LC"
+domain: monitorbase.com
+home: https://ww3.monitorbase.com/
+email: "support [at] monitorbase.com"
+california-date: 01/16/2020
+vermont-id: 366818
+---
 ## How to opt out
+
 
 You may request to exercise your rights by:
 
@@ -35,6 +23,7 @@ As required by law, we may take steps to verify your identity before granting yo
 
 ## How to delete
 
+
 You may request to exercise your rights by:
 
 Calling us at (888) 795-6575
@@ -49,7 +38,21 @@ As required by law, we may take steps to verify your identity before granting yo
 
 ## Additional info
 
+
 MonitorBase does not collect information directly from consumers. We are a business-to-business software service provider. MonitorBase processes public data available through government agencies and prescreened consumer reports that are regulated under the Fair Credit Reporting Act.
 
 310 E 4500 S270Murray, UT 84107United States
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,7 +1,9 @@
+---
+company-name: LeadDyno
+domain: leaddyno.com
+home: http://www.leaddyno.com/
+email: info@leaddyno.com
+---
 
-# LeadDyno
 
-Name: LeadDyno
-Domain: leaddyno.com
-Home: http://www.leaddyno.com/
-Email: info@leaddyno.com
+

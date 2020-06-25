@@ -1,7 +1,9 @@
+---
+company-name: Observer
+domain: observerapp.com
+home: http://www.observerapp.com
+email: lp@observerapp.com
+---
 
-# Observer
 
-Name: Observer
-Domain: observerapp.com
-Home: http://www.observerapp.com 
-Email: lp@observerapp.com
+

@@ -1,9 +1,11 @@
+---
+company-name: Logicalis
+domain: logicalis.com
+home: http://www.us.logicalis.com
+privacy-policy: http://www.us.logicalis.com/useful-information/privacy-policy/
+email: dpo@logicalis.com
+owned-by: Datatec
+---
 
-# Logicalis
 
-Name: Logicalis
-Domain: logicalis.com
-Home: http://www.us.logicalis.com
-Privacy_policy: http://www.us.logicalis.com/useful-information/privacy-policy/
-Email: dpo@logicalis.com
-Owned_by: Datatec
+

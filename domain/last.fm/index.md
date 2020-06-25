@@ -1,9 +1,11 @@
+---
+company-name: Last.fm
+domain: last.fm
+home: http://www.last.fm/
+privacy-policy: https://www.cbsinteractive.com/legal/cbsi/privacy-policy
+email: legal@last.fm
+owned-by: "CBS Interactive"
+---
 
-# Last.fm
 
-Name: Last.fm
-Domain: last.fm
-Home: http://www.last.fm/
-Privacy_policy: https://www.cbsinteractive.com/legal/cbsi/privacy-policy
-Email: legal@last.fm
-Owned_by: CBS Interactive
+

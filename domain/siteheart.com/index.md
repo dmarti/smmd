@@ -1,6 +1,8 @@
+---
+company-name: SiteHeart
+domain: siteheart.com
+home: http://siteheart.com/
+---
 
-# SiteHeart
 
-Name: SiteHeart
-Domain: siteheart.com
-Home: http://siteheart.com/
+

@@ -1,7 +1,9 @@
+---
+company-name: "Canned Banners"
+domain: cannedbanners.com
+home: http://cannedbanners.com/
+privacy-policy: http://cannedbanners.com/privacy/
+---
 
-# Canned Banners
 
-Name: Canned Banners
-Domain: cannedbanners.com
-Home: http://cannedbanners.com/
-Privacy_policy: http://cannedbanners.com/privacy/
+

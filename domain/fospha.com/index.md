@@ -1,7 +1,9 @@
+---
+company-name: Fospha
+domain: fospha.com
+home: https://www.fospha.com/
+privacy-policy: https://www.fospha.com/privacy-policy/
+---
 
-# Fospha
 
-Name: Fospha
-Domain: fospha.com
-Home: https://www.fospha.com/
-Privacy_policy: https://www.fospha.com/privacy-policy/
+

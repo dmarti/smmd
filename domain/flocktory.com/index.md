@@ -1,8 +1,10 @@
+---
+company-name: Flocktory
+domain: flocktory.com
+home: https://www.flocktory.com/
+privacy-policy: https://www.flocktory.com/en/data_privacy/
+email: support@flocktory.com
+---
 
-# Flocktory
 
-Name: Flocktory
-Domain: flocktory.com
-Home: https://www.flocktory.com/
-Privacy_policy: https://www.flocktory.com/en/data_privacy/
-Email: support@flocktory.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Conversions On Demand"
+domain: conversionsondemand.com
+home: https://www.conversionsondemand.com/
+privacy-policy: https://www.conversionsondemand.com/privacy-policy.php
+email: info@conversionsondemand.com
+---
 
-# Conversions On Demand
 
-Name: Conversions On Demand
-Domain: conversionsondemand.com
-Home: https://www.conversionsondemand.com/
-Privacy_policy: https://www.conversionsondemand.com/privacy-policy.php
-Email: info@conversionsondemand.com
+

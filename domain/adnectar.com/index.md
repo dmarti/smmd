@@ -1,7 +1,9 @@
+---
+company-name: AdNectar
+domain: adnectar.com
+home: http://www.adnectar.com/
+owned-by: Ador
+---
 
-# AdNectar
 
-Name: AdNectar
-Domain: adnectar.com
-Home: http://www.adnectar.com/
-Owned_by: Ador
+

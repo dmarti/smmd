@@ -1,7 +1,9 @@
+---
+company-name: "Betty Crocker"
+domain: bettycrocker.com
+home: http://www.bettycrocker.com/
+privacy-policy: http://www.generalmills.com/company/privacy-policies/privacy-policy-us
+---
 
-# Betty Crocker
 
-Name: Betty Crocker
-Domain: bettycrocker.com
-Home: http://www.bettycrocker.com/
-Privacy_policy: http://www.generalmills.com/company/privacy-policies/privacy-policy-us
+

@@ -1,8 +1,10 @@
+---
+company-name: Gubagoo
+domain: gubagoo.com
+home: https://www.gubagoo.com/
+privacy-policy: https://www.gubagoo.com/about/policy
+email: info@gubagoo.com
+---
 
-# Gubagoo
 
-Name: Gubagoo
-Domain: gubagoo.com
-Home: https://www.gubagoo.com/
-Privacy_policy: https://www.gubagoo.com/about/policy
-Email: info@gubagoo.com
+

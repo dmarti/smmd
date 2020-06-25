@@ -1,8 +1,10 @@
+---
+company-name: "Magnetise Group"
+domain: magnetisegroup.com
+home: http://magnetisegroup.com/
+email: info@magnetisegroup.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Magnetise Group
 
-Name: Magnetise Group
-Domain: magnetisegroup.com
-Home: http://magnetisegroup.com/
-Email: info@magnetisegroup.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

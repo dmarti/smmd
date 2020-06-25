@@ -1,7 +1,9 @@
-# Papa John's
+---
+company-name: "Papa John's"
+domain: papajohns.com
+opt-out-url: https://www.papajohns.com/privacy-policy.html
+---
 
-Name: Papa John's
 
-Domain: papajohns.com
 
-Opt_out_url: https://www.papajohns.com/privacy-policy.html
+

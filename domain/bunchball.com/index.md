@@ -1,8 +1,10 @@
+---
+company-name: Bunchball
+domain: bunchball.com
+home: http://www.bunchball.com/
+privacy-policy: http://www.bunchball.com/privacy
+email: admin@bunchball.com
+---
 
-# Bunchball
 
-Name: Bunchball
-Domain: bunchball.com
-Home: http://www.bunchball.com/
-Privacy_policy: http://www.bunchball.com/privacy
-Email: admin@bunchball.com
+

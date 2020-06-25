@@ -1,8 +1,10 @@
+---
+company-name: "Dom Pérignon"
+domain: domperignon.com
+home: http://www.domperignon.com/
+privacy-policy: http://www.domperignon.com/privacy/
+owned-by: "Moet Hennessy SNC"
+---
 
-# Dom Pérignon
 
-Name: Dom Pérignon
-Domain: domperignon.com
-Home: http://www.domperignon.com/
-Privacy_policy: http://www.domperignon.com/privacy/
-Owned_by: Moet Hennessy SNC
+

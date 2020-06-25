@@ -1,7 +1,9 @@
+---
+company-name: "Mad Ads Media"
+domain: madadsmedia.com
+home: http://www.madadsmedia.com/
+email: support@madadsmedia.com
+---
 
-# Mad Ads Media
 
-Name: Mad Ads Media
-Domain: madadsmedia.com
-Home: http://www.madadsmedia.com/
-Email: support@madadsmedia.com
+

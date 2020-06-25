@@ -1,10 +1,12 @@
+---
+company-name: AdMarvel
+domain: admarvel.com
+home: http://www.admarvel.com/
+privacy-policy: http://operamediaworks.com/advertising-services-privacy-policy
+email: privacy@admarvel.com
+owned-by: "Opera Software"
+member-of: TrustE_TrustArc
+---
 
-# AdMarvel
 
-Name: AdMarvel
-Domain: admarvel.com
-Home: http://www.admarvel.com/
-Privacy_policy: http://operamediaworks.com/advertising-services-privacy-policy
-Email: privacy@admarvel.com
-Owned_by: Opera Software
-Member_of: TrustE_TrustArc
+

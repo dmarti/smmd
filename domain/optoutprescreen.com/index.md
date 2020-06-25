@@ -1,21 +1,11 @@
-
-# Innovis Data Solutions, Inc.
-
-Name: Innovis Data Solutions, Inc.
-
-Domain: optoutprescreen.com
-
-Home: https://www.optoutprescreen.com/
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: https://www.innovis.com/personal/optOutOptIn
-
-
-
+---
+company-name: "Innovis Data Solutions, Inc."
+domain: optoutprescreen.com
+home: https://www.optoutprescreen.com/
+opt-out-url: https://www.innovis.com/personal/optOutOptIn
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +13,20 @@ Opt_out_url: https://www.innovis.com/personal/optOutOptIn
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

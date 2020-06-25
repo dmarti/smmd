@@ -1,8 +1,10 @@
+---
+company-name: Seedtag
+domain: seedtag.com
+home: https://www.seedtag.com/en
+privacy-policy: https://www.seedtag.com/en/privacy-policy/
+email: info@seedtag.com
+---
 
-# Seedtag
 
-Name: Seedtag
-Domain: seedtag.com
-Home: https://www.seedtag.com/en
-Privacy_policy: https://www.seedtag.com/en/privacy-policy/
-Email: info@seedtag.com
+

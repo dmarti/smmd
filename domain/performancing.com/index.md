@@ -1,6 +1,8 @@
+---
+company-name: Performancing
+domain: performancing.com
+home: http://performancing.com/
+---
 
-# Performancing
 
-Name: Performancing
-Domain: performancing.com
-Home: http://performancing.com/
+

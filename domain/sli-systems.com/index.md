@@ -1,8 +1,10 @@
+---
+company-name: "SLI Systems"
+domain: sli-systems.com
+home: http://www.sli-systems.com/
+privacy-policy: http://www.sli-systems.com/legal
+email: discovery@sli-systems.com
+---
 
-# SLI Systems
 
-Name: SLI Systems
-Domain: sli-systems.com
-Home: http://www.sli-systems.com/
-Privacy_policy: http://www.sli-systems.com/legal
-Email: discovery@sli-systems.com
+

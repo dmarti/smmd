@@ -1,7 +1,9 @@
+---
+company-name: "Real Movement Analytics"
+domain: rm-analytics.de
+home: http://www.rm-analytics.de/
+email: info@rm-analytics.de
+---
 
-# Real Movement Analytics
 
-Name: Real Movement Analytics
-Domain: rm-analytics.de
-Home: http://www.rm-analytics.de/
-Email: info@rm-analytics.de
+

@@ -1,8 +1,10 @@
+---
+company-name: Roost
+domain: goroost.com
+home: https://goroost.com/
+privacy-policy: https://goroost.com/pages/privacy-policy
+email: support@goroost.com
+---
 
-# Roost
 
-Name: Roost
-Domain: goroost.com
-Home: https://goroost.com/
-Privacy_policy: https://goroost.com/pages/privacy-policy
-Email: support@goroost.com
+

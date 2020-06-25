@@ -1,8 +1,10 @@
+---
+company-name: HubDSP
+domain: hubdsp.com
+home: https://hubdsp.com/
+privacy-policy: https://hubdsp.com/privacy.html
+email: dsp@ccedk.com
+---
 
-# HubDSP
 
-Name: HubDSP
-Domain: hubdsp.com
-Home: https://hubdsp.com/
-Privacy_policy: https://hubdsp.com/privacy.html
-Email: dsp@ccedk.com
+

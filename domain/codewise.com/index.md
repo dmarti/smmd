@@ -1,8 +1,10 @@
+---
+company-name: Codewise
+domain: codewise.com
+home: https://codewise.com
+privacy-policy: https://thecodewiseway.com/terms-and-conditions/
+email: hello@codewise.com
+---
 
-# Codewise
 
-Name: Codewise
-Domain: codewise.com
-Home: https://codewise.com
-Privacy_policy: https://thecodewiseway.com/terms-and-conditions/
-Email: hello@codewise.com
+

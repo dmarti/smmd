@@ -1,8 +1,10 @@
+---
+company-name: "Stat Shop"
+domain: statshop.fr
+home: https://www.statshop.fr/
+privacy-policy: https://www.statshop.fr/mentions-legales/
+owned-by: WEB2ROI
+---
 
-# Stat Shop
 
-Name: Stat Shop
-Domain: statshop.fr
-Home: https://www.statshop.fr/
-Privacy_policy: https://www.statshop.fr/mentions-legales/
-Owned_by: WEB2ROI
+

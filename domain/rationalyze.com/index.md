@@ -1,8 +1,10 @@
+---
+company-name: Rationalyze
+domain: rationalyze.com
+home: http://www.rationalyze.com/
+privacy-policy: https://www.rationalyze.com/privacy-policy
+email: support@rationalyze.com
+---
 
-# Rationalyze
 
-Name: Rationalyze
-Domain: rationalyze.com
-Home: http://www.rationalyze.com/
-Privacy_policy: https://www.rationalyze.com/privacy-policy
-Email: support@rationalyze.com
+

@@ -1,10 +1,12 @@
+---
+company-name: Blip
+domain: blip.tv
+home: http://blip.tv/
+privacy-policy: https://disneyprivacycenter.com/privacy-policy-translations/english/
+email: info@blip.com
+owned-by: Disney
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Blip
 
-Name: Blip
-Domain: blip.tv
-Home: http://blip.tv/
-Privacy_policy: https://disneyprivacycenter.com/privacy-policy-translations/english/
-Email: info@blip.com
-Owned_by: Disney
-Member_of: Interactive Advertising Bureau (IAB)
+

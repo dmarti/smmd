@@ -1,21 +1,10 @@
-
-# Cardlytics
-
-Name: Cardlytics
-
-Domain: cardlytics.com
-
-Home: cardlytics.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: Cardlytics
+domain: cardlytics.com
+home: cardlytics.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

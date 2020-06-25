@@ -1,8 +1,10 @@
+---
+company-name: AirPR
+domain: airpr.com
+home: https://airpr.com/
+privacy-policy: https://airpr.com/privacy-policy/
+email: info@airpr.com
+---
 
-# AirPR
 
-Name: AirPR
-Domain: airpr.com
-Home: https://airpr.com/
-Privacy_policy: https://airpr.com/privacy-policy/
-Email: info@airpr.com
+

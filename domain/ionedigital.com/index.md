@@ -1,8 +1,10 @@
+---
+company-name: "Interactive One"
+domain: ionedigital.com
+home: https://ionedigital.com/
+privacy-policy: https://ionedigital.com/privacy/
+email: ionelegal@interactiveone.com
+---
 
-# Interactive One
 
-Name: Interactive One
-Domain: ionedigital.com
-Home: https://ionedigital.com/
-Privacy_policy: https://ionedigital.com/privacy/
-Email: ionelegal@interactiveone.com
+

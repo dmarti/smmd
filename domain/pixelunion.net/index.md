@@ -1,6 +1,8 @@
+---
+company-name: "Pixel Union"
+domain: pixelunion.net
+home: https://www.pixelunion.net/
+---
 
-# Pixel Union
 
-Name: Pixel Union
-Domain: pixelunion.net
-Home: https://www.pixelunion.net/
+

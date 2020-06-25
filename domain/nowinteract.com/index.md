@@ -1,8 +1,10 @@
+---
+company-name: "Now Interact"
+domain: nowinteract.com
+home: http://nowinteract.com/
+privacy-policy: https://nowinteract.com/privacy-policy/
+email: hello@nowinteract.com
+---
 
-# Now Interact
 
-Name: Now Interact
-Domain: nowinteract.com
-Home: http://nowinteract.com/
-Privacy_policy: https://nowinteract.com/privacy-policy/
-Email: hello@nowinteract.com
+

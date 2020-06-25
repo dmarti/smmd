@@ -1,8 +1,10 @@
+---
+company-name: Fetch
+domain: wearefetch.com
+home: http://wearefetch.com/
+privacy-policy: http://wearefetch.com/privacy-policy/
+owned-by: "Dentsu Aegis Network"
+---
 
-# Fetch
 
-Name: Fetch
-Domain: wearefetch.com
-Home: http://wearefetch.com/
-Privacy_policy: http://wearefetch.com/privacy-policy/
-Owned_by: Dentsu Aegis Network
+

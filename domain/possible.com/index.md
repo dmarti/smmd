@@ -1,7 +1,9 @@
+---
+company-name: "Possible Worldwide"
+domain: possible.com
+home: https://www.possible.com/
+owned-by: WPP
+---
 
-# Possible Worldwide
 
-Name: Possible Worldwide
-Domain: possible.com
-Home: https://www.possible.com/
-Owned_by: WPP
+

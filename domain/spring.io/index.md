@@ -1,9 +1,11 @@
+---
+company-name: Spring.io
+domain: spring.io
+home: http://spring.io/
+privacy-policy: https://pivotal.io/privacy-policy
+email: privacy@pivotal.io
+owned-by: Pivotal.io
+---
 
-# Spring.io
 
-Name: Spring.io
-Domain: spring.io
-Home: http://spring.io/
-Privacy_policy: https://pivotal.io/privacy-policy
-Email: privacy@pivotal.io
-Owned_by: Pivotal.io
+

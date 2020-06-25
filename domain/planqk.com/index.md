@@ -1,7 +1,9 @@
+---
+company-name: PlanQk
+domain: planqk.com
+home: http://planqk.com/
+email: support@planqk.com
+---
 
-# PlanQk
 
-Name: PlanQk
-Domain: planqk.com
-Home: http://planqk.com/
-Email: support@planqk.com
+

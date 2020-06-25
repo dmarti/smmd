@@ -1,8 +1,10 @@
+---
+company-name: InvestingChannel
+domain: investingchannel.com
+home: http://www.investingchannel.com/
+privacy-policy: http://media.investingchannel.com/privacy-policy/
+email: info@investingchannel.com
+---
 
-# InvestingChannel
 
-Name: InvestingChannel
-Domain: investingchannel.com
-Home: http://www.investingchannel.com/
-Privacy_policy: http://media.investingchannel.com/privacy-policy/
-Email: info@investingchannel.com
+

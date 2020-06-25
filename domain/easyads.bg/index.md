@@ -1,8 +1,10 @@
+---
+company-name: EasyAds
+domain: easyads.bg
+home: https://easyads.bg/
+privacy-policy: https://easyads.bg/policy.php
+email: ekip@easyads.bg
+---
 
-# EasyAds
 
-Name: EasyAds
-Domain: easyads.bg
-Home: https://easyads.bg/
-Privacy_policy: https://easyads.bg/policy.php
-Email: ekip@easyads.bg
+

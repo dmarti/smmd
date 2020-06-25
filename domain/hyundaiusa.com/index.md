@@ -1,8 +1,10 @@
+---
+company-name: Hyundai
+domain: hyundaiusa.com
+home: https://www.hyundaiusa.com/
+privacy-policy: https://www.hyundaiusa.com/privacy-policy.aspx
+email: consumeraffairs@hmausa.com
+---
 
-# Hyundai 
 
-Name: Hyundai 
-Domain: hyundaiusa.com
-Home: https://www.hyundaiusa.com/
-Privacy_policy: https://www.hyundaiusa.com/privacy-policy.aspx
-Email: consumeraffairs@hmausa.com
+

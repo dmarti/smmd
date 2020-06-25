@@ -1,8 +1,10 @@
+---
+company-name: moreAds
+domain: moras.jp
+home: https://www.moras.jp
+privacy-policy: http://service.moras.jp/privacy.html
+email: info@fiveany.co.jp
+---
 
-# moreAds
 
-Name: moreAds
-Domain: moras.jp
-Home: https://www.moras.jp
-Privacy_policy: http://service.moras.jp/privacy.html
-Email: info@fiveany.co.jp
+

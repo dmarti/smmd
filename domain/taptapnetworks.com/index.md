@@ -1,9 +1,11 @@
+---
+company-name: "TapTap Networks"
+domain: taptapnetworks.com
+home: http://www.taptapnetworks.com/
+privacy-policy: http://www.taptapnetworks.com/privacy_policy/
+email: privacy@taptapnetworks.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# TapTap Networks
 
-Name: TapTap Networks
-Domain: taptapnetworks.com
-Home: http://www.taptapnetworks.com/
-Privacy_policy: http://www.taptapnetworks.com/privacy_policy/
-Email: privacy@taptapnetworks.com
-Member_of: Interactive Advertising Bureau (IAB)
+

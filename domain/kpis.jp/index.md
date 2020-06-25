@@ -1,8 +1,10 @@
+---
+company-name: AdGraph
+domain: kpis.jp
+home: https://kpis.jp/product_adgraph
+privacy-policy: http://www.adgraph.net/ja/privacy/optout.html
+owned-by: "KPI Solutions"
+---
 
-# AdGraph
 
-Name: AdGraph
-Domain: kpis.jp
-Home: https://kpis.jp/product_adgraph
-Privacy_policy: http://www.adgraph.net/ja/privacy/optout.html
-Owned_by: KPI Solutions
+

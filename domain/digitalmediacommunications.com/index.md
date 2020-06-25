@@ -1,6 +1,8 @@
+---
+company-name: "Digital Media Communications"
+domain: digitalmediacommunications.com
+home: http://www.digitalmediacommunications.com/
+---
 
-# Digital Media Communications
 
-Name: Digital Media Communications
-Domain: digitalmediacommunications.com
-Home: http://www.digitalmediacommunications.com/
+

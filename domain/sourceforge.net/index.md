@@ -1,7 +1,9 @@
+---
+company-name: AWStats
+domain: sourceforge.net
+home: http://awstats.sourceforge.net/
+email: eldy@users.sourceforge.net
+---
 
-# AWStats
 
-Name: AWStats
-Domain: sourceforge.net
-Home: http://awstats.sourceforge.net/
-Email: eldy@users.sourceforge.net
+

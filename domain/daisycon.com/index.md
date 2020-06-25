@@ -1,8 +1,10 @@
+---
+company-name: Daisycon
+domain: daisycon.com
+home: http://www.daisycon.com
+privacy-policy: https://www.daisycon.com/en/privacy/
+email: info@daisycon.com
+---
 
-# Daisycon
 
-Name: Daisycon
-Domain: daisycon.com
-Home: http://www.daisycon.com
-Privacy_policy: https://www.daisycon.com/en/privacy/
-Email: info@daisycon.com
+

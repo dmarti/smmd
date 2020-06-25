@@ -1,8 +1,10 @@
+---
+company-name: "Propeller Ads"
+domain: propellerads.com
+home: http://www.propellerads.com/
+privacy-policy: https://propellerads.com/privacy/
+email: contact.us@propellerads.com
+---
 
-# Propeller Ads
 
-Name: Propeller Ads
-Domain: propellerads.com
-Home: http://www.propellerads.com/
-Privacy_policy: https://propellerads.com/privacy/
-Email: contact.us@propellerads.com
+

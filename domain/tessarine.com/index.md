@@ -1,6 +1,8 @@
+---
+company-name: Tessarine
+domain: tessarine.com
+home: http://www.tessarine.com/
+---
 
-# Tessarine
 
-Name: Tessarine
-Domain: tessarine.com
-Home: http://www.tessarine.com/
+

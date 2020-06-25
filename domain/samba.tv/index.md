@@ -1,8 +1,10 @@
+---
+company-name: "Samba TV"
+domain: samba.tv
+home: https://www.samba.tv/
+privacy-policy: https://samba.tv/legal/privacy-policy/
+email: privacy@samba.tv
+---
 
-# Samba TV
 
-Name: Samba TV
-Domain: samba.tv
-Home: https://www.samba.tv/
-Privacy_policy: https://samba.tv/legal/privacy-policy/
-Email: privacy@samba.tv
+

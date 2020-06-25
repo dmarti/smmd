@@ -1,8 +1,10 @@
+---
+company-name: Adnetic.io
+domain: adnetic.io
+home: https://adnetic.io/
+privacy-policy: https://adnetic.io/policies/privacy
+email: support@adnetic.io
+---
 
-# Adnetic.io
 
-Name: Adnetic.io
-Domain: adnetic.io
-Home: https://adnetic.io/
-Privacy_policy: https://adnetic.io/policies/privacy
-Email: support@adnetic.io
+

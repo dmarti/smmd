@@ -1,7 +1,9 @@
+---
+company-name: "Smarter HQ (FKA Smarter Remarketer)"
+domain: smarterremarketer.com
+home: http://www.smarterremarketer.com/
+email: learnmore@smarterremarketer.com
+---
 
-# Smarter HQ (FKA Smarter Remarketer)
 
-Name: Smarter HQ (FKA Smarter Remarketer)
-Domain: smarterremarketer.com
-Home: http://www.smarterremarketer.com/
-Email: learnmore@smarterremarketer.com
+

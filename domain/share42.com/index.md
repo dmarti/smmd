@@ -1,6 +1,8 @@
+---
+company-name: Share42
+domain: share42.com
+home: http://share42.com/
+---
 
-# Share42
 
-Name: Share42
-Domain: share42.com
-Home: http://share42.com/
+

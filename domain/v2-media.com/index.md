@@ -1,7 +1,9 @@
+---
+company-name: V2-Media
+domain: v2-media.com
+home: http://www.v2-media.com/
+email: info@v2-media.com
+---
 
-# V2-Media
 
-Name: V2-Media
-Domain: v2-media.com
-Home: http://www.v2-media.com/
-Email: info@v2-media.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Trusted Shops"
+domain: trustedshops.co.uk
+home: http://business.trustedshops.co.uk/
+privacy-policy: https://business.trustedshops.co.uk/imprint#datenschutz
+email: info@trustedshops.co.uk
+---
 
-# Trusted Shops
 
-Name: Trusted Shops
-Domain: trustedshops.co.uk
-Home: http://business.trustedshops.co.uk/
-Privacy_policy: https://business.trustedshops.co.uk/imprint#datenschutz
-Email: info@trustedshops.co.uk
+

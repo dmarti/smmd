@@ -1,8 +1,10 @@
+---
+company-name: nanoRep
+domain: nanorep.com
+home: http://www.nanorep.com/
+privacy-policy: https://www.logmeininc.com/legal/privacy
+email: support@nanorep.com
+---
 
-# nanoRep
 
-Name: nanoRep
-Domain: nanorep.com
-Home: http://www.nanorep.com/
-Privacy_policy: https://www.logmeininc.com/legal/privacy
-Email: support@nanorep.com
+

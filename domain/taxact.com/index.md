@@ -1,7 +1,9 @@
-# TaxAct
+---
+company-name: TaxAct
+domain: taxact.com
+opt-out-url: https://www.taxact.com/privacy-policy-california
+---
 
-Name: TaxAct
 
-Domain: taxact.com
 
-Opt_out_url: https://www.taxact.com/privacy-policy-california
+

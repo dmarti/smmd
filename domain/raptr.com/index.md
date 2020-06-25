@@ -1,6 +1,8 @@
+---
+company-name: Raptr
+domain: raptr.com
+home: http://raptr.com/
+---
 
-# Raptr
 
-Name: Raptr
-Domain: raptr.com
-Home: http://raptr.com/
+

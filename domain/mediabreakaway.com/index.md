@@ -1,8 +1,10 @@
+---
+company-name: "Media Breakaway"
+domain: mediabreakaway.com
+home: http://www.mediabreakaway.com/
+privacy-policy: http://www.mediabreakaway.com/privacypolicy.php
+email: legal@mediabreakaway.com
+---
 
-# Media Breakaway
 
-Name: Media Breakaway
-Domain: mediabreakaway.com
-Home: http://www.mediabreakaway.com/
-Privacy_policy: http://www.mediabreakaway.com/privacypolicy.php
-Email: legal@mediabreakaway.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Effiliation
+domain: effiliation.com
+home: http://www.effiliation.com/en/
+privacy-policy: https://inter.effiliation.com/politique-confidentialite.html
+email: effilie@effiliation.com
+---
 
-# Effiliation
 
-Name: Effiliation
-Domain: effiliation.com
-Home: http://www.effiliation.com/en/
-Privacy_policy: https://inter.effiliation.com/politique-confidentialite.html
-Email: effilie@effiliation.com
+

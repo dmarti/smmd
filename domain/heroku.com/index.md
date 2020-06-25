@@ -1,10 +1,12 @@
+---
+company-name: Heroku
+domain: heroku.com
+home: https://www.heroku.com/
+privacy-policy: https://www.salesforce.com/company/privacy/
+email: privacy@heroku.com
+owned-by: Salesforce
+member-of: TrustE_TrustArc
+---
 
-# Heroku
 
-Name: Heroku
-Domain: heroku.com
-Home: https://www.heroku.com/
-Privacy_policy: https://www.salesforce.com/company/privacy/
-Email: privacy@heroku.com
-Owned_by: Salesforce
-Member_of: TrustE_TrustArc
+

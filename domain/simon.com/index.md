@@ -1,7 +1,9 @@
+---
+company-name: Simon
+domain: simon.com
+home: http://www.simon.com/
+privacy-policy: http://www.simon.com/legal/privacy
+---
 
-# Simon
 
-Name: Simon
-Domain: simon.com
-Home: http://www.simon.com/
-Privacy_policy: http://www.simon.com/legal/privacy
+

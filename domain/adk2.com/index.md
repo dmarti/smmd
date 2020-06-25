@@ -1,9 +1,11 @@
+---
+company-name: adk2
+domain: adk2.com
+home: http://www.adk2.com/
+privacy-policy: http://www.adk2.com/privacy-copyright/customer-privacy-policy/
+email: privacy@plymedia.com
+owned-by: PLYmedia
+---
 
-# adk2
 
-Name: adk2
-Domain: adk2.com
-Home: http://www.adk2.com/
-Privacy_policy: http://www.adk2.com/privacy-copyright/customer-privacy-policy/
-Email: privacy@plymedia.com
-Owned_by: PLYmedia
+

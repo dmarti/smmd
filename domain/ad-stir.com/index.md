@@ -1,8 +1,10 @@
+---
+company-name: AdStir
+domain: ad-stir.com
+home: https://en.ad-stir.com/
+privacy-policy: https://en.ad-stir.com/privacy.html
+email: privacy@united.jp
+---
 
-# AdStir
 
-Name: AdStir
-Domain: ad-stir.com
-Home: https://en.ad-stir.com/
-Privacy_policy: https://en.ad-stir.com/privacy.html
-Email: privacy@united.jp
+

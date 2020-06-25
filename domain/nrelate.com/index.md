@@ -1,8 +1,10 @@
+---
+company-name: nRelate
+domain: nrelate.com
+home: http://nrelate.com/
+privacy-policy: http://nrelate.com/privacy-policy/
+owned-by: Ask.com
+---
 
-# nRelate
 
-Name: nRelate
-Domain: nrelate.com
-Home: http://nrelate.com/
-Privacy_policy: http://nrelate.com/privacy-policy/
-Owned_by: Ask.com
+

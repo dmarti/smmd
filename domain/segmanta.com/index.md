@@ -1,8 +1,10 @@
+---
+company-name: Segmanta
+domain: segmanta.com
+home: https://segmanta.com/
+privacy-policy: https://pge.segmanta.com/privacy/
+email: support@segmanta.co
+---
 
-# Segmanta
 
-Name: Segmanta
-Domain: segmanta.com
-Home: https://segmanta.com/
-Privacy_policy: https://pge.segmanta.com/privacy/
-Email: support@segmanta.co
+

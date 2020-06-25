@@ -1,8 +1,10 @@
+---
+company-name: Oplytic
+domain: oplytic.com
+home: https://www.oplytic.com
+privacy-policy: https://www.oplytic.com/privacy
+email: supportticket@oplytic.com
+---
 
-# Oplytic
 
-Name: Oplytic
-Domain: oplytic.com
-Home: https://www.oplytic.com
-Privacy_policy: https://www.oplytic.com/privacy
-Email: supportticket@oplytic.com
+

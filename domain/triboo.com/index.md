@@ -1,10 +1,11 @@
+---
+company-name: "Triboo Media"
+domain: triboo.com
+home: http://triboo.com/
+privacy-policy: http://triboo.com/informativa-privacy-contacts/
+email: triboospa@legalmail.it
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Triboo Media
 
-Name: Triboo Media
-Domain: triboo.com
-Home: http://triboo.com/
-Privacy_policy: http://triboo.com/informativa-privacy-contacts/
-Email: triboospa@legalmail.it
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

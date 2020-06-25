@@ -1,8 +1,10 @@
+---
+company-name: Loomia
+domain: loomia.com
+home: https://www.loomia.com/
+privacy-policy: https://www.loomia.com/privacypolicy
+email: privacy@loomia.com
+---
 
-# Loomia
 
-Name: Loomia
-Domain: loomia.com
-Home: https://www.loomia.com/
-Privacy_policy: https://www.loomia.com/privacypolicy
-Email: privacy@loomia.com
+

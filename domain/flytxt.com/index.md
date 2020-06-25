@@ -1,7 +1,9 @@
+---
+company-name: Flytxt
+domain: flytxt.com
+home: http://www.flytxt.com/
+email: info@flytxt.com
+---
 
-# Flytxt
 
-Name: Flytxt
-Domain: flytxt.com
-Home: http://www.flytxt.com/
-Email: info@flytxt.com
+

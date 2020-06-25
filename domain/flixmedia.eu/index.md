@@ -1,8 +1,10 @@
+---
+company-name: Flixmedia
+domain: flixmedia.eu
+home: http://flixmedia.eu/
+privacy-policy: https://flixmedia.eu/privacy-policy/
+email: info@flixmedia.eu
+---
 
-# Flixmedia
 
-Name: Flixmedia
-Domain: flixmedia.eu
-Home: http://flixmedia.eu/
-Privacy_policy: https://flixmedia.eu/privacy-policy/
-Email: info@flixmedia.eu
+

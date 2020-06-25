@@ -1,9 +1,11 @@
+---
+company-name: "Be On (formerly Goviral)"
+domain: aolnetworks.com
+home: http://beon.aolnetworks.com/
+email: beon-legal@teamaol.com
+owned-by: "AOL Platforms"
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# Be On (formerly Goviral)
 
-Name: Be On (formerly Goviral)
-Domain: aolnetworks.com
-Home: http://beon.aolnetworks.com/
-Email: beon-legal@teamaol.com
-Owned_by: AOL Platforms
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

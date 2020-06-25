@@ -1,10 +1,11 @@
+---
+company-name: "Madison Logic"
+domain: madisonlogic.com
+home: https://www.madisonlogic.com/
+privacy-policy: https://www.madisonlogic.com/privacy/
+email: privacy@madisonlogic.com
+member-of: "Network Advertising Initiative"
+---
 
-# Madison Logic
 
-Name: Madison Logic
-Domain: madisonlogic.com
-Home: https://www.madisonlogic.com/
-Privacy_policy: https://www.madisonlogic.com/privacy/
-Email: privacy@madisonlogic.com
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

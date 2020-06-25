@@ -1,7 +1,9 @@
+---
+company-name: MyFitnessPal
+domain: myfitnesspal.com
+home: http://www.myfitnesspal.com/
+owned-by: "Under Armour"
+---
 
-# MyFitnessPal
 
-Name: MyFitnessPal
-Domain: myfitnesspal.com
-Home: http://www.myfitnesspal.com/
-Owned_by: Under Armour
+

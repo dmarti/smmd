@@ -1,8 +1,10 @@
+---
+company-name: adKernel
+domain: adkernel.com
+home: https://adkernel.com/
+privacy-policy: https://adkernel.com/privacy-policy/
+email: contact@adkernel.com
+---
 
-# adKernel
 
-Name: adKernel
-Domain: adkernel.com
-Home: https://adkernel.com/
-Privacy_policy: https://adkernel.com/privacy-policy/
-Email: contact@adkernel.com
+

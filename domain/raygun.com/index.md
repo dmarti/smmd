@@ -1,8 +1,10 @@
+---
+company-name: Raygun
+domain: raygun.com
+home: https://raygun.com/
+privacy-policy: https://raygun.com/privacy
+email: hello@raygun.com
+---
 
-# Raygun
 
-Name: Raygun
-Domain: raygun.com
-Home: https://raygun.com/
-Privacy_policy: https://raygun.com/privacy
-Email: hello@raygun.com
+

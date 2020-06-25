@@ -1,8 +1,10 @@
+---
+company-name: Bugsnag
+domain: bugsnag.com
+home: https://bugsnag.com/
+privacy-policy: http://docs.bugsnag.com/legal/privacy-policy/
+email: privacy@bugsnag.com
+---
 
-# Bugsnag
 
-Name: Bugsnag
-Domain: bugsnag.com
-Home: https://bugsnag.com/
-Privacy_policy: http://docs.bugsnag.com/legal/privacy-policy/
-Email: privacy@bugsnag.com
+

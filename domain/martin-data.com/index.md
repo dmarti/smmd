@@ -1,29 +1,18 @@
-
-# Martin Data LLC
-
-Name: Martin Data LLC
-
-Domain: martin-data.com
-
-Home: http://www.martin-data.com
-
-Email: ccpa [at] usinfosearch.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/07/2020
-
-Vermont_id: 357023
-
-
-
+---
+company-name: "Martin Data LLC"
+domain: martin-data.com
+home: http://www.martin-data.com
+email: "ccpa [at] usinfosearch.com"
+california-date: 02/07/2020
+vermont-id: 357023
+---
 ## How to opt out
+
 
 Please go to www.martindataoptout.com to start the process.
 
 ## How to delete
+
 
 Please go to www.martindataoptout.com to start the process.
 
@@ -31,5 +20,19 @@ Please go to www.martindataoptout.com to start the process.
 
 
 
+
 735 Taylor Rd STE 220Columbus, OH 43230United States
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,7 +1,9 @@
+---
+company-name: "Digital Fry"
+domain: digitalfry.in
+home: http://www.digitalfry.in/
+email: "91 9716540024"
+---
 
-# Digital Fry
 
-Name: Digital Fry
-Domain: digitalfry.in
-Home: http://www.digitalfry.in/
-Email: 91 9716540024
+

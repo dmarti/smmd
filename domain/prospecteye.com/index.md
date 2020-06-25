@@ -1,9 +1,11 @@
+---
+company-name: ProspectEye
+domain: prospecteye.com
+home: https://www.prospecteye.com/
+privacy-policy: https://www.apsis.com/about-us/policies/privacy-policy
+email: privacy@apsis.com
+owned-by: Apsis
+---
 
-# ProspectEye
 
-Name: ProspectEye
-Domain: prospecteye.com
-Home: https://www.prospecteye.com/
-Privacy_policy: https://www.apsis.com/about-us/policies/privacy-policy
-Email: privacy@apsis.com
-Owned_by: Apsis
+

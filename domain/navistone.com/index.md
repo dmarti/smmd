@@ -1,8 +1,10 @@
+---
+company-name: NaviStone
+domain: navistone.com
+home: https://www.navistone.com/
+privacy-policy: https://www.navistone.com/privacy-policy
+email: info@navistone.com
+---
 
-# NaviStone
 
-Name: NaviStone
-Domain: navistone.com
-Home: https://www.navistone.com/
-Privacy_policy: https://www.navistone.com/privacy-policy
-Email: info@navistone.com
+

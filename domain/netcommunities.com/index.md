@@ -1,8 +1,10 @@
+---
+company-name: "Net Communities"
+domain: netcommunities.com
+home: http://www.netcommunities.com/
+privacy-policy: http://www.netcommunities.com/privacy-policy/
+email: info@netcommunities.com
+---
 
-# Net Communities
 
-Name: Net Communities
-Domain: netcommunities.com
-Home: http://www.netcommunities.com/
-Privacy_policy: http://www.netcommunities.com/privacy-policy/
-Email: info@netcommunities.com
+

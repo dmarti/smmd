@@ -1,9 +1,11 @@
+---
+company-name: Adrule
+domain: adrule.net
+home: https://www.adrule.net
+privacy-policy: https://www.adrule.net/de/datenschutz/
+email: privacy@adrule.net
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Adrule
 
-Name: Adrule
-Domain: adrule.net
-Home: https://www.adrule.net
-Privacy_policy: https://www.adrule.net/de/datenschutz/
-Email: privacy@adrule.net
-Member_of: Interactive Advertising Bureau (IAB)
+

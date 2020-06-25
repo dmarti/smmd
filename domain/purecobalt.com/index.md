@@ -1,8 +1,10 @@
+---
+company-name: "Pure Cobalt"
+domain: purecobalt.com
+home: https://www.purecobalt.com/
+privacy-policy: https://www.purecobalt.com/policy/
+email: info@purecobalt.com
+---
 
-# Pure Cobalt
 
-Name: Pure Cobalt
-Domain: purecobalt.com
-Home: https://www.purecobalt.com/
-Privacy_policy: https://www.purecobalt.com/policy/
-Email: info@purecobalt.com
+

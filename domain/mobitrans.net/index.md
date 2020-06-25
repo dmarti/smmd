@@ -1,7 +1,9 @@
+---
+company-name: Mobitrans
+domain: mobitrans.net
+home: http://www.mobitrans.net/
+privacy-policy: http://www.mobitrans.net/privacy-policy/
+---
 
-# Mobitrans
 
-Name: Mobitrans
-Domain: mobitrans.net
-Home: http://www.mobitrans.net/
-Privacy_policy: http://www.mobitrans.net/privacy-policy/
+

@@ -1,8 +1,10 @@
+---
+company-name: "Dynamic Yield"
+domain: dynamicyield.com
+home: https://www.dynamicyield.com/
+privacy-policy: https://www.dynamicyield.com/platform-privacy-policy/
+email: privacy@dynamicyield.com
+---
 
-# Dynamic Yield
 
-Name: Dynamic Yield
-Domain: dynamicyield.com
-Home: https://www.dynamicyield.com/
-Privacy_policy: https://www.dynamicyield.com/platform-privacy-policy/
-Email: privacy@dynamicyield.com
+

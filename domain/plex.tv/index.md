@@ -1,7 +1,9 @@
+---
+company-name: Plex
+domain: plex.tv
+home: https://www.plex.tv/
+privacy-policy: https://www.plex.tv/about/privacy-legal/
+---
 
-# Plex
 
-Name: Plex
-Domain: plex.tv
-Home: https://www.plex.tv/
-Privacy_policy: https://www.plex.tv/about/privacy-legal/
+

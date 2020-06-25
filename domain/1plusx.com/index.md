@@ -1,8 +1,10 @@
+---
+company-name: 1plusX
+domain: 1plusx.com
+home: http://1plusx.com/
+privacy-policy: http://1plusx.com/privacy-policy/
+email: privacy@1plusx.com
+---
 
-# 1plusX
 
-Name: 1plusX
-Domain: 1plusx.com
-Home: http://1plusx.com/
-Privacy_policy: http://1plusx.com/privacy-policy/
-Email: privacy@1plusx.com
+

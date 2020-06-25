@@ -1,9 +1,11 @@
+---
+company-name: Weibo
+domain: weibo.com
+home: http://us.weibo.com/gb
+privacy-policy: http://mediakit.sina.com/privacy.html
+email: support@staff.sina.com
+owned-by: Sina
+---
 
-# Weibo
 
-Name: Weibo
-Domain: weibo.com
-Home: http://us.weibo.com/gb
-Privacy_policy: http://mediakit.sina.com/privacy.html
-Email: support@staff.sina.com
-Owned_by: Sina
+

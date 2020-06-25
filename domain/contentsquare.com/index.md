@@ -1,7 +1,9 @@
+---
+company-name: "Content Square"
+domain: contentsquare.com
+home: https://www.contentsquare.com/
+privacy-policy: https://www.contentsquare.com/privacy-policy/
+---
 
-# Content Square
 
-Name: Content Square
-Domain: contentsquare.com
-Home: https://www.contentsquare.com/
-Privacy_policy: https://www.contentsquare.com/privacy-policy/
+

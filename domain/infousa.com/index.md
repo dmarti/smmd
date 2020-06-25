@@ -1,21 +1,10 @@
-
-# InfoUSA
-
-Name: InfoUSA
-
-Domain: infousa.com
-
-Home: infousa.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: InfoUSA
+domain: infousa.com
+home: infousa.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

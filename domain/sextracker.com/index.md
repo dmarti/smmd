@@ -1,8 +1,10 @@
+---
+company-name: SexTracker
+domain: sextracker.com
+home: http://webmasters.sextracker.com/
+privacy-policy: http://www.sextracker.com/about/privacy.html
+email: support@sextracker.com
+---
 
-# SexTracker
 
-Name: SexTracker
-Domain: sextracker.com
-Home: http://webmasters.sextracker.com/
-Privacy_policy: http://www.sextracker.com/about/privacy.html
-Email: support@sextracker.com
+

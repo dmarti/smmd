@@ -1,11 +1,11 @@
+---
+company-name: MediaCrossing
+domain: mediacrossing.com
+home: http://mediacrossing.com
+privacy-policy: http://www.mediacrossing.com/privacy-policy/
+email: privacy@MediaCrossing.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# MediaCrossing
 
-Name: MediaCrossing
-Domain: mediacrossing.com
-Home: http://mediacrossing.com
-Privacy_policy: http://www.mediacrossing.com/privacy-policy/
-Email: privacy@MediaCrossing.com
-Member_of: American Association of Advertising Agencies
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

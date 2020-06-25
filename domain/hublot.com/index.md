@@ -1,8 +1,10 @@
+---
+company-name: Hublot
+domain: hublot.com
+home: http://www.hublot.com/en/
+privacy-policy: http://www.hublot.com/en/privacy
+owned-by: LVMH
+---
 
-# Hublot
 
-Name: Hublot
-Domain: hublot.com
-Home: http://www.hublot.com/en/
-Privacy_policy: http://www.hublot.com/en/privacy
-Owned_by: LVMH
+

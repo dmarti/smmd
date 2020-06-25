@@ -1,7 +1,9 @@
+---
+company-name: "Haworth Marketing + Media"
+domain: haworthmedia.com
+home: http://www.haworthmedia.com/
+email: contact@haworthmedia.com
+---
 
-# Haworth Marketing + Media
 
-Name: Haworth Marketing + Media
-Domain: haworthmedia.com
-Home: http://www.haworthmedia.com/
-Email: contact@haworthmedia.com
+

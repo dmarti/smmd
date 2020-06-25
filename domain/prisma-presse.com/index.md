@@ -1,6 +1,8 @@
+---
+company-name: "Prisma Media Digital"
+domain: prisma-presse.com
+home: http://www.prisma-presse.com/index.php?prisma_media_digital
+---
 
-# Prisma Media Digital
 
-Name: Prisma Media Digital
-Domain: prisma-presse.com
-Home: http://www.prisma-presse.com/index.php?prisma_media_digital
+

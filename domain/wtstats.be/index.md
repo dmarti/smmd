@@ -1,7 +1,9 @@
+---
+company-name: WTStats
+domain: wtstats.be
+home: http://wtstats.be/
+email: pricop2008@yahoo.com
+---
 
-# WTStats
 
-Name: WTStats
-Domain: wtstats.be
-Home: http://wtstats.be/
-Email: pricop2008@yahoo.com
+

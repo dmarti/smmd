@@ -1,7 +1,9 @@
+---
+company-name: "Kraft Canada"
+domain: kraftcanada.com
+home: http://www.kraftcanada.com/
+privacy-policy: http://www.kraftcanada.com/privacypromise
+---
 
-# Kraft Canada
 
-Name: Kraft Canada
-Domain: kraftcanada.com
-Home: http://www.kraftcanada.com/
-Privacy_policy: http://www.kraftcanada.com/privacypromise
+

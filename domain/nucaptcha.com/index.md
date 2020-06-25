@@ -1,8 +1,10 @@
+---
+company-name: NuCapatcha
+domain: nucaptcha.com
+home: http://nucaptcha.com/
+email: bizdev@nudatasecurity.com
+owned-by: Mastercard
+---
 
-# NuCapatcha
 
-Name: NuCapatcha
-Domain: nucaptcha.com
-Home: http://nucaptcha.com/
-Email: bizdev@nudatasecurity.com
-Owned_by: Mastercard
+

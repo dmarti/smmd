@@ -1,8 +1,10 @@
+---
+company-name: "Beyond X"
+domain: beyondx.jp
+home: http://www.beyondx.jp/index.html
+privacy-policy: http://
+owned-by: "Cyber Communications"
+---
 
-# Beyond X
 
-Name: Beyond X
-Domain: beyondx.jp
-Home: http://www.beyondx.jp/index.html
-Privacy_policy: http://
-Owned_by: Cyber Communications
+

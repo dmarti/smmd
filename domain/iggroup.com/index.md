@@ -1,8 +1,10 @@
+---
+company-name: "IG Group"
+domain: iggroup.com
+home: http://www.iggroup.com/
+privacy-policy: http://www.ig.com/uk/privacy-policy
+email: helpdesk.uk@ig.com
+---
 
-# IG Group
 
-Name: IG Group
-Domain: iggroup.com
-Home: http://www.iggroup.com/
-Privacy_policy: http://www.ig.com/uk/privacy-policy
-Email: helpdesk.uk@ig.com
+

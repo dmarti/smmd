@@ -1,8 +1,10 @@
+---
+company-name: clixGalore
+domain: clixgalore.com
+home: http://www.clixgalore.com/
+privacy-policy: http://www.clixgalore.com/privacy.asp
+email: custservice@clixGalore.com
+---
 
-# clixGalore
 
-Name: clixGalore
-Domain: clixgalore.com
-Home: http://www.clixgalore.com/
-Privacy_policy: http://www.clixgalore.com/privacy.asp
-Email: custservice@clixGalore.com
+

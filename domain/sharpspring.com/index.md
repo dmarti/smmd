@@ -1,8 +1,10 @@
+---
+company-name: SharpSpring
+domain: sharpspring.com
+home: https://sharpspring.com/
+privacy-policy: https://sharpspring.com/legal/privacy/
+email: support@sharpspring.com
+---
 
-# SharpSpring
 
-Name: SharpSpring
-Domain: sharpspring.com
-Home: https://sharpspring.com/
-Privacy_policy: https://sharpspring.com/legal/privacy/
-Email: support@sharpspring.com
+

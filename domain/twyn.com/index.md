@@ -1,10 +1,11 @@
+---
+company-name: Twyn
+domain: twyn.com
+home: http://www.twyn.com
+privacy-policy: http://www.twyn.com/datenschutz.html
+email: office@twyn.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Twyn
 
-Name: Twyn
-Domain: twyn.com
-Home: http://www.twyn.com
-Privacy_policy: http://www.twyn.com/datenschutz.html
-Email: office@twyn.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

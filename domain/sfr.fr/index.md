@@ -1,7 +1,9 @@
+---
+company-name: SFR
+domain: sfr.fr
+home: https://www.sfr.fr/
+privacy-policy: http://www.sfr.fr/politique-de-protection-des-donnees-personnelles.html
+---
 
-# SFR
 
-Name: SFR
-Domain: sfr.fr
-Home: https://www.sfr.fr/
-Privacy_policy: http://www.sfr.fr/politique-de-protection-des-donnees-personnelles.html
+

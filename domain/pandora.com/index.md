@@ -1,10 +1,11 @@
+---
+company-name: "Pandora Media"
+domain: pandora.com
+home: https://www.pandora.com/
+privacy-policy: https://www.pandora.com/privacy/
+email: pandora-support@pandora.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Pandora Media
 
-Name: Pandora Media
-Domain: pandora.com
-Home: https://www.pandora.com/
-Privacy_policy: https://www.pandora.com/privacy/
-Email: pandora-support@pandora.com
-Member_of: American Advertising Federation
-Member_of: Interactive Advertising Bureau (IAB)
+

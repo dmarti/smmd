@@ -1,6 +1,8 @@
+---
+company-name: "RMM Online Advertising"
+domain: rmmonline.com
+home: http://www.rmmonline.com/
+---
 
-# RMM Online Advertising
 
-Name: RMM Online Advertising
-Domain: rmmonline.com
-Home: http://www.rmmonline.com/
+

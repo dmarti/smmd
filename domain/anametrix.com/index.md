@@ -1,8 +1,10 @@
+---
+company-name: Anametrix
+domain: anametrix.com
+home: http://anametrix.com/
+privacy-policy: http://anametrix.com/privacy/
+email: support@anametrix.com
+---
 
-# Anametrix
 
-Name: Anametrix
-Domain: anametrix.com
-Home: http://anametrix.com/
-Privacy_policy: http://anametrix.com/privacy/
-Email: support@anametrix.com
+

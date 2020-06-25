@@ -1,8 +1,10 @@
+---
+company-name: idealo
+domain: idealo.de
+home: www.idealo.de
+privacy-policy: https://www.idealo.de/preisvergleich/Datenschutz.html
+email: privacy@idealo.de
+---
 
-# idealo
 
-Name: idealo
-Domain: idealo.de
-Home: www.idealo.de
-Privacy_policy: https://www.idealo.de/preisvergleich/Datenschutz.html
-Email: privacy@idealo.de
+

@@ -1,6 +1,8 @@
+---
+company-name: AdForGames
+domain: adforgames.com
+home: http://www.adforgames.com/
+---
 
-# AdForGames
 
-Name: AdForGames
-Domain: adforgames.com
-Home: http://www.adforgames.com/
+

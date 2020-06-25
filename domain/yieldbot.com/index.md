@@ -1,7 +1,9 @@
+---
+company-name: Yieldbot
+domain: yieldbot.com
+home: http://www.yieldbot.com/
+email: privacy@yieldbot.com
+---
 
-# Yieldbot
 
-Name: Yieldbot
-Domain: yieldbot.com
-Home: http://www.yieldbot.com/
-Email: privacy@yieldbot.com
+

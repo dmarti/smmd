@@ -1,8 +1,10 @@
+---
+company-name: Fidzup
+domain: fidzup.com
+home: https://www.fidzup.com
+privacy-policy: https://www.fidzup.com/en/privacy/
+email: pro@fidzup.com
+---
 
-# Fidzup
 
-Name: Fidzup
-Domain: fidzup.com
-Home: https://www.fidzup.com
-Privacy_policy: https://www.fidzup.com/en/privacy/
-Email: pro@fidzup.com
+

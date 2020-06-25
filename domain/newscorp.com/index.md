@@ -1,10 +1,11 @@
+---
+company-name: "News Corporation"
+domain: newscorp.com
+home: https://newscorp.com/
+privacy-policy: https://newscorp.com/privacy-policy/
+email: nc-privacypolicy@newscorp.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# News Corporation
 
-Name: News Corporation
-Domain: newscorp.com
-Home: https://newscorp.com/
-Privacy_policy: https://newscorp.com/privacy-policy/
-Email: nc-privacypolicy@newscorp.com
-Member_of: Digital Content Network(?)
-Member_of: Interactive Advertising Bureau (IAB)
+

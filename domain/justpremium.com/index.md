@@ -1,8 +1,10 @@
+---
+company-name: "Just Premium"
+domain: justpremium.com
+home: http://justpremium.com/
+privacy-policy: http://justpremium.com/privacy-policy/
+email: privacy@JustPremium.com
+---
 
-# Just Premium
 
-Name: Just Premium
-Domain: justpremium.com
-Home: http://justpremium.com/
-Privacy_policy: http://justpremium.com/privacy-policy/
-Email: privacy@JustPremium.com
+

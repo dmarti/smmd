@@ -1,8 +1,10 @@
+---
+company-name: Scoota
+domain: scoota.com
+home: http://scoota.com/home/
+privacy-policy: http://scoota.com/privacy-policy/
+email: info@scoota.com
+---
 
-# Scoota
 
-Name: Scoota
-Domain: scoota.com
-Home: http://scoota.com/home/
-Privacy_policy: http://scoota.com/privacy-policy/
-Email: info@scoota.com
+

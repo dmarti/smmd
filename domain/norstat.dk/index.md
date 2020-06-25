@@ -1,9 +1,11 @@
+---
+company-name: Norstat
+domain: norstat.dk
+home: https://norstat.dk/
+privacy-policy: https://norstat.dk/privacy-policy/
+email: dpo@norstatgroup.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Norstat
 
-Name: Norstat
-Domain: norstat.dk
-Home: https://norstat.dk/
-Privacy_policy: https://norstat.dk/privacy-policy/
-Email: dpo@norstatgroup.com
-Member_of: Interactive Advertising Bureau (IAB)
+

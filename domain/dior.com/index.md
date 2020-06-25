@@ -1,8 +1,10 @@
+---
+company-name: "Christian Dior"
+domain: dior.com
+home: http://www.dior.com/
+privacy-policy: https://www.dior.com/couture/en_int/personal-data
+owned-by: LVMH
+---
 
-# Christian Dior
 
-Name: Christian Dior
-Domain: dior.com
-Home: http://www.dior.com/
-Privacy_policy: https://www.dior.com/couture/en_int/personal-data
-Owned_by: LVMH
+

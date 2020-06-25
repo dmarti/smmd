@@ -1,9 +1,11 @@
+---
+company-name: AWIN
+domain: awin.com
+home: https://www.awin.com/gb
+privacy-policy: https://www.awin.com/gb/legal/privacy-policy-gb
+email: global-privacy@awin.com
+owned-by: "Awin (Affiliate)"
+---
 
-# AWIN
 
-Name: AWIN
-Domain: awin.com
-Home: https://www.awin.com/gb
-Privacy_policy: https://www.awin.com/gb/legal/privacy-policy-gb
-Email: global-privacy@awin.com
-Owned_by: Awin (Affiliate)
+

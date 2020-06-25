@@ -1,8 +1,10 @@
+---
+company-name: Parship
+domain: parship.de
+home: https://www.parship.de/
+privacy-policy: https://www.parship.de/privacypolicy/
+email: datenschutz@parship.de
+---
 
-# Parship
 
-Name: Parship
-Domain: parship.de
-Home: https://www.parship.de/
-Privacy_policy: https://www.parship.de/privacypolicy/
-Email: datenschutz@parship.de
+

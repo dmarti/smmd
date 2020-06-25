@@ -1,9 +1,11 @@
+---
+company-name: Aarki
+domain: aarki.com
+home: http://aarki.com/
+privacy-policy: http://corp.aarki.com/privacy
+email: contact@aarki.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Aarki
 
-Name: Aarki
-Domain: aarki.com
-Home: http://aarki.com/
-Privacy_policy: http://corp.aarki.com/privacy
-Email: contact@aarki.com
-Member_of: Interactive Advertising Bureau (IAB)
+

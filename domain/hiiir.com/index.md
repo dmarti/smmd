@@ -1,7 +1,9 @@
+---
+company-name: Hiiir
+domain: hiiir.com
+home: http://adpower.hiiir.com/
+email: howard@hiiir.com
+---
 
-# Hiiir
 
-Name: Hiiir
-Domain: hiiir.com
-Home: http://adpower.hiiir.com/
-Email: howard@hiiir.com
+

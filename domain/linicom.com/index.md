@@ -1,9 +1,11 @@
+---
+company-name: LiniCom
+domain: linicom.com
+home: https://www.linicom.com/
+privacy-policy: https://www.linicom.com/privacy/
+email: admin@linicom.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# LiniCom
 
-Name: LiniCom
-Domain: linicom.com
-Home: https://www.linicom.com/
-Privacy_policy: https://www.linicom.com/privacy/
-Email: admin@linicom.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,8 +1,10 @@
+---
+company-name: "Arena Media"
+domain: arena-network.com
+home: https://www.arena-network.com/
+email: privacy@havasdigital.com
+owned-by: "Havas Digital"
+---
 
-# Arena Media
 
-Name: Arena Media
-Domain: arena-network.com
-Home: https://www.arena-network.com/
-Email: privacy@havasdigital.com
-Owned_by: Havas Digital
+

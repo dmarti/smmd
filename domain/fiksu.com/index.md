@@ -1,9 +1,11 @@
+---
+company-name: Fiksu
+domain: fiksu.com
+home: https://www.fiksu.com/
+privacy-policy: https://fiksu.com/privacy-policy/
+email: dpo@fiksu.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Fiksu
 
-Name: Fiksu
-Domain: fiksu.com
-Home: https://www.fiksu.com/
-Privacy_policy: https://fiksu.com/privacy-policy/
-Email: dpo@fiksu.com
-Member_of: Interactive Advertising Bureau (IAB)
+

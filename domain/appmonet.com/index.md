@@ -1,8 +1,10 @@
+---
+company-name: "Monet Engine Inc"
+domain: appmonet.com
+home: https://appmonet.com/
+privacy-policy: https://appmonet.com/privacy-policy/
+email: privacy@monetengine.com
+---
 
-# Monet Engine Inc
 
-Name: Monet Engine Inc
-Domain: appmonet.com
-Home: https://appmonet.com/
-Privacy_policy: https://appmonet.com/privacy-policy/
-Email: privacy@monetengine.com
+

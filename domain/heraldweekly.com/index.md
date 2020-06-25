@@ -1,8 +1,10 @@
+---
+company-name: "Herald Weekly"
+domain: heraldweekly.com
+home: http://www.heraldweekly.com/
+privacy-policy: http://www.heraldweekly.com/privacy-policy/?xcmg=1
+email: websites@cortexmg.com
+---
 
-# Herald Weekly
 
-Name: Herald Weekly
-Domain: heraldweekly.com
-Home: http://www.heraldweekly.com/
-Privacy_policy: http://www.heraldweekly.com/privacy-policy/?xcmg=1
-Email: websites@cortexmg.com
+

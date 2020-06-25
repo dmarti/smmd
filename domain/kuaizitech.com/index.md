@@ -1,8 +1,10 @@
+---
+company-name: "Kuaizi Tech"
+domain: kuaizitech.com
+home: http://www.kuaizitech.com/index.html
+privacy-policy: http://www.kuaizitech.com/privacy.html
+email: help@kuaizi.co
+---
 
-# Kuaizi Tech
 
-Name: Kuaizi Tech
-Domain: kuaizitech.com
-Home: http://www.kuaizitech.com/index.html
-Privacy_policy: http://www.kuaizitech.com/privacy.html
-Email: help@kuaizi.co
+

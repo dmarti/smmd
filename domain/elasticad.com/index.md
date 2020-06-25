@@ -1,7 +1,9 @@
+---
+company-name: "Elastic Ad"
+domain: elasticad.com
+home: http://www.elasticad.com
+email: contact@elasticad.com
+---
 
-# Elastic Ad
 
-Name: Elastic Ad
-Domain: elasticad.com
-Home: http://www.elasticad.com
-Email: contact@elasticad.com
+

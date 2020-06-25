@@ -1,8 +1,10 @@
+---
+company-name: Butlers
+domain: butlers.com
+home: https://www.butlers.com
+privacy-policy: https://www.butlers.com/COMPANY_PRIVACY.html
+email: impressum@butlers.com
+---
 
-# Butlers
 
-Name: Butlers
-Domain: butlers.com
-Home: https://www.butlers.com
-Privacy_policy: https://www.butlers.com/COMPANY_PRIVACY.html
-Email: impressum@butlers.com
+

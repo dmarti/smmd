@@ -1,7 +1,9 @@
-# Petco
+---
+company-name: Petco
+domain: oncentrl.com
+opt-out-url: https://dsar.oncentrl.com/petco_rightsrequest.html
+---
 
-Name: Petco
 
-Domain: oncentrl.com
 
-Opt_out_url: https://dsar.oncentrl.com/petco_rightsrequest.html
+

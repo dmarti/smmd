@@ -1,8 +1,10 @@
+---
+company-name: Wove
+domain: wove.com
+home: https://wove.com/
+privacy-policy: https://wove.com/privacy
+email: privacy@wove.com
+---
 
-# Wove
 
-Name: Wove
-Domain: wove.com
-Home: https://wove.com/
-Privacy_policy: https://wove.com/privacy
-Email: privacy@wove.com
+

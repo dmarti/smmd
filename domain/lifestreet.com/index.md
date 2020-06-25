@@ -1,8 +1,10 @@
+---
+company-name: "LifeStreet Media"
+domain: lifestreet.com
+home: https://www.lifestreet.com
+privacy-policy: https://www.lifestreet.com/privacy/
+email: privacy@lifestreet.com
+---
 
-# LifeStreet Media
 
-Name: LifeStreet Media
-Domain: lifestreet.com
-Home: https://www.lifestreet.com
-Privacy_policy: https://www.lifestreet.com/privacy/
-Email: privacy@lifestreet.com
+

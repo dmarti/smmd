@@ -1,7 +1,9 @@
+---
+company-name: Dogstudio
+domain: dogstudio.co
+home: https://www.dogstudio.co
+email: info@dogstudio.be
+---
 
-# Dogstudio
 
-Name: Dogstudio
-Domain: dogstudio.co
-Home: https://www.dogstudio.co
-Email: info@dogstudio.be
+

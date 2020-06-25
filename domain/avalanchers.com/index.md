@@ -1,6 +1,8 @@
+---
+company-name: Avalanchers
+domain: avalanchers.com
+home: http://www.avalanchers.com/
+---
 
-# Avalanchers
 
-Name: Avalanchers
-Domain: avalanchers.com
-Home: http://www.avalanchers.com/
+

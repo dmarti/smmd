@@ -1,8 +1,10 @@
+---
+company-name: Yo
+domain: justyo.co
+home: http://www.justyo.co/
+privacy-policy: http://www.justyo.co/privacy/
+email: contact@justyo.co
+---
 
-# Yo
 
-Name: Yo
-Domain: justyo.co
-Home: http://www.justyo.co/
-Privacy_policy: http://www.justyo.co/privacy/
-Email: contact@justyo.co
+

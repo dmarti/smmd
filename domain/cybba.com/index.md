@@ -1,8 +1,10 @@
+---
+company-name: "Cybba Inc."
+domain: cybba.com
+home: https://www.cybba.com/
+privacy-policy: http://cybba.com/about/legal/
+email: info@cybba.com
+---
 
-# Cybba Inc.
 
-Name: Cybba Inc.
-Domain: cybba.com
-Home: https://www.cybba.com/
-Privacy_policy: http://cybba.com/about/legal/
-Email: info@cybba.com
+

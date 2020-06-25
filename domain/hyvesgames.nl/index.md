@@ -1,9 +1,11 @@
+---
+company-name: Hyves
+domain: hyvesgames.nl
+home: http://hyvesgames.nl/
+privacy-policy: http://corporate.tmg.nl/privacy-verklaring
+email: privacy@tmg.nl
+owned-by: Telegraaf
+---
 
-# Hyves
 
-Name: Hyves
-Domain: hyvesgames.nl
-Home: http://hyvesgames.nl/
-Privacy_policy: http://corporate.tmg.nl/privacy-verklaring
-Email: privacy@tmg.nl
-Owned_by: Telegraaf
+

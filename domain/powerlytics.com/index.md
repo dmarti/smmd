@@ -1,6 +1,8 @@
+---
+company-name: Powerlytics
+domain: powerlytics.com
+home: http://www.powerlytics.com/
+---
 
-# Powerlytics
 
-Name: Powerlytics
-Domain: powerlytics.com
-Home: http://www.powerlytics.com/
+

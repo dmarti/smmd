@@ -1,8 +1,10 @@
+---
+company-name: Brightscout
+domain: brightscout.com
+home: https://www.brightscout.com/
+privacy-policy: https://www.brightscout.com/privacy-policy.html
+email: hello@brightscout.com
+---
 
-# Brightscout
 
-Name: Brightscout
-Domain: brightscout.com
-Home: https://www.brightscout.com/
-Privacy_policy: https://www.brightscout.com/privacy-policy.html
-Email: hello@brightscout.com
+

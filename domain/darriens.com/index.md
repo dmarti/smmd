@@ -1,8 +1,10 @@
+---
+company-name: Darriens
+domain: darriens.com
+home: http://darriens.com
+privacy-policy: http://darriens.com/privacy/index.php
+email: privacy@darriens.com
+---
 
-# Darriens
 
-Name: Darriens
-Domain: darriens.com
-Home: http://darriens.com
-Privacy_policy: http://darriens.com/privacy/index.php
-Email: privacy@darriens.com
+

@@ -1,9 +1,11 @@
+---
+company-name: ProxiStore
+domain: proxistore.com
+home: https://www.proxistore.com/index
+privacy-policy: https://www.proxistore.com/common/fr/privacy
+email: info@proxistore.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# ProxiStore
 
-Name: ProxiStore
-Domain: proxistore.com
-Home: https://www.proxistore.com/index
-Privacy_policy: https://www.proxistore.com/common/fr/privacy
-Email: info@proxistore.com
-Member_of: Interactive Advertising Bureau (IAB)
+

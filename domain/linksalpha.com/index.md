@@ -1,7 +1,9 @@
+---
+company-name: LinksAlpha
+domain: linksalpha.com
+home: http://www.linksalpha.com
+email: privacy@linksalpha.com
+---
 
-# LinksAlpha
 
-Name: LinksAlpha
-Domain: linksalpha.com
-Home: http://www.linksalpha.com
-Email: privacy@linksalpha.com
+

@@ -1,7 +1,9 @@
+---
+company-name: Ehavior
+domain: ehavior.net
+home: http://ehavior.net
+privacy-policy: http://ehavior.net/terms-and-conditions/
+---
 
-# Ehavior
 
-Name: Ehavior
-Domain: ehavior.net
-Home: http://ehavior.net
-Privacy_policy: http://ehavior.net/terms-and-conditions/
+

@@ -1,7 +1,9 @@
+---
+company-name: MeaningTool
+domain: meaningtool.com
+home: http://www.meaningtool.com/
+email: contact@meaningtool.com
+---
 
-# MeaningTool
 
-Name: MeaningTool
-Domain: meaningtool.com
-Home: http://www.meaningtool.com/
-Email: contact@meaningtool.com
+

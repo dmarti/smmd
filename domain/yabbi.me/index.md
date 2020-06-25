@@ -1,7 +1,9 @@
+---
+company-name: Yabbi
+domain: yabbi.me
+home: http://yabbi.me/
+privacy-policy: http://yabbi.me/#popup-privacy
+---
 
-# Yabbi
 
-Name: Yabbi
-Domain: yabbi.me
-Home: http://yabbi.me/
-Privacy_policy: http://yabbi.me/#popup-privacy
+

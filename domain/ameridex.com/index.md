@@ -1,21 +1,11 @@
-
-# Ameridex
-
-Name: Ameridex
-
-Domain: ameridex.com
-
-Home: http://ameridex.com/
-
-Email: info@ameridex.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: Ameridex
+domain: ameridex.com
+home: http://ameridex.com/
+email: info@ameridex.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +13,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,8 +1,10 @@
+---
+company-name: ClickCertain
+domain: clickcertain.com
+home: http://www.clickcertain.com
+privacy-policy: http://www.clickcertain.com/platform-privacy/
+email: privacy@clickcertain.com
+---
 
-# ClickCertain
 
-Name: ClickCertain
-Domain: clickcertain.com
-Home: http://www.clickcertain.com
-Privacy_policy: http://www.clickcertain.com/platform-privacy/
-Email: privacy@clickcertain.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "Open Share Count"
+domain: opensharecount.com
+home: https://opensharecount.com/
+privacy-policy: http://
+---
 
-# Open Share Count
 
-Name: Open Share Count
-Domain: opensharecount.com
-Home: https://opensharecount.com/
-Privacy_policy: http://
+

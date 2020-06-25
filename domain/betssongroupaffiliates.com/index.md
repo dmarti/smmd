@@ -1,6 +1,8 @@
+---
+company-name: "Betsson Group Affiliates"
+domain: betssongroupaffiliates.com
+home: http://www.betssongroupaffiliates.com/
+---
 
-# Betsson Group Affiliates
 
-Name: Betsson Group Affiliates
-Domain: betssongroupaffiliates.com
-Home: http://www.betssongroupaffiliates.com/
+

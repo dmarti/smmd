@@ -1,8 +1,10 @@
+---
+company-name: Netzeffekt
+domain: netzeffekt.de
+home: https://www.netzeffekt.de
+privacy-policy: https://www.netzeffekt.de/en/privacy-policy
+email: datenschutz@netzeffekt.de
+---
 
-# Netzeffekt
 
-Name: Netzeffekt
-Domain: netzeffekt.de
-Home: https://www.netzeffekt.de
-Privacy_policy: https://www.netzeffekt.de/en/privacy-policy
-Email: datenschutz@netzeffekt.de
+

@@ -1,7 +1,9 @@
+---
+company-name: Pelmorex
+domain: pelmorex.com
+home: https://www.pelmorex.com/en/
+privacy-policy: https://www.theweathernetwork.com/about-us/privacy-policy
+---
 
-# Pelmorex
 
-Name: Pelmorex
-Domain: pelmorex.com
-Home: https://www.pelmorex.com/en/
-Privacy_policy: https://www.theweathernetwork.com/about-us/privacy-policy
+

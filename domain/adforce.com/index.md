@@ -1,7 +1,9 @@
+---
+company-name: Adforce
+domain: adforce.com
+home: http://adforce.com/
+email: info@adforce.com
+---
 
-# Adforce
 
-Name: Adforce
-Domain: adforce.com
-Home: http://adforce.com/
-Email: info@adforce.com
+

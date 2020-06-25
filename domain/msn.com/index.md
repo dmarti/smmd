@@ -1,11 +1,11 @@
+---
+company-name: "MSN (Microsoft)"
+domain: msn.com
+home: http://www.msn.com
+privacy-policy: https://privacy.microsoft.com/en-us/privacystatement/
+owned-by: Microsoft
+member-of: TrustE_TrustArc
+---
 
-# MSN (Microsoft)
 
-Name: MSN (Microsoft)
-Domain: msn.com
-Home: http://www.msn.com
-Privacy_policy: https://privacy.microsoft.com/en-us/privacystatement/
-Owned_by: Microsoft
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: TrustE_TrustArc
+

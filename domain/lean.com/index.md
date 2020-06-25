@@ -1,6 +1,8 @@
+---
+company-name: LeanMarket
+domain: lean.com
+home: http://www.lean.com/
+---
 
-# LeanMarket
 
-Name: LeanMarket
-Domain: lean.com
-Home: http://www.lean.com/
+

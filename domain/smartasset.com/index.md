@@ -1,8 +1,10 @@
+---
+company-name: Smartasset
+domain: smartasset.com
+home: https://smartasset.com
+privacy-policy: https://smartasset.com/privacy
+email: info@smartasset.com
+---
 
-# Smartasset
 
-Name: Smartasset
-Domain: smartasset.com
-Home: https://smartasset.com
-Privacy_policy: https://smartasset.com/privacy
-Email: info@smartasset.com
+

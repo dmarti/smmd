@@ -1,8 +1,10 @@
+---
+company-name: Zucks
+domain: zucks.co.jp
+home: https://zucks.co.jp/en/
+privacy-policy: https://zucks.co.jp/privacy/
+email: Zucks_privacy@voyagegroup.info
+---
 
-# Zucks
 
-Name: Zucks
-Domain: zucks.co.jp
-Home: https://zucks.co.jp/en/
-Privacy_policy: https://zucks.co.jp/privacy/
-Email: Zucks_privacy@voyagegroup.info
+

@@ -1,6 +1,8 @@
+---
+company-name: eClick
+domain: eclick.vn
+home: http://eclick.vn
+---
 
-# eClick
 
-Name: eClick
-Domain: eclick.vn
-Home: http://eclick.vn
+

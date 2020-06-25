@@ -1,8 +1,10 @@
+---
+company-name: 12Mnkys
+domain: 12mnkys.com
+home: http://www.12mnkys.com/
+privacy-policy: http://www.12mnkys.com/datenschutz.html
+email: datenschutz@12mnkys.com
+---
 
-# 12Mnkys
 
-Name: 12Mnkys
-Domain: 12mnkys.com
-Home: http://www.12mnkys.com/
-Privacy_policy: http://www.12mnkys.com/datenschutz.html
-Email: datenschutz@12mnkys.com
+

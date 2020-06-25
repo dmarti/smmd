@@ -1,9 +1,11 @@
+---
+company-name: "Intense Debate"
+domain: intensedebate.com
+home: http://intensedebate.com/
+privacy-policy: https://automattic.com/privacy/
+email: support@intensedebate.com
+owned-by: Automattic
+---
 
-# Intense Debate
 
-Name: Intense Debate
-Domain: intensedebate.com
-Home: http://intensedebate.com/
-Privacy_policy: https://automattic.com/privacy/
-Email: support@intensedebate.com
-Owned_by: Automattic
+

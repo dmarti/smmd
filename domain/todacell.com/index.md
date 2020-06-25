@@ -1,7 +1,9 @@
+---
+company-name: Todacell
+domain: todacell.com
+home: http://www.todacell.com/
+email: nyc@todacell.com
+---
 
-# Todacell
 
-Name: Todacell
-Domain: todacell.com
-Home: http://www.todacell.com/
-Email: nyc@todacell.com
+

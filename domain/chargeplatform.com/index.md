@@ -1,8 +1,10 @@
+---
+company-name: ChargeAds
+domain: chargeplatform.com
+home: http://www.chargeplatform.com/
+privacy-policy: http://www.chargeplatform.com/privacy/
+email: privacy@chargeads.com
+---
 
-# ChargeAds
 
-Name: ChargeAds
-Domain: chargeplatform.com
-Home: http://www.chargeplatform.com/
-Privacy_policy: http://www.chargeplatform.com/privacy/
-Email: privacy@chargeads.com
+

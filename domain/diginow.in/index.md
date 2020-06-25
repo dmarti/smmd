@@ -1,7 +1,9 @@
+---
+company-name: DigiNow
+domain: diginow.in
+home: http://www.diginow.in/
+privacy-policy: http://
+---
 
-# DigiNow
 
-Name: DigiNow
-Domain: diginow.in
-Home: http://www.diginow.in/
-Privacy_policy: http://
+

@@ -1,7 +1,9 @@
+---
+company-name: Scigineer
+domain: scigineer.co.jp
+home: https://www.scigineer.co.jp/
+privacy-policy: https://www.scigineer.co.jp/privacy/
+---
 
-# Scigineer
 
-Name: Scigineer
-Domain: scigineer.co.jp
-Home: https://www.scigineer.co.jp/
-Privacy_policy: https://www.scigineer.co.jp/privacy/
+

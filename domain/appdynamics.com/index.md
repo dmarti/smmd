@@ -1,8 +1,10 @@
+---
+company-name: AppDynamics
+domain: appdynamics.com
+home: http://www.appdynamics.com
+privacy-policy: http://www.appdynamics.com/privacy-policy
+email: privacy@appdynamics.com
+---
 
-# AppDynamics
 
-Name: AppDynamics
-Domain: appdynamics.com
-Home: http://www.appdynamics.com
-Privacy_policy: http://www.appdynamics.com/privacy-policy
-Email: privacy@appdynamics.com
+

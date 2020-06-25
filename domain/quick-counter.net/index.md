@@ -1,6 +1,8 @@
+---
+company-name: Quick-counter.net
+domain: quick-counter.net
+home: http://www.quick-counter.net/
+---
 
-# Quick-counter.net
 
-Name: Quick-counter.net
-Domain: quick-counter.net
-Home: http://www.quick-counter.net/
+

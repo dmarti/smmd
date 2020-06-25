@@ -1,9 +1,11 @@
+---
+company-name: Reactivpub
+domain: reactivpub.com
+home: http://www.reactivpub.com/
+privacy-policy: http://www.reactivpub.com/en/privacy-policy/
+email: contact@reactivpub.com
+owned-by: R-Advertising
+---
 
-# Reactivpub
 
-Name: Reactivpub
-Domain: reactivpub.com
-Home: http://www.reactivpub.com/
-Privacy_policy: http://www.reactivpub.com/en/privacy-policy/
-Email: contact@reactivpub.com
-Owned_by: R-Advertising
+

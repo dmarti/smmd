@@ -1,7 +1,9 @@
+---
+company-name: "Bebi Media"
+domain: bebi.com
+home: http://www.bebi.com
+email: contactus@bebi.com
+---
 
-# Bebi Media
 
-Name: Bebi Media
-Domain: bebi.com
-Home: http://www.bebi.com
-Email: contactus@bebi.com
+

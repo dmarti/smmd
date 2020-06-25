@@ -1,7 +1,9 @@
+---
+company-name: "Chin Media"
+domain: chinmedia.vn
+home: http://www.chinmedia.vn/#
+email: ky@chinmedia.vn
+---
 
-# Chin Media
 
-Name: Chin Media
-Domain: chinmedia.vn
-Home: http://www.chinmedia.vn/#
-Email: ky@chinmedia.vn
+

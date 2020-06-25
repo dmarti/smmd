@@ -1,6 +1,8 @@
+---
+company-name: KlikSaya
+domain: kliksaya.com
+home: http://www.kliksaya.com
+---
 
-# KlikSaya
 
-Name: KlikSaya
-Domain: kliksaya.com
-Home: http://www.kliksaya.com
+

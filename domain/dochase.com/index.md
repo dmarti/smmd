@@ -1,8 +1,10 @@
+---
+company-name: DoChase
+domain: dochase.com
+home: http://dochase.com/
+privacy-policy: http://dochase.com/privacy.html
+email: info@dochase.com
+---
 
-# DoChase
 
-Name: DoChase
-Domain: dochase.com
-Home: http://dochase.com/
-Privacy_policy: http://dochase.com/privacy.html
-Email: info@dochase.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "JDX Forms Land Rover"
+domain: landrover.com
+home: https://jdxforms.landrover.com/
+privacy-policy: http://
+---
 
-# JDX Forms Land Rover
 
-Name: JDX Forms Land Rover
-Domain: landrover.com
-Home: https://jdxforms.landrover.com/
-Privacy_policy: http://
+

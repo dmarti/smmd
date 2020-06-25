@@ -1,8 +1,10 @@
+---
+company-name: Informa
+domain: informa.com
+home: https://informa.com/
+privacy-policy: https://informa.com/generic-content/privacy-policy/
+email: compliance.officer@informa.com
+---
 
-# Informa
 
-Name: Informa
-Domain: informa.com
-Home: https://informa.com/
-Privacy_policy: https://informa.com/generic-content/privacy-policy/
-Email: compliance.officer@informa.com
+

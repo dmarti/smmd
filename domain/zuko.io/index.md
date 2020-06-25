@@ -1,8 +1,10 @@
+---
+company-name: Zuko
+domain: zuko.io
+home: https://www.zuko.io/
+privacy-policy: https://www.zuko.io/privacy-policy
+email: DPO@wearehy.com
+---
 
-# Zuko
 
-Name: Zuko
-Domain: zuko.io
-Home: https://www.zuko.io/
-Privacy_policy: https://www.zuko.io/privacy-policy
-Email: DPO@wearehy.com
+

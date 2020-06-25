@@ -1,9 +1,11 @@
+---
+company-name: MOBALYZER
+domain: mobalyzer.net
+home: http://mobalyzer.net/
+privacy-policy: http://www.mfro.net/privacy/
+email: info@mfro.net
+owned-by: "Mfro (Emufuro Corporation)"
+---
 
-# MOBALYZER
 
-Name: MOBALYZER
-Domain: mobalyzer.net
-Home: http://mobalyzer.net/
-Privacy_policy: http://www.mfro.net/privacy/
-Email: info@mfro.net
-Owned_by: Mfro (Emufuro Corporation)
+

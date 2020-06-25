@@ -1,8 +1,10 @@
+---
+company-name: "AMP Media"
+domain: grupaampmedia.com
+home: http://www.grupaampmedia.com/
+privacy-policy: http://www.grupaampmedia.com/privacy-policy/
+email: office@grupaampmedia.com
+---
 
-# AMP Media
 
-Name: AMP Media
-Domain: grupaampmedia.com
-Home: http://www.grupaampmedia.com/
-Privacy_policy: http://www.grupaampmedia.com/privacy-policy/
-Email: office@grupaampmedia.com
+

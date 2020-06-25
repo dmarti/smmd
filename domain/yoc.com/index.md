@@ -1,9 +1,11 @@
+---
+company-name: "YOC Group"
+domain: yoc.com
+home: https://yoc.com/
+privacy-policy: https://yoc.com/privacy/
+email: info@yoc.de
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# YOC Group
 
-Name: YOC Group
-Domain: yoc.com
-Home: https://yoc.com/
-Privacy_policy: https://yoc.com/privacy/
-Email: info@yoc.de
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

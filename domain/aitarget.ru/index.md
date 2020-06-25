@@ -1,8 +1,10 @@
+---
+company-name: aitarget
+domain: aitarget.ru
+home: http://aitarget.ru/
+privacy-policy: http://aitarget.ru/docs/aitarget-service-policy.pdf
+email: info@aitarget.ru
+---
 
-# aitarget
 
-Name: aitarget
-Domain: aitarget.ru
-Home: http://aitarget.ru/
-Privacy_policy: http://aitarget.ru/docs/aitarget-service-policy.pdf
-Email: info@aitarget.ru
+

@@ -1,8 +1,10 @@
+---
+company-name: adagnit.io
+domain: adagnit.io
+home: http://adagnit.io/
+privacy-policy: http://adagnit.io/privacy-policy/
+email: business@epic.com.bo
+---
 
-# adagnit.io
 
-Name: adagnit.io
-Domain: adagnit.io
-Home: http://adagnit.io/
-Privacy_policy: http://adagnit.io/privacy-policy/
-Email: business@epic.com.bo
+

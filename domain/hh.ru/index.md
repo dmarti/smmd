@@ -1,8 +1,10 @@
+---
+company-name: "Head Hunter"
+domain: hh.ru
+home: https://hh.ru/
+privacy-policy: https://hh.ru/article/personal_data
+email: feedback@hh.ru
+---
 
-# Head Hunter
 
-Name: Head Hunter
-Domain: hh.ru
-Home: https://hh.ru/
-Privacy_policy: https://hh.ru/article/personal_data
-Email: feedback@hh.ru
+

@@ -1,7 +1,9 @@
+---
+company-name: WebSTAT
+domain: webstat.com
+home: http://www.webstat.com/
+privacy-policy: http://www.webstat.com/tpl_privacy.php
+---
 
-# WebSTAT
 
-Name: WebSTAT
-Domain: webstat.com
-Home: http://www.webstat.com/
-Privacy_policy: http://www.webstat.com/tpl_privacy.php
+

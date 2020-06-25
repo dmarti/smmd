@@ -1,7 +1,9 @@
+---
+company-name: Aubert
+domain: aubert.com
+home: https://www.aubert.com/
+privacy-policy: https://www.aubert.com/mentions-legales.html
+---
 
-# Aubert
 
-Name: Aubert
-Domain: aubert.com
-Home: https://www.aubert.com/
-Privacy_policy: https://www.aubert.com/mentions-legales.html
+

@@ -1,8 +1,10 @@
+---
+company-name: Fontdeck
+domain: fontdeck.com
+home: http://fontdeck.com/
+privacy-policy: http://fontdeck.com/privacy
+email: support@fontdeck.com
+---
 
-# Fontdeck
 
-Name: Fontdeck
-Domain: fontdeck.com
-Home: http://fontdeck.com/
-Privacy_policy: http://fontdeck.com/privacy
-Email: support@fontdeck.com
+

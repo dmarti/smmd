@@ -1,7 +1,9 @@
+---
+company-name: "Sponge Group"
+domain: spongegroup.com
+home: http://www.spongegroup.com/
+email: enquiries@spongegroup.com
+---
 
-# Sponge Group
 
-Name: Sponge Group
-Domain: spongegroup.com
-Home: http://www.spongegroup.com/
-Email: enquiries@spongegroup.com
+

@@ -1,6 +1,8 @@
+---
+company-name: ViviStats
+domain: vivistats.com
+home: http://en.vivistats.com/
+---
 
-# ViviStats
 
-Name: ViviStats
-Domain: vivistats.com
-Home: http://en.vivistats.com/
+

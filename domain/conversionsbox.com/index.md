@@ -1,7 +1,9 @@
+---
+company-name: "Conversions Box"
+domain: conversionsbox.com
+home: http://www.conversionsbox.com/
+email: davis@conversionsbox.com
+---
 
-# Conversions Box
 
-Name: Conversions Box
-Domain: conversionsbox.com
-Home: http://www.conversionsbox.com/
-Email: davis@conversionsbox.com
+

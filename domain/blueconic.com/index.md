@@ -1,8 +1,10 @@
+---
+company-name: BlueConic
+domain: blueconic.com
+home: https://www.blueconic.com/
+privacy-policy: https://www.blueconic.com/privacy-policy/
+email: info@blueconic.com
+---
 
-# BlueConic
 
-Name: BlueConic
-Domain: blueconic.com
-Home: https://www.blueconic.com/
-Privacy_policy: https://www.blueconic.com/privacy-policy/
-Email: info@blueconic.com
+

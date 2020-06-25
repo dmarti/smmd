@@ -1,8 +1,10 @@
+---
+company-name: AVANSER
+domain: avanser.com.au
+home: http://www.avanser.com.au/
+privacy-policy: http://www.avanser.com.au/privacy-policy/
+email: privacy@avanser.com.au
+---
 
-# AVANSER
 
-Name: AVANSER
-Domain: avanser.com.au
-Home: http://www.avanser.com.au/
-Privacy_policy: http://www.avanser.com.au/privacy-policy/
-Email: privacy@avanser.com.au
+

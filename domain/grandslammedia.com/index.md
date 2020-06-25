@@ -1,7 +1,9 @@
+---
+company-name: "Grand Slam Media"
+domain: grandslammedia.com
+home: http://www.grandslammedia.com/
+email: support@grandslammedia.com
+---
 
-# Grand Slam Media
 
-Name: Grand Slam Media
-Domain: grandslammedia.com
-Home: http://www.grandslammedia.com/
-Email: support@grandslammedia.com
+

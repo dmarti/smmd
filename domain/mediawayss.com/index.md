@@ -1,8 +1,10 @@
+---
+company-name: "MediaWayss Ad Tech"
+domain: mediawayss.com
+home: https://mediawayss.com
+privacy-policy: https://mediawayss.com/en/privacy-policy/
+email: ad@mediawayss.com
+---
 
-# MediaWayss Ad Tech
 
-Name: MediaWayss Ad Tech
-Domain: mediawayss.com
-Home: https://mediawayss.com
-Privacy_policy: https://mediawayss.com/en/privacy-policy/
-Email: ad@mediawayss.com
+

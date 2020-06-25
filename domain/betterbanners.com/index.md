@@ -1,8 +1,10 @@
+---
+company-name: "Better Banners"
+domain: betterbanners.com
+home: https://betterbanners.com/
+privacy-policy: https://betterbanners.com/privat
+email: support@betterbanners.com
+---
 
-# Better Banners 
 
-Name: Better Banners 
-Domain: betterbanners.com
-Home: https://betterbanners.com/
-Privacy_policy: https://betterbanners.com/privat
-Email: support@betterbanners.com
+

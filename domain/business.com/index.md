@@ -1,23 +1,11 @@
-
-# Business.com
-
-Name: Business.com
-
-Domain: business.com
-
-Home: www.business.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 367051
-
-
-
+---
+company-name: Business.com
+domain: business.com
+home: www.business.com
+vermont-id: 367051
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 367051
 
 
 
+
 ## Additional info
 
 
 
+
 200 Fifth Avenue, Second Floor, Waltham, MA, 02451, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

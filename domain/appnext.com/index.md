@@ -1,8 +1,10 @@
+---
+company-name: Appnext
+domain: appnext.com
+home: http://www.appnext.com/
+privacy-policy: http://www.appnext.com/policy/
+email: support@appnext.com
+---
 
-# Appnext
 
-Name: Appnext
-Domain: appnext.com
-Home: http://www.appnext.com/
-Privacy_policy: http://www.appnext.com/policy/
-Email: support@appnext.com
+

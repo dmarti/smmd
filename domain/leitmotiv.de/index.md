@@ -1,7 +1,9 @@
+---
+company-name: Leitmotiv
+domain: leitmotiv.de
+home: http://leitmotiv.de/
+email: info@leitmotiv.de
+---
 
-# Leitmotiv
 
-Name: Leitmotiv
-Domain: leitmotiv.de
-Home: http://leitmotiv.de/
-Email: info@leitmotiv.de
+

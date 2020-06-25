@@ -1,8 +1,10 @@
+---
+company-name: Leadsius
+domain: leadsius.com
+home: http://www.leadsius.com/
+privacy-policy: https://leadsius.com/privacy-policy/
+email: info@leadsius.com
+---
 
-# Leadsius
 
-Name: Leadsius
-Domain: leadsius.com
-Home: http://www.leadsius.com/
-Privacy_policy: https://leadsius.com/privacy-policy/
-Email: info@leadsius.com
+

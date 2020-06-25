@@ -1,10 +1,12 @@
+---
+company-name: AD-X
+domain: adxtracking.com
+home: http://adxtracking.com/
+privacy-policy: http://www.criteo.com/privacy/
+email: info@adxtracking.com
+owned-by: Criteo
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# AD-X
 
-Name: AD-X
-Domain: adxtracking.com
-Home: http://adxtracking.com/
-Privacy_policy: http://www.criteo.com/privacy/
-Email: info@adxtracking.com
-Owned_by: Criteo
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

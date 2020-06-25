@@ -1,7 +1,9 @@
+---
+company-name: "OpenStax CNX"
+domain: cnx.org
+home: https://cnx.org/
+email: cnx@cnx.org
+---
 
-# OpenStax CNX
 
-Name: OpenStax CNX
-Domain: cnx.org
-Home: https://cnx.org/
-Email: cnx@cnx.org
+

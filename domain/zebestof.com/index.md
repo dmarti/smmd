@@ -1,9 +1,11 @@
+---
+company-name: "ZBO Média (previously known ZeBestOf)"
+domain: zebestof.com
+home: http://www.zebestof.com/
+privacy-policy: http://www.zebestof.com/en/about-us-2/privacy-respect/
+email: dpo@zebestof.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# ZBO Média (previously known ZeBestOf)
 
-Name: ZBO Média (previously known ZeBestOf)
-Domain: zebestof.com
-Home: http://www.zebestof.com/
-Privacy_policy: http://www.zebestof.com/en/about-us-2/privacy-respect/
-Email: dpo@zebestof.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,6 +1,8 @@
+---
+company-name: "Coin Traffic"
+domain: cointraffic.io
+home: https://cointraffic.io/
+---
 
-# Coin Traffic
 
-Name: Coin Traffic
-Domain: cointraffic.io
-Home: https://cointraffic.io/
+

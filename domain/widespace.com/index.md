@@ -1,8 +1,10 @@
+---
+company-name: Widespace
+domain: widespace.com
+home: http://www.widespace.com
+privacy-policy: https://www.widespace.com/legal/privacy-policy-notice/
+email: info@widespace.com
+---
 
-# Widespace
 
-Name: Widespace
-Domain: widespace.com
-Home: http://www.widespace.com
-Privacy_policy: https://www.widespace.com/legal/privacy-policy-notice/
-Email: info@widespace.com
+

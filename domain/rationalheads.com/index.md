@@ -1,6 +1,8 @@
+---
+company-name: RationalHeads
+domain: rationalheads.com
+home: http://www.rationalheads.com
+---
 
-# RationalHeads
 
-Name: RationalHeads
-Domain: rationalheads.com
-Home: http://www.rationalheads.com
+

@@ -1,9 +1,10 @@
+---
+company-name: "Marin Software"
+domain: marinsoftware.com
+home: http://www.marinsoftware.com/
+email: info@marinsoftware.com
+member-of: "Network Advertising Initiative"
+---
 
-# Marin Software
 
-Name: Marin Software
-Domain: marinsoftware.com
-Home: http://www.marinsoftware.com/
-Email: info@marinsoftware.com
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

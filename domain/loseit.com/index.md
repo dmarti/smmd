@@ -1,7 +1,9 @@
-# LoseIt
+---
+company-name: LoseIt
+domain: loseit.com
+opt-out-url: https://loseit.com/privacy/
+---
 
-Name: LoseIt
 
-Domain: loseit.com
 
-Opt_out_url: https://loseit.com/privacy/
+

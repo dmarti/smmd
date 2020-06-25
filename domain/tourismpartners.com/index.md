@@ -1,8 +1,10 @@
+---
+company-name: "Ontario Tourism Marketing Partnership Corporation (OTMPC)"
+domain: tourismpartners.com
+home: https://www.tourismpartners.com
+privacy-policy: https://www.tourismpartners.com/en/info/privacy
+email: info@tourismpartners.com
+---
 
-# Ontario Tourism Marketing Partnership Corporation (OTMPC)
 
-Name: Ontario Tourism Marketing Partnership Corporation (OTMPC)
-Domain: tourismpartners.com
-Home: https://www.tourismpartners.com
-Privacy_policy: https://www.tourismpartners.com/en/info/privacy
-Email: info@tourismpartners.com
+

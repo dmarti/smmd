@@ -1,8 +1,10 @@
+---
+company-name: Promodity
+domain: promodity.com
+home: http://www.promodity.com/
+privacy-policy: http://www.promodity.com/promoditys-privacy-policy/
+email: info@promodity.com
+---
 
-# Promodity
 
-Name: Promodity
-Domain: promodity.com
-Home: http://www.promodity.com/
-Privacy_policy: http://www.promodity.com/promoditys-privacy-policy/
-Email: info@promodity.com
+

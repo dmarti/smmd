@@ -1,8 +1,10 @@
+---
+company-name: Stripe
+domain: stripe.com
+home: https://stripe.com/
+privacy-policy: https://stripe.com/us/privacy
+email: dpo@stripe.com
+---
 
-# Stripe
 
-Name: Stripe
-Domain: stripe.com
-Home: https://stripe.com/
-Privacy_policy: https://stripe.com/us/privacy
-Email: dpo@stripe.com
+

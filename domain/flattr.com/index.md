@@ -1,7 +1,9 @@
+---
+company-name: Flattr
+domain: flattr.com
+home: https://flattr.com/
+privacy-policy: https://flattr.com/privacy
+---
 
-# Flattr
 
-Name: Flattr
-Domain: flattr.com
-Home: https://flattr.com/
-Privacy_policy: https://flattr.com/privacy
+

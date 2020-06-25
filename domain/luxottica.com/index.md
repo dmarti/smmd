@@ -1,10 +1,11 @@
+---
+company-name: Luxottica
+domain: luxottica.com
+home: http://luxottica.com/en/
+privacy-policy: http://www.luxottica.com/en/privacy-statement
+email: privacy@luxottica.com
+member-of: "Digital Advertising Alliance"
+---
 
-# Luxottica
 
-Name: Luxottica
-Domain: luxottica.com
-Home: http://luxottica.com/en/
-Privacy_policy: http://www.luxottica.com/en/privacy-statement
-Email: privacy@luxottica.com
-Member_of: Association of National Advertisers
-Member_of: Digital Advertising Alliance
+

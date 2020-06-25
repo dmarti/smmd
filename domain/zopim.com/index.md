@@ -1,9 +1,11 @@
+---
+company-name: Zopim
+domain: zopim.com
+home: http://www.zopim.com/
+privacy-policy: https://www.zendesk.com/company/privacy/
+email: support@zopim.com
+owned-by: Zendesk
+---
 
-# Zopim
 
-Name: Zopim
-Domain: zopim.com
-Home: http://www.zopim.com/
-Privacy_policy: https://www.zendesk.com/company/privacy/
-Email: support@zopim.com
-Owned_by: Zendesk
+

@@ -1,6 +1,8 @@
+---
+company-name: "Sony Corporation"
+domain: sony.com
+home: http://www.sony.com/
+---
 
-# Sony Corporation
 
-Name: Sony Corporation
-Domain: sony.com
-Home: http://www.sony.com/
+

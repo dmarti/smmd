@@ -1,8 +1,10 @@
+---
+company-name: stat4u
+domain: 4u.pl
+home: http://www.stat.4u.pl/index.html
+privacy-policy: http://stat.4u.pl/polityka.html
+email: stat@4u.pl
+---
 
-# stat4u
 
-Name: stat4u
-Domain: 4u.pl
-Home: http://www.stat.4u.pl/index.html
-Privacy_policy: http://stat.4u.pl/polityka.html
-Email: stat@4u.pl
+

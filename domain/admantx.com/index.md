@@ -1,9 +1,11 @@
+---
+company-name: ADMantx
+domain: admantx.com
+home: http://www.admantx.com/
+privacy-policy: http://www.admantx.com/privacy/
+email: privacy@admantx.com
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# ADMantx
 
-Name: ADMantx
-Domain: admantx.com
-Home: http://www.admantx.com/
-Privacy_policy: http://www.admantx.com/privacy/
-Email: privacy@admantx.com
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

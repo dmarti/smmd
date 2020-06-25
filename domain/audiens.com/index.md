@@ -1,9 +1,11 @@
+---
+company-name: Audiens
+domain: audiens.com
+home: http://www.audiens.com/
+privacy-policy: http://www.audiens.com/privacy
+email: privacy@audiens.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Audiens
 
-Name: Audiens
-Domain: audiens.com
-Home: http://www.audiens.com/
-Privacy_policy: http://www.audiens.com/privacy
-Email: privacy@audiens.com
-Member_of: Interactive Advertising Bureau (IAB)
+

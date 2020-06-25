@@ -1,9 +1,11 @@
+---
+company-name: Jet.com
+domain: jet.com
+home: https://jet.com/
+privacy-policy: https://jet.com/privacy-notice
+email: privacy@jet.com
+owned-by: Walmart
+---
 
-# Jet.com
 
-Name: Jet.com
-Domain: jet.com
-Home: https://jet.com/
-Privacy_policy: https://jet.com/privacy-notice
-Email: privacy@jet.com
-Owned_by: Walmart
+

@@ -1,9 +1,11 @@
+---
+company-name: SheKnows
+domain: sheknows.com
+home: http://www.sheknows.com/
+privacy-policy: http://www.sheknows.com/privacy-policy
+email: legal@sheknows.com
+member-of: "Digital Advertising Alliance"
+---
 
-# SheKnows
 
-Name: SheKnows
-Domain: sheknows.com
-Home: http://www.sheknows.com/
-Privacy_policy: http://www.sheknows.com/privacy-policy
-Email: legal@sheknows.com
-Member_of: Digital Advertising Alliance
+

@@ -1,7 +1,9 @@
+---
+company-name: ClarityRay
+domain: clarityray.com
+home: http://clarityray.com/
+email: contact@clarityray.com
+---
 
-# ClarityRay
 
-Name: ClarityRay
-Domain: clarityray.com
-Home: http://clarityray.com/
-Email: contact@clarityray.com
+

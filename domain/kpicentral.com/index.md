@@ -1,7 +1,9 @@
+---
+company-name: "Kaleidoscope Promotions"
+domain: kpicentral.com
+home: http://www.kpicentral.com/
+email: questions@kpicentral.com
+---
 
-# Kaleidoscope Promotions
 
-Name: Kaleidoscope Promotions
-Domain: kpicentral.com
-Home: http://www.kpicentral.com/
-Email: questions@kpicentral.com
+

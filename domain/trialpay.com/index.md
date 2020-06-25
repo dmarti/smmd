@@ -1,8 +1,10 @@
+---
+company-name: TrialPay
+domain: trialpay.com
+home: https://www.trialpay.com/
+privacy-policy: https://www.trialpay.com/legal/privacy-policy/
+email: privacy-question@trialpay.com
+---
 
-# TrialPay
 
-Name: TrialPay
-Domain: trialpay.com
-Home: https://www.trialpay.com/
-Privacy_policy: https://www.trialpay.com/legal/privacy-policy/
-Email: privacy-question@trialpay.com
+

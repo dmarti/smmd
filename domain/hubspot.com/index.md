@@ -1,8 +1,10 @@
+---
+company-name: Hubspot
+domain: hubspot.com
+home: http://www.hubspot.com/
+privacy-policy: http://legal.hubspot.com/privacy-policy
+email: privacy@hubspot.com
+---
 
-# Hubspot
 
-Name: Hubspot
-Domain: hubspot.com
-Home: http://www.hubspot.com/
-Privacy_policy: http://legal.hubspot.com/privacy-policy
-Email: privacy@hubspot.com
+

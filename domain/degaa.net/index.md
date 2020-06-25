@@ -1,7 +1,9 @@
+---
+company-name: "Degaa Analytics"
+domain: degaa.net
+home: http://www.degaa.net/
+email: support@degaa.net
+---
 
-# Degaa Analytics
 
-Name: Degaa Analytics
-Domain: degaa.net
-Home: http://www.degaa.net/
-Email: support@degaa.net
+

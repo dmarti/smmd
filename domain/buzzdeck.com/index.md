@@ -1,8 +1,10 @@
+---
+company-name: Buzzdeck
+domain: buzzdeck.com
+home: http://buzzdeck.com/
+privacy-policy: http://buzzdeck.com/privacy/
+email: info@buzzdeck.com
+---
 
-# Buzzdeck
 
-Name: Buzzdeck
-Domain: buzzdeck.com
-Home: http://buzzdeck.com/
-Privacy_policy: http://buzzdeck.com/privacy/
-Email: info@buzzdeck.com
+

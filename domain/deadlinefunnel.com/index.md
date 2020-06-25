@@ -1,7 +1,9 @@
+---
+company-name: "Deadline Funnel"
+domain: deadlinefunnel.com
+home: https://deadlinefunnel.com/
+privacy-policy: https://deadlinefunnel.com/tos
+---
 
-# Deadline Funnel
 
-Name: Deadline Funnel
-Domain: deadlinefunnel.com
-Home: https://deadlinefunnel.com/
-Privacy_policy: https://deadlinefunnel.com/tos
+

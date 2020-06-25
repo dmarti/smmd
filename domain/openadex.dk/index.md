@@ -1,6 +1,8 @@
+---
+company-name: "Open AdExchange"
+domain: openadex.dk
+home: http://openadex.dk/
+---
 
-# Open AdExchange
 
-Name: Open AdExchange
-Domain: openadex.dk
-Home: http://openadex.dk/
+

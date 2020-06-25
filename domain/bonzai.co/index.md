@@ -1,8 +1,10 @@
+---
+company-name: Bonzai
+domain: bonzai.co
+home: https://www.bonzai.co/
+privacy-policy: https://www.bonzai.co/privacy2018.html
+email: privacy@bonzai.co
+---
 
-# Bonzai
 
-Name: Bonzai
-Domain: bonzai.co
-Home: https://www.bonzai.co/
-Privacy_policy: https://www.bonzai.co/privacy2018.html
-Email: privacy@bonzai.co
+

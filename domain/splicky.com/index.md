@@ -1,8 +1,10 @@
+---
+company-name: Splicky
+domain: splicky.com
+home: https://splicky.com/en/web/home
+privacy-policy: https://splicky.com/en/web/privacy
+email: support@splicky.com
+---
 
-# Splicky
 
-Name: Splicky
-Domain: splicky.com
-Home: https://splicky.com/en/web/home
-Privacy_policy: https://splicky.com/en/web/privacy
-Email: support@splicky.com
+

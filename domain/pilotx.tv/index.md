@@ -1,9 +1,11 @@
+---
+company-name: PilotX
+domain: pilotx.tv
+home: https://pilotx.tv/
+privacy-policy: https://pilotx.tv/privacy/
+email: dpo@PilotX.tv
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# PilotX
 
-Name: PilotX
-Domain: pilotx.tv
-Home: https://pilotx.tv/
-Privacy_policy: https://pilotx.tv/privacy/
-Email: dpo@PilotX.tv
-Member_of: Interactive Advertising Bureau (IAB)
+

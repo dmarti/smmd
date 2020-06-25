@@ -1,7 +1,9 @@
-# WarnerMedia
+---
+company-name: WarnerMedia
+domain: warnermediaprivacy.com
+opt-out-url: https://www.warnermediaprivacy.com
+---
 
-Name: WarnerMedia
 
-Domain: warnermediaprivacy.com
 
-Opt_out_url: https://www.warnermediaprivacy.com
+

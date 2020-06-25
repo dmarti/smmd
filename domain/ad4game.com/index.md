@@ -1,8 +1,10 @@
+---
+company-name: Ad4Game
+domain: ad4game.com
+home: https://ad4game.com/
+privacy-policy: https://www.ad4game.com/privacy/
+email: support@ad4game.com
+---
 
-# Ad4Game
 
-Name: Ad4Game
-Domain: ad4game.com
-Home: https://ad4game.com/
-Privacy_policy: https://www.ad4game.com/privacy/
-Email: support@ad4game.com
+

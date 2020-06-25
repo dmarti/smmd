@@ -1,10 +1,12 @@
+---
+company-name: "Magento (formerly ProStores)"
+domain: magento.com
+home: https://magento.com/
+privacy-policy: https://magento.com/legal/terms/privacy
+email: privacy@magento.com
+owned-by: Adobe
+member-of: TrustE_TrustArc
+---
 
-# Magento (formerly ProStores)
 
-Name: Magento (formerly ProStores)
-Domain: magento.com
-Home: https://magento.com/
-Privacy_policy: https://magento.com/legal/terms/privacy
-Email: privacy@magento.com
-Owned_by: Adobe
-Member_of: TrustE_TrustArc
+

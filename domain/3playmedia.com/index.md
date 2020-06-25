@@ -1,8 +1,10 @@
+---
+company-name: 3PlayMedia
+domain: 3playmedia.com
+home: http://www.3playmedia.com/
+privacy-policy: http://www.3playmedia.com/privacy-policy/
+email: info@3playmedia.com
+---
 
-# 3PlayMedia
 
-Name: 3PlayMedia
-Domain: 3playmedia.com
-Home: http://www.3playmedia.com/
-Privacy_policy: http://www.3playmedia.com/privacy-policy/
-Email: info@3playmedia.com
+

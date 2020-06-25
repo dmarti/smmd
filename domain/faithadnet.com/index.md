@@ -1,7 +1,9 @@
+---
+company-name: Faithadnet
+domain: faithadnet.com
+home: http://www.faithadnet.com/
+email: info@faithadnet.com
+---
 
-# Faithadnet
 
-Name: Faithadnet
-Domain: faithadnet.com
-Home: http://www.faithadnet.com/
-Email: info@faithadnet.com
+

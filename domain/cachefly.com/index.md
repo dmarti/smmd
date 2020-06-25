@@ -1,8 +1,10 @@
+---
+company-name: Cachefly
+domain: cachefly.com
+home: https://www.cachefly.com/
+privacy-policy: https://www.cachefly.com/privacy-policy/
+email: abuse@cachefly.com
+---
 
-# Cachefly
 
-Name: Cachefly
-Domain: cachefly.com
-Home: https://www.cachefly.com/
-Privacy_policy: https://www.cachefly.com/privacy-policy/
-Email: abuse@cachefly.com
+

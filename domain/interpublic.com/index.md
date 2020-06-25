@@ -1,8 +1,10 @@
+---
+company-name: "Interpublic Group"
+domain: interpublic.com
+home: https://www.interpublic.com
+privacy-policy: https://www.interpublic.com/privacy-notice
+email: corpcomm@interpublic.com
+---
 
-# Interpublic Group
 
-Name: Interpublic Group
-Domain: interpublic.com
-Home: https://www.interpublic.com
-Privacy_policy: https://www.interpublic.com/privacy-notice
-Email: corpcomm@interpublic.com
+

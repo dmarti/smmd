@@ -1,8 +1,10 @@
+---
+company-name: MentAd
+domain: mentad.com
+home: http://www.mentad.com/
+privacy-policy: http://www.mentad.com/privacy
+email: contact@mentad.com
+---
 
-# MentAd
 
-Name: MentAd
-Domain: mentad.com
-Home: http://www.mentad.com/
-Privacy_policy: http://www.mentad.com/privacy
-Email: contact@mentad.com
+

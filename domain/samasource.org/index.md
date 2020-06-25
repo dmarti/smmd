@@ -1,6 +1,8 @@
+---
+company-name: SamaSource
+domain: samasource.org
+home: https://www.samasource.org/
+---
 
-# SamaSource
 
-Name: SamaSource
-Domain: samasource.org
-Home: https://www.samasource.org/
+

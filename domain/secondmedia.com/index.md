@@ -1,7 +1,9 @@
+---
+company-name: "Second Media"
+domain: secondmedia.com
+home: http://www.secondmedia.com/
+owned-by: VerticalScope
+---
 
-# Second Media
 
-Name: Second Media
-Domain: secondmedia.com
-Home: http://www.secondmedia.com/
-Owned_by: VerticalScope
+

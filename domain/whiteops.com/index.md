@@ -1,8 +1,10 @@
+---
+company-name: Whiteops
+domain: whiteops.com
+home: https://www.whiteops.com/
+privacy-policy: https://www.whiteops.com/privacy
+email: info@whiteops.com
+---
 
-# Whiteops
 
-Name: Whiteops
-Domain: whiteops.com
-Home: https://www.whiteops.com/
-Privacy_policy: https://www.whiteops.com/privacy
-Email: info@whiteops.com
+

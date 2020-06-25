@@ -1,8 +1,10 @@
+---
+company-name: Kwanko
+domain: kwanko.com
+home: https://en.kwanko.com/
+privacy-policy: https://en.kwanko.com/privacy
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Kwanko
 
-Name: Kwanko
-Domain: kwanko.com
-Home: https://en.kwanko.com/
-Privacy_policy: https://en.kwanko.com/privacy
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

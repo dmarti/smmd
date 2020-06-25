@@ -1,6 +1,8 @@
+---
+company-name: "Renegade Internet"
+domain: renegadeinternet.com
+home: http://www.renegadeinternet.com/
+---
 
-# Renegade Internet
 
-Name: Renegade Internet
-Domain: renegadeinternet.com
-Home: http://www.renegadeinternet.com/
+

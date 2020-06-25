@@ -1,7 +1,9 @@
-# Discord
+---
+company-name: Discord
+domain: discordapp.com
+opt-out-url: https://discordapp.com/privacy
+---
 
-Name: Discord
 
-Domain: discordapp.com
 
-Opt_out_url: https://discordapp.com/privacy
+

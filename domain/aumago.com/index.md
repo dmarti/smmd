@@ -1,8 +1,10 @@
+---
+company-name: Aumago
+domain: aumago.com
+home: https://www.aumago.com/
+privacy-policy: https://www.aumago.com/impressum/
+email: info@aumago.com
+---
 
-# Aumago
 
-Name: Aumago
-Domain: aumago.com
-Home: https://www.aumago.com/
-Privacy_policy: https://www.aumago.com/impressum/
-Email: info@aumago.com
+

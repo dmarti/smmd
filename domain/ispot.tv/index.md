@@ -1,8 +1,10 @@
+---
+company-name: iSpot.TV
+domain: ispot.tv
+home: https://www.ispot.tv/
+privacy-policy: https://www.ispot.tv/agreements/privacy
+email: privacy@ispot.tv
+---
 
-# iSpot.TV
 
-Name: iSpot.TV
-Domain: ispot.tv
-Home: https://www.ispot.tv/
-Privacy_policy: https://www.ispot.tv/agreements/privacy
-Email: privacy@ispot.tv
+

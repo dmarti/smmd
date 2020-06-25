@@ -1,23 +1,12 @@
-
-# Exponential Interactive, Inc. doing business as VDX.tv
-
-Name: Exponential Interactive, Inc. doing business as VDX.tv
-
-Domain: vdx.tv
-
-Home: http://vdx.tv
-
-Email: privacy [at] VDX.tv
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 01/29/2020
-
-
-
+---
+company-name: "Exponential Interactive, Inc. doing business as VDX.tv"
+domain: vdx.tv
+home: http://vdx.tv
+email: "privacy [at] VDX.tv"
+california-date: 01/29/2020
+---
 ## How to opt out
+
 
 7.CONTACT INFORMATION
 
@@ -45,6 +34,7 @@ To protect the security of your information, we will take steps as we deem neces
 
 ## How to delete
 
+
 7.CONTACT INFORMATION
 
 Please contact us with any questions or concerns about this Policy using the information below:
@@ -71,7 +61,20 @@ To protect the security of your information, we will take steps as we deem neces
 
 ## Additional info
 
+
 N/A.
 
 5858 Horton StreetSuite 300Emeryville, CA 94133United States
+
+
+
+
+
+
+
+
+
+
+
+
 

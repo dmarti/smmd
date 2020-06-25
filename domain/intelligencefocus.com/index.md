@@ -1,8 +1,10 @@
+---
+company-name: IntelligenceFocus
+domain: intelligencefocus.com
+home: http://www.intelligencefocus.com
+privacy-policy: http://www.intelligencefocus.com/en/privacypolicy.html
+email: privacy@intelligencefocus.com
+---
 
-# IntelligenceFocus
 
-Name: IntelligenceFocus
-Domain: intelligencefocus.com
-Home: http://www.intelligencefocus.com
-Privacy_policy: http://www.intelligencefocus.com/en/privacypolicy.html
-Email: privacy@intelligencefocus.com
+

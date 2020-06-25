@@ -1,7 +1,9 @@
+---
+company-name: "France Televisions (FTV)"
+domain: francetelevisions.fr
+home: http://www.francetelevisions.fr/
+privacy-policy: http://www.francetv.fr/politique-de-confidentialite
+---
 
-# France Televisions (FTV)
 
-Name: France Televisions (FTV)
-Domain: francetelevisions.fr
-Home: http://www.francetelevisions.fr/
-Privacy_policy: http://www.francetv.fr/politique-de-confidentialite
+

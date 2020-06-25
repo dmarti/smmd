@@ -1,8 +1,10 @@
+---
+company-name: ipowow
+domain: ipowow.com
+home: http://ipowow.com/
+privacy-policy: http://ipowow.com/
+email: info@ipowow.com
+---
 
-# ipowow
 
-Name: ipowow
-Domain: ipowow.com
-Home: http://ipowow.com/
-Privacy_policy: http://ipowow.com/
-Email: info@ipowow.com
+

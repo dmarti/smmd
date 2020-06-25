@@ -1,9 +1,11 @@
+---
+company-name: OpinionLab
+domain: opinionlab.com
+home: https://www.opinionlab.com/
+privacy-policy: https://www.verint.com/our-company/legal-documents/privacy-policy/index.html
+email: privacy@verint.com
+owned-by: "Verint Systems"
+---
 
-# OpinionLab
 
-Name: OpinionLab
-Domain: opinionlab.com
-Home: https://www.opinionlab.com/
-Privacy_policy: https://www.verint.com/our-company/legal-documents/privacy-policy/index.html
-Email: privacy@verint.com
-Owned_by: Verint Systems
+

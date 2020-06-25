@@ -1,9 +1,11 @@
+---
+company-name: Firstlook
+domain: firstlook.com
+home: http://www.firstlook.com/
+privacy-policy: http://www.firstlook.com/?tmp=fishy_privacy
+email: custservice@firstsearchbar.com
+member-of: TrustE_TrustArc
+---
 
-# Firstlook
 
-Name: Firstlook
-Domain: firstlook.com
-Home: http://www.firstlook.com/
-Privacy_policy: http://www.firstlook.com/?tmp=fishy_privacy
-Email: custservice@firstsearchbar.com
-Member_of: TrustE_TrustArc
+

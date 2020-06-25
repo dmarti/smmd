@@ -1,7 +1,9 @@
-# Drop
+---
+company-name: Drop
+domain: earnwithdrop.com
+opt-out-url: https://www.earnwithdrop.com/privacy#california
+---
 
-Name: Drop
 
-Domain: earnwithdrop.com
 
-Opt_out_url: https://www.earnwithdrop.com/privacy#california
+

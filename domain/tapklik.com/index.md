@@ -1,8 +1,10 @@
+---
+company-name: Tapklik
+domain: tapklik.com
+home: https://www.tapklik.com
+privacy-policy: https://www.tapklik.com/privacy.php
+email: contact@tapklik.com
+---
 
-# Tapklik
 
-Name: Tapklik
-Domain: tapklik.com
-Home: https://www.tapklik.com
-Privacy_policy: https://www.tapklik.com/privacy.php
-Email: contact@tapklik.com
+

@@ -1,8 +1,10 @@
+---
+company-name: SourceKnowledge
+domain: sourceknowledge.com
+home: http://sourceknowledge.com/
+privacy-policy: http://www.sourceknowledge.com/privacy
+email: info@sourceknowledge.com
+---
 
-# SourceKnowledge
 
-Name: SourceKnowledge
-Domain: sourceknowledge.com
-Home: http://sourceknowledge.com/
-Privacy_policy: http://www.sourceknowledge.com/privacy
-Email: info@sourceknowledge.com
+

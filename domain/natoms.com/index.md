@@ -1,7 +1,9 @@
+---
+company-name: "Tom's Native Ads"
+domain: natoms.com
+home: http://static.natoms.com/doc/
+owned-by: Purch
+---
 
-# Tom's Native Ads
 
-Name: Tom's Native Ads
-Domain: natoms.com
-Home: http://static.natoms.com/doc/
-Owned_by: Purch
+

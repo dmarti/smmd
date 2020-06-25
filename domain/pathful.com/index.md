@@ -1,8 +1,10 @@
+---
+company-name: Pathful
+domain: pathful.com
+home: http://www.pathful.com/
+privacy-policy: http://www.pathful.com/privacy/
+email: privacy@pathful.com
+---
 
-# Pathful
 
-Name: Pathful
-Domain: pathful.com
-Home: http://www.pathful.com/
-Privacy_policy: http://www.pathful.com/privacy/
-Email: privacy@pathful.com
+

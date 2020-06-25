@@ -1,6 +1,8 @@
+---
+company-name: MoChapp
+domain: mochapp.com
+home: http://www.mochapp.com/
+---
 
-# MoChapp
 
-Name: MoChapp
-Domain: mochapp.com
-Home: http://www.mochapp.com/
+

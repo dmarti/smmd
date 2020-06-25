@@ -1,9 +1,11 @@
+---
+company-name: AdExcite
+domain: adexcite.com
+home: http://adexcite.com
+email: Info@Q1Media.com
+owned-by: Q1Media
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# AdExcite
 
-Name: AdExcite
-Domain: adexcite.com
-Home: http://adexcite.com
-Email: Info@Q1Media.com
-Owned_by: Q1Media
-Member_of: Interactive Advertising Bureau (IAB)
+

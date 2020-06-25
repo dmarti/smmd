@@ -1,7 +1,9 @@
-# Vanguard
+---
+company-name: Vanguard
+domain: vanguard.com
+opt-out-url: https://investor.vanguard.com/privacy-center/home-page
+---
 
-Name: Vanguard
 
-Domain: vanguard.com
 
-Opt_out_url: https://investor.vanguard.com/privacy-center/home-page
+

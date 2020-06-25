@@ -1,10 +1,12 @@
+---
+company-name: Brandscreen
+domain: brandscreen.com
+home: https://www.brandscreen.com/
+privacy-policy: https://www.brandscreen.com/privacy/
+email: privacy@brandscreen.com
+owned-by: Zenovia
+member-of: TrustE_TrustArc
+---
 
-# Brandscreen
 
-Name: Brandscreen
-Domain: brandscreen.com
-Home: https://www.brandscreen.com/
-Privacy_policy: https://www.brandscreen.com/privacy/
-Email: privacy@brandscreen.com
-Owned_by: Zenovia
-Member_of: TrustE_TrustArc
+

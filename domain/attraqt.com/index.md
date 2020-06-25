@@ -1,8 +1,10 @@
+---
+company-name: "Attraqt (FKA Locayta)"
+domain: attraqt.com
+home: http://www.attraqt.com/
+privacy-policy: http://www.attraqt.com/privacy-policy/
+email: sayhello@attraqt.com
+---
 
-# Attraqt (FKA Locayta)
 
-Name: Attraqt (FKA Locayta)
-Domain: attraqt.com
-Home: http://www.attraqt.com/
-Privacy_policy: http://www.attraqt.com/privacy-policy/
-Email: sayhello@attraqt.com
+

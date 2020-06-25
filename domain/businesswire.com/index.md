@@ -1,9 +1,11 @@
+---
+company-name: "Business Wire"
+domain: businesswire.com
+home: http://www.businesswire.com/portal/site/home/
+privacy-policy: http://www.businesswire.com/portal/site/home/privacy/
+email: websupport@businesswire.com
+member-of: "American Advertising Federation"
+---
 
-# Business Wire
 
-Name: Business Wire
-Domain: businesswire.com
-Home: http://www.businesswire.com/portal/site/home/
-Privacy_policy: http://www.businesswire.com/portal/site/home/privacy/
-Email: websupport@businesswire.com
-Member_of: American Advertising Federation
+

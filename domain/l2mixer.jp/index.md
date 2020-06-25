@@ -1,9 +1,11 @@
+---
+company-name: L2Mixer
+domain: l2mixer.jp
+home: http://www.l2mixer.jp/
+privacy-policy: http://www.brainpad.co.jp/utility/privacypolicy.html
+email: privacy@brainpad.co.jp
+owned-by: BrainPad
+---
 
-# L2Mixer
 
-Name: L2Mixer
-Domain: l2mixer.jp
-Home: http://www.l2mixer.jp/
-Privacy_policy: http://www.brainpad.co.jp/utility/privacypolicy.html
-Email: privacy@brainpad.co.jp
-Owned_by: BrainPad
+

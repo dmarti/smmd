@@ -1,8 +1,10 @@
+---
+company-name: Ora.TV
+domain: ora.tv
+home: http://www.ora.tv/
+privacy-policy: http://www.ora.tv/privacy
+email: contact@ora.tv
+---
 
-# Ora.TV
 
-Name: Ora.TV
-Domain: ora.tv
-Home: http://www.ora.tv/
-Privacy_policy: http://www.ora.tv/privacy
-Email: contact@ora.tv
+

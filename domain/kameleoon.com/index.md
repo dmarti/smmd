@@ -1,8 +1,10 @@
+---
+company-name: Kameleoon
+domain: kameleoon.com
+home: https://www.kameleoon.com
+privacy-policy: https://www.kameleoon.com/en/legal-notice.html
+email: info@kameleoon.com
+---
 
-# Kameleoon
 
-Name: Kameleoon
-Domain: kameleoon.com
-Home: https://www.kameleoon.com
-Privacy_policy: https://www.kameleoon.com/en/legal-notice.html
-Email: info@kameleoon.com
+

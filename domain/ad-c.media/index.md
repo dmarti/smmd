@@ -1,8 +1,10 @@
+---
+company-name: "ad:C media"
+domain: ad-c.media
+home: https://ad-c.media/en/home-en/
+privacy-policy: https://ad-c.media/en/privacy/
+email: info@adcmedia.de
+---
 
-# ad:C media
 
-Name: ad:C media
-Domain: ad-c.media
-Home: https://ad-c.media/en/home-en/
-Privacy_policy: https://ad-c.media/en/privacy/
-Email: info@adcmedia.de
+

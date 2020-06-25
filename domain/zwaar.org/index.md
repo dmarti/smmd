@@ -1,7 +1,9 @@
+---
+company-name: Zwaar
+domain: zwaar.org
+home: http://www.zwaar.org
+email: info@zwaar.org
+---
 
-# Zwaar
 
-Name: Zwaar
-Domain: zwaar.org
-Home: http://www.zwaar.org
-Email: info@zwaar.org
+

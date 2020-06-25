@@ -1,8 +1,10 @@
+---
+company-name: Bankrate
+domain: bankrate.com
+home: http://www.bankrate.com/
+privacy-policy: http://www.bankrate.com/coinfo/privacy.asp
+email: webmaster@bankrate.com
+---
 
-# Bankrate
 
-Name: Bankrate
-Domain: bankrate.com
-Home: http://www.bankrate.com/
-Privacy_policy: http://www.bankrate.com/coinfo/privacy.asp
-Email: webmaster@bankrate.com
+

@@ -1,7 +1,9 @@
+---
+company-name: IdeoClick
+domain: ideoclick.com
+home: http://ideoclick.com
+email: info@ideoclick.com
+---
 
-# IdeoClick
 
-Name: IdeoClick
-Domain: ideoclick.com
-Home: http://ideoclick.com
-Email: info@ideoclick.com
+

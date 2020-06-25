@@ -1,6 +1,8 @@
+---
+company-name: "Think Tank Photo"
+domain: thinktankphoto.com
+home: http://www.thinktankphoto.com/
+---
 
-# Think Tank Photo
 
-Name: Think Tank Photo
-Domain: thinktankphoto.com
-Home: http://www.thinktankphoto.com/
+

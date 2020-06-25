@@ -1,8 +1,10 @@
+---
+company-name: "Beacon Ad Network"
+domain: beaconadnetwork.com
+home: https://www.beaconadnetwork.com/
+privacy-policy: https://marketplace.beaconads.com/about/privacy
+email: support@beaconads.com
+---
 
-# Beacon Ad Network
 
-Name: Beacon Ad Network
-Domain: beaconadnetwork.com
-Home: https://www.beaconadnetwork.com/
-Privacy_policy: https://marketplace.beaconads.com/about/privacy
-Email: support@beaconads.com
+

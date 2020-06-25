@@ -1,6 +1,8 @@
+---
+company-name: Pubdirecte
+domain: pubdirecte.com
+home: http://www.pubdirecte.com/
+---
 
-# Pubdirecte
 
-Name: Pubdirecte
-Domain: pubdirecte.com
-Home: http://www.pubdirecte.com/
+

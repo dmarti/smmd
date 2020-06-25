@@ -1,7 +1,9 @@
-# Anonyome Labs
+---
+company-name: "Anonyome Labs"
+domain: anonyome.com
+opt-out-url: https://anonyome.com/privacy-policy/
+---
 
-Name: Anonyome Labs
 
-Domain: anonyome.com
 
-Opt_out_url: https://anonyome.com/privacy-policy/
+

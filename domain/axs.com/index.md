@@ -1,7 +1,9 @@
-# AXS
+---
+company-name: AXS
+domain: axs.com
+opt-out-url: https://www.axs.com/about-privacy-policy_US_v5.html
+---
 
-Name: AXS
 
-Domain: axs.com
 
-Opt_out_url: https://www.axs.com/about-privacy-policy_US_v5.html
+

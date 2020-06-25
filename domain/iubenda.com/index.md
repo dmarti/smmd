@@ -1,8 +1,10 @@
+---
+company-name: iubenda
+domain: iubenda.com
+home: http://www.iubenda.com/en
+privacy-policy: https://www.iubenda.com/privacy-policy/980980
+email: info@iubenda.com
+---
 
-# iubenda
 
-Name: iubenda
-Domain: iubenda.com
-Home: http://www.iubenda.com/en
-Privacy_policy: https://www.iubenda.com/privacy-policy/980980
-Email: info@iubenda.com
+

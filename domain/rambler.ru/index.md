@@ -1,8 +1,10 @@
+---
+company-name: Rambler
+domain: rambler.ru
+home: http://www.rambler.ru/
+privacy-policy: http://help.rambler.ru/legal/1142/
+email: privacy@rambler-co.ru
+---
 
-# Rambler
 
-Name: Rambler
-Domain: rambler.ru
-Home: http://www.rambler.ru/
-Privacy_policy: http://help.rambler.ru/legal/1142/
-Email: privacy@rambler-co.ru
+

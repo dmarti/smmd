@@ -1,8 +1,10 @@
+---
+company-name: ShareASale
+domain: shareasale.com
+home: http://www.shareasale.com/
+email: global-privacy@awin.com
+owned-by: AWIN
+---
 
-# ShareASale
 
-Name: ShareASale
-Domain: shareasale.com
-Home: http://www.shareasale.com/
-Email: global-privacy@awin.com
-Owned_by: AWIN
+

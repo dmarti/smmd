@@ -1,7 +1,9 @@
+---
+company-name: "Cross Listing"
+domain: xlisting.co.jp
+home: http://www.xlisting.co.jp/index.html
+privacy-policy: http://www.xlisting.co.jp/Privacy.html
+---
 
-# Cross Listing
 
-Name: Cross Listing
-Domain: xlisting.co.jp
-Home: http://www.xlisting.co.jp/index.html
-Privacy_policy: http://www.xlisting.co.jp/Privacy.html
+

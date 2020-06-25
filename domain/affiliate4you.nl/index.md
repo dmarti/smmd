@@ -1,7 +1,9 @@
+---
+company-name: "Family Blend (Affiliate4You)"
+domain: affiliate4you.nl
+home: http://www.affiliate4you.nl/
+email: info@familyblend.nl
+---
 
-# Family Blend (Affiliate4You)
 
-Name: Family Blend (Affiliate4You)
-Domain: affiliate4you.nl
-Home: http://www.affiliate4you.nl/
-Email: info@familyblend.nl
+

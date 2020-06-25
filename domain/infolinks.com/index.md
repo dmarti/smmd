@@ -1,8 +1,10 @@
+---
+company-name: Infolinks
+domain: infolinks.com
+home: https://www.infolinks.com/
+privacy-policy: https://www.infolinks.com/privacy-policy/
+email: info@infolinks.com
+---
 
-# Infolinks
 
-Name: Infolinks
-Domain: infolinks.com
-Home: https://www.infolinks.com/
-Privacy_policy: https://www.infolinks.com/privacy-policy/
-Email: info@infolinks.com
+

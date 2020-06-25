@@ -1,8 +1,10 @@
+---
+company-name: Quple.io
+domain: quple.io
+home: http://quple.io/
+privacy-policy: http://quple.io/privacy.html
+email: contact@quple.io
+---
 
-# Quple.io
 
-Name: Quple.io
-Domain: quple.io
-Home: http://quple.io/
-Privacy_policy: http://quple.io/privacy.html
-Email: contact@quple.io
+

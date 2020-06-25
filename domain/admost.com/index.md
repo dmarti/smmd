@@ -1,8 +1,10 @@
+---
+company-name: adMOST
+domain: admost.com
+home: https://www.admost.com/
+privacy-policy: https://resources.admost.com/privacy-policy/
+email: privacy@admost.com
+---
 
-# adMOST
 
-Name: adMOST
-Domain: admost.com
-Home: https://www.admost.com/
-Privacy_policy: https://resources.admost.com/privacy-policy/
-Email: privacy@admost.com
+

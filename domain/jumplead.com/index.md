@@ -1,8 +1,10 @@
+---
+company-name: Jumplead
+domain: jumplead.com
+home: https://jumplead.com/
+privacy-policy: https://jumplead.com/privacy
+email: hello@jumplead.com
+---
 
-# Jumplead
 
-Name: Jumplead
-Domain: jumplead.com
-Home: https://jumplead.com/
-Privacy_policy: https://jumplead.com/privacy
-Email: hello@jumplead.com
+

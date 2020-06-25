@@ -1,6 +1,8 @@
+---
+company-name: Cliipa
+domain: cliipa.com
+home: http://cliipa.com/
+---
 
-# Cliipa
 
-Name: Cliipa
-Domain: cliipa.com
-Home: http://cliipa.com/
+

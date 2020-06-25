@@ -1,7 +1,9 @@
-# Wholefoods
+---
+company-name: Wholefoods
+domain: wholefoodsmarket.com
+opt-out-url: https://www.wholefoodsmarket.com/customer-service/contact-us
+---
 
-Name: Wholefoods
 
-Domain: wholefoodsmarket.com
 
-Opt_out_url: https://www.wholefoodsmarket.com/customer-service/contact-us
+

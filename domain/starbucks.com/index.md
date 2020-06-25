@@ -1,7 +1,9 @@
+---
+company-name: Starbucks
+domain: starbucks.com
+home: http://www.starbucks.com
+privacy-policy: http://www.starbucks.com/about-us/company-information/online-policies/privacy-policy
+---
 
-# Starbucks
 
-Name: Starbucks
-Domain: starbucks.com
-Home: http://www.starbucks.com
-Privacy_policy: http://www.starbucks.com/about-us/company-information/online-policies/privacy-policy
+

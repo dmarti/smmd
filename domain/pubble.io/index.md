@@ -1,8 +1,10 @@
+---
+company-name: Pubble
+domain: pubble.io
+home: https://www.pubble.io/
+privacy-policy: https://www.pubble.io/privacy
+email: john@pubble.co
+---
 
-# Pubble
 
-Name: Pubble
-Domain: pubble.io
-Home: https://www.pubble.io/
-Privacy_policy: https://www.pubble.io/privacy
-Email: john@pubble.co
+

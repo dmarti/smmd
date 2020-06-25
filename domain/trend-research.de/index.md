@@ -1,8 +1,10 @@
+---
+company-name: "Trend Research"
+domain: trend-research.de
+home: https://trend-research.de/
+privacy-policy: https://trend-research.de/datenschutzerklaerung/
+email: info@trend-research.de
+---
 
-# Trend Research
 
-Name: Trend Research
-Domain: trend-research.de
-Home: https://trend-research.de/
-Privacy_policy: https://trend-research.de/datenschutzerklaerung/
-Email: info@trend-research.de
+

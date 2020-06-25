@@ -1,9 +1,11 @@
+---
+company-name: Dailymotion
+domain: dailymotion.com
+home: https://www.dailymotion.com/us
+privacy-policy: https://www.dailymotion.com/legal/privacy
+email: webmaster@dailymotion.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Dailymotion
 
-Name: Dailymotion
-Domain: dailymotion.com
-Home: https://www.dailymotion.com/us
-Privacy_policy: https://www.dailymotion.com/legal/privacy
-Email: webmaster@dailymotion.com
-Member_of: Interactive Advertising Bureau (IAB)
+

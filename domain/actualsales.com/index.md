@@ -1,7 +1,9 @@
+---
+company-name: ActualSales
+domain: actualsales.com
+home: http://www.actualsales.com/
+email: info@actualsales.com
+---
 
-# ActualSales
 
-Name: ActualSales
-Domain: actualsales.com
-Home: http://www.actualsales.com/
-Email: info@actualsales.com
+

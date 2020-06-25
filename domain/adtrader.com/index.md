@@ -1,8 +1,10 @@
+---
+company-name: AdTrader
+domain: adtrader.com
+home: https://adtrader.com/
+privacy-policy: https://adtrader.com/privacy.html
+email: office@adtrader.com
+---
 
-# AdTrader
 
-Name: AdTrader
-Domain: adtrader.com
-Home: https://adtrader.com/
-Privacy_policy: https://adtrader.com/privacy.html
-Email: office@adtrader.com
+

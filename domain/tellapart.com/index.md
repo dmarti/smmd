@@ -1,11 +1,12 @@
+---
+company-name: TellApart
+domain: tellapart.com
+home: http://www.tellapart.com/
+privacy-policy: https://twitter.com/en/privacy
+email: info@TellApart.com
+owned-by: Twitter
+member-of: "Network Advertising Initiative"
+---
 
-# TellApart
 
-Name: TellApart
-Domain: tellapart.com
-Home: http://www.tellapart.com/
-Privacy_policy: https://twitter.com/en/privacy
-Email: info@TellApart.com
-Owned_by: Twitter
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

@@ -1,8 +1,10 @@
+---
+company-name: Roq.ad
+domain: roq.ad
+home: https://www.roq.ad
+privacy-policy: https://www.roq.ad/privacy-policy
+email: privacy@roq.ad
+---
 
-# Roq.ad
 
-Name: Roq.ad
-Domain: roq.ad
-Home: https://www.roq.ad
-Privacy_policy: https://www.roq.ad/privacy-policy
-Email: privacy@roq.ad
+

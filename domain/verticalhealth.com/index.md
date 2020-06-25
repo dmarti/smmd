@@ -1,7 +1,9 @@
+---
+company-name: "Vertical Health"
+domain: verticalhealth.com
+home: https://www.verticalhealth.com
+privacy-policy: https://www.verticalhealth.com/privacy-policy.php
+---
 
-# Vertical Health
 
-Name: Vertical Health
-Domain: verticalhealth.com
-Home: https://www.verticalhealth.com
-Privacy_policy: https://www.verticalhealth.com/privacy-policy.php
+

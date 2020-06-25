@@ -1,10 +1,11 @@
+---
+company-name: "Engine Media"
+domain: enginemedia.com
+home: https://www.enginemedia.com/
+privacy-policy: https://www.enginemedia.com/privacy-policy
+email: privacy@enginemedia.com
+member-of: "Network Advertising Initiative"
+---
 
-# Engine Media
 
-Name: Engine Media
-Domain: enginemedia.com
-Home: https://www.enginemedia.com/
-Privacy_policy: https://www.enginemedia.com/privacy-policy
-Email: privacy@enginemedia.com
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

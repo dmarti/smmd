@@ -1,8 +1,10 @@
+---
+company-name: Liqwid
+domain: liqwid.solutions
+home: https://liqwid.solutions/
+privacy-policy: https://liqwid.solutions/privacy-policy/
+email: support@liqwid.com
+---
 
-# Liqwid
 
-Name: Liqwid
-Domain: liqwid.solutions
-Home: https://liqwid.solutions/
-Privacy_policy: https://liqwid.solutions/privacy-policy/
-Email: support@liqwid.com
+

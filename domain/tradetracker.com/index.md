@@ -1,8 +1,10 @@
+---
+company-name: TradeTracker
+domain: tradetracker.com
+home: https://tradetracker.com/
+privacy-policy: https://tradetracker.com/privacy-policy/
+email: privacy@tradetracker.com
+---
 
-# TradeTracker
 
-Name: TradeTracker
-Domain: tradetracker.com
-Home: https://tradetracker.com/
-Privacy_policy: https://tradetracker.com/privacy-policy/
-Email: privacy@tradetracker.com
+

@@ -1,7 +1,9 @@
+---
+company-name: Zanboor
+domain: zanboor.net
+home: http://zanboor.net/
+email: zanboornetwork@gmail.com
+---
 
-# Zanboor
 
-Name: Zanboor
-Domain: zanboor.net
-Home: http://zanboor.net/
-Email: zanboornetwork@gmail.com
+

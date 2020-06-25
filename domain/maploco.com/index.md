@@ -1,8 +1,10 @@
+---
+company-name: MapLoco
+domain: maploco.com
+home: http://www.maploco.com/
+privacy-policy: http://m.maploco.com/privacy.php
+email: domains@funkyllama.net
+---
 
-# MapLoco
 
-Name: MapLoco
-Domain: maploco.com
-Home: http://www.maploco.com/
-Privacy_policy: http://m.maploco.com/privacy.php
-Email: domains@funkyllama.net
+

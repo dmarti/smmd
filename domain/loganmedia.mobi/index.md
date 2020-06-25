@@ -1,6 +1,8 @@
+---
+company-name: "Logan Media"
+domain: loganmedia.mobi
+home: https://loganmedia.mobi/en/
+---
 
-# Logan Media
 
-Name: Logan Media
-Domain: loganmedia.mobi
-Home: https://loganmedia.mobi/en/
+

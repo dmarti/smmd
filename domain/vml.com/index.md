@@ -1,9 +1,11 @@
+---
+company-name: VML
+domain: vml.com
+home: https://www.vml.com/
+privacy-policy: https://www.vml.com/privacy-policy
+email: privacy@vml.com
+owned-by: WPP
+---
 
-# VML
 
-Name: VML
-Domain: vml.com
-Home: https://www.vml.com/
-Privacy_policy: https://www.vml.com/privacy-policy
-Email: privacy@vml.com
-Owned_by: WPP
+

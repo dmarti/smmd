@@ -1,8 +1,10 @@
+---
+company-name: Minute.ly
+domain: minute.ly
+home: http://minute.ly/
+privacy-policy: https://minute.ly/privacy.html
+email: info@minute.ly
+---
 
-# Minute.ly
 
-Name: Minute.ly
-Domain: minute.ly
-Home: http://minute.ly/
-Privacy_policy: https://minute.ly/privacy.html
-Email: info@minute.ly
+

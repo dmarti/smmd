@@ -1,8 +1,10 @@
+---
+company-name: Glenmorangie
+domain: glenmorangie.com
+home: https://www.glenmorangie.com
+privacy-policy: https://www.glenmorangie.com/en-us/privacy
+email: info@glenmorangie.com
+---
 
-# Glenmorangie
 
-Name: Glenmorangie
-Domain: glenmorangie.com
-Home: https://www.glenmorangie.com
-Privacy_policy: https://www.glenmorangie.com/en-us/privacy
-Email: info@glenmorangie.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Oktopost
+domain: oktopost.com
+home: https://www.oktopost.com/
+privacy-policy: https://www.oktopost.com/privacy
+email: privacy@oktopost.com
+---
 
-# Oktopost
 
-Name: Oktopost
-Domain: oktopost.com
-Home: https://www.oktopost.com/
-Privacy_policy: https://www.oktopost.com/privacy
-Email: privacy@oktopost.com
+

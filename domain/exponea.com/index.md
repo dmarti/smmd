@@ -1,8 +1,10 @@
+---
+company-name: Exponea
+domain: exponea.com
+home: https://exponea.com/
+privacy-policy: https://exponea.com/privacy-policy/
+email: privacy@exponea.com
+---
 
-# Exponea
 
-Name: Exponea
-Domain: exponea.com
-Home: https://exponea.com/
-Privacy_policy: https://exponea.com/privacy-policy/
-Email: privacy@exponea.com
+

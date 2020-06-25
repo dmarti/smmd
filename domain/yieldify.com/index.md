@@ -1,8 +1,10 @@
+---
+company-name: Yieldify
+domain: yieldify.com
+home: https://www.yieldify.com/
+privacy-policy: https://www.yieldify.com/website-privacy-policy/
+email: support@yieldify.com
+---
 
-# Yieldify
 
-Name: Yieldify
-Domain: yieldify.com
-Home: https://www.yieldify.com/
-Privacy_policy: https://www.yieldify.com/website-privacy-policy/
-Email: support@yieldify.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Cision PR Newswire"
+domain: prnewswire.com
+home: http://www.prnewswire.com/
+privacy-policy: https://www.prnewswire.com/privacy-policy/
+email: privacy@prnewswire.com
+---
 
-# Cision PR Newswire
 
-Name: Cision PR Newswire
-Domain: prnewswire.com
-Home: http://www.prnewswire.com/
-Privacy_policy: https://www.prnewswire.com/privacy-policy/
-Email: privacy@prnewswire.com
+

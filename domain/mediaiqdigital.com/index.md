@@ -1,9 +1,10 @@
+---
+company-name: "Media IQ"
+domain: mediaiqdigital.com
+home: http://mediaiqdigital.com/
+email: privacy@mediaiqdigital.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Media IQ
 
-Name: Media IQ
-Domain: mediaiqdigital.com
-Home: http://mediaiqdigital.com/
-Email: privacy@mediaiqdigital.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

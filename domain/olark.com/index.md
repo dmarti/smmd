@@ -1,8 +1,10 @@
+---
+company-name: Olark
+domain: olark.com
+home: https://www.olark.com/
+privacy-policy: https://www.olark.com/privacy-policy
+email: privacy@olark.com
+---
 
-# Olark
 
-Name: Olark
-Domain: olark.com
-Home: https://www.olark.com/
-Privacy_policy: https://www.olark.com/privacy-policy
-Email: privacy@olark.com
+

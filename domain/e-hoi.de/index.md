@@ -1,8 +1,10 @@
+---
+company-name: e-hoi
+domain: e-hoi.de
+home: https://www.e-hoi.de/
+privacy-policy: https://www.e-hoi.de/datenschutz.html
+email: datenschutz@e-hoi.de
+---
 
-# e-hoi
 
-Name: e-hoi
-Domain: e-hoi.de
-Home: https://www.e-hoi.de/
-Privacy_policy: https://www.e-hoi.de/datenschutz.html
-Email: datenschutz@e-hoi.de
+

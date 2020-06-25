@@ -1,10 +1,11 @@
+---
+company-name: "Aurea (Formally Lyris)"
+domain: aurea.com
+home: https://www.aurea.com
+privacy-policy: https://www.aurea.com/legal/privacy-statement
+email: privacy@aurea.com
+member-of: TrustE_TrustArc
+---
 
-# Aurea (Formally Lyris)
 
-Name: Aurea (Formally Lyris)
-Domain: aurea.com
-Home: https://www.aurea.com
-Privacy_policy: https://www.aurea.com/legal/privacy-statement
-Email: privacy@aurea.com
-Member_of: DMA_ANA
-Member_of: TrustE_TrustArc
+

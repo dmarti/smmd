@@ -1,8 +1,10 @@
+---
+company-name: Telus
+domain: telus.com
+home: https://www.telus.com
+privacy-policy: https://www.telus.com/en/about/privacy?linktype=ge-footer
+email: privacy@telus.com.
+---
 
-# Telus
 
-Name: Telus
-Domain: telus.com
-Home: https://www.telus.com
-Privacy_policy: https://www.telus.com/en/about/privacy?linktype=ge-footer
-Email: privacy@telus.com.
+

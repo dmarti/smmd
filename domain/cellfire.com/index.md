@@ -1,7 +1,9 @@
+---
+company-name: Cellfire
+domain: cellfire.com
+home: http://www.cellfire.com/
+privacy-policy: http://www.cellfire.com/privacy_policy.php
+---
 
-# Cellfire
 
-Name: Cellfire
-Domain: cellfire.com
-Home: http://www.cellfire.com/
-Privacy_policy: http://www.cellfire.com/privacy_policy.php
+

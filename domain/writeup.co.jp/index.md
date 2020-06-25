@@ -1,8 +1,10 @@
+---
+company-name: WriteUp
+domain: writeup.co.jp
+home: http://www.writeup.co.jp/
+privacy-policy: http://www.writeup.co.jp/privacy/
+email: info@writeup.co.jp
+---
 
-# WriteUp
 
-Name: WriteUp
-Domain: writeup.co.jp
-Home: http://www.writeup.co.jp/
-Privacy_policy: http://www.writeup.co.jp/privacy/
-Email: info@writeup.co.jp
+

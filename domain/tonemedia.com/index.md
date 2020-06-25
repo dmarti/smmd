@@ -1,7 +1,9 @@
+---
+company-name: ToneMedia
+domain: tonemedia.com
+home: http://tonemedia.com/
+email: general@tonemedia.com
+---
 
-# ToneMedia
 
-Name: ToneMedia
-Domain: tonemedia.com
-Home: http://tonemedia.com/
-Email: general@tonemedia.com
+

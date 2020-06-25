@@ -1,8 +1,10 @@
+---
+company-name: "Inbox Labs"
+domain: inbox-labs.com
+home: http://inbox-labs.com/
+privacy-policy: http://inbox-labs.com/privacy
+email: contact@inbox-labs.com
+---
 
-# Inbox Labs
 
-Name: Inbox Labs
-Domain: inbox-labs.com
-Home: http://inbox-labs.com/
-Privacy_policy: http://inbox-labs.com/privacy
-Email: contact@inbox-labs.com
+

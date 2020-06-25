@@ -1,8 +1,10 @@
+---
+company-name: Gravatar
+domain: gravatar.com
+home: http://en.gravatar.com/
+privacy-policy: http://automattic.com/privacy/
+owned-by: Automattic
+---
 
-# Gravatar
 
-Name: Gravatar
-Domain: gravatar.com
-Home: http://en.gravatar.com/
-Privacy_policy: http://automattic.com/privacy/
-Owned_by: Automattic
+

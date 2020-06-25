@@ -1,7 +1,9 @@
+---
+company-name: Sortable
+domain: sortable.com
+home: https://sortable.com/
+privacy-policy: https://www.sortable.com/privacy-policy
+---
 
-# Sortable
 
-Name: Sortable
-Domain: sortable.com
-Home: https://sortable.com/
-Privacy_policy: https://www.sortable.com/privacy-policy
+

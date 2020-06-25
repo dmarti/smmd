@@ -1,9 +1,11 @@
+---
+company-name: "Jemm Group"
+domain: jemmgroup.com
+home: http://jemmgroup.com/
+privacy-policy: http://jemmgroup.com/cookie-policy/
+email: info@jemmgroup.com
+member-of: "Internet Advertising Sales Houses Council"
+---
 
-# Jemm Group
 
-Name: Jemm Group
-Domain: jemmgroup.com
-Home: http://jemmgroup.com/
-Privacy_policy: http://jemmgroup.com/cookie-policy/
-Email: info@jemmgroup.com
-Member_of: Internet Advertising Sales Houses Council
+

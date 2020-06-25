@@ -1,8 +1,10 @@
+---
+company-name: Jampp
+domain: jampp.com
+home: https://jampp.com/
+privacy-policy: https://jampp.com/privacy-policy/
+email: privacy@jampp.com
+---
 
-# Jampp
 
-Name: Jampp
-Domain: jampp.com
-Home: https://jampp.com/
-Privacy_policy: https://jampp.com/privacy-policy/
-Email: privacy@jampp.com
+

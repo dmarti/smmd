@@ -1,9 +1,11 @@
+---
+company-name: Olapic
+domain: olapic.com
+home: https://www.olapic.com/
+privacy-policy: https://www.olapic.com/privacy-policy/
+email: legal@Olapic.com
+owned-by: Monotype
+---
 
-# Olapic
 
-Name: Olapic
-Domain: olapic.com
-Home: https://www.olapic.com/
-Privacy_policy: https://www.olapic.com/privacy-policy/
-Email: legal@Olapic.com
-Owned_by: Monotype
+

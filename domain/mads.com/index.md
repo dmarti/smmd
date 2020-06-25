@@ -1,6 +1,8 @@
+---
+company-name: MADS
+domain: mads.com
+home: http://mads.com/
+---
 
-# MADS
 
-Name: MADS
-Domain: mads.com
-Home: http://mads.com/
+

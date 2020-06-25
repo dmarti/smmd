@@ -1,23 +1,12 @@
-
-# Jellyfish US Ltd.
-
-Name: Jellyfish US Ltd.
-
-Domain: jellyfish.com
-
-Home: https://www.jellyfish.com/en-us
-
-Email: mydata [at] jellyfish.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/12/2020
-
-
-
+---
+company-name: "Jellyfish US Ltd."
+domain: jellyfish.com
+home: https://www.jellyfish.com/en-us
+email: "mydata [at] jellyfish.com"
+california-date: 02/12/2020
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +14,23 @@ California_date: 02/12/2020
 
 
 
+
 ## Additional info
 
 
 
+
 250 S. President StreetSuite 10Baltimore, MD 21202United States
+
+
+
+
+
+
+
+
+
+
+
+
 

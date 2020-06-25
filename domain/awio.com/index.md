@@ -1,7 +1,9 @@
+---
+company-name: "Awio Web Services"
+domain: awio.com
+home: http://www.awio.com/
+email: dan@awio.com
+---
 
-# Awio Web Services
 
-Name: Awio Web Services
-Domain: awio.com
-Home: http://www.awio.com/
-Email: dan@awio.com
+

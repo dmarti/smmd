@@ -1,8 +1,10 @@
+---
+company-name: "PowerFront (Inside)"
+domain: powerfront.com
+home: https://www.powerfront.com/Default.asp
+privacy-policy: http://www.powerfront.com/privacy-policy/
+email: support@powerfront.com
+---
 
-# PowerFront (Inside)
 
-Name: PowerFront (Inside)
-Domain: powerfront.com
-Home: https://www.powerfront.com/Default.asp
-Privacy_policy: http://www.powerfront.com/privacy-policy/
-Email: support@powerfront.com
+

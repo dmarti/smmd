@@ -1,8 +1,10 @@
+---
+company-name: iHeartmedia
+domain: iheart.com
+home: http://www.iheart.com/
+privacy-policy: https://www.iheart.com/news/privacy-and-cookie-notice-11584630/
+email: privacy@iheartradio.com
+---
 
-# iHeartmedia
 
-Name: iHeartmedia
-Domain: iheart.com
-Home: http://www.iheart.com/
-Privacy_policy: https://www.iheart.com/news/privacy-and-cookie-notice-11584630/
-Email: privacy@iheartradio.com
+

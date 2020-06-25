@@ -1,7 +1,9 @@
+---
+company-name: Truehits.net
+domain: truehits.net
+home: http://truehits.net/
+email: webmaster@truehits.net
+---
 
-# Truehits.net
 
-Name: Truehits.net
-Domain: truehits.net
-Home: http://truehits.net/
-Email: webmaster@truehits.net
+

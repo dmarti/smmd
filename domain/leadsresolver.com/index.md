@@ -1,8 +1,10 @@
+---
+company-name: "LeadsResolver (B2B Media Group EMEA GmbH)"
+domain: leadsresolver.com
+home: https://leadsresolver.com
+privacy-policy: https://leadsresolver.com/privacy
+email: email@iitr.de
+---
 
-# LeadsResolver (B2B Media Group EMEA GmbH)
 
-Name: LeadsResolver (B2B Media Group EMEA GmbH)
-Domain: leadsresolver.com
-Home: https://leadsresolver.com
-Privacy_policy: https://leadsresolver.com/privacy
-Email: email@iitr.de
+

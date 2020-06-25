@@ -1,11 +1,11 @@
+---
+company-name: "MTV Networks"
+domain: mtv.com
+home: http://www.mtv.com/
+privacy-policy: http://www.mtv.com/legal/privacy
+email: privacy@viacom.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# MTV Networks
 
-Name: MTV Networks
-Domain: mtv.com
-Home: http://www.mtv.com/
-Privacy_policy: http://www.mtv.com/legal/privacy
-Email: privacy@viacom.com
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

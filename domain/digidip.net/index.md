@@ -1,7 +1,9 @@
+---
+company-name: Digidip
+domain: digidip.net
+home: http://www.digidip.net/
+email: info@digidip.net
+---
 
-# Digidip
 
-Name: Digidip
-Domain: digidip.net
-Home: http://www.digidip.net/
-Email: info@digidip.net
+

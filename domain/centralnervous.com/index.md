@@ -1,6 +1,8 @@
+---
+company-name: "Central Nervous"
+domain: centralnervous.com
+home: http://centralnervous.com
+---
 
-# Central Nervous
 
-Name: Central Nervous
-Domain: centralnervous.com
-Home: http://centralnervous.com
+

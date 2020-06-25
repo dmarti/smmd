@@ -1,10 +1,11 @@
+---
+company-name: "CertainSource (formerly eWayDirect)"
+domain: certainsource.com
+home: http://www.certainsource.com/
+privacy-policy: http://www.certainsource.com/certainsource-privacy-policy.php
+email: privacy@certainsource.com
+member-of: "Online Trust Alliance"
+---
 
-# CertainSource (formerly eWayDirect)
 
-Name: CertainSource (formerly eWayDirect)
-Domain: certainsource.com
-Home: http://www.certainsource.com/
-Privacy_policy: http://www.certainsource.com/certainsource-privacy-policy.php
-Email: privacy@certainsource.com
-Member_of: DMA_ANA
-Member_of: Online Trust Alliance
+

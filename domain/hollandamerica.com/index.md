@@ -1,7 +1,9 @@
+---
+company-name: "Holland America Line"
+domain: hollandamerica.com
+home: http://www.hollandamerica.com
+privacy-policy: https://www.hollandamerica.com/en_US/legal-privacy/privacy-policy.html
+---
 
-# Holland America Line
 
-Name: Holland America Line
-Domain: hollandamerica.com
-Home: http://www.hollandamerica.com 
-Privacy_policy: https://www.hollandamerica.com/en_US/legal-privacy/privacy-policy.html
+

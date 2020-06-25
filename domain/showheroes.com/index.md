@@ -1,8 +1,10 @@
+---
+company-name: "Show Heroes"
+domain: showheroes.com
+home: http://showheroes.com/
+privacy-policy: http://showheroes.com/privacy
+email: info@showheroes.com
+---
 
-# Show Heroes
 
-Name: Show Heroes
-Domain: showheroes.com
-Home: http://showheroes.com/
-Privacy_policy: http://showheroes.com/privacy
-Email: info@showheroes.com
+

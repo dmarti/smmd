@@ -1,8 +1,10 @@
+---
+company-name: "Funny or Die"
+domain: funnyordie.com
+home: http://www.funnyordie.com/
+privacy-policy: http://www.funnyordie.com/about/privacy
+email: privacy@funnyordie.com
+---
 
-# Funny or Die
 
-Name: Funny or Die
-Domain: funnyordie.com
-Home: http://www.funnyordie.com/
-Privacy_policy: http://www.funnyordie.com/about/privacy
-Email: privacy@funnyordie.com
+

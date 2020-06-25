@@ -1,8 +1,10 @@
+---
+company-name: ActiveMeter
+domain: activemeter.com
+home: http://www.activemeter.com/
+privacy-policy: http://activeconversion.com/privacy-2.html
+owned-by: ActiveConversion
+---
 
-# ActiveMeter
 
-Name: ActiveMeter
-Domain: activemeter.com
-Home: http://www.activemeter.com/
-Privacy_policy: http://activeconversion.com/privacy-2.html
-Owned_by: ActiveConversion
+

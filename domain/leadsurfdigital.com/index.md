@@ -1,7 +1,9 @@
+---
+company-name: "Leadsurf Digital Marketing"
+domain: leadsurfdigital.com
+home: http://www.leadsurfdigital.com
+email: support@leadsurfdigital.com
+---
 
-# Leadsurf Digital Marketing
 
-Name: Leadsurf Digital Marketing
-Domain: leadsurfdigital.com
-Home: http://www.leadsurfdigital.com
-Email: support@leadsurfdigital.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Monumetric
+domain: monumetric.com
+home: https://www.monumetric.com/
+privacy-policy: https://www.monumetric.com/privacy-policy/
+email: monumetric.com
+---
 
-# Monumetric
 
-Name: Monumetric
-Domain: monumetric.com
-Home: https://www.monumetric.com/
-Privacy_policy: https://www.monumetric.com/privacy-policy/
-Email: monumetric.com
+

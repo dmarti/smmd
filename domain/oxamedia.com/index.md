@@ -1,8 +1,10 @@
+---
+company-name: OxaMedia
+domain: oxamedia.com
+home: http://www.oxamedia.com/
+privacy-policy: http://www.oxamedia.com/privacy-policy/
+email: support@oxamedia.com
+---
 
-# OxaMedia
 
-Name: OxaMedia
-Domain: oxamedia.com
-Home: http://www.oxamedia.com/
-Privacy_policy: http://www.oxamedia.com/privacy-policy/
-Email: support@oxamedia.com
+

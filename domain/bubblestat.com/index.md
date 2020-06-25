@@ -1,6 +1,8 @@
+---
+company-name: Bubblestat
+domain: bubblestat.com
+home: http://www.bubblestat.com/
+---
 
-# Bubblestat
 
-Name: Bubblestat
-Domain: bubblestat.com
-Home: http://www.bubblestat.com/
+

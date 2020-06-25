@@ -1,7 +1,9 @@
+---
+company-name: Sirdata
+domain: sirdata.com
+home: http://www.sirdata.com/home/
+privacy-policy: https://www.sirdata.com/privacy/
+---
 
-# Sirdata
 
-Name: Sirdata
-Domain: sirdata.com
-Home: http://www.sirdata.com/home/
-Privacy_policy: https://www.sirdata.com/privacy/
+

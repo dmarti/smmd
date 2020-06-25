@@ -1,7 +1,9 @@
+---
+company-name: LeadQuizzes
+domain: leadquizzes.com
+home: https://www.leadquizzes.com/
+privacy-policy: https://www.leadquizzes.com/privacy-policy/
+---
 
-# LeadQuizzes
 
-Name: LeadQuizzes
-Domain: leadquizzes.com
-Home: https://www.leadquizzes.com/
-Privacy_policy: https://www.leadquizzes.com/privacy-policy/
+

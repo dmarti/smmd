@@ -1,6 +1,8 @@
+---
+company-name: "Next Click Ads"
+domain: nextclickads.com
+home: http://nextclickads.com
+---
 
-# Next Click Ads
 
-Name: Next Click Ads
-Domain: nextclickads.com
-Home: http://nextclickads.com
+

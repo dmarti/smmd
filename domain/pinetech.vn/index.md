@@ -1,6 +1,8 @@
+---
+company-name: "New PineTech"
+domain: pinetech.vn
+home: http://www.pinetech.vn
+---
 
-# New PineTech
 
-Name: New PineTech
-Domain: pinetech.vn
-Home: http://www.pinetech.vn
+

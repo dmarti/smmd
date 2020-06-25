@@ -1,6 +1,8 @@
+---
+company-name: "Locker Room Media"
+domain: lockerroomuk.com
+home: http://lockerroomuk.com/
+---
 
-# Locker Room Media
 
-Name: Locker Room Media
-Domain: lockerroomuk.com
-Home: http://lockerroomuk.com/
+

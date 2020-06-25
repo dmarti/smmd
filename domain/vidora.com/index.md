@@ -1,8 +1,10 @@
+---
+company-name: Vidora
+domain: vidora.com
+home: https://www.vidora.com/
+privacy-policy: https://www.vidora.com/privacy-policy/
+email: support@vidora.com
+---
 
-# Vidora
 
-Name: Vidora
-Domain: vidora.com
-Home: https://www.vidora.com/
-Privacy_policy: https://www.vidora.com/privacy-policy/
-Email: support@vidora.com
+

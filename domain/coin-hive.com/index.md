@@ -1,7 +1,9 @@
+---
+company-name: CoinHive
+domain: coin-hive.com
+home: https://coin-hive.com/
+privacy-policy: https://coinhive.com/info/privacy
+---
 
-# CoinHive
 
-Name: CoinHive
-Domain: coin-hive.com
-Home: https://coin-hive.com/
-Privacy_policy: https://coinhive.com/info/privacy
+

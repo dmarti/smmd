@@ -1,7 +1,9 @@
+---
+company-name: top5meilleurssitesderencontre
+domain: top5meilleurssitesderencontre.com
+home: http://www.top5meilleurssitesderencontre.com/
+privacy-policy: http://www.top5meilleurssitesderencontre.com/index/privacy
+---
 
-# top5meilleurssitesderencontre
 
-Name: top5meilleurssitesderencontre
-Domain: top5meilleurssitesderencontre.com
-Home: http://www.top5meilleurssitesderencontre.com/
-Privacy_policy: http://www.top5meilleurssitesderencontre.com/index/privacy
+

@@ -1,8 +1,10 @@
+---
+company-name: Snitcher
+domain: snitcher.com
+home: https://www.snitcher.com/
+privacy-policy: https://www.snitcher.com/privacy-policy
+email: support@snitcher.com
+---
 
-# Snitcher
 
-Name: Snitcher
-Domain: snitcher.com
-Home: https://www.snitcher.com/
-Privacy_policy: https://www.snitcher.com/privacy-policy
-Email: support@snitcher.com
+

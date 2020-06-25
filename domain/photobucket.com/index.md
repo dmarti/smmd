@@ -1,8 +1,10 @@
+---
+company-name: Photobucket
+domain: photobucket.com
+home: http://photobucket.com/
+privacy-policy: http://photobucket.com/privacyPolicy
+email: support@photobucket.com
+---
 
-# Photobucket
 
-Name: Photobucket
-Domain: photobucket.com
-Home: http://photobucket.com/
-Privacy_policy: http://photobucket.com/privacyPolicy
-Email: support@photobucket.com
+

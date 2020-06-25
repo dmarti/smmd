@@ -1,6 +1,8 @@
+---
+company-name: "KR Media"
+domain: krmedia-france.com
+home: http://www.krmedia-france.com/
+---
 
-# KR Media
 
-Name: KR Media
-Domain: krmedia-france.com
-Home: http://www.krmedia-france.com/
+

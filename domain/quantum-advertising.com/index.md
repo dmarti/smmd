@@ -1,7 +1,9 @@
+---
+company-name: "quantum Native Solutions"
+domain: quantum-advertising.com
+home: http://quantum-advertising.com/en/
+privacy-policy: http://quantum-advertising.com/privacy.html
+---
 
-# quantum Native Solutions
 
-Name: quantum Native Solutions
-Domain: quantum-advertising.com
-Home: http://quantum-advertising.com/en/
-Privacy_policy: http://quantum-advertising.com/privacy.html
+

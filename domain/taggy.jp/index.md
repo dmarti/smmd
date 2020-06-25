@@ -1,7 +1,9 @@
+---
+company-name: TAGGY
+domain: taggy.jp
+home: http://biz.taggy.jp/
+privacy-policy: http://biz.taggy.jp/pp/
+---
 
-# TAGGY
 
-Name: TAGGY
-Domain: taggy.jp
-Home: http://biz.taggy.jp/
-Privacy_policy: http://biz.taggy.jp/pp/
+

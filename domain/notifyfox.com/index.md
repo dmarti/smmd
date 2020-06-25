@@ -1,8 +1,10 @@
+---
+company-name: Notifyfox
+domain: notifyfox.com
+home: https://notifyfox.com/
+privacy-policy: https://notifyfox.com/privacy-policy
+email: info@notifyfox.com
+---
 
-# Notifyfox
 
-Name: Notifyfox
-Domain: notifyfox.com
-Home: https://notifyfox.com/
-Privacy_policy: https://notifyfox.com/privacy-policy
-Email: info@notifyfox.com
+

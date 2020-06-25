@@ -1,7 +1,9 @@
+---
+company-name: Bango
+domain: bango.com
+home: https://bango.com/
+email: dataprivacy@bango.com
+---
 
-# Bango
 
-Name: Bango
-Domain: bango.com
-Home: https://bango.com/
-Email: dataprivacy@bango.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Traceworks
+domain: traceworks.com
+home: http://www.traceworks.com/
+privacy-policy: http://www.traceworks.com/software/privacy/
+email: sales@traceworks.com
+---
 
-# Traceworks
 
-Name: Traceworks
-Domain: traceworks.com
-Home: http://www.traceworks.com/
-Privacy_policy: http://www.traceworks.com/software/privacy/
-Email: sales@traceworks.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Bookingbug
+domain: bookingbug.com
+home: https://www.bookingbug.com/
+privacy-policy: https://www.bookingbug.com/privacy
+email: support@bookingbug.com
+---
 
-# Bookingbug
 
-Name: Bookingbug
-Domain: bookingbug.com
-Home: https://www.bookingbug.com/
-Privacy_policy: https://www.bookingbug.com/privacy
-Email: support@bookingbug.com
+

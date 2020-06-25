@@ -1,7 +1,9 @@
+---
+company-name: Seznam
+domain: seznam.cz
+home: https://www.seznam.cz/
+privacy-policy: https://o.seznam.cz/ochrana-udaju/
+---
 
-# Seznam
 
-Name: Seznam
-Domain: seznam.cz
-Home: https://www.seznam.cz/
-Privacy_policy: https://o.seznam.cz/ochrana-udaju/
+

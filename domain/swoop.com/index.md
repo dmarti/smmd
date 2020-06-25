@@ -1,7 +1,9 @@
+---
+company-name: Swoop
+domain: swoop.com
+home: http://www.swoop.com/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Swoop
 
-Name: Swoop
-Domain: swoop.com
-Home: http://www.swoop.com/
-Member_of: Interactive Advertising Bureau (IAB)
+

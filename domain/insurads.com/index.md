@@ -1,9 +1,11 @@
+---
+company-name: InsurAds
+domain: insurads.com
+home: https://www.insurads.com/
+privacy-policy: https://www.insurads.com/privacy.html
+email: support@insurads.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# InsurAds
 
-Name: InsurAds
-Domain: insurads.com
-Home: https://www.insurads.com/
-Privacy_policy: https://www.insurads.com/privacy.html
-Email: support@insurads.com
-Member_of: Interactive Advertising Bureau (IAB)
+

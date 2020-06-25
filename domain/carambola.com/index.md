@@ -1,8 +1,10 @@
+---
+company-name: Carambola
+domain: carambola.com
+home: https://www.carambola.com/
+privacy-policy: https://www.carambola.com/privacyPolicy/index.html
+email: contact@carambola.com
+---
 
-# Carambola
 
-Name: Carambola
-Domain: carambola.com
-Home: https://www.carambola.com/
-Privacy_policy: https://www.carambola.com/privacyPolicy/index.html
-Email: contact@carambola.com
+

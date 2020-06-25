@@ -1,8 +1,10 @@
+---
+company-name: ucfunnel
+domain: ucfunnel.com
+home: https://www.ucfunnel.com/
+privacy-policy: https://www.ucfunnel.com/privacy-policy
+email: pr@ucfunnel.com
+---
 
-# ucfunnel
 
-Name: ucfunnel
-Domain: ucfunnel.com
-Home: https://www.ucfunnel.com/
-Privacy_policy: https://www.ucfunnel.com/privacy-policy
-Email: pr@ucfunnel.com
+

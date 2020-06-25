@@ -1,8 +1,10 @@
+---
+company-name: AdEasy
+domain: adeasy.ru
+home: http://www.adeasy.ru/
+privacy-policy: http://www.adeasy.ru/content/docs/legal/AdEasy_personal_data_policy.pdf?55
+email: support@adeasy.ru
+---
 
-# AdEasy
 
-Name: AdEasy
-Domain: adeasy.ru
-Home: http://www.adeasy.ru/
-Privacy_policy: http://www.adeasy.ru/content/docs/legal/AdEasy_personal_data_policy.pdf?55
-Email: support@adeasy.ru
+

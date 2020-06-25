@@ -1,8 +1,10 @@
+---
+company-name: Grindr
+domain: grindr.com
+home: https://www.grindr.com/
+privacy-policy: https://www.grindr.com/app/privacy-policy
+email: privacy@grindr.com
+---
 
-# Grindr
 
-Name: Grindr
-Domain: grindr.com
-Home: https://www.grindr.com/
-Privacy_policy: https://www.grindr.com/app/privacy-policy
-Email: privacy@grindr.com
+

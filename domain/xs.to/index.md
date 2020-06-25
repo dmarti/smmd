@@ -1,7 +1,9 @@
+---
+company-name: XS.to
+domain: xs.to
+home: http://www.xs.to/
+privacy-policy: http://xs.to/page/terms
+---
 
-# XS.to
 
-Name: XS.to
-Domain: xs.to
-Home: http://www.xs.to/
-Privacy_policy: http://xs.to/page/terms
+

@@ -1,8 +1,10 @@
+---
+company-name: AppLift
+domain: applift.com
+home: https://www.applift.com/
+privacy-policy: https://www.applift.com/privacy-policy
+email: dataprotection@applift.com
+---
 
-# AppLift
 
-Name: AppLift
-Domain: applift.com
-Home: https://www.applift.com/
-Privacy_policy: https://www.applift.com/privacy-policy
-Email: dataprotection@applift.com
+

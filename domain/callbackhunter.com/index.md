@@ -1,8 +1,10 @@
+---
+company-name: CallbackHunter
+domain: callbackhunter.com
+home: http://callbackhunter.com
+privacy-policy: https://callbackhunter.com/img/offerta_en.pdf
+email: team@callbackhunter.com
+---
 
-# CallbackHunter
 
-Name: CallbackHunter
-Domain: callbackhunter.com
-Home: http://callbackhunter.com
-Privacy_policy: https://callbackhunter.com/img/offerta_en.pdf
-Email: team@callbackhunter.com
+

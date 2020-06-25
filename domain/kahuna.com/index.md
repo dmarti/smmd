@@ -1,9 +1,11 @@
+---
+company-name: Kahuna
+domain: kahuna.com
+home: https://www.kahuna.com/
+privacy-policy: https://www.kahuna.com/privacy-policy/
+email: privacy@kahuna.com
+member-of: TrustE_TrustArc
+---
 
-# Kahuna
 
-Name: Kahuna
-Domain: kahuna.com
-Home: https://www.kahuna.com/
-Privacy_policy: https://www.kahuna.com/privacy-policy/
-Email: privacy@kahuna.com
-Member_of: TrustE_TrustArc
+

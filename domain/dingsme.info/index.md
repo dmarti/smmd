@@ -1,6 +1,8 @@
+---
+company-name: Dingsme
+domain: dingsme.info
+home: http://dingsme.info/
+---
 
-# Dingsme
 
-Name: Dingsme
-Domain: dingsme.info
-Home: http://dingsme.info/
+

@@ -1,8 +1,10 @@
+---
+company-name: "Maker Studios"
+domain: makerstudios.com
+home: http://www.makerstudios.com/
+privacy-policy: https://privacy.thewaltdisneycompany.com/en/
+owned-by: Disney
+---
 
-# Maker Studios
 
-Name: Maker Studios
-Domain: makerstudios.com
-Home: http://www.makerstudios.com/
-Privacy_policy: https://privacy.thewaltdisneycompany.com/en/
-Owned_by: Disney
+

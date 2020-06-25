@@ -1,8 +1,10 @@
+---
+company-name: "Affiz CPM"
+domain: affiz.com
+home: http://cpm.affiz.com/home
+email: contact@affiz.com
+owned-by: Evonia
+---
 
-# Affiz CPM
 
-Name: Affiz CPM
-Domain: affiz.com
-Home: http://cpm.affiz.com/home
-Email: contact@affiz.com
-Owned_by: Evonia
+

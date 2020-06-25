@@ -1,9 +1,11 @@
+---
+company-name: Razorfish
+domain: razorfish.com
+home: http://www.razorfish.com
+privacy-policy: https://www.sapientrazorfish.com/general/privacy
+email: privacyinfo@razorfish.com
+owned-by: "Publicis Groupe"
+---
 
-# Razorfish
 
-Name: Razorfish
-Domain: razorfish.com
-Home: http://www.razorfish.com
-Privacy_policy: https://www.sapientrazorfish.com/general/privacy
-Email: privacyinfo@razorfish.com
-Owned_by: Publicis Groupe
+

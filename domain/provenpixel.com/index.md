@@ -1,7 +1,9 @@
+---
+company-name: ProvenPixel
+domain: provenpixel.com
+home: http://www.provenpixel.com/
+owned-by: SourceKnowledge
+---
 
-# ProvenPixel
 
-Name: ProvenPixel
-Domain: provenpixel.com
-Home: http://www.provenpixel.com/
-Owned_by: SourceKnowledge
+

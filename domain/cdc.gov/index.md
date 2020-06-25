@@ -1,8 +1,10 @@
+---
+company-name: "Center For Disease Control"
+domain: cdc.gov
+home: https://www.cdc.gov/
+privacy-policy: https://www.cdc.gov/Other/privacy.html
+email: privacy@cdc.gov
+---
 
-# Center For Disease Control
 
-Name: Center For Disease Control
-Domain: cdc.gov
-Home: https://www.cdc.gov/
-Privacy_policy: https://www.cdc.gov/Other/privacy.html
-Email: privacy@cdc.gov
+

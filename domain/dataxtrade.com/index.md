@@ -1,8 +1,10 @@
+---
+company-name: dataXtrade
+domain: dataxtrade.com
+home: http://www.dataxtrade.com/de.html
+privacy-policy: http://www.dataxtrade.com/de/privacy.html
+email: info@dataxtrade.com
+---
 
-# dataXtrade
 
-Name: dataXtrade
-Domain: dataxtrade.com
-Home: http://www.dataxtrade.com/de.html
-Privacy_policy: http://www.dataxtrade.com/de/privacy.html
-Email: info@dataxtrade.com
+

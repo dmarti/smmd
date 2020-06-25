@@ -1,8 +1,10 @@
+---
+company-name: AdSniper
+domain: adsniper.ru
+home: http://adsniper.ru/
+privacy-policy: http://adsniper.ru/confidency.php
+email: info@adsniper.ru
+---
 
-# AdSniper
 
-Name: AdSniper
-Domain: adsniper.ru
-Home: http://adsniper.ru/
-Privacy_policy: http://adsniper.ru/confidency.php
-Email: info@adsniper.ru
+

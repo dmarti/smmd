@@ -1,8 +1,10 @@
+---
+company-name: tapCLIQ
+domain: tapcliq.com
+home: https://www.tapcliq.com/
+privacy-policy: https://www.tapcliq.com/privacy
+email: support@tapcliq.com
+---
 
-# tapCLIQ
 
-Name: tapCLIQ
-Domain: tapcliq.com
-Home: https://www.tapcliq.com/
-Privacy_policy: https://www.tapcliq.com/privacy
-Email: support@tapcliq.com
+

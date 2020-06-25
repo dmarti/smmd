@@ -1,7 +1,9 @@
+---
+company-name: BidVertiser
+domain: bidvertiser.com
+home: https://www.bidvertiser.com/
+privacy-policy: https://www.bidvertiser.com/privacy/
+---
 
-# BidVertiser
 
-Name: BidVertiser
-Domain: bidvertiser.com
-Home: https://www.bidvertiser.com/
-Privacy_policy: https://www.bidvertiser.com/privacy/
+

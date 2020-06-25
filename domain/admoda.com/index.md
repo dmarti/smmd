@@ -1,7 +1,9 @@
+---
+company-name: Admoda
+domain: admoda.com
+home: http://www.admoda.com/
+email: info@admoda.com
+---
 
-# Admoda
 
-Name: Admoda
-Domain: admoda.com
-Home: http://www.admoda.com/
-Email: info@admoda.com
+

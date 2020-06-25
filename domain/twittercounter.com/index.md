@@ -1,8 +1,10 @@
+---
+company-name: "Twitter Counter"
+domain: twittercounter.com
+home: https://www.twittercounter.com/
+privacy-policy: https://twittercounter.com/privacy-policy.pdf
+email: privacy@twittercounter.com
+---
 
-# Twitter Counter
 
-Name: Twitter Counter
-Domain: twittercounter.com
-Home: https://www.twittercounter.com/
-Privacy_policy: https://twittercounter.com/privacy-policy.pdf
-Email: privacy@twittercounter.com
+

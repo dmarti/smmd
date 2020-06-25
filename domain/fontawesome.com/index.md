@@ -1,7 +1,9 @@
+---
+company-name: "Font Awesome"
+domain: fontawesome.com
+home: https://fontawesome.com/
+privacy-policy: http://
+---
 
-# Font Awesome
 
-Name: Font Awesome
-Domain: fontawesome.com
-Home: https://fontawesome.com/
-Privacy_policy: http://
+

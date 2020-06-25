@@ -1,21 +1,10 @@
-
-# 1010data.com
-
-Name: 1010data.com
-
-Domain: 1010data.com
-
-Home: https://www.1010data.com/
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: 1010data.com
+domain: 1010data.com
+home: https://www.1010data.com/
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

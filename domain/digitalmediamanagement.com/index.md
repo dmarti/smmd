@@ -1,8 +1,10 @@
+---
+company-name: "Digital Media Management"
+domain: digitalmediamanagement.com
+home: http://digitalmediamanagement.com/
+privacy-policy: http://digitalmediamanagement.com/privacy-policy/
+email: info@digitalmediamanagement.com
+---
 
-# Digital Media Management
 
-Name: Digital Media Management
-Domain: digitalmediamanagement.com
-Home: http://digitalmediamanagement.com/
-Privacy_policy: http://digitalmediamanagement.com/privacy-policy/
-Email: info@digitalmediamanagement.com
+

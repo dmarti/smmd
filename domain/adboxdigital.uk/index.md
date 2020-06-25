@@ -1,8 +1,10 @@
+---
+company-name: "Adbox Digital"
+domain: adboxdigital.uk
+home: https://www.adboxdigital.uk/
+privacy-policy: https://www.adboxdigital.uk/privacy
+email: info@adboxdigital.uk
+---
 
-# Adbox Digital
 
-Name: Adbox Digital
-Domain: adboxdigital.uk
-Home: https://www.adboxdigital.uk/
-Privacy_policy: https://www.adboxdigital.uk/privacy
-Email: info@adboxdigital.uk
+

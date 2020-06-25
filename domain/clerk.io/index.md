@@ -1,8 +1,10 @@
+---
+company-name: Clerk.io
+domain: clerk.io
+home: https://clerk.io/
+privacy-policy: https://clerk.io/privacy
+email: support@clerk.io
+---
 
-# Clerk.io
 
-Name: Clerk.io
-Domain: clerk.io
-Home: https://clerk.io/
-Privacy_policy: https://clerk.io/privacy
-Email: support@clerk.io
+

@@ -1,6 +1,8 @@
+---
+company-name: Jaludo
+domain: jaludo.com
+home: http://www.jaludo.com/
+---
 
-# Jaludo
 
-Name: Jaludo
-Domain: jaludo.com
-Home: http://www.jaludo.com/
+

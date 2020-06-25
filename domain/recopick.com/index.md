@@ -1,8 +1,10 @@
+---
+company-name: RecoPick
+domain: recopick.com
+home: https://recopick.com/
+privacy-policy: https://recopick.com/privacypolicy
+email: privacy.skp@sk.com
+---
 
-# RecoPick
 
-Name: RecoPick
-Domain: recopick.com
-Home: https://recopick.com/
-Privacy_policy: https://recopick.com/privacypolicy
-Email: privacy.skp@sk.com
+

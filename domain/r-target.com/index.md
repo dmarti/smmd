@@ -1,9 +1,11 @@
+---
+company-name: r-target
+domain: r-target.com
+home: http://www.r-target.com/
+privacy-policy: http://www.r-target.com/internaute
+email: contact@r-target.com
+owned-by: "CCM Benchmark"
+---
 
-# r-target
 
-Name: r-target
-Domain: r-target.com
-Home: http://www.r-target.com/
-Privacy_policy: http://www.r-target.com/internaute
-Email: contact@r-target.com
-Owned_by: CCM Benchmark
+

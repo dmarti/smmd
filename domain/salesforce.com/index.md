@@ -1,10 +1,11 @@
+---
+company-name: Salesforce
+domain: salesforce.com
+home: https://www.salesforce.com/
+privacy-policy: https://www.salesforce.com/company/privacy/
+email: privacy@salesforce.com
+member-of: TrustE_TrustArc
+---
 
-# Salesforce
 
-Name: Salesforce
-Domain: salesforce.com
-Home: https://www.salesforce.com/
-Privacy_policy: https://www.salesforce.com/company/privacy/
-Email: privacy@salesforce.com
-Member_of: Association of National Advertisers
-Member_of: TrustE_TrustArc
+

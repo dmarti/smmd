@@ -1,9 +1,11 @@
+---
+company-name: Cookiebot
+domain: cookiebot.com
+home: https://www.cookiebot.com
+privacy-policy: https://www.cookiebot.com/en/privacy-policy/
+email: dpo@cybot.com
+owned-by: Cybot
+---
 
-# Cookiebot
 
-Name: Cookiebot
-Domain: cookiebot.com
-Home: https://www.cookiebot.com
-Privacy_policy: https://www.cookiebot.com/en/privacy-policy/
-Email: dpo@cybot.com
-Owned_by: Cybot
+

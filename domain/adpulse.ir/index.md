@@ -1,6 +1,8 @@
+---
+company-name: AdPulse.ir
+domain: adpulse.ir
+home: http://adpulse.ir/
+---
 
-# AdPulse.ir
 
-Name: AdPulse.ir
-Domain: adpulse.ir
-Home: http://adpulse.ir/
+

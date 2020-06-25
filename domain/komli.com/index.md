@@ -1,7 +1,9 @@
+---
+company-name: "Komli Mobile (formerly ZestADZ)"
+domain: komli.com
+home: http://www.komli.com/komli-mobile.htm
+owned-by: "RevX (Formally Komli Media)"
+---
 
-# Komli Mobile (formerly ZestADZ)
 
-Name: Komli Mobile (formerly ZestADZ)
-Domain: komli.com
-Home: http://www.komli.com/komli-mobile.htm
-Owned_by: RevX (Formally Komli Media)
+

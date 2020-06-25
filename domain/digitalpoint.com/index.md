@@ -1,7 +1,9 @@
+---
+company-name: "Digital Point"
+domain: digitalpoint.com
+home: https://www.digitalpoint.com/
+privacy-policy: https://www.digitalpoint.com/help/cookies
+---
 
-# Digital Point
 
-Name: Digital Point
-Domain: digitalpoint.com
-Home: https://www.digitalpoint.com/
-Privacy_policy: https://www.digitalpoint.com/help/cookies
+

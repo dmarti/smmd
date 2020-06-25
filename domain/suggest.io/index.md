@@ -1,7 +1,9 @@
+---
+company-name: Suggest.io
+domain: suggest.io
+home: https://suggest.io/
+email: support@suggest.io
+---
 
-# Suggest.io
 
-Name: Suggest.io
-Domain: suggest.io
-Home: https://suggest.io/
-Email: support@suggest.io
+

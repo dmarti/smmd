@@ -1,7 +1,9 @@
+---
+company-name: "Bisnode (formerly Esendra)"
+domain: bisnode.fi
+home: http://liidi.bisnode.fi/
+privacy-policy: http://liidi.bisnode.fi/yksityisyys.html
+---
 
-# Bisnode (formerly Esendra)
 
-Name: Bisnode (formerly Esendra)
-Domain: bisnode.fi
-Home: http://liidi.bisnode.fi/
-Privacy_policy: http://liidi.bisnode.fi/yksityisyys.html
+

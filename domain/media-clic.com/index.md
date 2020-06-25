@@ -1,6 +1,8 @@
+---
+company-name: Media-Click
+domain: media-clic.com
+home: http://www.media-clic.com/
+---
 
-# Media-Click
 
-Name: Media-Click
-Domain: media-clic.com
-Home: http://www.media-clic.com/
+

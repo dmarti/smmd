@@ -1,7 +1,9 @@
+---
+company-name: "Envybox (formerly Callback KILLER)"
+domain: envybox.io
+home: https://envybox.io/
+email: support@envybox.io
+---
 
-# Envybox (formerly Callback KILLER)
 
-Name: Envybox (formerly Callback KILLER)
-Domain: envybox.io
-Home: https://envybox.io/
-Email: support@envybox.io
+

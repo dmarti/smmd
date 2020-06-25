@@ -1,8 +1,10 @@
+---
+company-name: "Mediacom Poland"
+domain: mcw.com.pl
+home: http://www.mcw.com.pl
+email: daniel.marciniak@mediacom.com
+owned-by: Mediacom
+---
 
-# Mediacom Poland
 
-Name: Mediacom Poland
-Domain: mcw.com.pl
-Home: http://www.mcw.com.pl
-Email: daniel.marciniak@mediacom.com
-Owned_by: Mediacom
+

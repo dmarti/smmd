@@ -1,8 +1,10 @@
+---
+company-name: Rekmob
+domain: rekmob.com
+home: https://www.rekmob.com/
+privacy-policy: https://rekmob.s3.amazonaws.com/parallax/agreements.html
+email: contact@rekmob.com
+---
 
-# Rekmob
 
-Name: Rekmob
-Domain: rekmob.com
-Home: https://www.rekmob.com/
-Privacy_policy: https://rekmob.s3.amazonaws.com/parallax/agreements.html
-Email: contact@rekmob.com
+

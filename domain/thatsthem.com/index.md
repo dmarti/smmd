@@ -1,21 +1,11 @@
-
-# thats them
-
-Name: thats them
-
-Domain: thatsthem.com
-
-Home: https://thatsthem.com/
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: http://www.spoke.com/
-
-
-
+---
+company-name: "thats them"
+domain: thatsthem.com
+home: https://thatsthem.com/
+opt-out-url: http://www.spoke.com/
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +13,20 @@ Opt_out_url: http://www.spoke.com/
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

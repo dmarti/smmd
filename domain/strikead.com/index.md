@@ -1,10 +1,12 @@
+---
+company-name: StrikeAd
+domain: strikead.com
+home: http://www.strikead.com/
+privacy-policy: https://www.sizmek.com/privacy-policy/
+email: privacy@strikead.com
+owned-by: Sizmek
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# StrikeAd
 
-Name: StrikeAd
-Domain: strikead.com
-Home: http://www.strikead.com/
-Privacy_policy: https://www.sizmek.com/privacy-policy/
-Email: privacy@strikead.com
-Owned_by: Sizmek
-Member_of: Interactive Advertising Bureau (IAB)
+

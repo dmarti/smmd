@@ -1,8 +1,10 @@
+---
+company-name: Narando
+domain: narando.com
+home: https://narando.com/
+privacy-policy: https://narando.com/privacy
+email: contact@narando.de
+---
 
-# Narando
 
-Name: Narando
-Domain: narando.com
-Home: https://narando.com/
-Privacy_policy: https://narando.com/privacy
-Email: contact@narando.de
+

@@ -1,8 +1,10 @@
+---
+company-name: SheerID
+domain: sheerid.com
+home: http://www.sheerid.com/
+privacy-policy: https://www.sheerid.com/privacy-policy/
+email: privacy@sheerid.com
+---
 
-# SheerID
 
-Name: SheerID
-Domain: sheerid.com
-Home: http://www.sheerid.com/
-Privacy_policy: https://www.sheerid.com/privacy-policy/
-Email: privacy@sheerid.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Wahoha
+domain: wahoha.com
+home: http://wahoha.com/
+privacy-policy: http://wahoha.com/privacy_policy
+email: support@wahoha.com
+---
 
-# Wahoha
 
-Name: Wahoha
-Domain: wahoha.com
-Home: http://wahoha.com/
-Privacy_policy: http://wahoha.com/privacy_policy
-Email: support@wahoha.com
+

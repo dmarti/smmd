@@ -1,6 +1,8 @@
+---
+company-name: hdtMEDIA
+domain: hdtmedia.com
+home: http://eng.hdtmedia.com/
+---
 
-# hdtMEDIA
 
-Name: hdtMEDIA
-Domain: hdtmedia.com
-Home: http://eng.hdtmedia.com/
+

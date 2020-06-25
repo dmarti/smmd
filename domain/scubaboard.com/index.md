@@ -1,6 +1,8 @@
+---
+company-name: ScubaBoard
+domain: scubaboard.com
+home: http://www.scubaboard.com
+---
 
-# ScubaBoard
 
-Name: ScubaBoard
-Domain: scubaboard.com
-Home: http://www.scubaboard.com
+

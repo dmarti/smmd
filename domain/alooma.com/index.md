@@ -1,8 +1,10 @@
+---
+company-name: Alooma
+domain: alooma.com
+home: https://www.alooma.com/
+privacy-policy: https://www.alooma.com/privacy
+email: privacy@alooma.com
+---
 
-# Alooma
 
-Name: Alooma
-Domain: alooma.com
-Home: https://www.alooma.com/
-Privacy_policy: https://www.alooma.com/privacy
-Email: privacy@alooma.com
+

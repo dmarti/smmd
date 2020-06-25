@@ -1,7 +1,9 @@
-# LG
+---
+company-name: LG
+domain: lg.com
+opt-out-url: https://www.lg.com/us/privacy
+---
 
-Name: LG
 
-Domain: lg.com
 
-Opt_out_url: https://www.lg.com/us/privacy
+

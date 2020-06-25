@@ -1,8 +1,10 @@
+---
+company-name: "Roy Morgan Research"
+domain: roymorgan.com
+home: http://www.roymorgan.com/
+privacy-policy: http://www.roymorgan.com/legal/privacy
+email: privacyofficer@roymorgan.com
+---
 
-# Roy Morgan Research
 
-Name: Roy Morgan Research
-Domain: roymorgan.com
-Home: http://www.roymorgan.com/
-Privacy_policy: http://www.roymorgan.com/legal/privacy
-Email: privacyofficer@roymorgan.com
+

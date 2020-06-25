@@ -1,9 +1,11 @@
+---
+company-name: Adzerk
+domain: adzerk.com
+home: https://adzerk.com/
+privacy-policy: https://dev.adzerk.com/docs/privacy-policy-ad-server
+email: support@adzerk.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Adzerk
 
-Name: Adzerk
-Domain: adzerk.com
-Home: https://adzerk.com/
-Privacy_policy: https://dev.adzerk.com/docs/privacy-policy-ad-server
-Email: support@adzerk.com
-Member_of: Interactive Advertising Bureau (IAB)
+

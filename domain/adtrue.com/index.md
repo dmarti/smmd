@@ -1,7 +1,9 @@
+---
+company-name: AdTrue
+domain: adtrue.com
+home: https://adtrue.com/
+email: hello@adtrue.com
+---
 
-# AdTrue
 
-Name: AdTrue
-Domain: adtrue.com
-Home: https://adtrue.com/
-Email: hello@adtrue.com
+

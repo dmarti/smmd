@@ -1,7 +1,9 @@
+---
+company-name: Adshot.de
+domain: adshot.de
+home: http://www.adshot.de
+privacy-policy: http://www.adshot.de/datenschutz.php
+---
 
-# Adshot.de
 
-Name: Adshot.de
-Domain: adshot.de
-Home: http://www.adshot.de
-Privacy_policy: http://www.adshot.de/datenschutz.php
+

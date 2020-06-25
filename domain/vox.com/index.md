@@ -1,7 +1,9 @@
-# Vox
+---
+company-name: Vox
+domain: vox.com
+opt-out-url: https://www.vox.com/contact#donotsell
+---
 
-Name: Vox
 
-Domain: vox.com
 
-Opt_out_url: https://www.vox.com/contact#donotsell
+

@@ -1,8 +1,10 @@
+---
+company-name: "Hola Spark (FKA Hola CDN/ Hola Networks)"
+domain: holaspark.com
+home: https://holaspark.com/cdn/
+privacy-policy: https://holaspark.com/privacy
+email: privacy@holaspark.com
+---
 
-# Hola Spark (FKA Hola CDN/ Hola Networks)
 
-Name: Hola Spark (FKA Hola CDN/ Hola Networks)
-Domain: holaspark.com
-Home: https://holaspark.com/cdn/
-Privacy_policy: https://holaspark.com/privacy
-Email: privacy@holaspark.com
+

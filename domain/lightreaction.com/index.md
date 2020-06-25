@@ -1,8 +1,10 @@
+---
+company-name: "Light Reaction"
+domain: lightreaction.com
+home: http://lightreaction.com/en/
+privacy-policy: http://lightreaction.com/en/policy_us/
+email: privacy@lightreaction.com
+---
 
-# Light Reaction
 
-Name: Light Reaction
-Domain: lightreaction.com
-Home: http://lightreaction.com/en/
-Privacy_policy: http://lightreaction.com/en/policy_us/
-Email: privacy@lightreaction.com
+

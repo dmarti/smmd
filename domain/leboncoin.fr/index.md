@@ -1,10 +1,12 @@
+---
+company-name: "LBC France"
+domain: leboncoin.fr
+home: https://www.leboncoin.fr/
+privacy-policy: https://www.leboncoin.fr/dc/cookies/
+email: fr.privacyleboncoin@schibsted.com
+owned-by: "Schibsted Media"
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# LBC France
 
-Name: LBC France
-Domain: leboncoin.fr
-Home: https://www.leboncoin.fr/
-Privacy_policy: https://www.leboncoin.fr/dc/cookies/
-Email: fr.privacyleboncoin@schibsted.com
-Owned_by: Schibsted Media
-Member_of: Interactive Advertising Bureau (IAB)
+

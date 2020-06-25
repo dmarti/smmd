@@ -1,9 +1,11 @@
+---
+company-name: "DC Storm"
+domain: dc-storm.com
+home: http://www.dc-storm.com/
+privacy-policy: http://dc-storm.com/en-uk/privacy-policy/
+email: info@dc-storm.com
+owned-by: "Rakuten Marketing"
+---
 
-# DC Storm
 
-Name: DC Storm
-Domain: dc-storm.com
-Home: http://www.dc-storm.com/
-Privacy_policy: http://dc-storm.com/en-uk/privacy-policy/
-Email: info@dc-storm.com
-Owned_by: Rakuten Marketing
+

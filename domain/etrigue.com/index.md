@@ -1,7 +1,9 @@
+---
+company-name: eTrigue
+domain: etrigue.com
+home: https://www.etrigue.com/
+privacy-policy: https://www.etrigue.com/trust/privacy-policy/
+---
 
-# eTrigue
 
-Name: eTrigue
-Domain: etrigue.com
-Home: https://www.etrigue.com/
-Privacy_policy: https://www.etrigue.com/trust/privacy-policy/
+

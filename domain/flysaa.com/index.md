@@ -1,7 +1,9 @@
+---
+company-name: "South African Airways"
+domain: flysaa.com
+home: http://www.flysaa.com/
+email: customercare@flysaa.com
+---
 
-# South African Airways
 
-Name: South African Airways
-Domain: flysaa.com
-Home: http://www.flysaa.com/
-Email: customercare@flysaa.com
+

@@ -1,6 +1,8 @@
+---
+company-name: Thummit
+domain: thummit.com
+home: http://www.thummit.com/
+---
 
-# Thummit
 
-Name: Thummit
-Domain: thummit.com
-Home: http://www.thummit.com/
+

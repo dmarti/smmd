@@ -1,8 +1,10 @@
+---
+company-name: AdFalcon
+domain: adfalcon.com
+home: http://www.adfalcon.com/
+privacy-policy: http://www.adfalcon.com/en/privacy.html
+email: info@adfalcon.com
+---
 
-# AdFalcon
 
-Name: AdFalcon
-Domain: adfalcon.com
-Home: http://www.adfalcon.com/
-Privacy_policy: http://www.adfalcon.com/en/privacy.html
-Email: info@adfalcon.com
+

@@ -1,8 +1,10 @@
+---
+company-name: ValueCommerce
+domain: valuecommerce.ne.jp
+home: https://www.valuecommerce.ne.jp
+privacy-policy: https://www.valuecommerce.ne.jp/en/privacy/
+member-of: TrustE_TrustArc
+---
 
-# ValueCommerce
 
-Name: ValueCommerce
-Domain: valuecommerce.ne.jp
-Home: https://www.valuecommerce.ne.jp
-Privacy_policy: https://www.valuecommerce.ne.jp/en/privacy/
-Member_of: TrustE_TrustArc
+

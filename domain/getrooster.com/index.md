@@ -1,8 +1,10 @@
+---
+company-name: Rooster
+domain: getrooster.com
+home: http://www.getrooster.com/
+privacy-policy: http://www.getrooster.com/privacy-policy/
+email: hello@getrooster.com
+---
 
-# Rooster
 
-Name: Rooster
-Domain: getrooster.com
-Home: http://www.getrooster.com/
-Privacy_policy: http://www.getrooster.com/privacy-policy/
-Email: hello@getrooster.com
+

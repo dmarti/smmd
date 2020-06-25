@@ -1,7 +1,9 @@
-# SBNation
+---
+company-name: SBNation
+domain: sbnation.com
+opt-out-url: https://www.sbnation.com/contact#donotsell
+---
 
-Name: SBNation
 
-Domain: sbnation.com
 
-Opt_out_url: https://www.sbnation.com/contact#donotsell
+

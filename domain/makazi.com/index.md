@@ -1,10 +1,11 @@
+---
+company-name: "Makazi Group"
+domain: makazi.com
+home: https://www.makazi.com/
+privacy-policy: https://www.makazi.com/vie-privee
+email: contact@makazi.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Makazi Group
 
-Name: Makazi Group
-Domain: makazi.com
-Home: https://www.makazi.com/
-Privacy_policy: https://www.makazi.com/vie-privee
-Email: contact@makazi.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

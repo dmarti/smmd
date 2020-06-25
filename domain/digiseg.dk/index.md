@@ -1,6 +1,8 @@
+---
+company-name: Digiseg
+domain: digiseg.dk
+home: http://www.digiseg.dk/
+---
 
-# Digiseg
 
-Name: Digiseg
-Domain: digiseg.dk
-Home: http://www.digiseg.dk/
+

@@ -1,8 +1,10 @@
+---
+company-name: Newsmax
+domain: newsmax.com
+home: http://www.newsmax.com/
+privacy-policy: http://www.newsmax.com/PrivacyStatement
+email: customerservice@newsmax.com
+---
 
-# Newsmax
 
-Name: Newsmax
-Domain: newsmax.com
-Home: http://www.newsmax.com/
-Privacy_policy: http://www.newsmax.com/PrivacyStatement
-Email: customerservice@newsmax.com
+

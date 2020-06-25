@@ -1,7 +1,9 @@
+---
+company-name: "Proper Media"
+domain: proper.io
+home: https://proper.io
+email: staff@proper.io
+---
 
-# Proper Media 
 
-Name: Proper Media 
-Domain: proper.io
-Home: https://proper.io
-Email: staff@proper.io
+

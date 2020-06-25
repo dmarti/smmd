@@ -1,7 +1,9 @@
-# Zipcar
+---
+company-name: Zipcar
+domain: zipcar.com
+opt-out-url: https://www.zipcar.com/california-privacy
+---
 
-Name: Zipcar
 
-Domain: zipcar.com
 
-Opt_out_url: https://www.zipcar.com/california-privacy
+

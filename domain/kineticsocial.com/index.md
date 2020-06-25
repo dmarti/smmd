@@ -1,8 +1,10 @@
+---
+company-name: "Kinetic Social"
+domain: kineticsocial.com
+home: http://www.kineticsocial.com/
+privacy-policy: http://www.kineticsocial.com/privacy-policy/
+email: privacy@kineticsocial.com
+---
 
-# Kinetic Social
 
-Name: Kinetic Social
-Domain: kineticsocial.com
-Home: http://www.kineticsocial.com/
-Privacy_policy: http://www.kineticsocial.com/privacy-policy/
-Email: privacy@kineticsocial.com
+

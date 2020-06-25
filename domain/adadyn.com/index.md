@@ -1,8 +1,10 @@
+---
+company-name: "Adadyn (formerly Ozone Media)"
+domain: adadyn.com
+home: http://www.adadyn.com/
+privacy-policy: http://www.adadyn.com/privacypolicy.html
+email: info@adadyn.com
+---
 
-# Adadyn (formerly Ozone Media)
 
-Name: Adadyn (formerly Ozone Media)
-Domain: adadyn.com
-Home: http://www.adadyn.com/
-Privacy_policy: http://www.adadyn.com/privacypolicy.html
-Email: info@adadyn.com
+

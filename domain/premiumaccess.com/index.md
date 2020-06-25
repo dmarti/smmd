@@ -1,8 +1,10 @@
+---
+company-name: "Premium Access"
+domain: premiumaccess.com
+home: http://premiumaccess.com/
+email: AdSales@PremiumAccess.com
+owned-by: "PV Media Group"
+---
 
-# Premium Access
 
-Name: Premium Access
-Domain: premiumaccess.com
-Home: http://premiumaccess.com/
-Email: AdSales@PremiumAccess.com
-Owned_by: PV Media Group
+

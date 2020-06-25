@@ -1,8 +1,10 @@
+---
+company-name: RummyCircle
+domain: rummycircle.com
+home: https://www.rummycircle.com/
+privacy-policy: https://www.rummycircle.com/privacy-policy.html
+email: support@rummycircle.com
+---
 
-# RummyCircle
 
-Name: RummyCircle
-Domain: rummycircle.com
-Home: https://www.rummycircle.com/
-Privacy_policy: https://www.rummycircle.com/privacy-policy.html
-Email: support@rummycircle.com
+

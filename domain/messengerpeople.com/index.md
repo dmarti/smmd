@@ -1,8 +1,10 @@
+---
+company-name: "MessengerPeople (Formerly WhatsBroadcast)"
+domain: messengerpeople.com
+home: https://www.messengerpeople.com/
+privacy-policy: https://www.messengerpeople.com/privacy/
+email: datenschutz@messengerpeople.com
+---
 
-# MessengerPeople (Formerly WhatsBroadcast)
 
-Name: MessengerPeople (Formerly WhatsBroadcast)
-Domain: messengerpeople.com
-Home: https://www.messengerpeople.com/
-Privacy_policy: https://www.messengerpeople.com/privacy/
-Email: datenschutz@messengerpeople.com
+

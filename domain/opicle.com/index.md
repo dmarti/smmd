@@ -1,7 +1,9 @@
+---
+company-name: Opicle
+domain: opicle.com
+home: http://www.opicle.com/
+email: info@opicle.com
+---
 
-# Opicle
 
-Name: Opicle
-Domain: opicle.com
-Home: http://www.opicle.com/
-Email: info@opicle.com
+

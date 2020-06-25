@@ -1,8 +1,10 @@
+---
+company-name: TruSignal
+domain: tru-signal.com
+home: http://www.tru-signal.com/
+email: privacy@tru-signal.com
+member-of: TrustE_TrustArc
+---
 
-# TruSignal
 
-Name: TruSignal
-Domain: tru-signal.com
-Home: http://www.tru-signal.com/
-Email: privacy@tru-signal.com
-Member_of: TrustE_TrustArc
+

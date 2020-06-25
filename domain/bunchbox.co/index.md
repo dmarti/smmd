@@ -1,6 +1,8 @@
+---
+company-name: Bunchbox
+domain: bunchbox.co
+home: https://app.bunchbox.co/login
+---
 
-# Bunchbox
 
-Name: Bunchbox
-Domain: bunchbox.co
-Home: https://app.bunchbox.co/login
+

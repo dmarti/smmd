@@ -1,8 +1,10 @@
+---
+company-name: Cool-Tabs
+domain: cool-tabs.com
+home: https://www.cool-tabs.com
+privacy-policy: https://www.cool-tabs.com/en/privacy
+email: soporte@cool-tabs.com
+---
 
-# Cool-Tabs
 
-Name: Cool-Tabs
-Domain: cool-tabs.com
-Home: https://www.cool-tabs.com
-Privacy_policy: https://www.cool-tabs.com/en/privacy
-Email: soporte@cool-tabs.com
+

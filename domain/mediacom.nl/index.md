@@ -1,7 +1,9 @@
+---
+company-name: "Mediacom Netherlands"
+domain: mediacom.nl
+home: http://www.mediacom.nl/nl/home.aspx
+privacy-policy: https://www.mediacom.com/nl/privacy-policy
+---
 
-# Mediacom Netherlands
 
-Name: Mediacom Netherlands
-Domain: mediacom.nl
-Home: http://www.mediacom.nl/nl/home.aspx
-Privacy_policy: https://www.mediacom.com/nl/privacy-policy
+

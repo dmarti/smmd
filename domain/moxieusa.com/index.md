@@ -1,9 +1,11 @@
+---
+company-name: "Moxie Interactive"
+domain: moxieusa.com
+home: http://moxieusa.com/
+privacy-policy: http://moxieusa.com/privacy
+email: info@moxieUSA.com
+owned-by: ZenithOptimedia
+---
 
-# Moxie Interactive
 
-Name: Moxie Interactive
-Domain: moxieusa.com
-Home: http://moxieusa.com/
-Privacy_policy: http://moxieusa.com/privacy
-Email: info@moxieUSA.com
-Owned_by: ZenithOptimedia
+

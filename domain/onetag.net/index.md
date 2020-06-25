@@ -1,9 +1,11 @@
+---
+company-name: OneTag
+domain: onetag.net
+home: https://www.onetag.net
+privacy-policy: https://www.onetag.net/privacy/
+email: privacy@onetag.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# OneTag
 
-Name: OneTag
-Domain: onetag.net
-Home: https://www.onetag.net
-Privacy_policy: https://www.onetag.net/privacy/
-Email: privacy@onetag.com
-Member_of: Interactive Advertising Bureau (IAB)
+

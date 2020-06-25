@@ -1,9 +1,11 @@
+---
+company-name: "Clip Syndicate"
+domain: clipsyndicate.com
+home: http://www.clipsyndicate.com/
+privacy-policy: http://www.clipsyndicate.com/help/-1/privacy_policy
+email: infor@clipsyndicate.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Clip Syndicate
 
-Name: Clip Syndicate
-Domain: clipsyndicate.com
-Home: http://www.clipsyndicate.com/
-Privacy_policy: http://www.clipsyndicate.com/help/-1/privacy_policy
-Email: infor@clipsyndicate.com
-Member_of: Interactive Advertising Bureau (IAB)
+

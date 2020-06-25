@@ -1,7 +1,9 @@
+---
+company-name: Relay42
+domain: relay42.com
+home: http://relay42.com
+email: info@relay42.com
+---
 
-# Relay42
 
-Name: Relay42
-Domain: relay42.com
-Home: http://relay42.com
-Email: info@relay42.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "BMC Software"
+domain: bmc.com
+home: http://www.bmc.com/
+privacy-policy: http://www.bmc.com/legal/privacy-policy.html
+email: privacy@bmc.com
+---
 
-# BMC Software
 
-Name: BMC Software
-Domain: bmc.com
-Home: http://www.bmc.com/
-Privacy_policy: http://www.bmc.com/legal/privacy-policy.html
-Email: privacy@bmc.com
+

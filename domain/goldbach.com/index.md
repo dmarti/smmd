@@ -1,10 +1,11 @@
+---
+company-name: "Goldbach Group"
+domain: goldbach.com
+home: https://goldbach.com/ch/de/home
+privacy-policy: https://goldbach.com/ch/de/datenschutz
+email: Info.CH@Goldbach.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Goldbach Group
 
-Name: Goldbach Group
-Domain: goldbach.com
-Home: https://goldbach.com/ch/de/home
-Privacy_policy: https://goldbach.com/ch/de/datenschutz
-Email: Info.CH@Goldbach.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

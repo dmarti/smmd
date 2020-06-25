@@ -1,9 +1,10 @@
+---
+company-name: "Nano Interactive"
+domain: nanointeractive.com
+home: https://www.nanointeractive.com/
+privacy-policy: https://www.nanointeractive.com/privacy/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Nano Interactive
 
-Name: Nano Interactive
-Domain: nanointeractive.com
-Home: https://www.nanointeractive.com/
-Privacy_policy: https://www.nanointeractive.com/privacy/
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

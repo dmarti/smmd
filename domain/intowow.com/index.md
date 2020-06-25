@@ -1,8 +1,10 @@
+---
+company-name: Intowow
+domain: intowow.com
+home: https://intowow.com/
+privacy-policy: https://intowow.com/privacy/
+email: info@intowow.com
+---
 
-# Intowow 
 
-Name: Intowow 
-Domain: intowow.com
-Home: https://intowow.com/
-Privacy_policy: https://intowow.com/privacy/
-Email: info@intowow.com
+

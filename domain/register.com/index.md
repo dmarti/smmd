@@ -1,8 +1,10 @@
+---
+company-name: Register
+domain: register.com
+home: http://www.register.com/
+email: privacy@web.com
+owned-by: "Web.com Group"
+---
 
-# Register
 
-Name: Register
-Domain: register.com
-Home: http://www.register.com/
-Email: privacy@web.com
-Owned_by: Web.com Group
+

@@ -1,7 +1,9 @@
-# Cedars-Sinai
+---
+company-name: Cedars-Sinai
+domain: cedars-sinai.org
+opt-out-url: https://www.cedars-sinai.org/privacy-policy.html
+---
 
-Name: Cedars-Sinai
 
-Domain: cedars-sinai.org
 
-Opt_out_url: https://www.cedars-sinai.org/privacy-policy.html
+

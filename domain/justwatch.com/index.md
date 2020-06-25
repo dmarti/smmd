@@ -1,8 +1,10 @@
+---
+company-name: JustWatch
+domain: justwatch.com
+home: https://www.justwatch.com
+privacy-policy: https://www.justwatch.com/us/privacy-policy
+email: privacy@justwatch.com
+---
 
-# JustWatch
 
-Name: JustWatch
-Domain: justwatch.com
-Home: https://www.justwatch.com
-Privacy_policy: https://www.justwatch.com/us/privacy-policy
-Email: privacy@justwatch.com
+

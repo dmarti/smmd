@@ -1,9 +1,11 @@
+---
+company-name: InStyle
+domain: instyle.com
+home: https://www.instyle.com/
+privacy-policy: https://subscription.timeinc.com/storefront/privacy/instyle/generic_privacy_new.html?dnp-source=E
+owned-by: "Meredith Corporation"
+member-of: "Network Advertising Initiative"
+---
 
-# InStyle
 
-Name: InStyle
-Domain: instyle.com
-Home: https://www.instyle.com/
-Privacy_policy: https://subscription.timeinc.com/storefront/privacy/instyle/generic_privacy_new.html?dnp-source=E
-Owned_by: Meredith Corporation
-Member_of: Network Advertising Initiative
+

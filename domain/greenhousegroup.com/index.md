@@ -1,9 +1,11 @@
+---
+company-name: "Greenhouse Group"
+domain: greenhousegroup.com
+home: https://www.greenhousegroup.com/
+privacy-policy: https://www.greenhousegroup.com/en/cookies
+email: info@greenhousegroup.com
+owned-by: GroupM
+---
 
-# Greenhouse Group
 
-Name: Greenhouse Group
-Domain: greenhousegroup.com
-Home: https://www.greenhousegroup.com/
-Privacy_policy: https://www.greenhousegroup.com/en/cookies
-Email: info@greenhousegroup.com
-Owned_by: GroupM
+

@@ -1,8 +1,10 @@
+---
+company-name: "Ideal Media"
+domain: idealmedia.com
+home: http://idealmedia.com/
+privacy-policy: https://www.idealmedia.com/privacy-policy.html
+email: info@idealmedia.com
+---
 
-# Ideal Media
 
-Name: Ideal Media
-Domain: idealmedia.com
-Home: http://idealmedia.com/
-Privacy_policy: https://www.idealmedia.com/privacy-policy.html
-Email: info@idealmedia.com
+

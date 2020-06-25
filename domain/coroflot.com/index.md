@@ -1,8 +1,10 @@
+---
+company-name: Coroflot
+domain: coroflot.com
+home: http://www.coroflot.com/
+privacy-policy: http://www.coroflot.com/privacy
+email: support@coroflot.com
+---
 
-# Coroflot
 
-Name: Coroflot
-Domain: coroflot.com
-Home: http://www.coroflot.com/
-Privacy_policy: http://www.coroflot.com/privacy
-Email: support@coroflot.com
+

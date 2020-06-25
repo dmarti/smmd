@@ -1,6 +1,8 @@
+---
+company-name: Moveable
+domain: moveable.com
+home: https://moveable.com/
+---
 
-# Moveable
 
-Name: Moveable
-Domain: moveable.com
-Home: https://moveable.com/
+

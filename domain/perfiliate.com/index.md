@@ -1,8 +1,10 @@
+---
+company-name: "Perfiliate Technologies"
+domain: perfiliate.com
+home: http://perfiliate.com/
+privacy-policy: http://perfiliate.com/w3c/human.php
+email: privacy@buy.at
+---
 
-# Perfiliate Technologies
 
-Name: Perfiliate Technologies
-Domain: perfiliate.com
-Home: http://perfiliate.com/
-Privacy_policy: http://perfiliate.com/w3c/human.php
-Email: privacy@buy.at
+

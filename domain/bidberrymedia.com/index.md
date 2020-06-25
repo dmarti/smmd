@@ -1,9 +1,11 @@
+---
+company-name: BidBerry
+domain: bidberrymedia.com
+home: https://www.bidberrymedia.com/
+privacy-policy: https://www.bidberrymedia.com/privacy-policy/
+email: info@bidberrymedia.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# BidBerry
 
-Name: BidBerry
-Domain: bidberrymedia.com
-Home: https://www.bidberrymedia.com/
-Privacy_policy: https://www.bidberrymedia.com/privacy-policy/
-Email: info@bidberrymedia.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

@@ -1,8 +1,10 @@
+---
+company-name: Realytics
+domain: realytics.io
+home: https://www.realytics.io/
+privacy-policy: https://www.realytics.io/platform-privacy-policy/
+email: webmaster@realytics.io
+---
 
-# Realytics
 
-Name: Realytics
-Domain: realytics.io
-Home: https://www.realytics.io/
-Privacy_policy: https://www.realytics.io/platform-privacy-policy/
-Email: webmaster@realytics.io
+

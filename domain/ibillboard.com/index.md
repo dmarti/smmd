@@ -1,8 +1,10 @@
+---
+company-name: iBILLBOARD
+domain: ibillboard.com
+home: http://www.ibillboard.com/en/
+privacy-policy: http://www.ibillboard.com/en/privacy-information/
+email: info@ibillboard.com
+---
 
-# iBILLBOARD
 
-Name: iBILLBOARD
-Domain: ibillboard.com
-Home: http://www.ibillboard.com/en/
-Privacy_policy: http://www.ibillboard.com/en/privacy-information/
-Email: info@ibillboard.com
+

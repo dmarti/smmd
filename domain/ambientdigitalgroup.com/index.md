@@ -1,6 +1,8 @@
+---
+company-name: "Ambient Digital"
+domain: ambientdigitalgroup.com
+home: https://ambientdigitalgroup.com/
+---
 
-# Ambient Digital
 
-Name: Ambient Digital
-Domain: ambientdigitalgroup.com
-Home: https://ambientdigitalgroup.com/
+

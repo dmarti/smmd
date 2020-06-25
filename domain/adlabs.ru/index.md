@@ -1,6 +1,8 @@
+---
+company-name: AdLabs
+domain: adlabs.ru
+home: http://www.adlabs.ru/
+---
 
-# AdLabs
 
-Name: AdLabs
-Domain: adlabs.ru
-Home: http://www.adlabs.ru/
+

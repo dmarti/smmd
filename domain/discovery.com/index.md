@@ -1,11 +1,11 @@
+---
+company-name: "Discovery Channel"
+domain: discovery.com
+home: https://www.discovery.com/
+privacy-policy: https://corporate.discovery.com/privacy-policy/
+email: privacy_policy@discovery.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Discovery Channel
 
-Name: Discovery Channel
-Domain: discovery.com
-Home: https://www.discovery.com/
-Privacy_policy: https://corporate.discovery.com/privacy-policy/
-Email: privacy_policy@discovery.com
-Member_of: American Advertising Federation
-Member_of: Digital Content Network(?)
-Member_of: Interactive Advertising Bureau (IAB)
+

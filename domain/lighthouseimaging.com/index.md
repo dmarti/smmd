@@ -1,7 +1,9 @@
+---
+company-name: "Lighthouse Imaging"
+domain: lighthouseimaging.com
+home: http://www.lighthouseimaging.com/
+email: mike@lighthouseimaging.com
+---
 
-# Lighthouse Imaging
 
-Name: Lighthouse Imaging
-Domain: lighthouseimaging.com
-Home: http://www.lighthouseimaging.com/
-Email: mike@lighthouseimaging.com
+

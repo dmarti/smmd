@@ -1,9 +1,11 @@
+---
+company-name: ClickBank
+domain: clickbank.com
+home: http://www.clickbank.com/
+privacy-policy: https://accounts.clickbank.com/client_privacy.html
+email: privacy@clickbank.com
+member-of: TrustE_TrustArc
+---
 
-# ClickBank
 
-Name: ClickBank
-Domain: clickbank.com
-Home: http://www.clickbank.com/
-Privacy_policy: https://accounts.clickbank.com/client_privacy.html
-Email: privacy@clickbank.com
-Member_of: TrustE_TrustArc
+

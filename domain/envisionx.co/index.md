@@ -1,8 +1,10 @@
+---
+company-name: EnvisionX
+domain: envisionx.co
+home: http://envisionx.co/
+privacy-policy: http://envisionx.co/privacy
+email: privacy@envisionx.co
+---
 
-# EnvisionX
 
-Name: EnvisionX
-Domain: envisionx.co
-Home: http://envisionx.co/
-Privacy_policy: http://envisionx.co/privacy
-Email: privacy@envisionx.co
+

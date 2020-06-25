@@ -1,8 +1,10 @@
+---
+company-name: Attracta
+domain: attracta.com
+home: https://www.attracta.com/
+privacy-policy: https://www.attracta.com/privacy-policy/
+email: privacy@attracta.com
+---
 
-# Attracta
 
-Name: Attracta
-Domain: attracta.com
-Home: https://www.attracta.com/
-Privacy_policy: https://www.attracta.com/privacy-policy/
-Email: privacy@attracta.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Metamarkets
+domain: metamarkets.com
+home: https://metamarkets.com/
+privacy-policy: https://metamarkets.com/privacy-policy/
+email: info@metamarkets.com
+---
 
-# Metamarkets
 
-Name: Metamarkets
-Domain: metamarkets.com
-Home: https://metamarkets.com/
-Privacy_policy: https://metamarkets.com/privacy-policy/
-Email: info@metamarkets.com
+

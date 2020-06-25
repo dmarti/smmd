@@ -1,8 +1,10 @@
+---
+company-name: "Bradford Exchange"
+domain: bradfordexchange.com
+home: http://www.bradfordexchange.com/
+privacy-policy: http://www.bradfordexchange.com/service/privacy-policy.html
+email: CustomerService@bradfordexchange.com
+---
 
-# Bradford Exchange
 
-Name: Bradford Exchange
-Domain: bradfordexchange.com
-Home: http://www.bradfordexchange.com/
-Privacy_policy: http://www.bradfordexchange.com/service/privacy-policy.html
-Email: CustomerService@bradfordexchange.com
+

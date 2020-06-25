@@ -1,8 +1,10 @@
+---
+company-name: Wykop
+domain: wykop.pl
+home: http://www.wykop.pl
+privacy-policy: http://www.wykop.pl/polityka-prywatnosci/
+email: biuro@wykop.pl
+---
 
-# Wykop
 
-Name: Wykop
-Domain: wykop.pl
-Home: http://www.wykop.pl
-Privacy_policy: http://www.wykop.pl/polityka-prywatnosci/
-Email: biuro@wykop.pl
+

@@ -1,9 +1,11 @@
+---
+company-name: UniCredit
+domain: unicreditgroup.eu
+home: https://www.unicreditgroup.eu/en.html
+privacy-policy: https://www.unicreditgroup.eu/en/info/privacy.html
+email: diritti.privacy@unicredit.eu
+member-of: "European Data Interactive Alliance"
+---
 
-# UniCredit
 
-Name: UniCredit
-Domain: unicreditgroup.eu
-Home: https://www.unicreditgroup.eu/en.html
-Privacy_policy: https://www.unicreditgroup.eu/en/info/privacy.html
-Email: diritti.privacy@unicredit.eu
-Member_of: European Data Interactive Alliance
+

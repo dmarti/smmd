@@ -1,23 +1,11 @@
-
-# Clearview AI, Inc.
-
-Name: Clearview AI, Inc.
-
-Domain: clearview.ai
-
-Home: www.clearview.ai
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 367103
-
-
-
+---
+company-name: "Clearview AI, Inc."
+domain: clearview.ai
+home: www.clearview.ai
+vermont-id: 367103
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 367103
 
 
 
+
 ## Additional info
 
 
 
+
 214 W 29th Street, 2nd Floor, New York, NY, 10001, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,7 +1,9 @@
+---
+company-name: mParticle
+domain: mparticle.com
+home: https://docs.mparticle.com/
+privacy-policy: http://
+---
 
-# mParticle
 
-Name: mParticle
-Domain: mparticle.com
-Home: https://docs.mparticle.com/
-Privacy_policy: http://
+

@@ -1,8 +1,10 @@
+---
+company-name: "Vertical Mass"
+domain: verticalmass.com
+home: http://site.verticalmass.com/
+privacy-policy: http://site.verticalmass.com/privacy/
+email: privacy@verticalmass.com
+---
 
-# Vertical Mass
 
-Name: Vertical Mass
-Domain: verticalmass.com
-Home: http://site.verticalmass.com/
-Privacy_policy: http://site.verticalmass.com/privacy/
-Email: privacy@verticalmass.com
+

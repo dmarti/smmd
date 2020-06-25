@@ -1,7 +1,9 @@
+---
+company-name: Adnegah
+domain: adnegah.net
+home: https://adnegah.net/
+email: info@adnegah.net
+---
 
-# Adnegah
 
-Name: Adnegah
-Domain: adnegah.net
-Home: https://adnegah.net/
-Email: info@adnegah.net
+

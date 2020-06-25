@@ -1,6 +1,8 @@
+---
+company-name: Double.net
+domain: double.net
+home: http://www.double.net/en/
+---
 
-# Double.net
 
-Name: Double.net
-Domain: double.net
-Home: http://www.double.net/en/
+

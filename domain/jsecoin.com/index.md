@@ -1,7 +1,9 @@
+---
+company-name: "JSE Coin"
+domain: jsecoin.com
+home: https://jsecoin.com/
+privacy-policy: https://jsecoin.com/en/legal/privacyPolicy/
+---
 
-# JSE Coin
 
-Name: JSE Coin
-Domain: jsecoin.com
-Home: https://jsecoin.com/
-Privacy_policy: https://jsecoin.com/en/legal/privacyPolicy/
+

@@ -1,7 +1,9 @@
+---
+company-name: Soicos
+domain: soicos.com
+home: http://soicos.com/
+email: info@soicos.com
+---
 
-# Soicos
 
-Name: Soicos
-Domain: soicos.com
-Home: http://soicos.com/
-Email: info@soicos.com
+

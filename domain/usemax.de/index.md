@@ -1,8 +1,10 @@
+---
+company-name: Usemax
+domain: usemax.de
+home: http://www.usemax.de
+privacy-policy: http://www.usemax.de/index.php?l=privacy
+email: support@usemax.de
+---
 
-# Usemax
 
-Name: Usemax
-Domain: usemax.de
-Home: http://www.usemax.de
-Privacy_policy: http://www.usemax.de/index.php?l=privacy
-Email: support@usemax.de
+

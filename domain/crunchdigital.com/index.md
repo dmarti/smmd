@@ -1,8 +1,10 @@
+---
+company-name: "Crunch Digital Marketing"
+domain: crunchdigital.com
+home: http://crunchdigital.com/
+privacy-policy: http://crunchdigital.com/privacy-policy/
+email: support@crunchdigital.com
+---
 
-# Crunch Digital Marketing
 
-Name: Crunch Digital Marketing
-Domain: crunchdigital.com
-Home: http://crunchdigital.com/
-Privacy_policy: http://crunchdigital.com/privacy-policy/
-Email: support@crunchdigital.com
+

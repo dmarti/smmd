@@ -1,10 +1,12 @@
+---
+company-name: Emediate
+domain: emediate.com
+home: http://www.emediate.com/
+privacy-policy: http://classroom.emediate.com/doku.php?id=faq:emediate_privacy_policy
+email: info@emediate.dk
+owned-by: "ad pepper media"
+member-of: "European Data Interactive Alliance"
+---
 
-# Emediate
 
-Name: Emediate
-Domain: emediate.com
-Home: http://www.emediate.com/
-Privacy_policy: http://classroom.emediate.com/doku.php?id=faq:emediate_privacy_policy
-Email: info@emediate.dk
-Owned_by: ad pepper media
-Member_of: European Data Interactive Alliance
+

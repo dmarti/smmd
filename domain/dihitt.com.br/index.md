@@ -1,6 +1,8 @@
+---
+company-name: diHITT
+domain: dihitt.com.br
+home: http://www.dihitt.com.br/
+---
 
-# diHITT
 
-Name: diHITT
-Domain: dihitt.com.br
-Home: http://www.dihitt.com.br/
+

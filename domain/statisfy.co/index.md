@@ -1,7 +1,9 @@
+---
+company-name: Statisfy
+domain: statisfy.co
+home: http://www.statisfy.co/
+privacy-policy: http://www.statisfy.co/tos/
+---
 
-# Statisfy
 
-Name: Statisfy
-Domain: statisfy.co
-Home: http://www.statisfy.co/
-Privacy_policy: http://www.statisfy.co/tos/
+

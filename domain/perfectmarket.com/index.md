@@ -1,8 +1,10 @@
+---
+company-name: "Perfect Market"
+domain: perfectmarket.com
+home: http://perfectmarket.com/
+privacy-policy: https://www.taboola.com/privacy-policy
+email: info@perfectmarket.com
+---
 
-# Perfect Market
 
-Name: Perfect Market
-Domain: perfectmarket.com
-Home: http://perfectmarket.com/
-Privacy_policy: https://www.taboola.com/privacy-policy
-Email: info@perfectmarket.com
+

@@ -1,7 +1,9 @@
+---
+company-name: Wave-bit
+domain: wave-bit.com
+home: http://www.wave-bit.com/
+email: adsales@wave-bit.com
+---
 
-# Wave-bit
 
-Name: Wave-bit
-Domain: wave-bit.com
-Home: http://www.wave-bit.com/
-Email: adsales@wave-bit.com
+

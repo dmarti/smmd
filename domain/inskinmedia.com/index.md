@@ -1,8 +1,10 @@
+---
+company-name: "InSkin Media"
+domain: inskinmedia.com
+home: http://www.inskinmedia.com/
+privacy-policy: http://www.inskinmedia.com/privacy-policy.html
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# InSkin Media
 
-Name: InSkin Media
-Domain: inskinmedia.com
-Home: http://www.inskinmedia.com/
-Privacy_policy: http://www.inskinmedia.com/privacy-policy.html
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

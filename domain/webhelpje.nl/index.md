@@ -1,6 +1,8 @@
+---
+company-name: Webhelpje
+domain: webhelpje.nl
+home: http://www.webhelpje.nl/
+---
 
-# Webhelpje
 
-Name: Webhelpje
-Domain: webhelpje.nl
-Home: http://www.webhelpje.nl/
+

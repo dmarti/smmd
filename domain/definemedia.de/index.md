@@ -1,9 +1,11 @@
+---
+company-name: "De-fine Media"
+domain: definemedia.de
+home: http://www.definemedia.de
+privacy-policy: http://www.definemedia.de/datenschutz/
+email: datenschutz@definemedia.de
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# De-fine Media
 
-Name: De-fine Media
-Domain: definemedia.de
-Home: http://www.definemedia.de
-Privacy_policy: http://www.definemedia.de/datenschutz/
-Email: datenschutz@definemedia.de
-Member_of: Interactive Advertising Bureau (IAB)
+

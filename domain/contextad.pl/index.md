@@ -1,8 +1,10 @@
+---
+company-name: Context.ad
+domain: contextad.pl
+home: http://contextad.pl/
+privacy-policy: http://wszystkoociasteczkach.pl/polityka-cookies/
+email: info@contextad.pl
+---
 
-# Context.ad
 
-Name: Context.ad
-Domain: contextad.pl
-Home: http://contextad.pl/
-Privacy_policy: http://wszystkoociasteczkach.pl/polityka-cookies/
-Email: info@contextad.pl
+

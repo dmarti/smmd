@@ -1,8 +1,10 @@
+---
+company-name: Webshots
+domain: webshots.com
+home: http://www.webshots.com/
+privacy-policy: http://www.webshots.com/privacy
+email: custserv@webshots.com
+---
 
-# Webshots
 
-Name: Webshots
-Domain: webshots.com
-Home: http://www.webshots.com/
-Privacy_policy: http://www.webshots.com/privacy
-Email: custserv@webshots.com
+

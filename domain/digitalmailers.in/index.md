@@ -1,8 +1,10 @@
+---
+company-name: "Digital Mailers"
+domain: digitalmailers.in
+home: http://www.digitalmailers.in/
+privacy-policy: http://www.digitalmailers.in/privacy_policy.php
+email: sales@digitalmailers.in
+---
 
-# Digital Mailers
 
-Name: Digital Mailers
-Domain: digitalmailers.in
-Home: http://www.digitalmailers.in/
-Privacy_policy: http://www.digitalmailers.in/privacy_policy.php
-Email: sales@digitalmailers.in
+

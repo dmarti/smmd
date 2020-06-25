@@ -1,8 +1,10 @@
+---
+company-name: "Mfro (Emufuro Corporation)"
+domain: mfro.net
+home: http://www.mfro.net/
+privacy-policy: http://www.mfro.net/privacy/
+email: info@mfro.net
+---
 
-# Mfro (Emufuro Corporation)
 
-Name: Mfro (Emufuro Corporation)
-Domain: mfro.net
-Home: http://www.mfro.net/
-Privacy_policy: http://www.mfro.net/privacy/
-Email: info@mfro.net
+

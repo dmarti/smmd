@@ -1,6 +1,8 @@
+---
+company-name: "Serious Business"
+domain: sbclan.net
+home: http://sbclan.net/
+---
 
-# Serious Business
 
-Name: Serious Business
-Domain: sbclan.net
-Home: http://sbclan.net/
+

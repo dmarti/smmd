@@ -1,7 +1,9 @@
+---
+company-name: Advanse
+domain: advanseads.com
+home: http://advanseads.com/
+privacy-policy: http://advanseads.com/privacy-policy/
+---
 
-# Advanse
 
-Name: Advanse
-Domain: advanseads.com
-Home: http://advanseads.com/
-Privacy_policy: http://advanseads.com/privacy-policy/
+

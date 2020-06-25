@@ -1,7 +1,9 @@
+---
+company-name: AdFrontiers
+domain: adfrontiers.com
+home: http://www.adfrontiers.com/index.html
+privacy-policy: http://www.adfrontiers.com/policy.html
+---
 
-# AdFrontiers
 
-Name: AdFrontiers
-Domain: adfrontiers.com
-Home: http://www.adfrontiers.com/index.html
-Privacy_policy: http://www.adfrontiers.com/policy.html
+

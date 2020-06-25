@@ -1,8 +1,10 @@
+---
+company-name: Softcrylic
+domain: softcrylic.com
+home: https://softcrylic.com/
+privacy-policy: https://softcrylic.com/privacy-policy/
+email: info@softcrylic.com
+---
 
-# Softcrylic
 
-Name: Softcrylic
-Domain: softcrylic.com
-Home: https://softcrylic.com/
-Privacy_policy: https://softcrylic.com/privacy-policy/
-Email: info@softcrylic.com
+

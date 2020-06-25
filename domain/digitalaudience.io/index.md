@@ -1,9 +1,11 @@
+---
+company-name: "Digital Audience"
+domain: digitalaudience.io
+home: https://digitalaudience.io/
+privacy-policy: http://digitalaudience.io/legal/privacy-cookies/
+email: privacy@digitalaudience.io
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Digital Audience
 
-Name: Digital Audience
-Domain: digitalaudience.io
-Home: https://digitalaudience.io/
-Privacy_policy: http://digitalaudience.io/legal/privacy-cookies/
-Email: privacy@digitalaudience.io
-Member_of: Interactive Advertising Bureau (IAB)
+

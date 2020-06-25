@@ -1,7 +1,9 @@
+---
+company-name: "For GIFs"
+domain: forgifs.com
+home: http://forgifs.com
+email: admin@4gifs.com
+---
 
-# For GIFs
 
-Name: For GIFs
-Domain: forgifs.com
-Home: http://forgifs.com
-Email: admin@4gifs.com
+

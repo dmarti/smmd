@@ -1,7 +1,9 @@
+---
+company-name: Selectel
+domain: selectel.com
+home: http://selectel.com/
+email: support@selectel.ru
+---
 
-# Selectel
 
-Name: Selectel
-Domain: selectel.com
-Home: http://selectel.com/
-Email: support@selectel.ru
+

@@ -1,8 +1,10 @@
+---
+company-name: LiquidM
+domain: liquidm.com
+home: https://liquidm.com/
+privacy-policy: https://liquidm.com/privacy-policy/
+email: info@liquidm.com
+---
 
-# LiquidM
 
-Name: LiquidM
-Domain: liquidm.com
-Home: https://liquidm.com/
-Privacy_policy: https://liquidm.com/privacy-policy/
-Email: info@liquidm.com
+

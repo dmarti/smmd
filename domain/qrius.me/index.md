@@ -1,8 +1,10 @@
+---
+company-name: Qrius
+domain: qrius.me
+home: http://www.qrius.me/
+email: info@qrius.me
+owned-by: Mediafed
+---
 
-# Qrius
 
-Name: Qrius
-Domain: qrius.me
-Home: http://www.qrius.me/
-Email: info@qrius.me
-Owned_by: Mediafed
+

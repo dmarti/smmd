@@ -1,6 +1,8 @@
+---
+company-name: Ador
+domain: ador.com
+home: http://ador.com/
+---
 
-# Ador
 
-Name: Ador
-Domain: ador.com
-Home: http://ador.com/
+

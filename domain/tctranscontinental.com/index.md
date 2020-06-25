@@ -1,7 +1,9 @@
+---
+company-name: "TC Transcontinental"
+domain: tctranscontinental.com
+home: http://tctranscontinental.com/en/home
+privacy-policy: https://tctranscontinental.com/privacy-policy
+---
 
-# TC Transcontinental
 
-Name: TC Transcontinental
-Domain: tctranscontinental.com
-Home: http://tctranscontinental.com/en/home
-Privacy_policy: https://tctranscontinental.com/privacy-policy
+

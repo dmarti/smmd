@@ -1,8 +1,10 @@
+---
+company-name: Dianomi
+domain: dianomi.com
+home: https://www.dianomi.com/
+privacy-policy: https://www.dianomi.com/legal/privacy.epl
+email: dpo@dianomi.com
+---
 
-# Dianomi
 
-Name: Dianomi
-Domain: dianomi.com
-Home: https://www.dianomi.com/
-Privacy_policy: https://www.dianomi.com/legal/privacy.epl
-Email: dpo@dianomi.com
+

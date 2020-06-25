@@ -1,8 +1,10 @@
+---
+company-name: UpSellit
+domain: upsellit.com
+home: https://us.upsellit.com/
+privacy-policy: https://labs.upsellit.com/privacy-policy
+email: hello@upsellit.com
+---
 
-# UpSellit
 
-Name: UpSellit
-Domain: upsellit.com
-Home: https://us.upsellit.com/
-Privacy_policy: https://labs.upsellit.com/privacy-policy
-Email: hello@upsellit.com
+

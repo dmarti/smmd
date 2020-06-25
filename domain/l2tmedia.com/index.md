@@ -1,8 +1,10 @@
+---
+company-name: "L2T Media"
+domain: l2tmedia.com
+home: http://www.l2tmedia.com/
+privacy-policy: https://www.l2tmedia.com/who-we-are/#privacyPolicy
+email: info@l2tmedia.com
+---
 
-# L2T Media
 
-Name: L2T Media
-Domain: l2tmedia.com
-Home: http://www.l2tmedia.com/
-Privacy_policy: https://www.l2tmedia.com/who-we-are/#privacyPolicy
-Email: info@l2tmedia.com
+

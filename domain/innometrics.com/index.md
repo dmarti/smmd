@@ -1,7 +1,9 @@
+---
+company-name: Innometrics
+domain: innometrics.com
+home: http://innometrics.com/
+email: contact@innometrics.com
+---
 
-# Innometrics
 
-Name: Innometrics
-Domain: innometrics.com
-Home: http://innometrics.com/
-Email: contact@innometrics.com
+

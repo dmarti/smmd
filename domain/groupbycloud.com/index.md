@@ -1,7 +1,9 @@
+---
+company-name: GroupByCloud
+domain: groupbycloud.com
+home: https://www.groupbycloud.com/#/
+privacy-policy: http://
+---
 
-# GroupByCloud
 
-Name: GroupByCloud
-Domain: groupbycloud.com
-Home: https://www.groupbycloud.com/#/
-Privacy_policy: http://
+

@@ -1,8 +1,10 @@
+---
+company-name: Sputnik
+domain: sputnik.ru
+home: https://cnt.sputnik.ru/
+privacy-policy: http://corp.sputnik.ru/confidential
+email: abuse@corp.sputnik.ru
+---
 
-# Sputnik
 
-Name: Sputnik
-Domain: sputnik.ru
-Home: https://cnt.sputnik.ru/
-Privacy_policy: http://corp.sputnik.ru/confidential
-Email: abuse@corp.sputnik.ru
+

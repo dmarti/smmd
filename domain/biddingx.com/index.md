@@ -1,7 +1,9 @@
+---
+company-name: BiddingX
+domain: biddingx.com
+home: http://www.biddingx.com
+privacy-policy: http://managerx.biddingx.com/#privacy
+---
 
-# BiddingX
 
-Name: BiddingX
-Domain: biddingx.com
-Home: http://www.biddingx.com
-Privacy_policy: http://managerx.biddingx.com/#privacy
+

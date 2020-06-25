@@ -1,7 +1,9 @@
+---
+company-name: "Heights Media"
+domain: heightsmedia.com
+home: http://heightsmedia.com/
+email: info@heightsmedia.com
+---
 
-# Heights Media
 
-Name: Heights Media
-Domain: heightsmedia.com
-Home: http://heightsmedia.com/
-Email: info@heightsmedia.com
+

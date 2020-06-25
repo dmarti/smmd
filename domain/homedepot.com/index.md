@@ -1,7 +1,9 @@
-# Home Depot
+---
+company-name: "Home Depot"
+domain: homedepot.com
+opt-out-url: https://www.homedepot.com/c/Exercise_My_Privacy_Rights
+---
 
-Name: Home Depot
 
-Domain: homedepot.com
 
-Opt_out_url: https://www.homedepot.com/c/Exercise_My_Privacy_Rights
+

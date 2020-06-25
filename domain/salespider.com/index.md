@@ -1,9 +1,11 @@
+---
+company-name: "SaleSpider Media Inc (Formely Sales Spider)"
+domain: salespider.com
+home: http://www.salespider.com/
+privacy-policy: http://www.salespider.com/index.php?privacy=1&ref=footer
+email: support@salespider.com
+owned-by: "SaleSpider Media"
+---
 
-# SaleSpider Media Inc (Formely Sales Spider)
 
-Name: SaleSpider Media Inc (Formely Sales Spider)
-Domain: salespider.com
-Home: http://www.salespider.com/
-Privacy_policy: http://www.salespider.com/index.php?privacy=1&ref=footer
-Email: support@salespider.com
-Owned_by: SaleSpider Media
+

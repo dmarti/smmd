@@ -1,8 +1,10 @@
+---
+company-name: "VerticalAds Group"
+domain: verticaladsgroup.com
+home: https://verticaladsgroup.com/
+privacy-policy: https://verticaladsgroup.com/datenschutz/
+email: datenschutz@verticaladsgroup.com
+---
 
-# VerticalAds Group
 
-Name: VerticalAds Group
-Domain: verticaladsgroup.com
-Home: https://verticaladsgroup.com/
-Privacy_policy: https://verticaladsgroup.com/datenschutz/
-Email: datenschutz@verticaladsgroup.com
+

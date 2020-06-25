@@ -1,8 +1,10 @@
+---
+company-name: AppTap
+domain: apptap.com
+home: http://www.apptap.com
+privacy-policy: http://www.apptap.com/privacy/
+email: info-legal@apptap.com
+---
 
-# AppTap
 
-Name: AppTap
-Domain: apptap.com
-Home: http://www.apptap.com
-Privacy_policy: http://www.apptap.com/privacy/
-Email: info-legal@apptap.com
+

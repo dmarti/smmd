@@ -1,7 +1,9 @@
+---
+company-name: timezonedb
+domain: timezonedb.com
+home: https://timezonedb.com/
+privacy-policy: https://timezonedb.com/terms-of-use
+---
 
-# timezonedb
 
-Name: timezonedb
-Domain: timezonedb.com
-Home: https://timezonedb.com/
-Privacy_policy: https://timezonedb.com/terms-of-use
+

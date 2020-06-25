@@ -1,8 +1,10 @@
+---
+company-name: Essens
+domain: essens.no
+home: https://essens.no/
+privacy-policy: https://essens.no/privacy-policy/
+email: support@essens.no
+---
 
-# Essens
 
-Name: Essens
-Domain: essens.no
-Home: https://essens.no/
-Privacy_policy: https://essens.no/privacy-policy/
-Email: support@essens.no
+

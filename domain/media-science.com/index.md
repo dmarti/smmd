@@ -1,9 +1,11 @@
+---
+company-name: "Media Science"
+domain: media-science.com
+home: http://media-science.com/
+privacy-policy: http://media-science.com/privacy/
+email: help@media-science.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Media Science
 
-Name: Media Science
-Domain: media-science.com
-Home: http://media-science.com/
-Privacy_policy: http://media-science.com/privacy/
-Email: help@media-science.com
-Member_of: European Data Interactive Alliance
+

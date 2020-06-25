@@ -1,6 +1,8 @@
+---
+company-name: CreateJS
+domain: createjs.com
+home: https://createjs.com/
+---
 
-# CreateJS
 
-Name: CreateJS
-Domain: createjs.com
-Home: https://createjs.com/
+

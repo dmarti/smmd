@@ -1,8 +1,10 @@
+---
+company-name: Fancy
+domain: fancy.com
+home: http://www.fancy.com/
+privacy-policy: https://fancy.com/about/terms-privacy
+email: hello@fancy.com
+---
 
-# Fancy
 
-Name: Fancy
-Domain: fancy.com
-Home: http://www.fancy.com/
-Privacy_policy: https://fancy.com/about/terms-privacy
-Email: hello@fancy.com
+

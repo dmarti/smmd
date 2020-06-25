@@ -1,8 +1,10 @@
+---
+company-name: "Pt engine"
+domain: ptengine.jp
+home: http://www.ptengine.jp/
+privacy-policy: https://www.ptengine.jp/privacy/
+email: support@ptmind.co.jp
+---
 
-# Pt engine
 
-Name: Pt engine
-Domain: ptengine.jp
-Home: http://www.ptengine.jp/
-Privacy_policy: https://www.ptengine.jp/privacy/
-Email: support@ptmind.co.jp
+

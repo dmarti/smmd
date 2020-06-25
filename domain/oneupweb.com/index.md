@@ -1,8 +1,10 @@
+---
+company-name: Oneupweb
+domain: oneupweb.com
+home: https://www.oneupweb.com/
+privacy-policy: https://www.oneupweb.com/privacy-policy/
+email: info@oneupweb.com
+---
 
-# Oneupweb
 
-Name: Oneupweb
-Domain: oneupweb.com
-Home: https://www.oneupweb.com/
-Privacy_policy: https://www.oneupweb.com/privacy-policy/
-Email: info@oneupweb.com
+

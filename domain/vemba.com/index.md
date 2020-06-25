@@ -1,7 +1,9 @@
+---
+company-name: Vemba
+domain: vemba.com
+home: https://vemba.com/
+email: info@vemba.com
+---
 
-# Vemba
 
-Name: Vemba
-Domain: vemba.com
-Home: https://vemba.com/
-Email: info@vemba.com
+

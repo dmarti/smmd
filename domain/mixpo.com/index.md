@@ -1,10 +1,11 @@
+---
+company-name: Mixpo
+domain: mixpo.com
+home: http://dynamicvideoad.mixpo.com/
+privacy-policy: http://dynamicvideoad.mixpo.com/legal/
+email: privacy@mixpo.com
+member-of: "Network Advertising Initiative"
+---
 
-# Mixpo
 
-Name: Mixpo
-Domain: mixpo.com
-Home: http://dynamicvideoad.mixpo.com/
-Privacy_policy: http://dynamicvideoad.mixpo.com/legal/
-Email: privacy@mixpo.com
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

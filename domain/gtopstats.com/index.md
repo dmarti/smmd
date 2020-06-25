@@ -1,7 +1,9 @@
+---
+company-name: GTopStats
+domain: gtopstats.com
+home: http://www.gtopstats.com/
+privacy-policy: http://www.gtopstats.com/privacy-policy/
+---
 
-# GTopStats
 
-Name: GTopStats
-Domain: gtopstats.com
-Home: http://www.gtopstats.com/
-Privacy_policy: http://www.gtopstats.com/privacy-policy/
+

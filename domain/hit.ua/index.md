@@ -1,7 +1,9 @@
+---
+company-name: HIT.UA
+domain: hit.ua
+home: http://hit.ua/
+email: mailbox@hit.ua
+---
 
-# HIT.UA
 
-Name: HIT.UA
-Domain: hit.ua
-Home: http://hit.ua/
-Email: mailbox@hit.ua
+

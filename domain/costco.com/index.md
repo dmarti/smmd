@@ -1,8 +1,10 @@
+---
+company-name: Costco
+domain: costco.com
+home: https://www.costco.com/
+privacy-policy: https://www.costco.com/privacy-policy.html
+email: customerservice@contactcostco.com
+---
 
-# Costco
 
-Name: Costco
-Domain: costco.com
-Home: https://www.costco.com/
-Privacy_policy: https://www.costco.com/privacy-policy.html
-Email: customerservice@contactcostco.com
+

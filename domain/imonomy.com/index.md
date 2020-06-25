@@ -1,8 +1,10 @@
+---
+company-name: imonomy
+domain: imonomy.com
+home: http://imonomy.com
+privacy-policy: http://imonomy.com/privacy-policy/
+email: info@imonomy.com
+---
 
-# imonomy
 
-Name: imonomy
-Domain: imonomy.com
-Home: http://imonomy.com
-Privacy_policy: http://imonomy.com/privacy-policy/
-Email: info@imonomy.com
+

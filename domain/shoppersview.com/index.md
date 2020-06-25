@@ -1,7 +1,9 @@
+---
+company-name: "Shoppers' View"
+domain: shoppersview.com
+home: http://www.shoppersview.com/
+email: sales-info@shoppersview.com
+---
 
-# Shoppers' View
 
-Name: Shoppers' View
-Domain: shoppersview.com
-Home: http://www.shoppersview.com/
-Email: sales-info@shoppersview.com
+

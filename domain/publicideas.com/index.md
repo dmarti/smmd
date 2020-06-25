@@ -1,9 +1,11 @@
+---
+company-name: Public-Idees
+domain: publicideas.com
+home: http://en.publicideas.com/
+privacy-policy: http://en.publicideas.com/our-company/privacy-policies/
+email: privacy@public-idees.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Public-Idees
 
-Name: Public-Idees
-Domain: publicideas.com
-Home: http://en.publicideas.com/
-Privacy_policy: http://en.publicideas.com/our-company/privacy-policies/
-Email: privacy@public-idees.com
-Member_of: European Data Interactive Alliance
+

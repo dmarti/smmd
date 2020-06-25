@@ -1,7 +1,9 @@
-# Cash App
+---
+company-name: "Cash App"
+domain: cash.app
+opt-out-url: https://cash.app/legal/us/en-us/privacy#rights
+---
 
-Name: Cash App
 
-Domain: cash.app
 
-Opt_out_url: https://cash.app/legal/us/en-us/privacy#rights
+

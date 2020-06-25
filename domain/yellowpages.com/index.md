@@ -1,9 +1,11 @@
+---
+company-name: "YP Intellectual Property"
+domain: yellowpages.com
+home: https://www.yellowpages.com/
+privacy-policy: https://www.dexyp.com/privacy/
+owned-by: "AT&T Interactive"
+member-of: TrustE_TrustArc
+---
 
-# YP Intellectual Property
 
-Name: YP Intellectual Property
-Domain: yellowpages.com
-Home: https://www.yellowpages.com/
-Privacy_policy: https://www.dexyp.com/privacy/
-Owned_by: AT&T Interactive
-Member_of: TrustE_TrustArc
+

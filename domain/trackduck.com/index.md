@@ -1,8 +1,10 @@
+---
+company-name: "Track Duck"
+domain: trackduck.com
+home: https://trackduck.com/
+privacy-policy: https://trackduck.com/privacy-policy/
+email: contact@trackduck.com
+---
 
-# Track Duck
 
-Name: Track Duck
-Domain: trackduck.com
-Home: https://trackduck.com/
-Privacy_policy: https://trackduck.com/privacy-policy/
-Email: contact@trackduck.com
+

@@ -1,7 +1,9 @@
+---
+company-name: Cbox
+domain: cbox.ws
+home: http://www.cbox.ws/
+privacy-policy: http://www.cbox.ws/privacy
+---
 
-# Cbox
 
-Name: Cbox
-Domain: cbox.ws
-Home: http://www.cbox.ws/
-Privacy_policy: http://www.cbox.ws/privacy
+

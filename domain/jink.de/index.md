@@ -1,8 +1,10 @@
+---
+company-name: Jink
+domain: jink.de
+home: http://www.jink.de/
+privacy-policy: http://www.jink.de/datenschutz
+email: kontakt@jink.de
+---
 
-# Jink
 
-Name: Jink
-Domain: jink.de
-Home: http://www.jink.de/
-Privacy_policy: http://www.jink.de/datenschutz
-Email: kontakt@jink.de
+

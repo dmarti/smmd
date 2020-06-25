@@ -1,7 +1,9 @@
+---
+company-name: Brandmovers
+domain: brandmovers.com
+home: http://www.brandmovers.com/
+email: amitchell@brandmovers.com
+---
 
-# Brandmovers
 
-Name: Brandmovers
-Domain: brandmovers.com
-Home: http://www.brandmovers.com/
-Email: amitchell@brandmovers.com
+

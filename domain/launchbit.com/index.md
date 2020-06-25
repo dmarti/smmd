@@ -1,9 +1,11 @@
+---
+company-name: LaunchBit
+domain: launchbit.com
+home: https://www.launchbit.com/
+privacy-policy: https://www.launchbit.com/privacy/
+email: hello@launchbit.com
+owned-by: BuySellAds.com
+---
 
-# LaunchBit
 
-Name: LaunchBit
-Domain: launchbit.com
-Home: https://www.launchbit.com/
-Privacy_policy: https://www.launchbit.com/privacy/
-Email: hello@launchbit.com
-Owned_by: BuySellAds.com
+

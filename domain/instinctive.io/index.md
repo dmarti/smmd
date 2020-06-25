@@ -1,8 +1,10 @@
+---
+company-name: Instinctive
+domain: instinctive.io
+home: https://instinctive.io/
+privacy-policy: https://instinctive.io/privacy
+email: legal@pubexchange.com
+---
 
-# Instinctive
 
-Name: Instinctive
-Domain: instinctive.io
-Home: https://instinctive.io/ 
-Privacy_policy: https://instinctive.io/privacy
-Email: legal@pubexchange.com
+

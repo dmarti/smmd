@@ -1,9 +1,11 @@
+---
+company-name: "Waze Mobile"
+domain: waze.com
+home: https://www.waze.com/
+privacy-policy: https://www.waze.com/legal/privacy
+email: privacy@waze.com
+owned-by: "Google Inc."
+---
 
-# Waze Mobile
 
-Name: Waze Mobile
-Domain: waze.com
-Home: https://www.waze.com/
-Privacy_policy: https://www.waze.com/legal/privacy
-Email: privacy@waze.com
-Owned_by: Google Inc.
+

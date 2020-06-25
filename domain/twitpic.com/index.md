@@ -1,9 +1,11 @@
+---
+company-name: Twitpic
+domain: twitpic.com
+home: http://twitpic.com/
+privacy-policy: https://twitter.com/privacy?lang=en
+email: noah@twitpic.com
+owned-by: Twitter
+---
 
-# Twitpic
 
-Name: Twitpic
-Domain: twitpic.com
-Home: http://twitpic.com/
-Privacy_policy: https://twitter.com/privacy?lang=en
-Email: noah@twitpic.com
-Owned_by: Twitter
+

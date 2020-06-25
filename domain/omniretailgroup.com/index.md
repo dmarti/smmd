@@ -1,6 +1,8 @@
+---
+company-name: "Omni Retail Group"
+domain: omniretailgroup.com
+home: http://omniretailgroup.com/
+---
 
-# Omni Retail Group
 
-Name: Omni Retail Group
-Domain: omniretailgroup.com
-Home: http://omniretailgroup.com/
+

@@ -1,8 +1,10 @@
+---
+company-name: trbo
+domain: trbo.com
+home: http://www.trbo.com/
+privacy-policy: http://www.trbo.com/datenschutz/
+email: info@trbo.com
+---
 
-# trbo
 
-Name: trbo
-Domain: trbo.com
-Home: http://www.trbo.com/
-Privacy_policy: http://www.trbo.com/datenschutz/
-Email: info@trbo.com
+

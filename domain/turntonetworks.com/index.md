@@ -1,8 +1,10 @@
+---
+company-name: "TurnTo Networks"
+domain: turntonetworks.com
+home: https://www.turntonetworks.com/
+privacy-policy: https://www.turntonetworks.com/privacy/
+email: privacy@turnto.com
+---
 
-# TurnTo Networks
 
-Name: TurnTo Networks
-Domain: turntonetworks.com
-Home: https://www.turntonetworks.com/
-Privacy_policy: https://www.turntonetworks.com/privacy/
-Email: privacy@turnto.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "IPG Mediabrands"
+domain: ipgmediabrands.com
+home: https://www.ipgmediabrands.com/
+privacy-policy: https://www.ipgmediabrands.com/privacy-notice/
+email: contact@mbww.com
+---
 
-# IPG Mediabrands
 
-Name: IPG Mediabrands
-Domain: ipgmediabrands.com
-Home: https://www.ipgmediabrands.com/
-Privacy_policy: https://www.ipgmediabrands.com/privacy-notice/
-Email: contact@mbww.com
+

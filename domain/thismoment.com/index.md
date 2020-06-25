@@ -1,8 +1,10 @@
+---
+company-name: Thismoment
+domain: thismoment.com
+home: http://www.thismoment.com/
+privacy-policy: https://www.thismoment.com/privacy-policy/
+email: privacy@thismoment.com
+---
 
-# Thismoment
 
-Name: Thismoment
-Domain: thismoment.com
-Home: http://www.thismoment.com/
-Privacy_policy: https://www.thismoment.com/privacy-policy/
-Email: privacy@thismoment.com
+

@@ -1,9 +1,11 @@
+---
+company-name: "Video Reach"
+domain: videoreach.de
+home: https://www.videoreach.de/
+privacy-policy: https://www.videoreach.de/about/privacy-policy/
+email: hello@videoreach.de
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Video Reach
 
-Name: Video Reach
-Domain: videoreach.de
-Home: https://www.videoreach.de/
-Privacy_policy: https://www.videoreach.de/about/privacy-policy/
-Email: hello@videoreach.de
-Member_of: Interactive Advertising Bureau (IAB)
+

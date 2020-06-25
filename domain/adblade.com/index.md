@@ -1,9 +1,11 @@
+---
+company-name: Adblade
+domain: adblade.com
+home: https://www.adblade.com/
+privacy-policy: https://www.adblade.com/doc/privacy
+email: privacy@adblade.com
+member-of: "Network Advertising Initiative"
+---
 
-# Adblade
 
-Name: Adblade
-Domain: adblade.com
-Home: https://www.adblade.com/
-Privacy_policy: https://www.adblade.com/doc/privacy
-Email: privacy@adblade.com
-Member_of: Network Advertising Initiative
+

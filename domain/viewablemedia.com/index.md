@@ -1,8 +1,10 @@
+---
+company-name: "Viewable Media"
+domain: viewablemedia.com
+home: http://viewablemedia.com/
+privacy-policy: http://www.visiblemeasures.com/privacy-policy/
+owned-by: "Visible Measures"
+---
 
-# Viewable Media
 
-Name: Viewable Media
-Domain: viewablemedia.com
-Home: http://viewablemedia.com/
-Privacy_policy: http://www.visiblemeasures.com/privacy-policy/
-Owned_by: Visible Measures
+

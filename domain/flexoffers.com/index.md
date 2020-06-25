@@ -1,8 +1,10 @@
+---
+company-name: FlexOffers.com
+domain: flexoffers.com
+home: https://www.flexoffers.com/
+privacy-policy: https://www.flexoffers.com/privacy-policy/
+email: support@flexoffers.com
+---
 
-# FlexOffers.com
 
-Name: FlexOffers.com
-Domain: flexoffers.com
-Home: https://www.flexoffers.com/
-Privacy_policy: https://www.flexoffers.com/privacy-policy/
-Email: support@flexoffers.com
+

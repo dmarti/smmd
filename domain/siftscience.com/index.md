@@ -1,8 +1,10 @@
+---
+company-name: "Sift Science"
+domain: siftscience.com
+home: https://siftscience.com/
+privacy-policy: https://siftscience.com/service-privacy
+email: privacy@siftscience.com
+---
 
-# Sift Science
 
-Name: Sift Science
-Domain: siftscience.com
-Home: https://siftscience.com/
-Privacy_policy: https://siftscience.com/service-privacy
-Email: privacy@siftscience.com
+

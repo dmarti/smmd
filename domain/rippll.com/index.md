@@ -1,8 +1,10 @@
+---
+company-name: Rippll
+domain: rippll.com
+home: https://www.rippll.com/
+privacy-policy: https://www.rippll.com/privacy
+email: privacy@rippll.com
+---
 
-# Rippll
 
-Name: Rippll
-Domain: rippll.com
-Home: https://www.rippll.com/
-Privacy_policy: https://www.rippll.com/privacy
-Email: privacy@rippll.com
+

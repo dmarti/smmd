@@ -1,7 +1,9 @@
+---
+company-name: Netflix
+domain: netflix.com
+home: https://www.netflix.com/
+email: privacy@netflix.com
+---
 
-# Netflix
 
-Name: Netflix
-Domain: netflix.com
-Home: https://www.netflix.com/
-Email: privacy@netflix.com
+

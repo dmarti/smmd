@@ -1,8 +1,10 @@
+---
+company-name: WebAntenna
+domain: bebit.co.jp
+home: http://www.bebit.co.jp/webantenna/
+privacy-policy: http://www.bebit.co.jp/privacy/index.html
+email: privacy@bebit.co.jp
+---
 
-# WebAntenna
 
-Name: WebAntenna
-Domain: bebit.co.jp
-Home: http://www.bebit.co.jp/webantenna/
-Privacy_policy: http://www.bebit.co.jp/privacy/index.html
-Email: privacy@bebit.co.jp
+

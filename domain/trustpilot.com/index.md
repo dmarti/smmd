@@ -1,7 +1,9 @@
+---
+company-name: Trustpilot
+domain: trustpilot.com
+home: https://www.trustpilot.com/
+privacy-policy: http://legal.trustpilot.com/end-user-privacy-terms
+---
 
-# Trustpilot
 
-Name: Trustpilot
-Domain: trustpilot.com
-Home: https://www.trustpilot.com/
-Privacy_policy: http://legal.trustpilot.com/end-user-privacy-terms
+

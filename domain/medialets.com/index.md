@@ -1,9 +1,11 @@
+---
+company-name: Medialets
+domain: medialets.com
+home: http://www.medialets.com/
+privacy-policy: http://www.medialets.com/privacy/
+email: privacy@medialets.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Medialets
 
-Name: Medialets
-Domain: medialets.com
-Home: http://www.medialets.com/
-Privacy_policy: http://www.medialets.com/privacy/
-Email: privacy@medialets.com
-Member_of: Interactive Advertising Bureau (IAB)
+

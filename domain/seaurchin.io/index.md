@@ -1,7 +1,9 @@
+---
+company-name: SeaUrchin.IO
+domain: seaurchin.io
+home: https://seaurchin.io/
+email: contact@seaurchin.io
+---
 
-# SeaUrchin.IO
 
-Name: SeaUrchin.IO
-Domain: seaurchin.io
-Home: https://seaurchin.io/
-Email: contact@seaurchin.io
+

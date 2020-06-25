@@ -1,10 +1,11 @@
+---
+company-name: Mozoo
+domain: mozoo.com
+home: http://mozoo.com/
+privacy-policy: https://www.mozoo.com/privacy-policy/
+email: contact@mozoo.com
+member-of: "Mobile Marketing Asc"
+---
 
-# Mozoo
 
-Name: Mozoo
-Domain: mozoo.com
-Home: http://mozoo.com/
-Privacy_policy: https://www.mozoo.com/privacy-policy/
-Email: contact@mozoo.com
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Mobile Marketing Asc
+

@@ -1,8 +1,10 @@
+---
+company-name: Pernod-Ricard
+domain: pernod-ricard.com
+home: https://www.pernod-ricard.com/en
+privacy-policy: https://www.pernod-ricard.com/en/privacy-policy/
+email: privacy@pernod-ricard.com
+---
 
-# Pernod-Ricard
 
-Name: Pernod-Ricard
-Domain: pernod-ricard.com
-Home: https://www.pernod-ricard.com/en
-Privacy_policy: https://www.pernod-ricard.com/en/privacy-policy/
-Email: privacy@pernod-ricard.com
+

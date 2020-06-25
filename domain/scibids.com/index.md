@@ -1,8 +1,10 @@
+---
+company-name: Scibids
+domain: scibids.com
+home: http://scibids.com/
+privacy-policy: http://scibids.com/privacy/
+email: privacy@scibids.com
+---
 
-# Scibids
 
-Name: Scibids
-Domain: scibids.com
-Home: http://scibids.com/
-Privacy_policy: http://scibids.com/privacy/
-Email: privacy@scibids.com
+

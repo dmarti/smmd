@@ -1,9 +1,11 @@
+---
+company-name: "Walk Me"
+domain: walkme.com
+home: https://www.walkme.com/
+privacy-policy: https://www.walkme.com/privacy-policy/
+email: legal@walkme.com
+member-of: TrustE_TrustArc
+---
 
-# Walk Me
 
-Name: Walk Me
-Domain: walkme.com
-Home: https://www.walkme.com/
-Privacy_policy: https://www.walkme.com/privacy-policy/
-Email: legal@walkme.com
-Member_of: TrustE_TrustArc
+

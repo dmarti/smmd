@@ -1,10 +1,11 @@
+---
+company-name: Ogury
+domain: ogury.com
+home: https://www.ogury.com/
+privacy-policy: https://www.ogury.com/privacy/
+email: privacy@ogury.co
+member-of: "Mobile Marketing Asc"
+---
 
-# Ogury
 
-Name: Ogury
-Domain: ogury.com
-Home: https://www.ogury.com/
-Privacy_policy: https://www.ogury.com/privacy/
-Email: privacy@ogury.co
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Mobile Marketing Asc
+

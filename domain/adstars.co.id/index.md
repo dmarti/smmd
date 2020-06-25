@@ -1,7 +1,9 @@
+---
+company-name: AdStars
+domain: adstars.co.id
+home: http://adstars.co.id
+email: sales@adstars.co.id
+---
 
-# AdStars
 
-Name: AdStars
-Domain: adstars.co.id
-Home: http://adstars.co.id
-Email: sales@adstars.co.id
+

@@ -1,9 +1,11 @@
+---
+company-name: Posterous
+domain: posterous.com
+home: https://posterous.com/
+privacy-policy: https://posterous.com/privacy
+email: legal@posterous-inc.com
+owned-by: Twitter
+---
 
-# Posterous
 
-Name: Posterous
-Domain: posterous.com
-Home: https://posterous.com/
-Privacy_policy: https://posterous.com/privacy
-Email: legal@posterous-inc.com
-Owned_by: Twitter
+

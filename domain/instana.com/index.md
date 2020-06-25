@@ -1,8 +1,10 @@
+---
+company-name: Instana
+domain: instana.com
+home: https://www.instana.com/
+privacy-policy: https://www.instana.com/privacy-policy/
+email: dataprotection@instana.com
+---
 
-# Instana
 
-Name: Instana
-Domain: instana.com
-Home: https://www.instana.com/
-Privacy_policy: https://www.instana.com/privacy-policy/
-Email: dataprotection@instana.com
+

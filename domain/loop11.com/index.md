@@ -1,8 +1,10 @@
+---
+company-name: "Loop 11"
+domain: loop11.com
+home: http://www.loop11.com
+privacy-policy: http://www.loop11.com/privacy/
+email: support@loop11.com
+---
 
-# Loop 11
 
-Name: Loop 11
-Domain: loop11.com
-Home: http://www.loop11.com
-Privacy_policy: http://www.loop11.com/privacy/
-Email: support@loop11.com
+

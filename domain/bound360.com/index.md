@@ -1,8 +1,10 @@
+---
+company-name: "Bound (Get Smart Content)"
+domain: bound360.com
+home: https://www.bound360.com/
+privacy-policy: https://www.bound360.com/privacy-policy/
+email: info@bound360.com
+---
 
-# Bound (Get Smart Content)
 
-Name: Bound (Get Smart Content)
-Domain: bound360.com
-Home: https://www.bound360.com/
-Privacy_policy: https://www.bound360.com/privacy-policy/
-Email: info@bound360.com
+

@@ -1,8 +1,10 @@
+---
+company-name: TouchAds
+domain: touchads.com
+home: https://touchads.com/company-index.html#/
+privacy-policy: https://touchads.com/company-index.html#privacy-policy
+email: contact@touchads.com
+---
 
-# TouchAds
 
-Name: TouchAds
-Domain: touchads.com
-Home: https://touchads.com/company-index.html#/
-Privacy_policy: https://touchads.com/company-index.html#privacy-policy
-Email: contact@touchads.com
+

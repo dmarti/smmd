@@ -1,7 +1,9 @@
+---
+company-name: MediaMelon
+domain: comhttp.
+home: https://mediamelon.comhttp://www.mediamelon.com/
+email: info@mediamelon.com
+---
 
-# MediaMelon
 
-Name: MediaMelon
-Domain: comhttp.
-Home: https://mediamelon.comhttp://www.mediamelon.com/
-Email: info@mediamelon.com
+

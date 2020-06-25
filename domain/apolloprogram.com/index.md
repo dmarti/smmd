@@ -1,8 +1,10 @@
+---
+company-name: "Apollo Program"
+domain: apolloprogram.com
+home: http://apolloprogram.com/
+privacy-policy: http://apolloprogram.com/privacy
+email: privacy@apolloprogram.com
+---
 
-# Apollo Program
 
-Name: Apollo Program
-Domain: apolloprogram.com
-Home: http://apolloprogram.com/
-Privacy_policy: http://apolloprogram.com/privacy
-Email: privacy@apolloprogram.com
+

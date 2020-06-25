@@ -1,6 +1,8 @@
+---
+company-name: Img-Hoster
+domain: img-hoster.de
+home: http://img-hoster.de/
+---
 
-# Img-Hoster
 
-Name: Img-Hoster
-Domain: img-hoster.de
-Home: http://img-hoster.de/
+

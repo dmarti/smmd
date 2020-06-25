@@ -1,8 +1,10 @@
+---
+company-name: Aniview
+domain: aniview.com
+home: https://www.aniview.com
+privacy-policy: https://www.aniview.com/privacy-policy/
+email: info@aniview.com
+---
 
-# Aniview
 
-Name: Aniview
-Domain: aniview.com
-Home: https://www.aniview.com
-Privacy_policy: https://www.aniview.com/privacy-policy/
-Email: info@aniview.com
+

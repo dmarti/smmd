@@ -1,8 +1,10 @@
+---
+company-name: ProductsUp
+domain: productsup.io
+home: https://productsup.io/
+privacy-policy: https://productsup.io/legal-note/
+email: cloudinfo@productsup.com
+---
 
-# ProductsUp
 
-Name: ProductsUp
-Domain: productsup.io
-Home: https://productsup.io/
-Privacy_policy: https://productsup.io/legal-note/
-Email: cloudinfo@productsup.com
+

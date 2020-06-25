@@ -1,8 +1,10 @@
+---
+company-name: "Lands End"
+domain: landsend.com
+home: http://www.landsend.com/
+privacy-policy: https://www.landsend.com/customerservice/legal_policies/privacy/
+email: websiteinquiry@landsend.com
+---
 
-# Lands End
 
-Name: Lands End
-Domain: landsend.com
-Home: http://www.landsend.com/
-Privacy_policy: https://www.landsend.com/customerservice/legal_policies/privacy/
-Email: websiteinquiry@landsend.com
+

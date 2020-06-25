@@ -1,7 +1,9 @@
+---
+company-name: "Radius Marketing"
+domain: radiusmarketing.com
+home: http://www.radiusmarketing.com/
+email: info@radiusmarketing.com
+---
 
-# Radius Marketing
 
-Name: Radius Marketing
-Domain: radiusmarketing.com
-Home: http://www.radiusmarketing.com/
-Email: info@radiusmarketing.com
+

@@ -1,7 +1,9 @@
+---
+company-name: AdPlay
+domain: adplay-mobile.com
+home: https://www.adplay-mobile.com/
+privacy-policy: https://rtb.adplay-mobile.com/privacy-policy
+---
 
-# AdPlay
 
-Name: AdPlay
-Domain: adplay-mobile.com
-Home: https://www.adplay-mobile.com/
-Privacy_policy: https://rtb.adplay-mobile.com/privacy-policy
+

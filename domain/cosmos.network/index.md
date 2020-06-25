@@ -1,6 +1,8 @@
+---
+company-name: Cosmos
+domain: cosmos.network
+home: https://cosmos.network
+---
 
-# Cosmos
 
-Name: Cosmos
-Domain: cosmos.network
-Home: https://cosmos.network
+

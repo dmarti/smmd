@@ -1,9 +1,11 @@
+---
+company-name: Piximedia
+domain: piximedia.com
+home: http://www.piximedia.com/?lang=en_US
+privacy-policy: http://www.piximedia.com/privacy.php
+email: privacy@piximedia.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Piximedia
 
-Name: Piximedia
-Domain: piximedia.com
-Home: http://www.piximedia.com/?lang=en_US
-Privacy_policy: http://www.piximedia.com/privacy.php
-Email: privacy@piximedia.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

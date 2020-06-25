@@ -1,7 +1,9 @@
+---
+company-name: Feedbackify
+domain: feedbackify.com
+home: http://www.feedbackify.com/
+privacy-policy: http://www.feedbackify.com/privacy.php
+---
 
-# Feedbackify
 
-Name: Feedbackify
-Domain: feedbackify.com
-Home: http://www.feedbackify.com/
-Privacy_policy: http://www.feedbackify.com/privacy.php
+

@@ -1,7 +1,9 @@
+---
+company-name: ClicKing
+domain: clicking.com.tw
+home: http://clicking.com.tw/
+privacy-policy: http://
+---
 
-# ClicKing
 
-Name: ClicKing
-Domain: clicking.com.tw
-Home: http://clicking.com.tw/
-Privacy_policy: http://
+

@@ -1,6 +1,8 @@
+---
+company-name: "Smart Leads"
+domain: cnt.my
+home: http://www.cnt.my/
+---
 
-# Smart Leads
 
-Name: Smart Leads
-Domain: cnt.my
-Home: http://www.cnt.my/
+

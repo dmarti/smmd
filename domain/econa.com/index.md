@@ -1,8 +1,10 @@
+---
+company-name: ECONA
+domain: econa.com
+home: http://www.econa.com/en/
+privacy-policy: http://econa.com/impressum/
+email: info@econa.com
+---
 
-# ECONA
 
-Name: ECONA
-Domain: econa.com
-Home: http://www.econa.com/en/
-Privacy_policy: http://econa.com/impressum/
-Email: info@econa.com
+

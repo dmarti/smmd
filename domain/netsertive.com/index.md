@@ -1,8 +1,10 @@
+---
+company-name: Netsertive
+domain: netsertive.com
+home: https://www.netsertive.com/
+privacy-policy: https://www.netsertive.com/privacy-policy/
+email: privacy@netsertive.com
+---
 
-# Netsertive
 
-Name: Netsertive
-Domain: netsertive.com
-Home: https://www.netsertive.com/
-Privacy_policy: https://www.netsertive.com/privacy-policy/
-Email: privacy@netsertive.com
+

@@ -1,6 +1,8 @@
+---
+company-name: Mediafed
+domain: mediafed.com
+home: http://www.mediafed.com/
+---
 
-# Mediafed
 
-Name: Mediafed
-Domain: mediafed.com
-Home: http://www.mediafed.com/
+

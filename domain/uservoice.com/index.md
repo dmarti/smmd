@@ -1,8 +1,10 @@
+---
+company-name: UserVoice
+domain: uservoice.com
+home: https://www.uservoice.com
+privacy-policy: https://www.uservoice.com/privacy/
+email: support@uservoice.com
+---
 
-# UserVoice
 
-Name: UserVoice
-Domain: uservoice.com
-Home: https://www.uservoice.com
-Privacy_policy: https://www.uservoice.com/privacy/
-Email: support@uservoice.com
+

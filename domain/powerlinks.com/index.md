@@ -1,8 +1,10 @@
+---
+company-name: PowerLinks
+domain: powerlinks.com
+home: http://www.powerlinks.com/
+privacy-policy: http://www.powerlinks.com/privacy-policy/
+email: info@powerlinks.com
+---
 
-# PowerLinks
 
-Name: PowerLinks
-Domain: powerlinks.com
-Home: http://www.powerlinks.com/
-Privacy_policy: http://www.powerlinks.com/privacy-policy/
-Email: info@powerlinks.com
+

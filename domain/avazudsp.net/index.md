@@ -1,6 +1,8 @@
+---
+company-name: "Avazu Network"
+domain: avazudsp.net
+home: http://www.avazudsp.net/
+---
 
-# Avazu Network
 
-Name: Avazu Network
-Domain: avazudsp.net
-Home: http://www.avazudsp.net/
+

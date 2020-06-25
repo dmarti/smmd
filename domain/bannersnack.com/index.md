@@ -1,9 +1,11 @@
+---
+company-name: "Bannersnack (Smartketer LLC)"
+domain: bannersnack.com
+home: http://www.bannersnack.com/
+privacy-policy: https://www.bannersnack.com/legal-information/privacy-policy.html
+email: contact@bannersnack.com
+owned-by: Smartketer
+---
 
-# Bannersnack (Smartketer LLC)
 
-Name: Bannersnack (Smartketer LLC)
-Domain: bannersnack.com
-Home: http://www.bannersnack.com/
-Privacy_policy: https://www.bannersnack.com/legal-information/privacy-policy.html
-Email: contact@bannersnack.com
-Owned_by: Smartketer
+

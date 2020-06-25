@@ -1,7 +1,9 @@
+---
+company-name: Tidbit
+domain: tidbit.co.in
+home: http://tidbit.co.in/
+email: tidbtc@gmail.com
+---
 
-# Tidbit
 
-Name: Tidbit
-Domain: tidbit.co.in
-Home: http://tidbit.co.in/
-Email: tidbtc@gmail.com
+

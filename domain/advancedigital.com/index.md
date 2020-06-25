@@ -1,9 +1,11 @@
+---
+company-name: "Advance Digital"
+domain: advancedigital.com
+home: https://www.advancedigital.com
+privacy-policy: https://www.advance.com/advancelocalUserAgreement/privacy-policy.html
+email: privacy_inquiry@advance.net
+owned-by: "Advance Local"
+---
 
-# Advance Digital
 
-Name: Advance Digital
-Domain: advancedigital.com
-Home: https://www.advancedigital.com
-Privacy_policy: https://www.advance.com/advancelocalUserAgreement/privacy-policy.html
-Email: privacy_inquiry@advance.net
-Owned_by: Advance Local
+

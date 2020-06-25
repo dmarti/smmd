@@ -1,7 +1,9 @@
+---
+company-name: Gild
+domain: gild.com
+home: https://www.gild.com/
+privacy-policy: https://www.citadel.com/privacy/
+---
 
-# Gild
 
-Name: Gild
-Domain: gild.com
-Home: https://www.gild.com/
-Privacy_policy: https://www.citadel.com/privacy/
+

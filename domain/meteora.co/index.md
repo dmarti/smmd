@@ -1,8 +1,10 @@
+---
+company-name: Meteora
+domain: meteora.co
+home: http://meteora.co/
+privacy-policy: http://meteora.co/privacy-policy/
+email: engage@meteora.co
+---
 
-# Meteora
 
-Name: Meteora
-Domain: meteora.co
-Home: http://meteora.co/
-Privacy_policy: http://meteora.co/privacy-policy/
-Email: engage@meteora.co
+

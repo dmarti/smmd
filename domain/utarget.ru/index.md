@@ -1,8 +1,10 @@
+---
+company-name: uTarget
+domain: utarget.ru
+home: http://utarget.ru/
+privacy-policy: https://utarget.pro/policy/
+email: support@utarget.ru
+---
 
-# uTarget
 
-Name: uTarget
-Domain: utarget.ru
-Home: http://utarget.ru/
-Privacy_policy: https://utarget.pro/policy/
-Email: support@utarget.ru
+

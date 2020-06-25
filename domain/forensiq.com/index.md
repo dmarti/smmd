@@ -1,9 +1,11 @@
+---
+company-name: Forensiq
+domain: forensiq.com
+home: http://forensiq.com/
+privacy-policy: https://impact.com/privacy-policy/
+email: info@forensiq.com
+owned-by: "Impact Radius"
+---
 
-# Forensiq
 
-Name: Forensiq
-Domain: forensiq.com
-Home: http://forensiq.com/
-Privacy_policy: https://impact.com/privacy-policy/
-Email: info@forensiq.com
-Owned_by: Impact Radius
+

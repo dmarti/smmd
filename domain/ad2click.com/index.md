@@ -1,7 +1,9 @@
+---
+company-name: "Ad2Click Media"
+domain: ad2click.com
+home: http://www.ad2click.com/
+email: contact@ad2click.com
+---
 
-# Ad2Click Media
 
-Name: Ad2Click Media
-Domain: ad2click.com
-Home: http://www.ad2click.com/
-Email: contact@ad2click.com
+

@@ -1,9 +1,11 @@
+---
+company-name: Extole
+domain: extole.com
+home: https://www.extole.com/
+privacy-policy: https://www.extole.com/privacy-policy/
+email: privacy@extole.com
+member-of: TrustE_TrustArc
+---
 
-# Extole
 
-Name: Extole
-Domain: extole.com
-Home: https://www.extole.com/
-Privacy_policy: https://www.extole.com/privacy-policy/
-Email: privacy@extole.com
-Member_of: TrustE_TrustArc
+

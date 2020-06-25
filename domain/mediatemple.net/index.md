@@ -1,10 +1,12 @@
+---
+company-name: "Media Temple"
+domain: mediatemple.net
+home: https://mediatemple.net/
+privacy-policy: https://mediatemple.net/legal/privacy-policy/
+email: legal.notices@mediatemple.net
+owned-by: GoDaddy
+member-of: TrustE_TrustArc
+---
 
-# Media Temple
 
-Name: Media Temple
-Domain: mediatemple.net
-Home: https://mediatemple.net/
-Privacy_policy: https://mediatemple.net/legal/privacy-policy/
-Email: legal.notices@mediatemple.net
-Owned_by: GoDaddy
-Member_of: TrustE_TrustArc
+

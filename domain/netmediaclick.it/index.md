@@ -1,7 +1,9 @@
+---
+company-name: Netmediaclick
+domain: netmediaclick.it
+home: https://www.netmediaclick.it/#!/
+privacy-policy: http://campagne.mailclick.it/2019/06/policy/policy.html
+---
 
-# Netmediaclick
 
-Name: Netmediaclick
-Domain: netmediaclick.it
-Home: https://www.netmediaclick.it/#!/
-Privacy_policy: http://campagne.mailclick.it/2019/06/policy/policy.html
+

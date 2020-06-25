@@ -1,8 +1,10 @@
+---
+company-name: Siliconrepublic
+domain: siliconrepublic.com
+home: http://www.siliconrepublic.com/
+privacy-policy: http://www.siliconrepublic.com/privacy/
+email: comment@siliconrepublic.com
+---
 
-# Siliconrepublic
 
-Name: Siliconrepublic
-Domain: siliconrepublic.com
-Home: http://www.siliconrepublic.com/
-Privacy_policy: http://www.siliconrepublic.com/privacy/
-Email: comment@siliconrepublic.com
+

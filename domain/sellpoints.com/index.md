@@ -1,8 +1,10 @@
+---
+company-name: Sellpoints
+domain: sellpoints.com
+home: http://www.sellpoints.com/
+privacy-policy: http://www.sellpoints.com/legal/
+email: info@Sellpoints.com
+---
 
-# Sellpoints
 
-Name: Sellpoints
-Domain: sellpoints.com
-Home: http://www.sellpoints.com/
-Privacy_policy: http://www.sellpoints.com/legal/
-Email: info@Sellpoints.com
+

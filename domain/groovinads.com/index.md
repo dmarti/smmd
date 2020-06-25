@@ -1,6 +1,8 @@
+---
+company-name: GroovinAds
+domain: groovinads.com
+home: http://www.groovinads.com/
+---
 
-# GroovinAds
 
-Name: GroovinAds
-Domain: groovinads.com
-Home: http://www.groovinads.com/
+

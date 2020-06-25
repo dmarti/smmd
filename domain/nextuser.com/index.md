@@ -1,8 +1,10 @@
+---
+company-name: "Next User"
+domain: nextuser.com
+home: https://www.nextuser.com/
+privacy-policy: https://www.nextuser.com/policy/
+email: contact@nextuser.com
+---
 
-# Next User
 
-Name: Next User
-Domain: nextuser.com
-Home: https://www.nextuser.com/
-Privacy_policy: https://www.nextuser.com/policy/
-Email: contact@nextuser.com
+

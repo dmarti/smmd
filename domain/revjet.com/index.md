@@ -1,9 +1,11 @@
+---
+company-name: RevJet
+domain: revjet.com
+home: https://www.revjet.com
+privacy-policy: https://www.revjet.com/privacy
+email: all.dataprotection@revjet.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# RevJet
 
-Name: RevJet
-Domain: revjet.com
-Home: https://www.revjet.com
-Privacy_policy: https://www.revjet.com/privacy
-Email: all.dataprotection@revjet.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,8 +1,10 @@
+---
+company-name: "The Austrian Web Analysis (OWA)"
+domain: oewa.at
+home: http://oewa.at/
+privacy-policy: http://www.oewa.at/datenschutzerklaerung
+email: support@oewa.at
+---
 
-# The Austrian Web Analysis (OWA)
 
-Name: The Austrian Web Analysis (OWA)
-Domain: oewa.at
-Home: http://oewa.at/
-Privacy_policy: http://www.oewa.at/datenschutzerklaerung
-Email: support@oewa.at
+

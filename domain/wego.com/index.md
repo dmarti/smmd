@@ -1,8 +1,10 @@
+---
+company-name: Wego
+domain: wego.com
+home: https://www.wego.com/
+privacy-policy: https://www.wego.com/privacy
+email: privacy@wego.com
+---
 
-# Wego
 
-Name: Wego
-Domain: wego.com
-Home: https://www.wego.com/
-Privacy_policy: https://www.wego.com/privacy
-Email: privacy@wego.com
+

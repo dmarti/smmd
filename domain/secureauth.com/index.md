@@ -1,7 +1,9 @@
+---
+company-name: SecureAuth
+domain: secureauth.com
+home: https://www.secureauth.com/
+privacy-policy: https://www.secureauth.com/privacy-policy
+---
 
-# SecureAuth
 
-Name: SecureAuth
-Domain: secureauth.com
-Home: https://www.secureauth.com/
-Privacy_policy: https://www.secureauth.com/privacy-policy
+

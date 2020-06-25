@@ -1,7 +1,9 @@
+---
+company-name: PropelAd
+domain: propelad.com
+home: https://propelad.com/
+privacy-policy: https://propelad.com/home/privacy
+---
 
-# PropelAd
 
-Name: PropelAd
-Domain: propelad.com
-Home: https://propelad.com/
-Privacy_policy: https://propelad.com/home/privacy
+

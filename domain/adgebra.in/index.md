@@ -1,8 +1,10 @@
+---
+company-name: Adgebra
+domain: adgebra.in
+home: https://adgebra.in/
+privacy-policy: https://adgebra.in/privacy-policy/
+email: info@inuxu.media
+---
 
-# Adgebra
 
-Name: Adgebra
-Domain: adgebra.in
-Home: https://adgebra.in/
-Privacy_policy: https://adgebra.in/privacy-policy/
-Email: info@inuxu.media
+

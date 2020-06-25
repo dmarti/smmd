@@ -1,7 +1,9 @@
-# Unilever
+---
+company-name: Unilever
+domain: unileversolutions.com
+opt-out-url: https://privacy.unileversolutions.com/en/rights-request-form.html
+---
 
-Name: Unilever
 
-Domain: unileversolutions.com
 
-Opt_out_url: https://privacy.unileversolutions.com/en/rights-request-form.html
+

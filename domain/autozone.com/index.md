@@ -1,7 +1,9 @@
+---
+company-name: Autozone
+domain: autozone.com
+home: https://www.autozone.com/
+privacy-policy: https://www.autozone.com/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=privacyPolicy&pageCategory=privacyPolicy
+---
 
-# Autozone
 
-Name: Autozone
-Domain: autozone.com
-Home: https://www.autozone.com/
-Privacy_policy: https://www.autozone.com/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=privacyPolicy&pageCategory=privacyPolicy
+

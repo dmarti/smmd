@@ -1,8 +1,10 @@
+---
+company-name: inAuth
+domain: inauth.com
+home: https://www.inauth.com/
+privacy-policy: https://www.inauth.com/privacy/
+email: marketing@inauth.com
+---
 
-# inAuth
 
-Name: inAuth
-Domain: inauth.com
-Home: https://www.inauth.com/
-Privacy_policy: https://www.inauth.com/privacy/
-Email: marketing@inauth.com
+

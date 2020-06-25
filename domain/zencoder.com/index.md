@@ -1,9 +1,11 @@
+---
+company-name: Zencoder
+domain: zencoder.com
+home: https://zencoder.com/en/
+privacy-policy: https://www.brightcove.com/en/privacy
+email: privacy@brightcove.com
+owned-by: Brightcove
+---
 
-# Zencoder
 
-Name: Zencoder
-Domain: zencoder.com
-Home: https://zencoder.com/en/
-Privacy_policy: https://www.brightcove.com/en/privacy
-Email: privacy@brightcove.com
-Owned_by: Brightcove
+

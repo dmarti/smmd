@@ -1,8 +1,10 @@
+---
+company-name: Advertiise.com
+domain: advertiise.com
+home: http://advertiise.com/
+privacy-policy: https://www.advertiise.com/privacy
+email: admin@advertiise.com
+---
 
-# Advertiise.com
 
-Name: Advertiise.com
-Domain: advertiise.com
-Home: http://advertiise.com/
-Privacy_policy: https://www.advertiise.com/privacy
-Email: admin@advertiise.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "FM Adserving"
+domain: fmadserving.dk
+home: http://www.fmadserving.dk/
+email: bannersalg@jfmedier.dk
+---
 
-# FM Adserving
 
-Name: FM Adserving
-Domain: fmadserving.dk
-Home: http://www.fmadserving.dk/
-Email: bannersalg@jfmedier.dk
+

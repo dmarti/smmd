@@ -1,7 +1,9 @@
+---
+company-name: "Trovus Revelations"
+domain: trovus.co.uk
+home: http://www.trovus.co.uk/
+owned-by: Datatec
+---
 
-# Trovus Revelations
 
-Name: Trovus Revelations
-Domain: trovus.co.uk
-Home: http://www.trovus.co.uk/
-Owned_by: Datatec
+

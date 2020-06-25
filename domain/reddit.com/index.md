@@ -1,8 +1,10 @@
+---
+company-name: reddit
+domain: reddit.com
+home: http://reddit.com
+privacy-policy: https://www.redditinc.com/policies/privacy-policy
+email: legal@reddit.com
+---
 
-# reddit
 
-Name: reddit
-Domain: reddit.com
-Home: http://reddit.com
-Privacy_policy: https://www.redditinc.com/policies/privacy-policy
-Email: legal@reddit.com
+

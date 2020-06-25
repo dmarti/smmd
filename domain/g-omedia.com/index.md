@@ -1,7 +1,9 @@
-# G/O Media
+---
+company-name: "G/O Media"
+domain: g-omedia.com
+opt-out-url: https://g-omedia.com/privacy-policy/
+---
 
-Name: G/O Media
 
-Domain: g-omedia.com
 
-Opt_out_url: https://g-omedia.com/privacy-policy/
+

@@ -1,8 +1,10 @@
+---
+company-name: uCoz
+domain: ucoz.com
+home: https://www.ucoz.com/
+privacy-policy: https://www.ucoz.net/privacy/
+email: support@ucoz.com
+---
 
-# uCoz
 
-Name: uCoz
-Domain: ucoz.com
-Home: https://www.ucoz.com/
-Privacy_policy: https://www.ucoz.net/privacy/
-Email: support@ucoz.com
+

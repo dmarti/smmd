@@ -1,8 +1,10 @@
+---
+company-name: Earnify
+domain: earnify.com
+home: https://www.earnify.com/
+privacy-policy: https://www.earnify.com/terms/privacy
+email: legal@earnify.com
+---
 
-# Earnify
 
-Name: Earnify
-Domain: earnify.com
-Home: https://www.earnify.com/
-Privacy_policy: https://www.earnify.com/terms/privacy
-Email: legal@earnify.com
+

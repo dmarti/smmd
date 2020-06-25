@@ -1,7 +1,9 @@
+---
+company-name: "152 Media"
+domain: 152media.com
+home: http://152media.com/152/
+email: info@152media.com
+---
 
-# 152 Media
 
-Name: 152 Media
-Domain: 152media.com
-Home: http://152media.com/152/
-Email: info@152media.com
+

@@ -1,7 +1,9 @@
+---
+company-name: ObservePoint
+domain: observepoint.com
+home: http://www.observepoint.com/
+privacy-policy: http://www.observepoint.com/privacy-policy/
+---
 
-# ObservePoint
 
-Name: ObservePoint
-Domain: observepoint.com
-Home: http://www.observepoint.com/
-Privacy_policy: http://www.observepoint.com/privacy-policy/
+

@@ -1,8 +1,10 @@
+---
+company-name: BigDoor
+domain: bigdoor.com
+home: http://www.bigdoor.com/
+privacy-policy: http://www.bigdoor.com/legal/privacy-policy/
+email: legal@bigdoor.com
+---
 
-# BigDoor
 
-Name: BigDoor
-Domain: bigdoor.com
-Home: http://www.bigdoor.com/
-Privacy_policy: http://www.bigdoor.com/legal/privacy-policy/
-Email: legal@bigdoor.com
+

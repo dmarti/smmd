@@ -1,7 +1,9 @@
+---
+company-name: "Ad Magnet"
+domain: admagnet.com
+home: http://www.admagnet.com/
+privacy-policy: http://www.admagnet.com/privacy-policy.html
+---
 
-# Ad Magnet
 
-Name: Ad Magnet
-Domain: admagnet.com
-Home: http://www.admagnet.com/
-Privacy_policy: http://www.admagnet.com/privacy-policy.html
+

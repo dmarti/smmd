@@ -1,7 +1,9 @@
-# Fox News
+---
+company-name: "Fox News"
+domain: foxnews.com
+opt-out-url: https://www.foxnews.com/donotsell
+---
 
-Name: Fox News
 
-Domain: foxnews.com
 
-Opt_out_url: https://www.foxnews.com/donotsell
+

@@ -1,9 +1,11 @@
+---
+company-name: "AWeber Communications"
+domain: aweber.com
+home: https://www.aweber.com/
+privacy-policy: https://www.aweber.com/privacy.htm
+email: help@aweber.com
+member-of: TrustE_TrustArc
+---
 
-# AWeber Communications
 
-Name: AWeber Communications
-Domain: aweber.com
-Home: https://www.aweber.com/
-Privacy_policy: https://www.aweber.com/privacy.htm
-Email: help@aweber.com
-Member_of: TrustE_TrustArc
+

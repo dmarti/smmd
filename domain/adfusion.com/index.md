@@ -1,7 +1,9 @@
+---
+company-name: Adfusion
+domain: adfusion.com
+home: http://www.adfusion.com/
+email: info@aranetonline.com
+---
 
-# Adfusion
 
-Name: Adfusion
-Domain: adfusion.com
-Home: http://www.adfusion.com/
-Email: info@aranetonline.com
+

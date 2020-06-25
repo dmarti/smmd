@@ -1,8 +1,10 @@
+---
+company-name: iEntry
+domain: ientry.com
+home: http://www.ientry.com/
+privacy-policy: https://www.ientry.com/privacy-policy/
+email: support@ientry.com
+---
 
-# iEntry
 
-Name: iEntry
-Domain: ientry.com
-Home: http://www.ientry.com/
-Privacy_policy: https://www.ientry.com/privacy-policy/
-Email: support@ientry.com
+

@@ -1,11 +1,11 @@
+---
+company-name: "DoubleClick Bid Manager (formerly Invite Media)"
+domain: doubleclickbygoogle.com
+home: https://www.doubleclickbygoogle.com/solutions/digital-marketing/bid-manager/
+privacy-policy: https://policies.google.com/privacy
+owned-by: DoubleClick
+member-of: "Network Advertising Initiative"
+---
 
-# DoubleClick Bid Manager (formerly Invite Media)
 
-Name: DoubleClick Bid Manager (formerly Invite Media)
-Domain: doubleclickbygoogle.com
-Home: https://www.doubleclickbygoogle.com/solutions/digital-marketing/bid-manager/
-Privacy_policy: https://policies.google.com/privacy
-Owned_by: DoubleClick
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

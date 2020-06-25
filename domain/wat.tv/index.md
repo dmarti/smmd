@@ -1,8 +1,10 @@
+---
+company-name: WAT
+domain: wat.tv
+home: http://www.wat.tv/
+privacy-policy: http://www.wat.tv/privacy
+owned-by: "TF1 Group"
+---
 
-# WAT
 
-Name: WAT
-Domain: wat.tv
-Home: http://www.wat.tv/
-Privacy_policy: http://www.wat.tv/privacy
-Owned_by: TF1 Group
+

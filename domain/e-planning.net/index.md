@@ -1,7 +1,9 @@
+---
+company-name: e-planning
+domain: e-planning.net
+home: http://www.e-planning.net/en/
+privacy-policy: https://www.e-planning.net/en/privacy.html
+---
 
-# e-planning
 
-Name: e-planning
-Domain: e-planning.net
-Home: http://www.e-planning.net/en/
-Privacy_policy: https://www.e-planning.net/en/privacy.html
+

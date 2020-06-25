@@ -1,8 +1,10 @@
+---
+company-name: "Manta Media"
+domain: manta.com
+home: https://www.manta.com/
+privacy-policy: https://www.manta.com/resources/manta-privacy-policy/
+email: help@manta.com
+---
 
-# Manta Media
 
-Name: Manta Media
-Domain: manta.com
-Home: https://www.manta.com/
-Privacy_policy: https://www.manta.com/resources/manta-privacy-policy/
-Email: help@manta.com
+

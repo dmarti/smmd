@@ -1,6 +1,8 @@
+---
+company-name: Publiclix
+domain: publiclix.com
+home: http://www.publiclix.com/
+---
 
-# Publiclix
 
-Name: Publiclix
-Domain: publiclix.com
-Home: http://www.publiclix.com/
+

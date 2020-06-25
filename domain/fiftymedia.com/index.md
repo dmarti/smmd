@@ -1,9 +1,11 @@
+---
+company-name: "Fifty Media"
+domain: fiftymedia.com
+home: https://fiftymedia.com/
+privacy-policy: https://fiftymedia.com/privacy-policy/
+email: hello@fiftymedia.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Fifty Media
 
-Name: Fifty Media
-Domain: fiftymedia.com
-Home: https://fiftymedia.com/
-Privacy_policy: https://fiftymedia.com/privacy-policy/
-Email: hello@fiftymedia.com
-Member_of: Interactive Advertising Bureau (IAB)
+

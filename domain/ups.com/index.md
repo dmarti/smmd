@@ -1,7 +1,9 @@
-# UPS
+---
+company-name: UPS
+domain: ups.com
+opt-out-url: https://www.ups.com/us/en/help-center/legal-terms-conditions/california-privacy.page
+---
 
-Name: UPS
 
-Domain: ups.com
 
-Opt_out_url: https://www.ups.com/us/en/help-center/legal-terms-conditions/california-privacy.page
+

@@ -1,8 +1,10 @@
+---
+company-name: Veremedia
+domain: veremedia.com
+home: http://www.veremedia.com/
+privacy-policy: http://www.veremedia.com/privacy.htm
+email: info@verimedia.com
+---
 
-# Veremedia
 
-Name: Veremedia
-Domain: veremedia.com
-Home: http://www.veremedia.com/
-Privacy_policy: http://www.veremedia.com/privacy.htm
-Email: info@verimedia.com
+

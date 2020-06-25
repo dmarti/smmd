@@ -1,8 +1,10 @@
+---
+company-name: "UserRules Software"
+domain: userrules.com
+home: http://www.userrules.com/
+privacy-policy: http://www.userrules.com/privacy
+email: support@userrules.com
+---
 
-# UserRules Software
 
-Name: UserRules Software
-Domain: userrules.com
-Home: http://www.userrules.com/
-Privacy_policy: http://www.userrules.com/privacy
-Email: support@userrules.com
+

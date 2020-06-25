@@ -1,8 +1,10 @@
+---
+company-name: Nexus-Soft
+domain: nexus-soft.org
+home: https://www.nexus-soft.org/
+privacy-policy: https://www.nexus-soft.org/index/privacy
+email: contacts@nexus-soft.org
+---
 
-# Nexus-Soft
 
-Name: Nexus-Soft
-Domain: nexus-soft.org
-Home: https://www.nexus-soft.org/
-Privacy_policy: https://www.nexus-soft.org/index/privacy
-Email: contacts@nexus-soft.org
+

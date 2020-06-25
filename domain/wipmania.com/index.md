@@ -1,8 +1,10 @@
+---
+company-name: WIPmania
+domain: wipmania.com
+home: http://www.wipmania.com/
+privacy-policy: http://www.wipmania.com/privacy/
+email: mail@wipmania.com
+---
 
-# WIPmania
 
-Name: WIPmania
-Domain: wipmania.com
-Home: http://www.wipmania.com/
-Privacy_policy: http://www.wipmania.com/privacy/
-Email: mail@wipmania.com
+

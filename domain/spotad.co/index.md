@@ -1,9 +1,11 @@
+---
+company-name: Spotad
+domain: spotad.co
+home: http://www.spotad.co/
+privacy-policy: http://www.spotad.co/privacy-policy/
+email: privacy@spotad.co
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Spotad
 
-Name: Spotad
-Domain: spotad.co
-Home: http://www.spotad.co/
-Privacy_policy: http://www.spotad.co/privacy-policy/
-Email: privacy@spotad.co
-Member_of: Interactive Advertising Bureau (IAB)
+

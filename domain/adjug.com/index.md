@@ -1,10 +1,12 @@
+---
+company-name: AdJug
+domain: adjug.com
+home: http://www.adjug.com/
+privacy-policy: http://www.adjug.com/info/privacy.asp
+email: info@adjug.com
+owned-by: "Dentsu Inc."
+member-of: "European Data Interactive Alliance"
+---
 
-# AdJug
 
-Name: AdJug
-Domain: adjug.com
-Home: http://www.adjug.com/
-Privacy_policy: http://www.adjug.com/info/privacy.asp
-Email: info@adjug.com
-Owned_by: Dentsu Inc.
-Member_of: European Data Interactive Alliance
+

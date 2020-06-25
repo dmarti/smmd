@@ -1,8 +1,10 @@
+---
+company-name: "dotDigital Group"
+domain: dotdigitalgroup.com
+home: https://www.dotdigitalgroup.com/
+privacy-policy: https://www.dotdigitalgroup.com/privacy-policy/
+email: privacy@dotmailer.com
+---
 
-# dotDigital Group
 
-Name: dotDigital Group
-Domain: dotdigitalgroup.com
-Home: https://www.dotdigitalgroup.com/
-Privacy_policy: https://www.dotdigitalgroup.com/privacy-policy/
-Email: privacy@dotmailer.com
+

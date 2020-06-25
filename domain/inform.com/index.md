@@ -1,9 +1,11 @@
+---
+company-name: "Inform (formerly know as News Distribution Network)"
+domain: inform.com
+home: http://inform.com/
+privacy-policy: http://inform.com/privacy-policy/
+email: legal@inform.com
+member-of: "Digital Advertising Alliance"
+---
 
-# Inform (formerly know as News Distribution Network)
 
-Name: Inform (formerly know as News Distribution Network)
-Domain: inform.com
-Home: http://inform.com/
-Privacy_policy: http://inform.com/privacy-policy/
-Email: legal@inform.com
-Member_of: Digital Advertising Alliance
+

@@ -1,8 +1,10 @@
+---
+company-name: FriendFeed
+domain: friendfeed.com
+home: http://www.friendfeed.com
+email: privacy@friendfeed.com
+owned-by: Facebook
+---
 
-# FriendFeed
 
-Name: FriendFeed
-Domain: friendfeed.com
-Home: http://www.friendfeed.com
-Email: privacy@friendfeed.com
-Owned_by: Facebook
+

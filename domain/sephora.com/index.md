@@ -1,7 +1,9 @@
-# Sephora
+---
+company-name: Sephora
+domain: sephora.com
+opt-out-url: https://www.sephora.com/beauty/privacy-policy#USCaliforniaPrivacyNotices
+---
 
-Name: Sephora
 
-Domain: sephora.com
 
-Opt_out_url: https://www.sephora.com/beauty/privacy-policy#USCaliforniaPrivacyNotices
+

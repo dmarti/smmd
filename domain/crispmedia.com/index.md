@@ -1,10 +1,12 @@
+---
+company-name: "Crisp Media"
+domain: crispmedia.com
+home: http://www.crispmedia.com/
+privacy-policy: http://www.crispmedia.com/privacy-policy/
+email: optout@crispwireless.com
+owned-by: "Quotient (FKA Coupons.com)"
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Crisp Media
 
-Name: Crisp Media
-Domain: crispmedia.com
-Home: http://www.crispmedia.com/
-Privacy_policy: http://www.crispmedia.com/privacy-policy/
-Email: optout@crispwireless.com
-Owned_by: Quotient (FKA Coupons.com)
-Member_of: Interactive Advertising Bureau (IAB)
+

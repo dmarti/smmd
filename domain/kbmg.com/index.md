@@ -1,23 +1,12 @@
-
-# KBM Group LLC, d/b/a Wunderman Thompson Data
-
-Name: KBM Group LLC, d/b/a Wunderman Thompson Data
-
-Domain: kbmg.com
-
-Home: http://www.kbmg.com
-
-Email: Rachel.glasser [at] wundermanthompson.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/07/2020
-
-
-
+---
+company-name: "KBM Group LLC, d/b/a Wunderman Thompson Data"
+domain: kbmg.com
+home: http://www.kbmg.com
+email: "Rachel.glasser [at] wundermanthompson.com"
+california-date: 02/07/2020
+---
 ## How to opt out
+
 
 A consumer may opt our of sale or submit requests under the CCPA through the follow ways:
 1)Completing our webform to intake such requests which is available on our privacy policy
@@ -29,11 +18,25 @@ b.DoNotMail@wundermanthompson.com
 
 ## How to delete
 
+
 Individuals can demand deletion by one of the methods mentioned above.
 
 ## Additional info
 
+
 For more information please visit https://www.kbmg.com/about-us/privacy/
 
 2050 N. Greenville AveRichardson, TX 75082United States
+
+
+
+
+
+
+
+
+
+
+
+
 

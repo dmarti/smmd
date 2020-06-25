@@ -1,9 +1,11 @@
+---
+company-name: "Crave & Lamb"
+domain: craveandlamb.com
+home: http://craveandlamb.com/
+email: info@craveandlamb.com
+owned-by: "Ve Global"
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# Crave & Lamb
 
-Name: Crave & Lamb
-Domain: craveandlamb.com
-Home: http://craveandlamb.com/
-Email: info@craveandlamb.com
-Owned_by: Ve Global
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

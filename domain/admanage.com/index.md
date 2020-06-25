@@ -1,7 +1,9 @@
+---
+company-name: Admanage
+domain: admanage.com
+home: http://www.admanage.com/
+privacy-policy: http://www.admanage.com/privacy
+---
 
-# Admanage
 
-Name: Admanage
-Domain: admanage.com
-Home: http://www.admanage.com/
-Privacy_policy: http://www.admanage.com/privacy
+

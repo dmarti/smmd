@@ -1,8 +1,10 @@
+---
+company-name: nend
+domain: nend.net
+home: http://nend.net
+privacy-policy: http://www.fancs.com/en/privacy
+owned-by: "FAN Communications (F@N Communications)"
+---
 
-# nend
 
-Name: nend
-Domain: nend.net
-Home: http://nend.net
-Privacy_policy: http://www.fancs.com/en/privacy
-Owned_by: FAN Communications (F@N Communications)
+

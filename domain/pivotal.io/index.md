@@ -1,8 +1,10 @@
+---
+company-name: Pivotal.io
+domain: pivotal.io
+home: https://pivotal.io/
+privacy-policy: https://pivotal.io/privacy-policy
+email: privacy@pivotal.io
+---
 
-# Pivotal.io
 
-Name: Pivotal.io
-Domain: pivotal.io
-Home: https://pivotal.io/
-Privacy_policy: https://pivotal.io/privacy-policy
-Email: privacy@pivotal.io
+

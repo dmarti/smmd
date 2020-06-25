@@ -1,7 +1,9 @@
+---
+company-name: "FLV Player"
+domain: flv-player.net
+home: http://flv-player.net/
+email: contact@flv-player.net
+---
 
-# FLV Player
 
-Name: FLV Player
-Domain: flv-player.net
-Home: http://flv-player.net/
-Email: contact@flv-player.net
+

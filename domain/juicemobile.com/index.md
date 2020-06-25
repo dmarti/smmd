@@ -1,9 +1,11 @@
+---
+company-name: "Juice Mobile"
+domain: juicemobile.com
+home: http://www.juicemobile.com/
+privacy-policy: http://www.juicemobile.com/privacy/
+email: privacy@juicemobile.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Juice Mobile
 
-Name: Juice Mobile
-Domain: juicemobile.com
-Home: http://www.juicemobile.com/
-Privacy_policy: http://www.juicemobile.com/privacy/
-Email: privacy@juicemobile.com
-Member_of: Interactive Advertising Bureau (IAB)
+

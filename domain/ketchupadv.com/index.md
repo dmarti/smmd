@@ -1,8 +1,10 @@
+---
+company-name: KetchUP
+domain: ketchupadv.com
+home: https://www.ketchupadv.com/
+privacy-policy: https://www.ketchupadv.com/privacy-newsletter/
+email: lapo.curinigalletti@ketchupadv.com
+---
 
-# KetchUP
 
-Name: KetchUP
-Domain: ketchupadv.com
-Home: https://www.ketchupadv.com/
-Privacy_policy: https://www.ketchupadv.com/privacy-newsletter/
-Email: lapo.curinigalletti@ketchupadv.com
+

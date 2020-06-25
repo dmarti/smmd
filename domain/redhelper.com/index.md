@@ -1,7 +1,9 @@
+---
+company-name: RedHelper
+domain: redhelper.com
+home: http://redhelper.com/
+email: info@redhelper.com
+---
 
-# RedHelper
 
-Name: RedHelper
-Domain: redhelper.com
-Home: http://redhelper.com/
-Email: info@redhelper.com
+

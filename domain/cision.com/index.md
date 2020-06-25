@@ -1,33 +1,23 @@
-
-# Cision US Inc.
-
-Name: Cision US Inc.
-
-Domain: cision.com
-
-Home: http://www.cision.com
-
-Email: DPO [at] cision.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/07/2020
-
-Vermont_id: 366894
-
-
-
+---
+company-name: "Cision US Inc."
+domain: cision.com
+home: http://www.cision.com
+email: "DPO [at] cision.com"
+california-date: 02/07/2020
+vermont-id: 366894
+---
 ## How to opt out
+
 
 Consumers can do this by emailing Privacy@cision.com, calling toll-free on 877-297-8921 or submitting a request via an online for at https://cision.service-now.com/gdpr?id=dsr_entry_form&lang=en
 
 ## How to delete
 
+
 Cision does not post such information online but any deletion requests can be submitted by emailing Privacy@cision.com, calling toll-free on 877-297-8921 or submitting a request via an online for at https://cision.service-now.com/gdpr?id=dsr_entry_form&lang=en
 
 ## Additional info
+
 
 Cision collect consumer personal information either directly from the consumer, or from publicly available sources such as:
 •Articles or blogs the consumer may have written
@@ -45,4 +35,17 @@ Cision collect consumer personal information either directly from the consumer, 
 •The consumer’s press team tell us
 
 12501 Indian Creek CourtBeltsville, MD 20705United States
+
+
+
+
+
+
+
+
+
+
+
+
+
 

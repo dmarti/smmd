@@ -1,7 +1,9 @@
+---
+company-name: Optinmonster
+domain: optinmonster.com
+home: http://optinmonster.com
+privacy-policy: http://optinmonster.com/privacy/
+---
 
-# Optinmonster
 
-Name: Optinmonster
-Domain: optinmonster.com
-Home: http://optinmonster.com
-Privacy_policy: http://optinmonster.com/privacy/
+

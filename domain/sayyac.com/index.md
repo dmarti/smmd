@@ -1,7 +1,9 @@
+---
+company-name: Sayyac
+domain: sayyac.com
+home: http://www.sayyac.com/
+privacy-policy: http://www.sayyac.com/en/terms_of_use/
+---
 
-# Sayyac
 
-Name: Sayyac
-Domain: sayyac.com
-Home: http://www.sayyac.com/
-Privacy_policy: http://www.sayyac.com/en/terms_of_use/
+

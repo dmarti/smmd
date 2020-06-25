@@ -1,8 +1,10 @@
+---
+company-name: Applifier
+domain: applifier.com
+home: http://www.applifier.com/
+privacy-policy: http://www.applifier.com/privacy
+email: privacy@applifier.com
+---
 
-# Applifier
 
-Name: Applifier
-Domain: applifier.com
-Home: http://www.applifier.com/
-Privacy_policy: http://www.applifier.com/privacy
-Email: privacy@applifier.com
+

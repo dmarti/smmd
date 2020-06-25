@@ -1,9 +1,11 @@
+---
+company-name: Readpeak
+domain: readpeak.com
+home: https://www.readpeak.com/
+privacy-policy: https://www.readpeak.com/privacy-policy/
+email: support@readpeak.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Readpeak
 
-Name: Readpeak
-Domain: readpeak.com
-Home: https://www.readpeak.com/
-Privacy_policy: https://www.readpeak.com/privacy-policy/
-Email: support@readpeak.com
-Member_of: Interactive Advertising Bureau (IAB)
+

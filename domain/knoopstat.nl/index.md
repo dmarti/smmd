@@ -1,7 +1,9 @@
+---
+company-name: Knoopstat
+domain: knoopstat.nl
+home: http://www.knoopstat.nl
+email: info@knoopstat.nl
+---
 
-# Knoopstat
 
-Name: Knoopstat
-Domain: knoopstat.nl
-Home: http://www.knoopstat.nl
-Email: info@knoopstat.nl
+

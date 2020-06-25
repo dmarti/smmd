@@ -1,6 +1,8 @@
+---
+company-name: "Otaku Entertainment Media"
+domain: jessicanigriofficial.com
+home: http://www.jessicanigriofficial.com/
+---
 
-# Otaku Entertainment Media
 
-Name: Otaku Entertainment Media
-Domain: jessicanigriofficial.com
-Home: http://www.jessicanigriofficial.com/
+

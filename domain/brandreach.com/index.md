@@ -1,6 +1,8 @@
+---
+company-name: BrandReach
+domain: brandreach.com
+home: http://www.brandreach.com/
+---
 
-# BrandReach
 
-Name: BrandReach
-Domain: brandreach.com
-Home: http://www.brandreach.com/
+

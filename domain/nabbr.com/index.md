@@ -1,8 +1,10 @@
+---
+company-name: Nabbr
+domain: nabbr.com
+home: http://nabbr.com/
+privacy-policy: http://nabbr.com/privacypolicy
+email: contact@nabbr.com
+---
 
-# Nabbr
 
-Name: Nabbr
-Domain: nabbr.com
-Home: http://nabbr.com/
-Privacy_policy: http://nabbr.com/privacypolicy
-Email: contact@nabbr.com
+

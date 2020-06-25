@@ -1,8 +1,10 @@
+---
+company-name: AntVoice
+domain: antvoice.com
+home: https://www.antvoice.com
+privacy-policy: https://www.antvoice.com/en/privacypolicy/
+email: contact@antvoice.com
+---
 
-# AntVoice
 
-Name: AntVoice
-Domain: antvoice.com
-Home: https://www.antvoice.com
-Privacy_policy: https://www.antvoice.com/en/privacypolicy/
-Email: contact@antvoice.com
+

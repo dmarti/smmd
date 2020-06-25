@@ -1,13 +1,12 @@
+---
+company-name: "Kontera Technologies"
+domain: kontera.com
+home: http://www.kontera.com
+privacy-policy: http://www.amobee.com/privacy/technology/
+email: support@kontera.com
+owned-by: Amobee
+member-of: "Network Advertising Initiative"
+---
 
-# Kontera Technologies
 
-Name: Kontera Technologies
-Domain: kontera.com
-Home: http://www.kontera.com
-Privacy_policy: http://www.amobee.com/privacy/technology/
-Email: support@kontera.com
-Owned_by: Amobee
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

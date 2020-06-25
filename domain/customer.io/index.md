@@ -1,8 +1,10 @@
+---
+company-name: Customer.io
+domain: customer.io
+home: http://www.customer.io/
+privacy-policy: http://www.customer.io/privacy-policy.html
+email: privacy@customer.io
+---
 
-# Customer.io
 
-Name: Customer.io
-Domain: customer.io
-Home: http://www.customer.io/
-Privacy_policy: http://www.customer.io/privacy-policy.html
-Email: privacy@customer.io
+

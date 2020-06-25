@@ -1,8 +1,10 @@
+---
+company-name: Omnis
+domain: omnis.com
+home: http://www.omnis.com/
+privacy-policy: http://www.omnis.com/policies/
+email: support@omnis.com
+---
 
-# Omnis
 
-Name: Omnis
-Domain: omnis.com
-Home: http://www.omnis.com/
-Privacy_policy: http://www.omnis.com/policies/
-Email: support@omnis.com
+

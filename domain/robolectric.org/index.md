@@ -1,7 +1,9 @@
+---
+company-name: Roboelectric
+domain: robolectric.org
+home: http://robolectric.org/configuring/
+privacy-policy: http://
+---
 
-# Roboelectric
 
-Name: Roboelectric
-Domain: robolectric.org
-Home: http://robolectric.org/configuring/
-Privacy_policy: http://
+

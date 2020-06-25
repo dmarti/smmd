@@ -1,9 +1,11 @@
+---
+company-name: Baynote
+domain: baynote.com
+home: http://www.baynote.com/
+privacy-policy: https://kibocommerce.com/privacy/
+email: support@baynote.com
+owned-by: Kibo
+---
 
-# Baynote
 
-Name: Baynote
-Domain: baynote.com
-Home: http://www.baynote.com/
-Privacy_policy: https://kibocommerce.com/privacy/
-Email: support@baynote.com
-Owned_by: Kibo
+

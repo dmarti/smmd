@@ -1,8 +1,10 @@
+---
+company-name: "Qihoo 360 Technology"
+domain: 360totalsecurity.com
+home: https://www.360totalsecurity.com/en/
+privacy-policy: https://www.360totalsecurity.com/en/privacy/
+email: support@360safe.com
+---
 
-# Qihoo 360 Technology
 
-Name: Qihoo 360 Technology
-Domain: 360totalsecurity.com
-Home: https://www.360totalsecurity.com/en/
-Privacy_policy: https://www.360totalsecurity.com/en/privacy/
-Email: support@360safe.com
+

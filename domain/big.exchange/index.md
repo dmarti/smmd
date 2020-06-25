@@ -1,8 +1,10 @@
+---
+company-name: "BIG Exchange"
+domain: big.exchange
+home: https://big.exchange/
+privacy-policy: https://big.exchange/privacy
+email: contact@big.exchange
+---
 
-# BIG Exchange
 
-Name: BIG Exchange
-Domain: big.exchange
-Home: https://big.exchange/
-Privacy_policy: https://big.exchange/privacy
-Email: contact@big.exchange
+

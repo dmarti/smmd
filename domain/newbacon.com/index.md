@@ -1,8 +1,10 @@
+---
+company-name: Newbacon
+domain: newbacon.com
+home: https://www.newbacon.com/
+privacy-policy: https://www.newbacon.com/termo_adagency.html
+email: novosnegocios@newbacon.com
+---
 
-# Newbacon
 
-Name: Newbacon
-Domain: newbacon.com
-Home: https://www.newbacon.com/
-Privacy_policy: https://www.newbacon.com/termo_adagency.html
-Email: novosnegocios@newbacon.com
+

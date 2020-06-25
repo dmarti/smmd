@@ -1,8 +1,10 @@
+---
+company-name: Contently
+domain: contently.com
+home: https://contently.com
+privacy-policy: https://contently.com/privacy-policy/
+email: support@contently.com
+---
 
-# Contently
 
-Name: Contently
-Domain: contently.com
-Home: https://contently.com
-Privacy_policy: https://contently.com/privacy-policy/
-Email: support@contently.com
+

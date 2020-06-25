@@ -1,7 +1,9 @@
+---
+company-name: Enecto
+domain: enecto.com
+home: http://enecto.com/
+email: info@enecto.com
+---
 
-# Enecto
 
-Name: Enecto
-Domain: enecto.com
-Home: http://enecto.com/
-Email: info@enecto.com
+

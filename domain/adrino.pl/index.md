@@ -1,9 +1,11 @@
+---
+company-name: Adtrino
+domain: adrino.pl
+home: http://www.adrino.pl
+privacy-policy: http://www.adrino.pl/ciasteczkowa-polityka/
+email: iod@adrino.pl
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Adtrino
 
-Name: Adtrino
-Domain: adrino.pl
-Home: http://www.adrino.pl
-Privacy_policy: http://www.adrino.pl/ciasteczkowa-polityka/
-Email: iod@adrino.pl
-Member_of: Interactive Advertising Bureau (IAB)
+

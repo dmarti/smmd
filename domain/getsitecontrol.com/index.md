@@ -1,8 +1,10 @@
+---
+company-name: GetSiteControl
+domain: getsitecontrol.com
+home: https://getsitecontrol.com/
+privacy-policy: https://getsitecontrol.com/privacy/
+email: contact@getsitecontrol.com
+---
 
-# GetSiteControl
 
-Name: GetSiteControl
-Domain: getsitecontrol.com
-Home: https://getsitecontrol.com/
-Privacy_policy: https://getsitecontrol.com/privacy/
-Email: contact@getsitecontrol.com
+

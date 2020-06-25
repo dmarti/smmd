@@ -1,8 +1,10 @@
+---
+company-name: AdCleek
+domain: adcleek.com
+home: http://adcleek.com
+privacy-policy: http://adcleek.com/mentions-legales/
+email: gleflaive@adcleek.com
+---
 
-# AdCleek
 
-Name: AdCleek
-Domain: adcleek.com
-Home: http://adcleek.com
-Privacy_policy: http://adcleek.com/mentions-legales/
-Email: gleflaive@adcleek.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Profound
+domain: profound.com
+home: http://www.profound.com/
+email: profoundsupport@profound.com
+owned-by: MarketResearch.com
+---
 
-# Profound
 
-Name: Profound
-Domain: profound.com
-Home: http://www.profound.com/
-Email: profoundsupport@profound.com
-Owned_by: MarketResearch.com
+

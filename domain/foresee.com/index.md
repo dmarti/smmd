@@ -1,10 +1,12 @@
+---
+company-name: "ForeSee Results"
+domain: foresee.com
+home: https://www.foresee.com/
+privacy-policy: https://www.foresee.com/privacy-policy/
+email: privacy@foresee.com
+owned-by: Answers.com
+member-of: TrustE_TrustArc
+---
 
-# ForeSee Results
 
-Name: ForeSee Results
-Domain: foresee.com
-Home: https://www.foresee.com/
-Privacy_policy: https://www.foresee.com/privacy-policy/
-Email: privacy@foresee.com
-Owned_by: Answers.com
-Member_of: TrustE_TrustArc
+

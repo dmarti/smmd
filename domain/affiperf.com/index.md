@@ -1,9 +1,11 @@
+---
+company-name: Affiperf
+domain: affiperf.com
+home: https://www.affiperf.com/
+privacy-policy: https://www.affiperf.com/en/mentions-legales/
+email: contact@affiperf.com
+owned-by: "Havas Digital"
+---
 
-# Affiperf
 
-Name: Affiperf
-Domain: affiperf.com
-Home: https://www.affiperf.com/
-Privacy_policy: https://www.affiperf.com/en/mentions-legales/
-Email: contact@affiperf.com
-Owned_by: Havas Digital
+

@@ -1,6 +1,8 @@
+---
+company-name: "Uzman Reklam"
+domain: uzmanreklam.com
+home: http://uzmanreklam.com/
+---
 
-# Uzman Reklam
 
-Name: Uzman Reklam
-Domain: uzmanreklam.com
-Home: http://uzmanreklam.com/
+

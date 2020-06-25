@@ -1,8 +1,10 @@
+---
+company-name: LocalSensor
+domain: localsensor.com
+home: http://localsensor.com/
+privacy-policy: http://localsensor.com/privacy.html
+email: privacy@localsensor.com
+---
 
-# LocalSensor
 
-Name: LocalSensor
-Domain: localsensor.com
-Home: http://localsensor.com/
-Privacy_policy: http://localsensor.com/privacy.html
-Email: privacy@localsensor.com
+

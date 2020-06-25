@@ -1,8 +1,10 @@
+---
+company-name: "Dentsu Inc."
+domain: dentsu.com
+home: http://www.dentsu.com/
+email: dpoffice@dentsu.co.jp
+member-of: "American Association of Advertising Agencies"
+---
 
-# Dentsu Inc.
 
-Name: Dentsu Inc.
-Domain: dentsu.com
-Home: http://www.dentsu.com/
-Email: dpoffice@dentsu.co.jp
-Member_of: American Association of Advertising Agencies
+

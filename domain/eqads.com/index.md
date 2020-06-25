@@ -1,7 +1,9 @@
+---
+company-name: "EQ Advertising"
+domain: eqads.com
+home: http://eqads.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# EQ Advertising
 
-Name: EQ Advertising
-Domain: eqads.com
-Home: http://eqads.com
-Member_of: Interactive Advertising Bureau (IAB)
+

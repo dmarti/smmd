@@ -1,8 +1,10 @@
+---
+company-name: Eacnur
+domain: eacnur.org
+home: https://eacnur.org
+privacy-policy: https://eacnur.org/es/politica-privacidad
+email: dpo@eacnur.org
+---
 
-# Eacnur
 
-Name: Eacnur
-Domain: eacnur.org
-Home: https://eacnur.org
-Privacy_policy: https://eacnur.org/es/politica-privacidad
-Email: dpo@eacnur.org
+

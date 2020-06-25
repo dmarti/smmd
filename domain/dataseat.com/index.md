@@ -1,10 +1,11 @@
+---
+company-name: Dataseat
+domain: dataseat.com
+home: https://dataseat.com/
+privacy-policy: https://dataseat.com/privacy-policy
+email: info@dataseat.com
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# Dataseat
 
-Name: Dataseat
-Domain: dataseat.com
-Home: https://dataseat.com/
-Privacy_policy: https://dataseat.com/privacy-policy
-Email: info@dataseat.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

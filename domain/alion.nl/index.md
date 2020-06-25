@@ -1,8 +1,10 @@
+---
+company-name: Alion
+domain: alion.nl
+home: https://www.alion.nl/
+privacy-policy: https://www.alion.nl/privacy/
+email: info@alion.nl
+---
 
-# Alion
 
-Name: Alion
-Domain: alion.nl
-Home: https://www.alion.nl/
-Privacy_policy: https://www.alion.nl/privacy/
-Email: info@alion.nl
+

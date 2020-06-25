@@ -1,9 +1,11 @@
+---
+company-name: "VCommission Media"
+domain: vcommission.com
+home: https://www.vcommission.com/
+privacy-policy: https://www.vcommission.com/privacy-policy/
+email: support@vcommission.com
+owned-by: "Adways (adways-interactive)"
+---
 
-# VCommission Media
 
-Name: VCommission Media
-Domain: vcommission.com
-Home: https://www.vcommission.com/
-Privacy_policy: https://www.vcommission.com/privacy-policy/
-Email: support@vcommission.com
-Owned_by: Adways (adways-interactive)
+

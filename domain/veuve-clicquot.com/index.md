@@ -1,8 +1,10 @@
+---
+company-name: "Veuve Clicquot"
+domain: veuve-clicquot.com
+home: http://www.veuve-clicquot.com/
+privacy-policy: https://www.veuveclicquot.com/en-int/personal-data-cookies-policy?oag=true
+owned-by: LVMH
+---
 
-# Veuve Clicquot
 
-Name: Veuve Clicquot
-Domain: veuve-clicquot.com
-Home: http://www.veuve-clicquot.com/
-Privacy_policy: https://www.veuveclicquot.com/en-int/personal-data-cookies-policy?oag=true
-Owned_by: LVMH
+

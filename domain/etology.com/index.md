@@ -1,7 +1,9 @@
+---
+company-name: Etology
+domain: etology.com
+home: http://www.etology.com/
+email: support@etology.com
+---
 
-# Etology
 
-Name: Etology
-Domain: etology.com
-Home: http://www.etology.com/
-Email: support@etology.com
+

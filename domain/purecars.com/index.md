@@ -1,7 +1,9 @@
+---
+company-name: "Pure Cars"
+domain: purecars.com
+home: www.purecars.com
+email: support@purecars.com
+---
 
-# Pure Cars
 
-Name: Pure Cars
-Domain: purecars.com
-Home: www.purecars.com
-Email: support@purecars.com
+

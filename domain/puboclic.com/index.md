@@ -1,6 +1,8 @@
+---
+company-name: Puboclic
+domain: puboclic.com
+home: http://www.puboclic.com/
+---
 
-# Puboclic
 
-Name: Puboclic
-Domain: puboclic.com
-Home: http://www.puboclic.com/
+

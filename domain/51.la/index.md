@@ -1,6 +1,8 @@
+---
+company-name: 51.La
+domain: 51.la
+home: http://www.51.la/
+---
 
-# 51.La
 
-Name: 51.La
-Domain: 51.la
-Home: http://www.51.la/
+

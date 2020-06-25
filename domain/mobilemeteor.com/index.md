@@ -1,8 +1,10 @@
+---
+company-name: "Mobile Meteor"
+domain: mobilemeteor.com
+home: http://www.mobilemeteor.com/
+privacy-policy: http://www.mobilemeteor.com/privacy_policy.php
+email: customerservice@mobilemeteor.com
+---
 
-# Mobile Meteor
 
-Name: Mobile Meteor
-Domain: mobilemeteor.com
-Home: http://www.mobilemeteor.com/
-Privacy_policy: http://www.mobilemeteor.com/privacy_policy.php
-Email: customerservice@mobilemeteor.com
+

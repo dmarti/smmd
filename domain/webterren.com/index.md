@@ -1,7 +1,9 @@
+---
+company-name: Terren
+domain: webterren.com
+home: http://www.webterren.com/
+email: info@webterren.com
+---
 
-# Terren
 
-Name: Terren
-Domain: webterren.com
-Home: http://www.webterren.com/
-Email: info@webterren.com
+

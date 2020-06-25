@@ -1,11 +1,11 @@
+---
+company-name: Digilant
+domain: digilant.com
+home: http://www.digilant.com/
+privacy-policy: http://www.digilant.com/privacy-policy/
+email: privacy@digilant.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Digilant
 
-Name: Digilant
-Domain: digilant.com
-Home: http://www.digilant.com/
-Privacy_policy: http://www.digilant.com/privacy-policy/
-Email: privacy@digilant.com
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

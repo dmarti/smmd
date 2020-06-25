@@ -1,7 +1,9 @@
+---
+company-name: "comOn Group"
+domain: comon.pt
+home: http://www.comon.pt/
+email: geral@comon.pt
+---
 
-# comOn Group
 
-Name: comOn Group
-Domain: comon.pt
-Home: http://www.comon.pt/
-Email: geral@comon.pt
+

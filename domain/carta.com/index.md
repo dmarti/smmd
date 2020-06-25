@@ -1,7 +1,9 @@
-# Carta
+---
+company-name: Carta
+domain: carta.com
+opt-out-url: https://carta.com/privacy/
+---
 
-Name: Carta
 
-Domain: carta.com
 
-Opt_out_url: https://carta.com/privacy/
+

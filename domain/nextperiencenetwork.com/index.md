@@ -1,6 +1,8 @@
+---
+company-name: Nextperience
+domain: nextperiencenetwork.com
+home: http://nextperiencenetwork.com/
+---
 
-# Nextperience
 
-Name: Nextperience
-Domain: nextperiencenetwork.com
-Home: http://nextperiencenetwork.com/
+

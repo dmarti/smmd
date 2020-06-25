@@ -1,7 +1,9 @@
+---
+company-name: Debenhams
+domain: debenhams.com
+home: http://www.debenhams.com/
+email: Customer.Enquires@debenhams.com
+---
 
-# Debenhams
 
-Name: Debenhams
-Domain: debenhams.com
-Home: http://www.debenhams.com/
-Email: Customer.Enquires@debenhams.com
+

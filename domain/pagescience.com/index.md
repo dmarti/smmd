@@ -1,7 +1,9 @@
+---
+company-name: "PageScience (formerly Precision Health Media)"
+domain: pagescience.com
+home: http://www.pagescience.com/
+email: info@pagescience.com
+---
 
-# PageScience (formerly Precision Health Media)
 
-Name: PageScience (formerly Precision Health Media)
-Domain: pagescience.com
-Home: http://www.pagescience.com/
-Email: info@pagescience.com
+

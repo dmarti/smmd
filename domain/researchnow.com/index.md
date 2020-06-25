@@ -1,9 +1,11 @@
+---
+company-name: "Research Now"
+domain: researchnow.com
+home: http://www.researchnow.com/
+privacy-policy: http://www.researchnow.com/en-US/Help/PrivacyPolicy.aspx
+email: privacy@researchnow.com
+owned-by: e-Rewards
+---
 
-# Research Now
 
-Name: Research Now
-Domain: researchnow.com
-Home: http://www.researchnow.com/
-Privacy_policy: http://www.researchnow.com/en-US/Help/PrivacyPolicy.aspx
-Email: privacy@researchnow.com
-Owned_by: e-Rewards
+

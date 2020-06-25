@@ -1,7 +1,9 @@
+---
+company-name: Linescale
+domain: linescale.com
+home: http://linescale.com
+privacy-policy: http://
+---
 
-# Linescale
 
-Name: Linescale
-Domain: linescale.com
-Home: http://linescale.com
-Privacy_policy: http://
+

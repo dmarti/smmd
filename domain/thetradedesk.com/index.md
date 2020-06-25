@@ -1,11 +1,11 @@
+---
+company-name: "The Trade Desk"
+domain: thetradedesk.com
+home: https://www.thetradedesk.com/
+privacy-policy: https://www.thetradedesk.com/general/privacy-policy
+email: privacy@thetradedesk.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# The Trade Desk
 
-Name: The Trade Desk
-Domain: thetradedesk.com
-Home: https://www.thetradedesk.com/
-Privacy_policy: https://www.thetradedesk.com/general/privacy-policy
-Email: privacy@thetradedesk.com
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

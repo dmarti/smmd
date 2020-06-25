@@ -1,7 +1,9 @@
+---
+company-name: Proximic
+domain: proximic.com
+home: http://www.proximic.com/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Proximic
 
-Name: Proximic
-Domain: proximic.com
-Home: http://www.proximic.com/
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,7 +1,9 @@
+---
+company-name: DigitalDataFactory
+domain: digital-datafactory.com
+home: http://www.digital-datafactory.com/en/
+owned-by: Ysance
+---
 
-# DigitalDataFactory
 
-Name: DigitalDataFactory
-Domain: digital-datafactory.com
-Home: http://www.digital-datafactory.com/en/
-Owned_by: Ysance
+

@@ -1,8 +1,10 @@
+---
+company-name: Metrical
+domain: getmetrical.com
+home: http://www.getmetrical.com/
+privacy-policy: https://metric.al/metrical-privacy-policy
+email: support@metrical.com
+---
 
-# Metrical
 
-Name: Metrical
-Domain: getmetrical.com
-Home: http://www.getmetrical.com/
-Privacy_policy: https://metric.al/metrical-privacy-policy
-Email: support@metrical.com
+

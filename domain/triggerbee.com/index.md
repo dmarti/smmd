@@ -1,6 +1,8 @@
+---
+company-name: Triggerbee
+domain: triggerbee.com
+home: https://triggerbee.com/
+---
 
-# Triggerbee
 
-Name: Triggerbee
-Domain: triggerbee.com
-Home: https://triggerbee.com/
+

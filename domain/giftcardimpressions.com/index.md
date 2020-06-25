@@ -1,7 +1,9 @@
+---
+company-name: "Gift Card Impressions"
+domain: giftcardimpressions.com
+home: http://giftcardimpressions.com/
+privacy-policy: http://
+---
 
-# Gift Card Impressions
 
-Name: Gift Card Impressions
-Domain: giftcardimpressions.com
-Home: http://giftcardimpressions.com/
-Privacy_policy: http://
+

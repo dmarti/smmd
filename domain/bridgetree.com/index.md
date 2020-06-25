@@ -1,7 +1,9 @@
+---
+company-name: Bridgetree
+domain: bridgetree.com
+home: https://bridgetree.com/
+email: contact@bridgetree.com
+---
 
-# Bridgetree
 
-Name: Bridgetree
-Domain: bridgetree.com
-Home: https://bridgetree.com/
-Email: contact@bridgetree.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Cubed
+domain: cubed.ai
+home: http://cubed.ai/
+privacy-policy: http://cubed.ai/privacy-policy/
+email: privacy@withcubed.com
+---
 
-# Cubed
 
-Name: Cubed
-Domain: cubed.ai
-Home: http://cubed.ai/
-Privacy_policy: http://cubed.ai/privacy-policy/
-Email: privacy@withcubed.com
+

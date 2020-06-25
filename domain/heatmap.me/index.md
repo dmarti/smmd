@@ -1,7 +1,9 @@
+---
+company-name: Heatmap
+domain: heatmap.me
+home: https://heatmap.me/
+privacy-policy: https://heatmap.me/privacy
+---
 
-# Heatmap
 
-Name: Heatmap
-Domain: heatmap.me
-Home: https://heatmap.me/
-Privacy_policy: https://heatmap.me/privacy
+

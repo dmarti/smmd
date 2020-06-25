@@ -1,8 +1,10 @@
+---
+company-name: AdEngage
+domain: adengage.com
+home: https://www.adengage.com
+email: contact@adengage.com
+owned-by: Technorati
+---
 
-# AdEngage
 
-Name: AdEngage
-Domain: adengage.com
-Home: https://www.adengage.com
-Email: contact@adengage.com
-Owned_by: Technorati
+

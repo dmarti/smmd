@@ -1,8 +1,10 @@
+---
+company-name: DotAndMedia
+domain: dotandmedia.com
+home: http://www.dotandmedia.com
+email: cookie@dotandmedia.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# DotAndMedia
 
-Name: DotAndMedia
-Domain: dotandmedia.com
-Home: http://www.dotandmedia.com
-Email: cookie@dotandmedia.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

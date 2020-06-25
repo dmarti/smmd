@@ -1,8 +1,10 @@
+---
+company-name: Rich
+domain: richmetrics.com
+home: http://www.richmetrics.com/
+email: info@burtcorp.com
+owned-by: Burt
+---
 
-# Rich
 
-Name: Rich
-Domain: richmetrics.com
-Home: http://www.richmetrics.com/
-Email: info@burtcorp.com
-Owned_by: Burt
+

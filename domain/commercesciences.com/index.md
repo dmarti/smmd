@@ -1,8 +1,10 @@
+---
+company-name: "Commerce Sciences"
+domain: commercesciences.com
+home: http://commercesciences.com/
+privacy-policy: http://commercesciences.com/terms
+email: support@commercesciences.com
+---
 
-# Commerce Sciences
 
-Name: Commerce Sciences
-Domain: commercesciences.com
-Home: http://commercesciences.com/
-Privacy_policy: http://commercesciences.com/terms
-Email: support@commercesciences.com
+

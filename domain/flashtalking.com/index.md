@@ -1,9 +1,10 @@
+---
+company-name: Flashtalking
+domain: flashtalking.com
+home: http://www.flashtalking.com/
+privacy-policy: http://www.flashtalking.com/privacypolicy/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Flashtalking
 
-Name: Flashtalking
-Domain: flashtalking.com
-Home: http://www.flashtalking.com/
-Privacy_policy: http://www.flashtalking.com/privacypolicy/
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

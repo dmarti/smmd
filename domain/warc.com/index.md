@@ -1,8 +1,10 @@
+---
+company-name: Warc
+domain: warc.com
+home: http://www.warc.com/
+privacy-policy: http://www.warc.com/TermsandConditions.info
+email: enquiries@warc.com
+---
 
-# Warc
 
-Name: Warc
-Domain: warc.com
-Home: http://www.warc.com/
-Privacy_policy: http://www.warc.com/TermsandConditions.info
-Email: enquiries@warc.com
+

@@ -1,9 +1,11 @@
+---
+company-name: "ORC International"
+domain: orcinternational.com
+home: https://orcinternational.com/
+privacy-policy: https://orcinternational.com/privacy/
+email: privacy@enginegroup.com
+owned-by: "Engine Media"
+---
 
-# ORC International
 
-Name: ORC International
-Domain: orcinternational.com
-Home: https://orcinternational.com/
-Privacy_policy: https://orcinternational.com/privacy/
-Email: privacy@enginegroup.com
-Owned_by: Engine Media
+

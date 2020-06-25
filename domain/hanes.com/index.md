@@ -1,8 +1,10 @@
+---
+company-name: Hanes
+domain: hanes.com
+home: http://www.hanes.com/
+privacy-policy: http://www.hanes.com/shop/hanes/PrivacySecurity
+email: consumer.privacy@hanes.com
+---
 
-# Hanes
 
-Name: Hanes
-Domain: hanes.com
-Home: http://www.hanes.com/
-Privacy_policy: http://www.hanes.com/shop/hanes/PrivacySecurity
-Email: consumer.privacy@hanes.com
+

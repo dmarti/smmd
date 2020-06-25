@@ -1,11 +1,12 @@
+---
+company-name: "OK Cupid"
+domain: okcupid.com
+home: https://www.okcupid.com/
+privacy-policy: https://www.okcupid.com/legal/privacy
+email: privacy@okcupid.com
+owned-by: Meetrics
+member-of: "Network Advertising Initiative"
+---
 
-# OK Cupid
 
-Name: OK Cupid
-Domain: okcupid.com
-Home: https://www.okcupid.com/
-Privacy_policy: https://www.okcupid.com/legal/privacy
-Email: privacy@okcupid.com
-Owned_by: Meetrics
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

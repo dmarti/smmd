@@ -1,8 +1,10 @@
+---
+company-name: Tedemis
+domain: tedemis.com
+home: http://www.tedemis.com
+email: contact@tedemis.com
+owned-by: Criteo
+---
 
-# Tedemis
 
-Name: Tedemis
-Domain: tedemis.com
-Home: http://www.tedemis.com
-Email: contact@tedemis.com
-Owned_by: Criteo
+

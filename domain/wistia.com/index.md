@@ -1,8 +1,10 @@
+---
+company-name: Wistia
+domain: wistia.com
+home: https://wistia.com/
+privacy-policy: https://wistia.com/privacy
+email: privacy@wistia.com
+---
 
-# Wistia
 
-Name: Wistia
-Domain: wistia.com
-Home: https://wistia.com/
-Privacy_policy: https://wistia.com/privacy
-Email: privacy@wistia.com
+

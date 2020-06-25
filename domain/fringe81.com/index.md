@@ -1,8 +1,10 @@
+---
+company-name: Fringe81
+domain: fringe81.com
+home: http://www.fringe81.com/
+privacy-policy: http://www.fringe81.com/privacy/
+email: info@fringe81.com
+---
 
-# Fringe81
 
-Name: Fringe81
-Domain: fringe81.com
-Home: http://www.fringe81.com/
-Privacy_policy: http://www.fringe81.com/privacy/
-Email: info@fringe81.com
+

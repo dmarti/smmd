@@ -1,7 +1,9 @@
+---
+company-name: ClickDesk
+domain: clickdesk.com
+home: https://www.clickdesk.com/
+email: info@clickdesk.com
+---
 
-# ClickDesk
 
-Name: ClickDesk
-Domain: clickdesk.com
-Home: https://www.clickdesk.com/
-Email: info@clickdesk.com
+

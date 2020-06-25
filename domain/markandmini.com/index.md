@@ -1,9 +1,10 @@
+---
+company-name: "Mark & Mini"
+domain: markandmini.com
+home: http://www.markandmini.com/
+email: Privacy@markandmini.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Mark & Mini
 
-Name: Mark & Mini
-Domain: markandmini.com
-Home: http://www.markandmini.com/
-Email: Privacy@markandmini.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

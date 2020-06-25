@@ -1,8 +1,10 @@
+---
+company-name: "Acqua di Parma"
+domain: acquadiparma.com
+home: http://www.acquadiparma.com/
+privacy-policy: https://www.acquadiparma.com/en-ww/privacy-policy
+owned-by: LVMH
+---
 
-# Acqua di Parma
 
-Name: Acqua di Parma
-Domain: acquadiparma.com
-Home: http://www.acquadiparma.com/
-Privacy_policy: https://www.acquadiparma.com/en-ww/privacy-policy
-Owned_by: LVMH
+

@@ -1,7 +1,9 @@
+---
+company-name: Dripcore
+domain: dripcore.com
+home: http://www.dripcore.com/
+email: info@dripcore.com
+---
 
-# Dripcore
 
-Name: Dripcore
-Domain: dripcore.com
-Home: http://www.dripcore.com/
-Email: info@dripcore.com
+

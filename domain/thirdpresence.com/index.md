@@ -1,8 +1,10 @@
+---
+company-name: ThirdPresence
+domain: thirdpresence.com
+home: https://www.thirdpresence.com/
+privacy-policy: https://www.thirdpresence.com/privacy/
+email: contact@thirdpresence.com
+---
 
-# ThirdPresence
 
-Name: ThirdPresence
-Domain: thirdpresence.com
-Home: https://www.thirdpresence.com/
-Privacy_policy: https://www.thirdpresence.com/privacy/
-Email: contact@thirdpresence.com
+

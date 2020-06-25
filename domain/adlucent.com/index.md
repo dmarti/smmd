@@ -1,8 +1,10 @@
+---
+company-name: Adlucent
+domain: adlucent.com
+home: https://www.adlucent.com/
+privacy-policy: https://www.adlucent.com/privacypolicy
+email: privacy@adlucent.com
+---
 
-# Adlucent
 
-Name: Adlucent
-Domain: adlucent.com
-Home: https://www.adlucent.com/
-Privacy_policy: https://www.adlucent.com/privacypolicy
-Email: privacy@adlucent.com
+

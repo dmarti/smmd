@@ -1,8 +1,10 @@
+---
+company-name: "Intellect Ads"
+domain: intellectads.co.in
+home: http://www.intellectads.co.in/
+privacy-policy: http://www.intellectads.co.in/privacy-policy.asp
+email: contact@intellectads.co.in
+---
 
-# Intellect Ads
 
-Name: Intellect Ads
-Domain: intellectads.co.in
-Home: http://www.intellectads.co.in/
-Privacy_policy: http://www.intellectads.co.in/privacy-policy.asp
-Email: contact@intellectads.co.in
+

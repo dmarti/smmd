@@ -1,8 +1,10 @@
+---
+company-name: Manage.com
+domain: manage.com
+home: https://www.manage.com/
+privacy-policy: https://www.manage.com/privacy-policy/
+email: privacy@manage.com
+---
 
-# Manage.com
 
-Name: Manage.com
-Domain: manage.com
-Home: https://www.manage.com/
-Privacy_policy: https://www.manage.com/privacy-policy/
-Email: privacy@manage.com
+

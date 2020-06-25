@@ -1,6 +1,8 @@
+---
+company-name: Avenseo
+domain: avenseo.com
+home: http://avenseo.com
+---
 
-# Avenseo
 
-Name: Avenseo
-Domain: avenseo.com
-Home: http://avenseo.com
+

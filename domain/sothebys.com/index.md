@@ -1,7 +1,9 @@
+---
+company-name: Sothebys
+domain: sothebys.com
+home: http://www.sothebys.com/en.html
+privacy-policy: http://www.sothebys.com/en/privacy-policy.html
+---
 
-# Sothebys
 
-Name: Sothebys
-Domain: sothebys.com
-Home: http://www.sothebys.com/en.html
-Privacy_policy: http://www.sothebys.com/en/privacy-policy.html
+

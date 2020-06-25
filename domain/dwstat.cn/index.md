@@ -1,7 +1,9 @@
+---
+company-name: Dwstat
+domain: dwstat.cn
+home: http://www.dwstat.cn/
+email: info@dw.net.cn
+---
 
-# Dwstat
 
-Name: Dwstat
-Domain: dwstat.cn
-Home: http://www.dwstat.cn/
-Email: info@dw.net.cn
+

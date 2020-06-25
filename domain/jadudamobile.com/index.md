@@ -1,10 +1,11 @@
+---
+company-name: Jaduda
+domain: jadudamobile.com
+home: https://www.jadudamobile.com/
+privacy-policy: https://www.jadudamobile.com/datenschutzerklaerung/
+email: oba@goldbach.jaduda.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Jaduda
 
-Name: Jaduda
-Domain: jadudamobile.com
-Home: https://www.jadudamobile.com/
-Privacy_policy: https://www.jadudamobile.com/datenschutzerklaerung/
-Email: oba@goldbach.jaduda.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

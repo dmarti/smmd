@@ -1,7 +1,9 @@
+---
+company-name: VEE24
+domain: vee24.com
+home: https://www.vee24.com/
+privacy-policy: https://www.vee24.com/en/about/privacy-policy/
+---
 
-# VEE24
 
-Name: VEE24
-Domain: vee24.com
-Home: https://www.vee24.com/
-Privacy_policy: https://www.vee24.com/en/about/privacy-policy/
+

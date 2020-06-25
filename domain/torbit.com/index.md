@@ -1,8 +1,10 @@
+---
+company-name: Torbit
+domain: torbit.com
+home: http://torbit.com/
+privacy-policy: http://torbit.com/privacy
+email: support@torbit.com
+---
 
-# Torbit
 
-Name: Torbit
-Domain: torbit.com
-Home: http://torbit.com/
-Privacy_policy: http://torbit.com/privacy
-Email: support@torbit.com
+

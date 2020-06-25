@@ -1,6 +1,8 @@
+---
+company-name: Gather
+domain: gather.com
+home: http://www.gather.com/
+---
 
-# Gather
 
-Name: Gather
-Domain: gather.com
-Home: http://www.gather.com/
+

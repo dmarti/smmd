@@ -1,8 +1,10 @@
+---
+company-name: prudsys
+domain: prudsys.de
+home: https://prudsys.de/
+privacy-policy: https://prudsys.de/en/privacy/
+email: datenschutzbeauftragter@prudsys.de
+---
 
-# prudsys
 
-Name: prudsys
-Domain: prudsys.de
-Home: https://prudsys.de/
-Privacy_policy: https://prudsys.de/en/privacy/
-Email: datenschutzbeauftragter@prudsys.de
+

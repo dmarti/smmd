@@ -1,9 +1,11 @@
+---
+company-name: QualityHealth
+domain: qualityhealth.com
+home: http://www.qualityhealth.com/
+privacy-policy: https://www.sharecare.com/static/privacypolicy
+email: CustomerService@QualityHealth.com
+member-of: TrustE_TrustArc
+---
 
-# QualityHealth
 
-Name: QualityHealth
-Domain: qualityhealth.com
-Home: http://www.qualityhealth.com/
-Privacy_policy: https://www.sharecare.com/static/privacypolicy
-Email: CustomerService@QualityHealth.com
-Member_of: TrustE_TrustArc
+

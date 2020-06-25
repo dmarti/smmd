@@ -1,8 +1,10 @@
+---
+company-name: "EQ Works (formerly Cyberplex)"
+domain: eqworks.com
+home: https://www.eqworks.com/
+privacy-policy: https://www.eqworks.com/privacy-policy/
+email: privacy@eqworks.com
+---
 
-# EQ Works (formerly Cyberplex)
 
-Name: EQ Works (formerly Cyberplex)
-Domain: eqworks.com
-Home: https://www.eqworks.com/
-Privacy_policy: https://www.eqworks.com/privacy-policy/
-Email: privacy@eqworks.com
+

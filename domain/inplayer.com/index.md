@@ -1,8 +1,10 @@
+---
+company-name: "Inplayer (Invideous)"
+domain: inplayer.com
+home: https://inplayer.com/
+privacy-policy: https://inplayer.com/privacy-policy-2/
+email: sales@inplayer.com
+---
 
-# Inplayer (Invideous)
 
-Name: Inplayer (Invideous)
-Domain: inplayer.com
-Home: https://inplayer.com/
-Privacy_policy: https://inplayer.com/privacy-policy-2/
-Email: sales@inplayer.com
+

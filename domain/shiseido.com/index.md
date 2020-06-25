@@ -1,7 +1,9 @@
+---
+company-name: Shiseido
+domain: shiseido.com
+home: http://www.shiseido.com/
+privacy-policy: http://www.shiseidogroup.com/privacy-policy/
+---
 
-# Shiseido
 
-Name: Shiseido
-Domain: shiseido.com
-Home: http://www.shiseido.com/
-Privacy_policy: http://www.shiseidogroup.com/privacy-policy/
+

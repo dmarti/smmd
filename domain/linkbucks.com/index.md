@@ -1,7 +1,9 @@
+---
+company-name: Linkbucks
+domain: linkbucks.com
+home: https://www.linkbucks.com/
+privacy-policy: https://www.linkbucks.com/policy/
+---
 
-# Linkbucks
 
-Name: Linkbucks
-Domain: linkbucks.com
-Home: https://www.linkbucks.com/
-Privacy_policy: https://www.linkbucks.com/policy/
+

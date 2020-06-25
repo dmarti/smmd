@@ -1,8 +1,10 @@
+---
+company-name: Forrester
+domain: forrester.com
+home: https://go.forrester.com/
+privacy-policy: https://www.forrester.com/marketing/policies/privacy-policy.html
+email: privacy@forrester.com
+---
 
-# Forrester
 
-Name: Forrester
-Domain: forrester.com
-Home: https://go.forrester.com/
-Privacy_policy: https://www.forrester.com/marketing/policies/privacy-policy.html
-Email: privacy@forrester.com
+

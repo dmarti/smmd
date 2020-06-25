@@ -1,7 +1,9 @@
+---
+company-name: "Giant Media"
+domain: giantmedia.com
+home: http://giantmedia.com/
+privacy-policy: http://giantmedia.com/about-giant/privacy-policy/
+---
 
-# Giant Media
 
-Name: Giant Media
-Domain: giantmedia.com
-Home: http://giantmedia.com/
-Privacy_policy: http://giantmedia.com/about-giant/privacy-policy/
+

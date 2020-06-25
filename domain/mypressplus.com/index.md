@@ -1,9 +1,11 @@
+---
+company-name: Press+
+domain: mypressplus.com
+home: http://www.mypressplus.com/
+privacy-policy: http://www.mypressplus.com/readers/privacy
+email: privacy@mypressplus.com
+member-of: TrustE_TrustArc
+---
 
-# Press+
 
-Name: Press+
-Domain: mypressplus.com
-Home: http://www.mypressplus.com/
-Privacy_policy: http://www.mypressplus.com/readers/privacy
-Email: privacy@mypressplus.com
-Member_of: TrustE_TrustArc
+

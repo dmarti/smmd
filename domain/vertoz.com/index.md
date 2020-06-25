@@ -1,8 +1,10 @@
+---
+company-name: Vertoz
+domain: vertoz.com
+home: http://www.vertoz.com/
+privacy-policy: http://www.vertoz.com/privacy-policy
+email: legal@vertoz.com
+---
 
-# Vertoz
 
-Name: Vertoz
-Domain: vertoz.com
-Home: http://www.vertoz.com/
-Privacy_policy: http://www.vertoz.com/privacy-policy
-Email: legal@vertoz.com
+

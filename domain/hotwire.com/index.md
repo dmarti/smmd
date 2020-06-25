@@ -1,7 +1,9 @@
-# Hotwire
+---
+company-name: Hotwire
+domain: hotwire.com
+opt-out-url: https://www.hotwire.com/hwdnsmpi
+---
 
-Name: Hotwire
 
-Domain: hotwire.com
 
-Opt_out_url: https://www.hotwire.com/hwdnsmpi
+

@@ -1,9 +1,11 @@
+---
+company-name: FatTail
+domain: fattail.com
+home: https://www.fattail.com/
+privacy-policy: https://www.fattail.com/privacy-policy/
+email: privacy@fattail.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# FatTail
 
-Name: FatTail
-Domain: fattail.com
-Home: https://www.fattail.com/
-Privacy_policy: https://www.fattail.com/privacy-policy/
-Email: privacy@fattail.com
-Member_of: Interactive Advertising Bureau (IAB)
+

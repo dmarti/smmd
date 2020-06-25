@@ -1,10 +1,12 @@
+---
+company-name: "Tint (Hypemarks)"
+domain: tintup.com
+home: https://www.tintup.com/
+privacy-policy: https://www.tintup.com/privacy
+email: privacy@tintup.com
+owned-by: Filestack
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Tint (Hypemarks)
 
-Name: Tint (Hypemarks)
-Domain: tintup.com
-Home: https://www.tintup.com/
-Privacy_policy: https://www.tintup.com/privacy
-Email: privacy@tintup.com
-Owned_by: Filestack
-Member_of: Interactive Advertising Bureau (IAB)
+

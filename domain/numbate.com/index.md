@@ -1,8 +1,10 @@
+---
+company-name: Numbate
+domain: numbate.com
+home: http://numbate.com/
+privacy-policy: http://www.numbate.com/privacy-policy/
+email: contact@numbate.com
+---
 
-# Numbate
 
-Name: Numbate
-Domain: numbate.com
-Home: http://numbate.com/
-Privacy_policy: http://www.numbate.com/privacy-policy/
-Email: contact@numbate.com
+

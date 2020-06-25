@@ -1,8 +1,10 @@
+---
+company-name: LinkWithin
+domain: linkwithin.com
+home: http://www.linkwithin.com/
+privacy-policy: http://www.linkwithin.com/privacy
+email: support@linkwithin.com
+---
 
-# LinkWithin
 
-Name: LinkWithin
-Domain: linkwithin.com
-Home: http://www.linkwithin.com/
-Privacy_policy: http://www.linkwithin.com/privacy
-Email: support@linkwithin.com
+

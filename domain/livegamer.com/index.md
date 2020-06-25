@@ -1,9 +1,11 @@
+---
+company-name: "Live Gamer"
+domain: livegamer.com
+home: http://livegamer.com/
+privacy-policy: http://livegamer.com/privacy_policy.pdf
+email: privacy@livegamer.com
+owned-by: "GamerDNA Media"
+---
 
-# Live Gamer
 
-Name: Live Gamer
-Domain: livegamer.com
-Home: http://livegamer.com/
-Privacy_policy: http://livegamer.com/privacy_policy.pdf
-Email: privacy@livegamer.com
-Owned_by: GamerDNA Media
+

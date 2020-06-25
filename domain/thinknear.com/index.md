@@ -1,8 +1,10 @@
+---
+company-name: ThinkNear
+domain: thinknear.com
+home: http://www.thinknear.com/
+privacy-policy: http://www.telenav.com/legal/policies.html
+email: support@telenav.com
+---
 
-# ThinkNear
 
-Name: ThinkNear
-Domain: thinknear.com
-Home: http://www.thinknear.com/
-Privacy_policy: http://www.telenav.com/legal/policies.html
-Email: support@telenav.com
+

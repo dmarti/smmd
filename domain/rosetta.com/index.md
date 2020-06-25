@@ -1,9 +1,11 @@
+---
+company-name: Rosetta
+domain: rosetta.com
+home: http://www.rosetta.com/
+privacy-policy: http://www.rosetta.com/privacy.html
+email: info@rosetta.com
+owned-by: "Publicis Groupe"
+---
 
-# Rosetta
 
-Name: Rosetta
-Domain: rosetta.com
-Home: http://www.rosetta.com/
-Privacy_policy: http://www.rosetta.com/privacy.html
-Email: info@rosetta.com
-Owned_by: Publicis Groupe
+

@@ -1,9 +1,11 @@
+---
+company-name: Healthination
+domain: healthination.com
+home: http://www.healthination.com/
+privacy-policy: https://www.healthination.com/privacy-policy/
+email: privacy@healthination.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Healthination
 
-Name: Healthination
-Domain: healthination.com
-Home: http://www.healthination.com/
-Privacy_policy: https://www.healthination.com/privacy-policy/
-Email: privacy@healthination.com
-Member_of: Interactive Advertising Bureau (IAB)
+

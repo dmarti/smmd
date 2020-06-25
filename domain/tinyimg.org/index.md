@@ -1,6 +1,8 @@
+---
+company-name: "Canada Levitra Pharmacy Online"
+domain: tinyimg.org
+home: http://www.tinyimg.org/
+---
 
-# Canada Levitra Pharmacy Online
 
-Name: Canada Levitra Pharmacy Online
-Domain: tinyimg.org
-Home: http://www.tinyimg.org/
+

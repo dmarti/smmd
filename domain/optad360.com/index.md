@@ -1,8 +1,10 @@
+---
+company-name: OptAd360
+domain: optad360.com
+home: https://www.optad360.com/en/
+privacy-policy: https://www.optad360.com/en/privacy-policy.html
+email: dp@optad360.com
+---
 
-# OptAd360
 
-Name: OptAd360
-Domain: optad360.com
-Home: https://www.optad360.com/en/
-Privacy_policy: https://www.optad360.com/en/privacy-policy.html
-Email: dp@optad360.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "CPM Only"
+domain: cpmonly.com
+home: http://cpmonly.com/
+privacy-policy: http://cpmonly.com/privacy
+email: NetworkCare@CPMonly.com
+---
 
-# CPM Only
 
-Name: CPM Only
-Domain: cpmonly.com
-Home: http://cpmonly.com/
-Privacy_policy: http://cpmonly.com/privacy
-Email: NetworkCare@CPMonly.com
+

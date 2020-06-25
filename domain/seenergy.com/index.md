@@ -1,9 +1,11 @@
+---
+company-name: Seenergy
+domain: seenergy.com
+home: http://seenergy.com/
+privacy-policy: http://seenergy.com/privacy.html
+email: info@seenergy.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Seenergy
 
-Name: Seenergy
-Domain: seenergy.com
-Home: http://seenergy.com/
-Privacy_policy: http://seenergy.com/privacy.html
-Email: info@seenergy.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,7 +1,9 @@
-# National Advertising Initiative
+---
+company-name: "National Advertising Initiative"
+domain: networkadvertising.org
+opt-out-url: https://optout.networkadvertising.org
+---
 
-Name: National Advertising Initiative
 
-Domain: networkadvertising.org
 
-Opt_out_url: https://optout.networkadvertising.org
+

@@ -1,8 +1,10 @@
+---
+company-name: Fiverr
+domain: fiverr.com
+home: https://www.fiverr.com/
+privacy-policy: https://www.fiverr.com/privacy-policy
+email: privacy@fiverr.com
+---
 
-# Fiverr
 
-Name: Fiverr
-Domain: fiverr.com
-Home: https://www.fiverr.com/
-Privacy_policy: https://www.fiverr.com/privacy-policy
-Email: privacy@fiverr.com
+

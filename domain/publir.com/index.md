@@ -1,8 +1,10 @@
+---
+company-name: Publir
+domain: publir.com
+home: http://www.publir.com
+privacy-policy: http://www.publir.com/privacy-policy/
+email: inquire@publir.com
+---
 
-# Publir
 
-Name: Publir
-Domain: publir.com
-Home: http://www.publir.com
-Privacy_policy: http://www.publir.com/privacy-policy/
-Email: inquire@publir.com
+

@@ -1,9 +1,11 @@
+---
+company-name: "Redux Media"
+domain: reduxmedia.com
+home: http://www.reduxmedia.com/
+privacy-policy: http://tctranscontinental.com/privacy-policy
+email: privacy@reduxmedia.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Redux Media
 
-Name: Redux Media
-Domain: reduxmedia.com
-Home: http://www.reduxmedia.com/
-Privacy_policy: http://tctranscontinental.com/privacy-policy
-Email: privacy@reduxmedia.com
-Member_of: Interactive Advertising Bureau (IAB)
+

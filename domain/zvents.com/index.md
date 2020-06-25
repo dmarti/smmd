@@ -1,8 +1,10 @@
+---
+company-name: Zvents
+domain: zvents.com
+home: http://www.zvents.com
+privacy-policy: http://www.zvents.com/support/privacy
+owned-by: StubHub
+---
 
-# Zvents
 
-Name: Zvents
-Domain: zvents.com
-Home: http://www.zvents.com
-Privacy_policy: http://www.zvents.com/support/privacy
-Owned_by: StubHub
+

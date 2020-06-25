@@ -1,10 +1,11 @@
+---
+company-name: "Addition Plus"
+domain: additionplus.com
+home: http://additionplus.com/
+privacy-policy: http://additionplus.com/privacy-policy/
+email: gdpr@additionplus.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Addition Plus
 
-Name: Addition Plus
-Domain: additionplus.com
-Home: http://additionplus.com/
-Privacy_policy: http://additionplus.com/privacy-policy/
-Email: gdpr@additionplus.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

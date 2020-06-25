@@ -1,8 +1,10 @@
+---
+company-name: ClickDimensions
+domain: clickdimensions.com
+home: https://www.clickdimensions.com/
+privacy-policy: https://clickdimensions.com/about/privacy-policy/
+email: security@clickdimensions.com
+---
 
-# ClickDimensions
 
-Name: ClickDimensions
-Domain: clickdimensions.com
-Home: https://www.clickdimensions.com/
-Privacy_policy: https://clickdimensions.com/about/privacy-policy/
-Email: security@clickdimensions.com
+

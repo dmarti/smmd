@@ -1,8 +1,10 @@
+---
+company-name: ClickInc
+domain: clickinc.com
+home: http://www.clickinc.com
+privacy-policy: http://www.clickinc.com/privacy-policy.html
+email: support@clickinc.com
+---
 
-# ClickInc
 
-Name: ClickInc
-Domain: clickinc.com
-Home: http://www.clickinc.com
-Privacy_policy: http://www.clickinc.com/privacy-policy.html
-Email: support@clickinc.com
+

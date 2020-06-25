@@ -1,8 +1,10 @@
+---
+company-name: "CookieQ (Baycloud Systems)"
+domain: cookieq.eu
+home: https://cookieq.eu/
+privacy-policy: https://cookieq.eu/privacy
+email: support@baycloud.com
+---
 
-# CookieQ (Baycloud Systems)
 
-Name: CookieQ (Baycloud Systems)
-Domain: cookieq.eu
-Home: https://cookieq.eu/
-Privacy_policy: https://cookieq.eu/privacy
-Email: support@baycloud.com
+

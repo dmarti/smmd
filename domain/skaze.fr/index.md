@@ -1,8 +1,10 @@
+---
+company-name: Skaze
+domain: skaze.fr
+home: http://www.skaze.fr/
+privacy-policy: http://www.skaze.fr/politique-de-securite/
+email: gdpr@Skaze.fr
+---
 
-# Skaze
 
-Name: Skaze
-Domain: skaze.fr
-Home: http://www.skaze.fr/
-Privacy_policy: http://www.skaze.fr/politique-de-securite/
-Email: gdpr@Skaze.fr
+

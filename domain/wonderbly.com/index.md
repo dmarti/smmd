@@ -1,8 +1,10 @@
+---
+company-name: Wonderbly
+domain: wonderbly.com
+home: https://www.wonderbly.com
+privacy-policy: https://www.wonderbly.com/pages/privacy-policy
+email: digital@wonderbly.com
+---
 
-# Wonderbly
 
-Name: Wonderbly
-Domain: wonderbly.com
-Home: https://www.wonderbly.com
-Privacy_policy: https://www.wonderbly.com/pages/privacy-policy
-Email: digital@wonderbly.com
+

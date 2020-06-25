@@ -1,8 +1,10 @@
+---
+company-name: "Between Exchange"
+domain: betweenx.com
+home: https://betweenx.com/
+privacy-policy: https://en.betweenx.com/pdata.pdf
+email: privacy@betweenx.com
+---
 
-# Between Exchange
 
-Name: Between Exchange
-Domain: betweenx.com
-Home: https://betweenx.com/
-Privacy_policy: https://en.betweenx.com/pdata.pdf
-Email: privacy@betweenx.com
+

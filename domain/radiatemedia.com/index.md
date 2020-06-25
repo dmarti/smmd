@@ -1,7 +1,9 @@
+---
+company-name: "Radiate Media (formerly Matchbin)"
+domain: radiatemedia.com
+home: http://www.radiatemedia.com
+email: info@matchbin.com
+---
 
-# Radiate Media (formerly Matchbin)
 
-Name: Radiate Media (formerly Matchbin)
-Domain: radiatemedia.com
-Home: http://www.radiatemedia.com
-Email: info@matchbin.com
+

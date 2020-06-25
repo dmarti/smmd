@@ -1,7 +1,9 @@
+---
+company-name: Outpace
+domain: outpace.com
+home: http://outpace.com
+email: info@outpace.com
+---
 
-# Outpace
 
-Name: Outpace
-Domain: outpace.com
-Home: http://outpace.com
-Email: info@outpace.com
+

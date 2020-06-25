@@ -1,7 +1,9 @@
+---
+company-name: "Opera Media"
+domain: operamediaworks.com
+home: http://operamediaworks.com/
+privacy-policy: http://operamediaworks.com/site-privacy-policy
+---
 
-# Opera Media
 
-Name: Opera Media
-Domain: operamediaworks.com
-Home: http://operamediaworks.com/
-Privacy_policy: http://operamediaworks.com/site-privacy-policy
+

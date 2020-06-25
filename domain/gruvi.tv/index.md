@@ -1,7 +1,9 @@
+---
+company-name: Gruvi
+domain: gruvi.tv
+home: https://gruvi.tv
+privacy-policy: https://gruvi.tv/privacy-policy/
+---
 
-# Gruvi
 
-Name: Gruvi
-Domain: gruvi.tv
-Home: https://gruvi.tv
-Privacy_policy: https://gruvi.tv/privacy-policy/
+

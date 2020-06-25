@@ -1,8 +1,10 @@
+---
+company-name: Instabug
+domain: instabug.com
+home: https://instabug.com/
+privacy-policy: https://instabug.com/privacy
+email: privacy@instabug.com
+---
 
-# Instabug
 
-Name: Instabug
-Domain: instabug.com
-Home: https://instabug.com/
-Privacy_policy: https://instabug.com/privacy
-Email: privacy@instabug.com
+

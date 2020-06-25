@@ -1,7 +1,9 @@
+---
+company-name: "The Publisher Desk"
+domain: thepublisherdesk.com
+home: http://www.thepublisherdesk.com/
+email: info@publisherdesk.com
+---
 
-# The Publisher Desk
 
-Name: The Publisher Desk
-Domain: thepublisherdesk.com
-Home: http://www.thepublisherdesk.com/
-Email: info@publisherdesk.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Rovion
+domain: rovion.com
+home: http://www.rovion.com/
+privacy-policy: http://www.pointroll.com/privacy.php
+owned-by: PointRoll
+---
 
-# Rovion
 
-Name: Rovion
-Domain: rovion.com
-Home: http://www.rovion.com/
-Privacy_policy: http://www.pointroll.com/privacy.php
-Owned_by: PointRoll
+

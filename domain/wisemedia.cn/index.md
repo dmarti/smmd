@@ -1,8 +1,10 @@
+---
+company-name: WiseMedia
+domain: wisemedia.cn
+home: http://www.wisemedia.cn/
+privacy-policy: http://www.wisemedia.cn/index.php?r=site/politic
+email: info@wisemedia.cn
+---
 
-# WiseMedia
 
-Name: WiseMedia
-Domain: wisemedia.cn
-Home: http://www.wisemedia.cn/
-Privacy_policy: http://www.wisemedia.cn/index.php?r=site/politic
-Email: info@wisemedia.cn
+

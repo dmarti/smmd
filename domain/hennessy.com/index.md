@@ -1,9 +1,11 @@
+---
+company-name: Hennessy
+domain: hennessy.com
+home: http://www.hennessy.com/us/
+privacy-policy: https://www.hennessy.com/us/company/policy/
+email: contact@moethennessy.com.
+owned-by: "Moet Hennessy SNC"
+---
 
-# Hennessy
 
-Name: Hennessy
-Domain: hennessy.com
-Home: http://www.hennessy.com/us/
-Privacy_policy: https://www.hennessy.com/us/company/policy/
-Email: contact@moethennessy.com.
-Owned_by: Moet Hennessy SNC
+

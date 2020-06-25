@@ -1,8 +1,10 @@
+---
+company-name: TVadSync
+domain: tvadsync.com
+home: https://www.tvadsync.com
+privacy-policy: https://www.tvadsync.com/privacy-policy/
+email: info@tvadsync.com
+---
 
-# TVadSync 
 
-Name: TVadSync 
-Domain: tvadsync.com
-Home: https://www.tvadsync.com
-Privacy_policy: https://www.tvadsync.com/privacy-policy/
-Email: info@tvadsync.com
+

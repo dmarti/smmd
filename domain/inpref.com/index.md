@@ -1,8 +1,10 @@
+---
+company-name: Inpref
+domain: inpref.com
+home: http://inpref.com/
+owned-by: Frosmo
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Inpref
 
-Name: Inpref
-Domain: inpref.com
-Home: http://inpref.com/
-Owned_by: Frosmo
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

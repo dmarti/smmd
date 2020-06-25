@@ -1,8 +1,10 @@
+---
+company-name: "Local Yokel Media"
+domain: localyokelmedia.com
+home: http://www.localyokelmedia.com/
+privacy-policy: http://www.localyokelmedia.com/wp-content/themes/localyokel/docs/LocalYokelMedia_PrivacyPolicy.pdf
+email: info@localyokelmedia.com
+---
 
-# Local Yokel Media
 
-Name: Local Yokel Media
-Domain: localyokelmedia.com
-Home: http://www.localyokelmedia.com/
-Privacy_policy: http://www.localyokelmedia.com/wp-content/themes/localyokel/docs/LocalYokelMedia_PrivacyPolicy.pdf
-Email: info@localyokelmedia.com
+

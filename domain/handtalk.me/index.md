@@ -1,6 +1,8 @@
+---
+company-name: "Hand Talk"
+domain: handtalk.me
+home: https://handtalk.me/app
+---
 
-# Hand Talk
 
-Name: Hand Talk
-Domain: handtalk.me
-Home: https://handtalk.me/app
+

@@ -1,9 +1,11 @@
+---
+company-name: Ligatus
+domain: ligatus.com
+home: https://www.ligatus.com/
+privacy-policy: https://www.ligatus.com/en/privacy-policy
+email: privacy@ligatus.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Ligatus
 
-Name: Ligatus
-Domain: ligatus.com
-Home: https://www.ligatus.com/
-Privacy_policy: https://www.ligatus.com/en/privacy-policy
-Email: privacy@ligatus.com
-Member_of: European Data Interactive Alliance
+

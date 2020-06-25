@@ -1,8 +1,10 @@
+---
+company-name: "Engage BDR"
+domain: engagebdr.com
+home: http://engagebdr.com/
+privacy-policy: http://engagebdr.com/privacy-policy
+email: info@engagebdr.com
+---
 
-# Engage BDR
 
-Name: Engage BDR
-Domain: engagebdr.com
-Home: http://engagebdr.com/
-Privacy_policy: http://engagebdr.com/privacy-policy
-Email: info@engagebdr.com
+

@@ -1,10 +1,11 @@
+---
+company-name: PowerReviews
+domain: powerreviews.com
+home: https://www.powerreviews.com/
+privacy-policy: https://www.powerreviews.com/privacy-policy/
+email: privacy@powerreviews.com
+member-of: "Network Advertising Initiative"
+---
 
-# PowerReviews
 
-Name: PowerReviews
-Domain: powerreviews.com
-Home: https://www.powerreviews.com/
-Privacy_policy: https://www.powerreviews.com/privacy-policy/
-Email: privacy@powerreviews.com
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

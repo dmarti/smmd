@@ -1,9 +1,11 @@
+---
+company-name: MRM//McCann
+domain: mrm-mccann.com
+home: https://mrm-mccann.com/
+privacy-policy: https://mrm-mccann.com/privacy-notice.html
+email: privacy@mrm-mccann.com
+member-of: "American Association of Advertising Agencies"
+---
 
-# MRM//McCann
 
-Name: MRM//McCann
-Domain: mrm-mccann.com
-Home: https://mrm-mccann.com/
-Privacy_policy: https://mrm-mccann.com/privacy-notice.html
-Email: privacy@mrm-mccann.com
-Member_of: American Association of Advertising Agencies
+

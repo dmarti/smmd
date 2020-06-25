@@ -1,7 +1,9 @@
+---
+company-name: smartAD
+domain: smartad.eu
+home: http://smartad.eu/
+email: group@smartad.eu
+---
 
-# smartAD
 
-Name: smartAD
-Domain: smartad.eu
-Home: http://smartad.eu/
-Email: group@smartad.eu
+

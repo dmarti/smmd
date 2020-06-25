@@ -1,8 +1,10 @@
+---
+company-name: "Intimate Merger"
+domain: intimatemerger.com
+home: https://corp.intimatemerger.com/
+privacy-policy: https://corp.intimatemerger.com/privacypolicy-en/
+email: info@intimatemerger.com
+---
 
-# Intimate Merger
 
-Name: Intimate Merger
-Domain: intimatemerger.com
-Home: https://corp.intimatemerger.com/
-Privacy_policy: https://corp.intimatemerger.com/privacypolicy-en/
-Email: info@intimatemerger.com
+

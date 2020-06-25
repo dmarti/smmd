@@ -1,23 +1,11 @@
-
-# NATIONAL STUDENT CLEARINGHOUSE
-
-Name: NATIONAL STUDENT CLEARINGHOUSE
-
-Domain: studentclearinghouse.org
-
-Home: www.studentclearinghouse.org
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 353284
-
-
-
+---
+company-name: "NATIONAL STUDENT CLEARINGHOUSE"
+domain: studentclearinghouse.org
+home: www.studentclearinghouse.org
+vermont-id: 353284
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 353284
 
 
 
+
 ## Additional info
 
 
 
+
 2300 Dulles Station Blvd, Suite 220, Herndon, VA, 20171, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

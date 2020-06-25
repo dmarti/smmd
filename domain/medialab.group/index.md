@@ -1,8 +1,10 @@
+---
+company-name: MediaLab
+domain: medialab.group
+home: http://medialab.group/
+privacy-policy: https://medialab.group/privacy.html
+email: legal@medialab.group
+---
 
-# MediaLab
 
-Name: MediaLab
-Domain: medialab.group
-Home: http://medialab.group/
-Privacy_policy: https://medialab.group/privacy.html
-Email: legal@medialab.group
+

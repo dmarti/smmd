@@ -1,8 +1,10 @@
+---
+company-name: "Bowen Craggs"
+domain: bowencraggs.com
+home: https://www.bowencraggs.com/Home
+privacy-policy: https://www.bowencraggs.com/privacy-cookies/
+email: ddrury@bowencraggs.com
+---
 
-# Bowen Craggs
 
-Name: Bowen Craggs
-Domain: bowencraggs.com
-Home: https://www.bowencraggs.com/Home
-Privacy_policy: https://www.bowencraggs.com/privacy-cookies/
-Email: ddrury@bowencraggs.com
+

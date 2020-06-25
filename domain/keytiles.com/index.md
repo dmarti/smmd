@@ -1,6 +1,8 @@
+---
+company-name: Keytiles
+domain: keytiles.com
+home: http://keytiles.com/
+---
 
-# Keytiles
 
-Name: Keytiles
-Domain: keytiles.com
-Home: http://keytiles.com/
+

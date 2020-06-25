@@ -1,10 +1,12 @@
+---
+company-name: "Little Big Data"
+domain: little-big-data.com
+home: http://www.little-big-data.com/
+privacy-policy: http://dtxngr.com/legal/
+email: rodo@dataexchanger.pl
+owned-by: GroupM
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Little Big Data
 
-Name: Little Big Data
-Domain: little-big-data.com
-Home: http://www.little-big-data.com/
-Privacy_policy: http://dtxngr.com/legal/
-Email: rodo@dataexchanger.pl
-Owned_by: GroupM
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,8 +1,10 @@
+---
+company-name: eMarketingSolutions
+domain: emarketingsolutions.es
+home: http://emarketingsolutions.es/
+privacy-policy: https://emarketingsolutions.es/privacy-policy
+email: juridico@auratechlegal.com
+---
 
-# eMarketingSolutions
 
-Name: eMarketingSolutions
-Domain: emarketingsolutions.es
-Home: http://emarketingsolutions.es/
-Privacy_policy: https://emarketingsolutions.es/privacy-policy
-Email: juridico@auratechlegal.com
+

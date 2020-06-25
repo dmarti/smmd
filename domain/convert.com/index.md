@@ -1,9 +1,11 @@
+---
+company-name: "Convert Insights (formerly Reedge)"
+domain: convert.com
+home: https://www.convert.com/
+privacy-policy: https://www.convert.com/privacy-policy/
+email: info@convert.com
+member-of: "Network Advertising Initiative"
+---
 
-# Convert Insights (formerly Reedge)
 
-Name: Convert Insights (formerly Reedge)
-Domain: convert.com
-Home: https://www.convert.com/
-Privacy_policy: https://www.convert.com/privacy-policy/
-Email: info@convert.com
-Member_of: Network Advertising Initiative
+

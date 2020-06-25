@@ -1,7 +1,9 @@
+---
+company-name: "MediaPost Communications"
+domain: mediapostcommunication.net
+home: https://vrm.mediapostcommunication.net/
+privacy-policy: https://vrm.mediapostcommunication.net/regles-confidentialite
+---
 
-# MediaPost Communications
 
-Name: MediaPost Communications
-Domain: mediapostcommunication.net
-Home: https://vrm.mediapostcommunication.net/
-Privacy_policy: https://vrm.mediapostcommunication.net/regles-confidentialite
+

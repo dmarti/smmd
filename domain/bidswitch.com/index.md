@@ -1,8 +1,10 @@
+---
+company-name: Bidswitch
+domain: bidswitch.com
+home: http://www.bidswitch.com/
+privacy-policy: http://www.bidswitch.com/privacy-policy/
+email: info@bidswitch.net
+---
 
-# Bidswitch
 
-Name: Bidswitch
-Domain: bidswitch.com
-Home: http://www.bidswitch.com/
-Privacy_policy: http://www.bidswitch.com/privacy-policy/
-Email: info@bidswitch.net
+

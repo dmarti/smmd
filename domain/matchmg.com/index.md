@@ -1,6 +1,8 @@
+---
+company-name: "Match Marketing Group"
+domain: matchmg.com
+home: http://matchmg.com/
+---
 
-# Match Marketing Group
 
-Name: Match Marketing Group
-Domain: matchmg.com
-Home: http://matchmg.com/
+

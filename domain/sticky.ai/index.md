@@ -1,8 +1,10 @@
+---
+company-name: Sticky
+domain: sticky.ai
+home: https://www.sticky.ai/
+privacy-policy: https://www.sticky.ai/privacy-policy
+email: privacy@sticky.ai
+---
 
-# Sticky
 
-Name: Sticky
-Domain: sticky.ai
-Home: https://www.sticky.ai/
-Privacy_policy: https://www.sticky.ai/privacy-policy
-Email: privacy@sticky.ai
+

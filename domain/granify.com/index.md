@@ -1,8 +1,10 @@
+---
+company-name: Granify
+domain: granify.com
+home: https://www.granify.com/
+privacy-policy: https://www.granify.com/privacy
+email: hello@granify.com
+---
 
-# Granify
 
-Name: Granify
-Domain: granify.com
-Home: https://www.granify.com/
-Privacy_policy: https://www.granify.com/privacy
-Email: hello@granify.com
+

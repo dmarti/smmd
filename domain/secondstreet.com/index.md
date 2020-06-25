@@ -1,8 +1,10 @@
+---
+company-name: "Second Street Media"
+domain: secondstreet.com
+home: http://secondstreet.com/
+privacy-policy: http://secondstreet.com/privacy-policy/
+email: support@secondstreet.com
+---
 
-# Second Street Media
 
-Name: Second Street Media
-Domain: secondstreet.com
-Home: http://secondstreet.com/
-Privacy_policy: http://secondstreet.com/privacy-policy/
-Email: support@secondstreet.com
+

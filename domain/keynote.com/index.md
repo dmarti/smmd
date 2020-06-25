@@ -1,8 +1,10 @@
+---
+company-name: "Keynote Systems"
+domain: keynote.com
+home: http://www.keynote.com/
+privacy-policy: http://www.keynote.com/legal/privacy/
+email: privacy@keynote.com
+---
 
-# Keynote Systems
 
-Name: Keynote Systems
-Domain: keynote.com
-Home: http://www.keynote.com/
-Privacy_policy: http://www.keynote.com/legal/privacy/
-Email: privacy@keynote.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Neuralitic
+domain: neuralitic.com
+home: http://www.neuralitic.com/
+privacy-policy: http://www.guavus.com/privacy/
+email: privacy@neuralitic.com
+---
 
-# Neuralitic
 
-Name: Neuralitic
-Domain: neuralitic.com
-Home: http://www.neuralitic.com/
-Privacy_policy: http://www.guavus.com/privacy/
-Email: privacy@neuralitic.com
+

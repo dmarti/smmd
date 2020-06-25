@@ -1,8 +1,10 @@
+---
+company-name: Adsimilis
+domain: adsimilis.com
+home: http://www.adsimilis.com/
+email: contact@adsimilis.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Adsimilis
 
-Name: Adsimilis
-Domain: adsimilis.com
-Home: http://www.adsimilis.com/
-Email: contact@adsimilis.com
-Member_of: European Data Interactive Alliance
+

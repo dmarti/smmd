@@ -1,8 +1,10 @@
+---
+company-name: Vpon
+domain: vpon.com
+home: https://www.vpon.com/en/
+privacy-policy: https://www.vpon.com/en/privacy
+email: support@vpon.com
+---
 
-# Vpon
 
-Name: Vpon
-Domain: vpon.com
-Home: https://www.vpon.com/en/
-Privacy_policy: https://www.vpon.com/en/privacy
-Email: support@vpon.com
+

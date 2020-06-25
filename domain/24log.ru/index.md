@@ -1,7 +1,9 @@
+---
+company-name: 24Log
+domain: 24log.ru
+home: http://24log.ru/
+privacy-policy: http://24log.ru/terms.php
+---
 
-# 24Log
 
-Name: 24Log
-Domain: 24log.ru
-Home: http://24log.ru/
-Privacy_policy: http://24log.ru/terms.php
+

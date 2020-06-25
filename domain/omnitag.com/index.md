@@ -1,6 +1,8 @@
+---
+company-name: OmniTag
+domain: omnitag.com
+home: http://omnitag.com/
+---
 
-# OmniTag
 
-Name: OmniTag
-Domain: omnitag.com
-Home: http://omnitag.com/
+

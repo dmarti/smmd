@@ -1,8 +1,10 @@
+---
+company-name: CPAlead
+domain: cpalead.com
+home: https://www.cpalead.com/
+privacy-policy: https://www.cpalead.com/privacy.php
+email: "(866) 996-4666"
+---
 
-# CPAlead
 
-Name: CPAlead
-Domain: cpalead.com
-Home: https://www.cpalead.com/
-Privacy_policy: https://www.cpalead.com/privacy.php
-Email: (866) 996-4666
+

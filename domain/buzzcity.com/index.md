@@ -1,8 +1,10 @@
+---
+company-name: BuzzCity
+domain: buzzcity.com
+home: http://www.buzzcity.com/
+privacy-policy: http://www.buzzcity.com/privacy_policy
+email: feedback@buzzcity.com
+---
 
-# BuzzCity
 
-Name: BuzzCity
-Domain: buzzcity.com
-Home: http://www.buzzcity.com/
-Privacy_policy: http://www.buzzcity.com/privacy_policy
-Email: feedback@buzzcity.com
+

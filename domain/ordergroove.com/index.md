@@ -1,7 +1,9 @@
+---
+company-name: "Order Groove"
+domain: ordergroove.com
+home: http://ordergroove.com/
+email: info@ordergroove.com
+---
 
-# Order Groove
 
-Name: Order Groove
-Domain: ordergroove.com
-Home: http://ordergroove.com/
-Email: info@ordergroove.com
+

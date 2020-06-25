@@ -1,8 +1,10 @@
+---
+company-name: Rocket.la
+domain: rocket.la
+home: https://rocket.la/
+privacy-policy: https://rocket.la/aviso-de-privacidad/
+email: hola@rocket.la
+---
 
-# Rocket.la
 
-Name: Rocket.la
-Domain: rocket.la
-Home: https://rocket.la/
-Privacy_policy: https://rocket.la/aviso-de-privacidad/
-Email: hola@rocket.la
+

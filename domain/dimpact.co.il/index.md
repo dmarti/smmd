@@ -1,7 +1,9 @@
+---
+company-name: "Digital Impact"
+domain: dimpact.co.il
+home: http://dimpact.co.il/
+email: info@dimpact.co.il
+---
 
-# Digital Impact
 
-Name: Digital Impact
-Domain: dimpact.co.il
-Home: http://dimpact.co.il/
-Email: info@dimpact.co.il
+

@@ -1,10 +1,12 @@
+---
+company-name: "SiteMeter, Inc."
+domain: sitemeter.com
+home: http://www.sitemeter.com
+privacy-policy: http://www.sitemeter.com/?a=privacy
+email: privacy@viantinc.com
+owned-by: Viant
+member-of: "Digital Advertising Alliance"
+---
 
-# SiteMeter, Inc.
 
-Name: SiteMeter, Inc.
-Domain: sitemeter.com
-Home: http://www.sitemeter.com
-Privacy_policy: http://www.sitemeter.com/?a=privacy
-Email: privacy@viantinc.com
-Owned_by: Viant
-Member_of: Digital Advertising Alliance
+

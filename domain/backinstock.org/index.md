@@ -1,7 +1,9 @@
+---
+company-name: "Back in Stock"
+domain: backinstock.org
+home: http://backinstock.org/
+email: support@backinstock.org
+---
 
-# Back in Stock
 
-Name: Back in Stock
-Domain: backinstock.org
-Home: http://backinstock.org/
-Email: support@backinstock.org
+

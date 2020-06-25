@@ -1,7 +1,9 @@
+---
+company-name: "Catalyst Web Trendz"
+domain: catalystwebtrendz.com
+home: http://www.catalystwebtrendz.com/
+email: contact@catalystwebtrendz.in
+---
 
-# Catalyst Web Trendz
 
-Name: Catalyst Web Trendz
-Domain: catalystwebtrendz.com
-Home: http://www.catalystwebtrendz.com/
-Email: contact@catalystwebtrendz.in
+

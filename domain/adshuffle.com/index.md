@@ -1,8 +1,10 @@
+---
+company-name: AdShuffle
+domain: adshuffle.com
+home: http://www.adshuffle.com/
+privacy-policy: http://www.adshuffle.com/privacy.html
+email: privacy@adshuffle.com
+---
 
-# AdShuffle
 
-Name: AdShuffle
-Domain: adshuffle.com
-Home: http://www.adshuffle.com/
-Privacy_policy: http://www.adshuffle.com/privacy.html
-Email: privacy@adshuffle.com
+

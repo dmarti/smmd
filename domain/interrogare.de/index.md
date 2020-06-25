@@ -1,8 +1,10 @@
+---
+company-name: Interrogare
+domain: interrogare.de
+home: https://www.interrogare.de/
+privacy-policy: https://www.interrogare.de/kontakt/datenschutz/
+email: info@interrogare.de
+---
 
-# Interrogare
 
-Name: Interrogare
-Domain: interrogare.de
-Home: https://www.interrogare.de/
-Privacy_policy: https://www.interrogare.de/kontakt/datenschutz/
-Email: info@interrogare.de
+

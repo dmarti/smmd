@@ -1,7 +1,9 @@
+---
+company-name: AdIQuity
+domain: adiquity.com
+home: http://adiquity.com/
+privacy-policy: http://adiquity.com/privacy
+---
 
-# AdIQuity
 
-Name: AdIQuity
-Domain: adiquity.com
-Home: http://adiquity.com/
-Privacy_policy: http://adiquity.com/privacy
+

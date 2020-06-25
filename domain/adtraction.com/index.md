@@ -1,8 +1,10 @@
+---
+company-name: Adtraction
+domain: adtraction.com
+home: http://adtraction.com/
+privacy-policy: http://adtraction.com/sv/privacy
+email: info@adtraction.com
+---
 
-# Adtraction
 
-Name: Adtraction
-Domain: adtraction.com
-Home: http://adtraction.com/
-Privacy_policy: http://adtraction.com/sv/privacy
-Email: info@adtraction.com
+

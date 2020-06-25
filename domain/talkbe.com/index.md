@@ -1,7 +1,9 @@
+---
+company-name: TalkBe
+domain: talkbe.com
+home: http://talkbe.com/
+email: hi@talkbe.com
+---
 
-# TalkBe
 
-Name: TalkBe
-Domain: talkbe.com
-Home: http://talkbe.com/
-Email: hi@talkbe.com
+

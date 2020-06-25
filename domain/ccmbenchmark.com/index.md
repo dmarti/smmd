@@ -1,8 +1,10 @@
+---
+company-name: "CCM Benchmark"
+domain: ccmbenchmark.com
+home: http://www.ccmbenchmark.com/
+privacy-policy: http://www.ccmbenchmark.com/donnees-personnelles?origin=www.commentcamarche.net
+email: contact@commentcamarche.net
+---
 
-# CCM Benchmark
 
-Name: CCM Benchmark
-Domain: ccmbenchmark.com
-Home: http://www.ccmbenchmark.com/
-Privacy_policy: http://www.ccmbenchmark.com/donnees-personnelles?origin=www.commentcamarche.net
-Email: contact@commentcamarche.net
+

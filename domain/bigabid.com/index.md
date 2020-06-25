@@ -1,9 +1,11 @@
+---
+company-name: Bigabid
+domain: bigabid.com
+home: http://www.bigabid.com/
+privacy-policy: http://www.bigabid.com/data-protection/
+email: info@bigabid.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Bigabid
 
-Name: Bigabid
-Domain: bigabid.com
-Home: http://www.bigabid.com/
-Privacy_policy: http://www.bigabid.com/data-protection/
-Email: info@bigabid.com
-Member_of: Interactive Advertising Bureau (IAB)
+

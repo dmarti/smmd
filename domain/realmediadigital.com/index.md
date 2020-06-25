@@ -1,9 +1,11 @@
+---
+company-name: Realmedia
+domain: realmediadigital.com
+home: http://realmediadigital.com/pt/home.php
+privacy-policy: http://www.xaxis.com/static/view/privacy-policy
+email: contato@realmedia.com.br
+owned-by: AppNexus
+---
 
-# Realmedia
 
-Name: Realmedia
-Domain: realmediadigital.com
-Home: http://realmediadigital.com/pt/home.php
-Privacy_policy: http://www.xaxis.com/static/view/privacy-policy
-Email: contato@realmedia.com.br
-Owned_by: AppNexus
+

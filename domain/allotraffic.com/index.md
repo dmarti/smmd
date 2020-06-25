@@ -1,7 +1,9 @@
+---
+company-name: AlloTraffic
+domain: allotraffic.com
+home: http://www.allotraffic.com/
+email: contact@allotraffic.com
+---
 
-# AlloTraffic
 
-Name: AlloTraffic
-Domain: allotraffic.com
-Home: http://www.allotraffic.com/
-Email: contact@allotraffic.com
+

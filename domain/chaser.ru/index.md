@@ -1,7 +1,9 @@
+---
+company-name: Chaser
+domain: chaser.ru
+home: http://chaser.ru/
+email: support@chaser.ru
+---
 
-# Chaser
 
-Name: Chaser
-Domain: chaser.ru
-Home: http://chaser.ru/
-Email: support@chaser.ru
+

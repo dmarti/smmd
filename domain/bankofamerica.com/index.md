@@ -1,7 +1,9 @@
-# Bank of America
+---
+company-name: "Bank of America"
+domain: bankofamerica.com
+opt-out-url: https://www.bankofamerica.com/security-center/ccpa-disclosure/
+---
 
-Name: Bank of America
 
-Domain: bankofamerica.com
 
-Opt_out_url: https://www.bankofamerica.com/security-center/ccpa-disclosure/
+

@@ -1,7 +1,9 @@
+---
+company-name: "Lead Forensics"
+domain: leadforensics.com
+home: http://www.leadforensics.com/
+privacy-policy: https://www.leadforensics.com/privacy-and-cookies/
+---
 
-# Lead Forensics
 
-Name: Lead Forensics
-Domain: leadforensics.com
-Home: http://www.leadforensics.com/
-Privacy_policy: https://www.leadforensics.com/privacy-and-cookies/
+

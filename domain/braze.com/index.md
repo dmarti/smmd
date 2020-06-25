@@ -1,8 +1,10 @@
+---
+company-name: Braze
+domain: braze.com
+home: https://www.braze.com
+privacy-policy: https://www.braze.com/privacy
+email: privacy@braze.com
+---
 
-# Braze
 
-Name: Braze
-Domain: braze.com
-Home: https://www.braze.com
-Privacy_policy: https://www.braze.com/privacy
-Email: privacy@braze.com
+

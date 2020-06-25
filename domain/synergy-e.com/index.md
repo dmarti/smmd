@@ -1,7 +1,9 @@
+---
+company-name: Synergy-E
+domain: synergy-e.com
+home: http://synergy-e.com/
+email: likit@synergy-e.com
+---
 
-# Synergy-E
 
-Name: Synergy-E
-Domain: synergy-e.com
-Home: http://synergy-e.com/
-Email: likit@synergy-e.com
+

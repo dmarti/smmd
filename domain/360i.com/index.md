@@ -1,9 +1,11 @@
+---
+company-name: "360i Canada"
+domain: 360i.com
+home: http://www.360i.com/
+privacy-policy: https://360i.com/privacy/
+email: privacy@360i.com
+owned-by: "Dentsu Aegis Network"
+---
 
-# 360i Canada
 
-Name: 360i Canada
-Domain: 360i.com
-Home: http://www.360i.com/
-Privacy_policy: https://360i.com/privacy/
-Email: privacy@360i.com
-Owned_by: Dentsu Aegis Network
+

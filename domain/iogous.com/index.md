@@ -1,9 +1,11 @@
+---
+company-name: iogous
+domain: iogous.com
+home: http://www.iogous.com/
+privacy-policy: http://www.fringe81.com/privacy.html
+email: info@fringe81.com
+owned-by: Fringe81
+---
 
-# iogous
 
-Name: iogous
-Domain: iogous.com
-Home: http://www.iogous.com/
-Privacy_policy: http://www.fringe81.com/privacy.html
-Email: info@fringe81.com
-Owned_by: Fringe81
+

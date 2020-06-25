@@ -1,6 +1,8 @@
+---
+company-name: Geovisite
+domain: geovisite.com
+home: http://www.geovisite.com/
+---
 
-# Geovisite
 
-Name: Geovisite
-Domain: geovisite.com
-Home: http://www.geovisite.com/
+

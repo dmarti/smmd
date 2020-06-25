@@ -1,8 +1,10 @@
+---
+company-name: SeeVolution
+domain: seevolution.com
+home: https://seevolution.com/
+privacy-policy: https://seevolution.com/privacy-policy
+email: support@seevolution.com
+---
 
-# SeeVolution
 
-Name: SeeVolution
-Domain: seevolution.com
-Home: https://seevolution.com/
-Privacy_policy: https://seevolution.com/privacy-policy
-Email: support@seevolution.com
+

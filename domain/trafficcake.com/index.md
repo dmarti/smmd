@@ -1,7 +1,9 @@
+---
+company-name: TrafficCake
+domain: trafficcake.com
+home: https://trafficcake.com/
+privacy-policy: https://www.statuscake.com/privacy-policy/
+---
 
-# TrafficCake
 
-Name: TrafficCake
-Domain: trafficcake.com
-Home: https://trafficcake.com/
-Privacy_policy: https://www.statuscake.com/privacy-policy/
+

@@ -1,8 +1,10 @@
+---
+company-name: MarsMediaGroup
+domain: mars.media
+home: http://www.mars.media/#!group
+privacy-policy: http://www.mars.media/#!terms
+email: info@m-m-g.com
+---
 
-# MarsMediaGroup
 
-Name: MarsMediaGroup
-Domain: mars.media
-Home: http://www.mars.media/#!group
-Privacy_policy: http://www.mars.media/#!terms
-Email: info@m-m-g.com
+

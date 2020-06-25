@@ -1,8 +1,10 @@
+---
+company-name: Colombia
+domain: colombiaonline.com
+home: https://www.colombiaonline.com/
+privacy-policy: https://www.colombiaonline.com/privacy-policy
+email: colombia@timesinternet.in
+---
 
-# Colombia
 
-Name: Colombia
-Domain: colombiaonline.com
-Home: https://www.colombiaonline.com/
-Privacy_policy: https://www.colombiaonline.com/privacy-policy
-Email: colombia@timesinternet.in
+

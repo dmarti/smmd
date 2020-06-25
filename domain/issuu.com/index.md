@@ -1,7 +1,9 @@
+---
+company-name: Issuu
+domain: issuu.com
+home: http://issuu.com
+email: privacy@issuu.com
+---
 
-# Issuu
 
-Name: Issuu
-Domain: issuu.com
-Home: http://issuu.com
-Email: privacy@issuu.com
+

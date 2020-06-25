@@ -1,8 +1,10 @@
+---
+company-name: Quora
+domain: quora.com
+home: https://www.quora.com/
+privacy-policy: https://www.quora.com/about/privacy
+email: privacy@quora.com
+---
 
-# Quora
 
-Name: Quora
-Domain: quora.com
-Home: https://www.quora.com/
-Privacy_policy: https://www.quora.com/about/privacy
-Email: privacy@quora.com
+

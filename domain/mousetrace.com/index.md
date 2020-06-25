@@ -1,7 +1,9 @@
+---
+company-name: MouseTrace
+domain: mousetrace.com
+home: http://www.mousetrace.com/
+email: support@mousetrace.com
+---
 
-# MouseTrace
 
-Name: MouseTrace
-Domain: mousetrace.com
-Home: http://www.mousetrace.com/
-Email: support@mousetrace.com
+

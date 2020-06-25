@@ -1,8 +1,10 @@
+---
+company-name: "Cubed Attribution"
+domain: withcubed.com
+home: http://withcubed.com/
+privacy-policy: http://withcubed.com/privacy-policy/
+email: privacy@withcubed.com
+---
 
-# Cubed Attribution
 
-Name: Cubed Attribution
-Domain: withcubed.com
-Home: http://withcubed.com/
-Privacy_policy: http://withcubed.com/privacy-policy/
-Email: privacy@withcubed.com
+

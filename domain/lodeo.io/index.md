@@ -1,9 +1,11 @@
+---
+company-name: Lodeo.io
+domain: lodeo.io
+home: https://www.lodeo.io/
+privacy-policy: https://www.cyberagent.co.jp/privacy/
+email: info_lodeo@cyberagent.co.jp
+owned-by: "AdTech Studio (CyberAgent)"
+---
 
-# Lodeo.io
 
-Name: Lodeo.io
-Domain: lodeo.io
-Home: https://www.lodeo.io/
-Privacy_policy: https://www.cyberagent.co.jp/privacy/
-Email: info_lodeo@cyberagent.co.jp
-Owned_by: AdTech Studio (CyberAgent)
+

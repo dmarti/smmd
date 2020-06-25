@@ -1,8 +1,10 @@
+---
+company-name: Adzymic
+domain: adzymic.co
+home: http://www.adzymic.co/
+privacy-policy: http://www.adzymic.co/privacy
+email: support@adzymic.co
+---
 
-# Adzymic
 
-Name: Adzymic
-Domain: adzymic.co
-Home: http://www.adzymic.co/
-Privacy_policy: http://www.adzymic.co/privacy
-Email: support@adzymic.co
+

@@ -1,8 +1,10 @@
+---
+company-name: 3DStats
+domain: 3dstats.com
+home: http://www.3dstats.com/
+privacy-policy: http://www.3dstats.com/privacy.html
+email: privacy@3dstats.com
+---
 
-# 3DStats
 
-Name: 3DStats
-Domain: 3dstats.com
-Home: http://www.3dstats.com/
-Privacy_policy: http://www.3dstats.com/privacy.html
-Email: privacy@3dstats.com
+

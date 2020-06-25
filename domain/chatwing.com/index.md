@@ -1,8 +1,10 @@
+---
+company-name: chatWING
+domain: chatwing.com
+home: http://chatwing.com/
+privacy-policy: http://chatwing.com/site/privacy
+email: info@chatwing.com
+---
 
-# chatWING
 
-Name: chatWING
-Domain: chatwing.com
-Home: http://chatwing.com/
-Privacy_policy: http://chatwing.com/site/privacy
-Email: info@chatwing.com
+

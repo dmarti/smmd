@@ -1,8 +1,10 @@
+---
+company-name: "Experian Automotive"
+domain: autocount.com
+home: https://www.autocount.com/#
+privacy-policy: http://www.experian.com/privacy/index.html
+email: support@experiandirect.com.
+---
 
-# Experian Automotive
 
-Name: Experian Automotive
-Domain: autocount.com
-Home: https://www.autocount.com/#
-Privacy_policy: http://www.experian.com/privacy/index.html
-Email: support@experiandirect.com.
+

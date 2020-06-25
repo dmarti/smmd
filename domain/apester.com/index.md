@@ -1,8 +1,10 @@
+---
+company-name: Apester
+domain: apester.com
+home: https://apester.com/
+privacy-policy: https://apester.com/privacy-policy/
+email: privacy@apester.com
+---
 
-# Apester
 
-Name: Apester
-Domain: apester.com
-Home: https://apester.com/
-Privacy_policy: https://apester.com/privacy-policy/
-Email: privacy@apester.com
+

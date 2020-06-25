@@ -1,12 +1,11 @@
+---
+company-name: "Vix (Formerly Batanga Network)"
+domain: vix.com
+home: https://www.vix.com
+privacy-policy: https://www.vix.com/en/corp/privacy-policy
+email: privacy@vix.com
+member-of: "Network Advertising Initiative"
+---
 
-# Vix (Formerly Batanga Network)
 
-Name: Vix (Formerly Batanga Network)
-Domain: vix.com
-Home: https://www.vix.com
-Privacy_policy: https://www.vix.com/en/corp/privacy-policy
-Email: privacy@vix.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
-Member_of: Network Advertising Initiative
+

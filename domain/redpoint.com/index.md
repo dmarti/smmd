@@ -1,6 +1,8 @@
+---
+company-name: Redpoint
+domain: redpoint.com
+home: http://www.redpoint.com/
+---
 
-# Redpoint
 
-Name: Redpoint
-Domain: redpoint.com
-Home: http://www.redpoint.com/
+

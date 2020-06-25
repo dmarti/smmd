@@ -1,9 +1,11 @@
+---
+company-name: Grapeshot
+domain: grapeshot.com
+home: https://www.grapeshot.com/
+privacy-policy: https://www.grapeshot.com/privacy/
+email: privacy@grapeshot.com
+owned-by: "Oracle Corporation"
+---
 
-# Grapeshot
 
-Name: Grapeshot
-Domain: grapeshot.com
-Home: https://www.grapeshot.com/
-Privacy_policy: https://www.grapeshot.com/privacy/
-Email: privacy@grapeshot.com
-Owned_by: Oracle Corporation
+

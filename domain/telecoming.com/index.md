@@ -1,9 +1,11 @@
+---
+company-name: Telecoming
+domain: telecoming.com
+home: http://www.telecoming.com
+privacy-policy: http://www.telecoming.com/privacy-policy/
+email: privacy@telecoming.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Telecoming
 
-Name: Telecoming
-Domain: telecoming.com
-Home: http://www.telecoming.com
-Privacy_policy: http://www.telecoming.com/privacy-policy/
-Email: privacy@telecoming.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

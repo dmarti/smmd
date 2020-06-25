@@ -1,7 +1,9 @@
+---
+company-name: Cramer-Krasselt
+domain: c-k.com
+home: http://www.c-k.com/
+privacy-policy: http://www.c-k.com/privacy_policy.html
+---
 
-# Cramer-Krasselt
 
-Name: Cramer-Krasselt
-Domain: c-k.com
-Home: http://www.c-k.com/ 
-Privacy_policy: http://www.c-k.com/privacy_policy.html 
+

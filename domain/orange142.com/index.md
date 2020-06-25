@@ -1,7 +1,9 @@
+---
+company-name: Orange142
+domain: orange142.com
+home: http://www.orange142.com/
+email: info@orange142.com
+---
 
-# Orange142
 
-Name: Orange142
-Domain: orange142.com
-Home: http://www.orange142.com/
-Email: info@orange142.com
+

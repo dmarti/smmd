@@ -1,8 +1,10 @@
+---
+company-name: Clicky
+domain: clicky.com
+home: http://clicky.com/
+privacy-policy: http://clicky.com/terms
+email: support@getclicky.com
+---
 
-# Clicky
 
-Name: Clicky
-Domain: clicky.com
-Home: http://clicky.com/
-Privacy_policy: http://clicky.com/terms
-Email: support@getclicky.com
+

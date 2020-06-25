@@ -1,8 +1,10 @@
+---
+company-name: Recognified
+domain: recognified.com
+home: http://recognified.com/
+privacy-policy: https://recognified.com/privacy.html
+email: info@recognified.com
+---
 
-# Recognified
 
-Name: Recognified
-Domain: recognified.com
-Home: http://recognified.com/
-Privacy_policy: https://recognified.com/privacy.html
-Email: info@recognified.com
+

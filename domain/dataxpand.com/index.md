@@ -1,8 +1,10 @@
+---
+company-name: Dataxpand
+domain: dataxpand.com
+home: http://dataxpand.com/
+privacy-policy: http://dataxpand.com/privacy.php
+email: info@dataxpand.com
+---
 
-# Dataxpand
 
-Name: Dataxpand
-Domain: dataxpand.com
-Home: http://dataxpand.com/
-Privacy_policy: http://dataxpand.com/privacy.php
-Email: info@dataxpand.com
+

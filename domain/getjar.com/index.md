@@ -1,8 +1,10 @@
+---
+company-name: GetJar
+domain: getjar.com
+home: https://www.getjar.com/
+privacy-policy: https://www.getjar.com/info/privacy/
+email: advertise@getjar.mobi
+---
 
-# GetJar
 
-Name: GetJar
-Domain: getjar.com
-Home: https://www.getjar.com/
-Privacy_policy: https://www.getjar.com/info/privacy/
-Email: advertise@getjar.mobi
+

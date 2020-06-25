@@ -1,8 +1,10 @@
+---
+company-name: Net-Results
+domain: net-results.com
+home: http://www.net-results.com/
+privacy-policy: https://www.net-results.com/privacy-policy/
+email: privacy@net-results.com
+---
 
-# Net-Results
 
-Name: Net-Results
-Domain: net-results.com
-Home: http://www.net-results.com/
-Privacy_policy: https://www.net-results.com/privacy-policy/
-Email: privacy@net-results.com
+

@@ -1,8 +1,10 @@
+---
+company-name: MaxBounty
+domain: maxbounty.com
+home: https://www.maxbounty.com/
+privacy-policy: https://www.maxbounty.com/privacy.cfm
+email: privacy@maxbounty.com
+---
 
-# MaxBounty
 
-Name: MaxBounty
-Domain: maxbounty.com
-Home: https://www.maxbounty.com/
-Privacy_policy: https://www.maxbounty.com/privacy.cfm
-Email: privacy@maxbounty.com
+

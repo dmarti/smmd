@@ -1,7 +1,9 @@
+---
+company-name: "Duracell EU"
+domain: duracell.com
+home: http://www.duracell.com/
+privacy-policy: https://www.duracell.com/en-us/privacy/
+---
 
-# Duracell EU
 
-Name: Duracell EU
-Domain: duracell.com
-Home: http://www.duracell.com/
-Privacy_policy: https://www.duracell.com/en-us/privacy/
+

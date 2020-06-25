@@ -1,8 +1,10 @@
+---
+company-name: Gunggo
+domain: gunggo.com
+home: http://www.gunggo.com/
+privacy-policy: http://www.gunggo.com/Privacy
+email: webmaster@gunggo.com
+---
 
-# Gunggo
 
-Name: Gunggo
-Domain: gunggo.com
-Home: http://www.gunggo.com/
-Privacy_policy: http://www.gunggo.com/Privacy
-Email: webmaster@gunggo.com
+

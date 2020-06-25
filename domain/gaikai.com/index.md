@@ -1,7 +1,9 @@
+---
+company-name: Gaikai
+domain: gaikai.com
+home: http://www.gaikai.com/
+email: support@gaikai.com
+---
 
-# Gaikai
 
-Name: Gaikai
-Domain: gaikai.com
-Home: http://www.gaikai.com/
-Email: support@gaikai.com
+

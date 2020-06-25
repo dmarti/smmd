@@ -1,21 +1,10 @@
-
-# Spoke 
-
-Name: Spoke 
-
-Domain: spoke.com
-
-Home: http://www.spoke.com/
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: Spoke
+domain: spoke.com
+home: http://www.spoke.com/
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,8 +1,10 @@
+---
+company-name: "Thought Catalog"
+domain: thoughtcatalog.com
+home: https://thoughtcatalog.com
+privacy-policy: https://thoughtcatalog.com/privacy-statement/
+email: website@SmartandStrong.com
+---
 
-# Thought Catalog
 
-Name: Thought Catalog
-Domain: thoughtcatalog.com
-Home: https://thoughtcatalog.com
-Privacy_policy: https://thoughtcatalog.com/privacy-statement/
-Email: website@SmartandStrong.com
+

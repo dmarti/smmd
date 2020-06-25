@@ -1,8 +1,10 @@
+---
+company-name: Vero
+domain: getvero.com
+home: http://www.getvero.com/
+privacy-policy: https://www.getvero.com/privacy/
+email: support@getvero.com
+---
 
-# Vero
 
-Name: Vero
-Domain: getvero.com
-Home: http://www.getvero.com/
-Privacy_policy: https://www.getvero.com/privacy/
-Email: support@getvero.com
+

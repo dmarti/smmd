@@ -1,7 +1,9 @@
+---
+company-name: Transparensee
+domain: transparensee.com
+home: http://transparensee.com/
+email: info@transparensee.com
+---
 
-# Transparensee
 
-Name: Transparensee
-Domain: transparensee.com
-Home: http://transparensee.com/
-Email: info@transparensee.com
+

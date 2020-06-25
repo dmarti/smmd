@@ -1,7 +1,9 @@
+---
+company-name: Kavanga
+domain: kavanga.ru
+home: http://kavanga.ru/
+email: privacy@kavanga.ru
+---
 
-# Kavanga
 
-Name: Kavanga
-Domain: kavanga.ru
-Home: http://kavanga.ru/
-Email: privacy@kavanga.ru
+

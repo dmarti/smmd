@@ -1,8 +1,10 @@
+---
+company-name: WIX
+domain: wix.com
+home: https://www.wix.com/
+privacy-policy: https://www.wix.com/about/privacy
+email: privacy@wix.com
+---
 
-# WIX
 
-Name: WIX
-Domain: wix.com
-Home: https://www.wix.com/
-Privacy_policy: https://www.wix.com/about/privacy
-Email: privacy@wix.com
+

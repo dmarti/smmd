@@ -1,9 +1,11 @@
+---
+company-name: Cafemom
+domain: cafemom.com
+home: http://www.cafemom.com/
+privacy-policy: https://www.cafemom.com/about/privacy_policy.php
+email: help@mamaslatinas.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Cafemom
 
-Name: Cafemom
-Domain: cafemom.com
-Home: http://www.cafemom.com/
-Privacy_policy: https://www.cafemom.com/about/privacy_policy.php
-Email: help@mamaslatinas.com
-Member_of: Interactive Advertising Bureau (IAB)
+

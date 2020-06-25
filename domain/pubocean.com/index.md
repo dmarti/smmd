@@ -1,9 +1,11 @@
+---
+company-name: "Pub Ocean"
+domain: pubocean.com
+home: http://pubocean.com/
+privacy-policy: https://rta.pubocean.com/privacy-policy/
+email: dataprotection@pubocean.com.
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Pub Ocean
 
-Name: Pub Ocean
-Domain: pubocean.com
-Home: http://pubocean.com/
-Privacy_policy: https://rta.pubocean.com/privacy-policy/
-Email: dataprotection@pubocean.com.
-Member_of: Interactive Advertising Bureau (IAB)
+

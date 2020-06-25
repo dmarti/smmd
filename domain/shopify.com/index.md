@@ -1,8 +1,10 @@
+---
+company-name: Shopify
+domain: shopify.com
+home: http://www.shopify.com/
+privacy-policy: http://www.shopify.com/legal/privacy
+email: privacy@shopify.com
+---
 
-# Shopify
 
-Name: Shopify
-Domain: shopify.com
-Home: http://www.shopify.com/
-Privacy_policy: http://www.shopify.com/legal/privacy
-Email: privacy@shopify.com
+

@@ -1,7 +1,9 @@
+---
+company-name: Sepyra
+domain: sepyra.com
+home: http://sepyra.com/
+email: support@sepyra.com
+---
 
-# Sepyra
 
-Name: Sepyra
-Domain: sepyra.com
-Home: http://sepyra.com/
-Email: support@sepyra.com
+

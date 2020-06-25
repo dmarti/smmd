@@ -1,7 +1,9 @@
+---
+company-name: "Lanista Concepts"
+domain: lanistaconcepts.com
+home: http://lanistaconcepts.com/
+email: contact@lanistaconcepts.com
+---
 
-# Lanista Concepts
 
-Name: Lanista Concepts
-Domain: lanistaconcepts.com
-Home: http://lanistaconcepts.com/
-Email: contact@lanistaconcepts.com
+

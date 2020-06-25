@@ -1,9 +1,11 @@
+---
+company-name: "Alm Media Properties"
+domain: alm.com
+home: http://www.alm.com/
+privacy-policy: https://www.alm.com/privacy-policy-new/
+email: customercare@alm.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Alm Media Properties
 
-Name: Alm Media Properties
-Domain: alm.com
-Home: http://www.alm.com/
-Privacy_policy: https://www.alm.com/privacy-policy-new/
-Email: customercare@alm.com
-Member_of: Interactive Advertising Bureau (IAB)
+

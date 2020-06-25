@@ -1,8 +1,10 @@
+---
+company-name: UserReplay
+domain: userreplay.com
+home: https://www.userreplay.com/
+privacy-policy: https://www.userreplay.com/company/privacy-policy/
+email: privacy@userreplay.com
+---
 
-# UserReplay
 
-Name: UserReplay
-Domain: userreplay.com
-Home: https://www.userreplay.com/
-Privacy_policy: https://www.userreplay.com/company/privacy-policy/
-Email: privacy@userreplay.com
+

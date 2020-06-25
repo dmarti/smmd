@@ -1,8 +1,10 @@
+---
+company-name: AdTraxx
+domain: adtraxx.de
+home: https://www1.adtraxx.de/
+email: info@explido.de
+owned-by: "Media Decision GmbH"
+---
 
-# AdTraxx
 
-Name: AdTraxx
-Domain: adtraxx.de
-Home: https://www1.adtraxx.de/
-Email: info@explido.de
-Owned_by: Media Decision GmbH
+

@@ -1,9 +1,11 @@
+---
+company-name: "Real Eyes"
+domain: realeyesit.com
+home: https://www.realeyesit.com
+privacy-policy: https://www.realeyesit.com/privacy
+email: info@realeyesit.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Real Eyes
 
-Name: Real Eyes
-Domain: realeyesit.com
-Home: https://www.realeyesit.com
-Privacy_policy: https://www.realeyesit.com/privacy
-Email: info@realeyesit.com
-Member_of: Interactive Advertising Bureau (IAB)
+

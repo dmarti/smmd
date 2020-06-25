@@ -1,8 +1,10 @@
+---
+company-name: "Optimum Response"
+domain: optimumresponse.com
+home: https://optimumresponse.com/
+privacy-policy: https://optimumresponse.com/ad-server-privacy-policy/
+email: info@optimumresponse.com
+---
 
-# Optimum Response
 
-Name: Optimum Response
-Domain: optimumresponse.com
-Home: https://optimumresponse.com/
-Privacy_policy: https://optimumresponse.com/ad-server-privacy-policy/
-Email: info@optimumresponse.com
+

@@ -1,7 +1,9 @@
+---
+company-name: DQ&A
+domain: dqna.com
+home: http://www.dqna.com/
+email: info@dqna.com
+---
 
-# DQ&A
 
-Name: DQ&A
-Domain: dqna.com
-Home: http://www.dqna.com/
-Email: info@dqna.com
+

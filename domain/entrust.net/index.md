@@ -1,8 +1,10 @@
+---
+company-name: Entrust
+domain: entrust.net
+home: http://www.entrust.net/
+privacy-policy: http://www.entrust.com/privacy/
+email: privacy@entrustdatacard.com
+---
 
-# Entrust
 
-Name: Entrust
-Domain: entrust.net
-Home: http://www.entrust.net/
-Privacy_policy: http://www.entrust.com/privacy/
-Email: privacy@entrustdatacard.com
+

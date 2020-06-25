@@ -1,9 +1,11 @@
+---
+company-name: Onnetwork.tv
+domain: onnetwork.tv
+home: https://www.onnetwork.tv
+privacy-policy: https://www.onnetwork.tv/pp_services.php
+email: piuro@onnetwork.pl
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Onnetwork.tv
 
-Name: Onnetwork.tv
-Domain: onnetwork.tv
-Home: https://www.onnetwork.tv
-Privacy_policy: https://www.onnetwork.tv/pp_services.php
-Email: piuro@onnetwork.pl
-Member_of: Interactive Advertising Bureau (IAB)
+

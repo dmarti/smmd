@@ -1,7 +1,9 @@
+---
+company-name: AdStanding
+domain: adstanding.com
+home: http://www.adstanding.com/en/
+privacy-policy: http://www.adstanding.com/en/privacy-policy/
+---
 
-# AdStanding
 
-Name: AdStanding
-Domain: adstanding.com
-Home: http://www.adstanding.com/en/
-Privacy_policy: http://www.adstanding.com/en/privacy-policy/
+

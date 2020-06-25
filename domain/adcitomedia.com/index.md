@@ -1,8 +1,10 @@
+---
+company-name: Adcito
+domain: adcitomedia.com
+home: https://adcitomedia.com/
+privacy-policy: https://adcitomedia.com/privacy.html
+email: support@adcitomedia.com
+---
 
-# Adcito
 
-Name: Adcito
-Domain: adcitomedia.com
-Home: https://adcitomedia.com/
-Privacy_policy: https://adcitomedia.com/privacy.html
-Email: support@adcitomedia.com
+

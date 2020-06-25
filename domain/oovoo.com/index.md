@@ -1,7 +1,9 @@
+---
+company-name: ooVoo
+domain: oovoo.com
+home: http://www.oovoo.com/
+email: privacy@oovoo.com
+---
 
-# ooVoo
 
-Name: ooVoo
-Domain: oovoo.com
-Home: http://www.oovoo.com/
-Email: privacy@oovoo.com
+

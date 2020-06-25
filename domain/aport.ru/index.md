@@ -1,6 +1,8 @@
+---
+company-name: aport
+domain: aport.ru
+home: http://www.aport.ru/
+---
 
-# aport
 
-Name: aport
-Domain: aport.ru
-Home: http://www.aport.ru/
+

@@ -1,9 +1,11 @@
+---
+company-name: Scribol
+domain: scribol.com
+home: http://scribol.com/
+privacy-policy: http://scribol.com/privacy-policy
+email: info@scribol.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Scribol
 
-Name: Scribol
-Domain: scribol.com
-Home: http://scribol.com/
-Privacy_policy: http://scribol.com/privacy-policy 
-Email: info@scribol.com
-Member_of: European Data Interactive Alliance
+

@@ -1,9 +1,11 @@
+---
+company-name: Infinia
+domain: infiniamobile.com
+home: https://www.infiniamobile.com
+privacy-policy: http://www.infiniamobile.com/privacy_policy
+email: INFINIA@INFINIAMOBILE.COM
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Infinia
 
-Name: Infinia
-Domain: infiniamobile.com
-Home: https://www.infiniamobile.com
-Privacy_policy: http://www.infiniamobile.com/privacy_policy
-Email: INFINIA@INFINIAMOBILE.COM
-Member_of: Interactive Advertising Bureau (IAB)
+

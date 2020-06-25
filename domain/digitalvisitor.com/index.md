@@ -1,7 +1,9 @@
+---
+company-name: "Digital Visitor"
+domain: digitalvisitor.com
+home: http://www.digitalvisitor.com/
+email: info@digitalvisitor.com
+---
 
-# Digital Visitor
 
-Name: Digital Visitor
-Domain: digitalvisitor.com
-Home: http://www.digitalvisitor.com/
-Email: info@digitalvisitor.com
+

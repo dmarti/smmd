@@ -1,7 +1,9 @@
+---
+company-name: DuckDuckGo
+domain: duckduckgo.com
+home: https://duckduckgo.com/
+privacy-policy: https://duckduckgo.com/privacy
+---
 
-# DuckDuckGo
 
-Name: DuckDuckGo
-Domain: duckduckgo.com
-Home: https://duckduckgo.com/
-Privacy_policy: https://duckduckgo.com/privacy
+

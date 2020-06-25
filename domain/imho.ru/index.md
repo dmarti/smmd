@@ -1,7 +1,9 @@
+---
+company-name: IMHO
+domain: imho.ru
+home: http://www.imho.ru
+email: salesgroup@imho.run
+---
 
-# IMHO
 
-Name: IMHO
-Domain: imho.ru
-Home: http://www.imho.ru
-Email: salesgroup@imho.run
+

@@ -1,7 +1,9 @@
+---
+company-name: "Imperva Incapsula"
+domain: imperva.com
+home: https://www.imperva.com
+privacy-policy: https://www.imperva.com/legal/privacy-policy/
+---
 
-# Imperva Incapsula
 
-Name: Imperva Incapsula
-Domain: imperva.com
-Home: https://www.imperva.com
-Privacy_policy: https://www.imperva.com/legal/privacy-policy/
+

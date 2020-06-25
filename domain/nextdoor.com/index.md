@@ -1,7 +1,9 @@
-# Nextdoor
+---
+company-name: Nextdoor
+domain: nextdoor.com
+opt-out-url: https://legal.nextdoor.com/ccpa-do-not-sell-notice/
+---
 
-Name: Nextdoor
 
-Domain: nextdoor.com
 
-Opt_out_url: https://legal.nextdoor.com/ccpa-do-not-sell-notice/
+

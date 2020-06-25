@@ -1,8 +1,10 @@
+---
+company-name: Adoric
+domain: adoric.com
+home: https://adoric.com/
+privacy-policy: https://adoric.com/privacy
+email: support@adoric.com
+---
 
-# Adoric
 
-Name: Adoric
-Domain: adoric.com
-Home: https://adoric.com/
-Privacy_policy: https://adoric.com/privacy
-Email: support@adoric.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "Cool Text"
+domain: cooltext.com
+home: http://cooltext.com/
+privacy-policy: http://cooltext.com/Privacy
+---
 
-# Cool Text
 
-Name: Cool Text
-Domain: cooltext.com
-Home: http://cooltext.com/
-Privacy_policy: http://cooltext.com/Privacy
+

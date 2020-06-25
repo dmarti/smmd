@@ -1,8 +1,10 @@
+---
+company-name: "Video Research Interactive"
+domain: videoi.co.jp
+home: https://www.videoi.co.jp/
+privacy-policy: https://www.videoi.co.jp/privacy/ad_effect/
+email: privacy@videoi.co.jp
+---
 
-# Video Research Interactive
 
-Name: Video Research Interactive
-Domain: videoi.co.jp
-Home: https://www.videoi.co.jp/
-Privacy_policy: https://www.videoi.co.jp/privacy/ad_effect/
-Email: privacy@videoi.co.jp
+

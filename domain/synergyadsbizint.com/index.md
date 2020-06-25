@@ -1,6 +1,8 @@
+---
+company-name: "Synergy Advertising Business International"
+domain: synergyadsbizint.com
+home: https://www.synergyadsbizint.com
+---
 
-# Synergy Advertising Business International
 
-Name: Synergy Advertising Business International
-Domain: synergyadsbizint.com
-Home: https://www.synergyadsbizint.com
+

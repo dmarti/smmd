@@ -1,7 +1,9 @@
+---
+company-name: "IP Tracker"
+domain: ip-tracker.org
+home: https://www.ip-tracker.org/
+privacy-policy: https://www.ip-tracker.org/privacy-policy.php
+---
 
-# IP Tracker
 
-Name: IP Tracker
-Domain: ip-tracker.org
-Home: https://www.ip-tracker.org/
-Privacy_policy: https://www.ip-tracker.org/privacy-policy.php
+

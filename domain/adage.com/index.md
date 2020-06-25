@@ -1,8 +1,10 @@
+---
+company-name: "Advertising Age"
+domain: adage.com
+home: http://adage.com/
+privacy-policy: http://adage.com/privacy
+email: privacyhelp@crain.com
+---
 
-# Advertising Age
 
-Name: Advertising Age
-Domain: adage.com
-Home: http://adage.com/
-Privacy_policy: http://adage.com/privacy
-Email: privacyhelp@crain.com
+

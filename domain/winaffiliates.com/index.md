@@ -1,7 +1,9 @@
+---
+company-name: Winaffiliates
+domain: winaffiliates.com
+home: https://www.winaffiliates.com/
+email: support@winaffiliates.com
+---
 
-# Winaffiliates
 
-Name: Winaffiliates
-Domain: winaffiliates.com
-Home: https://www.winaffiliates.com/
-Email: support@winaffiliates.com
+

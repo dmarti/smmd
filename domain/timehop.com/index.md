@@ -1,8 +1,10 @@
+---
+company-name: Timehop
+domain: timehop.com
+home: https://www.timehop.com
+privacy-policy: https://www.timehop.com/privacy
+email: privacy@timehop.com
+---
 
-# Timehop
 
-Name: Timehop
-Domain: timehop.com
-Home: https://www.timehop.com
-Privacy_policy: https://www.timehop.com/privacy
-Email: privacy@timehop.com
+

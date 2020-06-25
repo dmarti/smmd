@@ -1,8 +1,10 @@
+---
+company-name: Adpersia
+domain: adpersia.com
+home: http://www.adpersia.com/
+privacy-policy: http://www.adpersia.com/privacy-policy
+email: support@adpersia.com
+---
 
-# Adpersia
 
-Name: Adpersia
-Domain: adpersia.com
-Home: http://www.adpersia.com/
-Privacy_policy: http://www.adpersia.com/privacy-policy
-Email: support@adpersia.com
+

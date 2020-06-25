@@ -1,8 +1,10 @@
+---
+company-name: Unbounce
+domain: unbounce.com
+home: https://unbounce.com/
+privacy-policy: https://unbounce.com/privacy/
+email: support@unbounce.com
+---
 
-# Unbounce
 
-Name: Unbounce
-Domain: unbounce.com
-Home: https://unbounce.com/
-Privacy_policy: https://unbounce.com/privacy/
-Email: support@unbounce.com
+

@@ -1,8 +1,10 @@
+---
+company-name: HyperAdX
+domain: hyperadx.com
+home: http://hyperadx.com/
+privacy-policy: http://hyperadx.com/privacy_policy.html
+email: support@hyperadx.com
+---
 
-# HyperAdX
 
-Name: HyperAdX
-Domain: hyperadx.com
-Home: http://hyperadx.com/
-Privacy_policy: http://hyperadx.com/privacy_policy.html
-Email: support@hyperadx.com
+

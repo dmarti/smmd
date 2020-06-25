@@ -1,9 +1,11 @@
+---
+company-name: Amino
+domain: aminopay.com
+home: https://www.aminopay.com
+privacy-policy: https://www.aminopay.com/privacy-policy/
+email: privacy@aminopay.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Amino
 
-Name: Amino
-Domain: aminopay.com
-Home: https://www.aminopay.com
-Privacy_policy: https://www.aminopay.com/privacy-policy/
-Email: privacy@aminopay.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,8 +1,10 @@
+---
+company-name: "MBuy (formerly AdBuyer)"
+domain: mbuy.com
+home: http://www.mbuy.com/
+privacy-policy: http://www.mbuy.com/privacy-policy/
+email: operations@mbuy.com
+---
 
-# MBuy (formerly AdBuyer)
 
-Name: MBuy (formerly AdBuyer)
-Domain: mbuy.com
-Home: http://www.mbuy.com/
-Privacy_policy: http://www.mbuy.com/privacy-policy/
-Email: operations@mbuy.com
+

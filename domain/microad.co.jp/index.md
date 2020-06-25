@@ -1,7 +1,9 @@
+---
+company-name: MicroAd
+domain: microad.co.jp
+home: https://www.microad.co.jp/
+privacy-policy: https://www.microad.co.jp/privacy/
+---
 
-# MicroAd
 
-Name: MicroAd
-Domain: microad.co.jp
-Home: https://www.microad.co.jp/
-Privacy_policy: https://www.microad.co.jp/privacy/
+

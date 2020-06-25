@@ -1,9 +1,11 @@
+---
+company-name: Liquidus
+domain: liquidus.net
+home: http://liquidus.net/
+privacy-policy: http://liquidus.net/privacypolicy/
+email: help@liquidustv.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Liquidus
 
-Name: Liquidus
-Domain: liquidus.net
-Home: http://liquidus.net/
-Privacy_policy: http://liquidus.net/privacypolicy/
-Email: help@liquidustv.com
-Member_of: Interactive Advertising Bureau (IAB)
+

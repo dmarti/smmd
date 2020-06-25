@@ -1,9 +1,11 @@
+---
+company-name: "A&E Television Networks"
+domain: aenetworks.com
+home: http://www.aenetworks.com/
+privacy-policy: http://www.aenetworks.com/privacy
+email: DMC@aenetworks.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# A&E Television Networks
 
-Name: A&E Television Networks
-Domain: aenetworks.com
-Home: http://www.aenetworks.com/
-Privacy_policy: http://www.aenetworks.com/privacy
-Email: DMC@aenetworks.com
-Member_of: Interactive Advertising Bureau (IAB)
+

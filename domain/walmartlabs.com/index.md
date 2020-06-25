@@ -1,10 +1,11 @@
+---
+company-name: "Walmart Labs (formerly Adchemy)"
+domain: walmartlabs.com
+home: https://www.walmartlabs.com/
+privacy-policy: https://corporate.walmart.com/privacy-security/walmart-privacy-policy
+owned-by: Walmart
+member-of: "Network Advertising Initiative"
+---
 
-# Walmart Labs (formerly Adchemy)
 
-Name: Walmart Labs (formerly Adchemy)
-Domain: walmartlabs.com
-Home: https://www.walmartlabs.com/
-Privacy_policy: https://corporate.walmart.com/privacy-security/walmart-privacy-policy
-Owned_by: Walmart
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

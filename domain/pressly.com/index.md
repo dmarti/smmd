@@ -1,8 +1,10 @@
+---
+company-name: Pressly
+domain: pressly.com
+home: https://www.pressly.com/
+privacy-policy: https://www.pressly.com/privacy
+email: info@pressly.com
+---
 
-# Pressly
 
-Name: Pressly
-Domain: pressly.com
-Home: https://www.pressly.com/
-Privacy_policy: https://www.pressly.com/privacy
-Email: info@pressly.com
+

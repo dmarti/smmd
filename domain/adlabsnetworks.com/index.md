@@ -1,9 +1,11 @@
+---
+company-name: "Media Network ADLABS"
+domain: adlabsnetworks.com
+home: http://medianet.adlabsnetworks.com/site/
+privacy-policy: http://medianet.adlabsnetworks.com/site/Policy/
+email: feedback@medianet.adlabsnetworks.ru
+owned-by: AdLabs
+---
 
-# Media Network ADLABS
 
-Name: Media Network ADLABS
-Domain: adlabsnetworks.com
-Home: http://medianet.adlabsnetworks.com/site/
-Privacy_policy: http://medianet.adlabsnetworks.com/site/Policy/
-Email: feedback@medianet.adlabsnetworks.ru
-Owned_by: AdLabs
+

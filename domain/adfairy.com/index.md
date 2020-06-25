@@ -1,12 +1,14 @@
-# Ad Fairy
+---
+company-name: "Ad Fairy"
+domain: adfairy.com
+home: https://www.adfairy.co/
+privacy-policy: https://www.adfairy.co/privacy
+fixme: "No CCPA, but using Facebook Custom Audience"
+---
 
-Name: Ad Fairy
 
-Domain: adfairy.com
 
-Home: https://www.adfairy.co/
 
-Privacy_policy: https://www.adfairy.co/privacy
 
-FIXME: No CCPA, but using Facebook Custom Audience
+
 

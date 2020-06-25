@@ -1,8 +1,10 @@
+---
+company-name: Offerslook
+domain: offerslook.com
+home: https://www.offerslook.com/index.html
+privacy-policy: https://www.offerslook.com/privacy-policy.html
+email: support@offerslook.com
+---
 
-# Offerslook
 
-Name: Offerslook
-Domain: offerslook.com
-Home: https://www.offerslook.com/index.html
-Privacy_policy: https://www.offerslook.com/privacy-policy.html
-Email: support@offerslook.com
+

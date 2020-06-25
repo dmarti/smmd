@@ -1,8 +1,10 @@
+---
+company-name: "Gatehouse Media, LLC."
+domain: gatehousemedia.com
+home: http://www.gatehousemedia.com/
+privacy-policy: http://www.gatehousemedia.com/privacy-policy/
+email: webmaster@gatehousemedia.com
+---
 
-# Gatehouse Media, LLC.
 
-Name: Gatehouse Media, LLC.
-Domain: gatehousemedia.com
-Home: http://www.gatehousemedia.com/
-Privacy_policy: http://www.gatehousemedia.com/privacy-policy/
-Email: webmaster@gatehousemedia.com
+

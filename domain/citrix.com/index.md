@@ -1,8 +1,10 @@
+---
+company-name: "Citrix Systems"
+domain: citrix.com
+home: http://www.citrix.com/
+privacy-policy: https://www.citrix.com/about/legal/privacy.html
+email: privacy@citrix.com
+---
 
-# Citrix Systems
 
-Name: Citrix Systems
-Domain: citrix.com
-Home: http://www.citrix.com/
-Privacy_policy: https://www.citrix.com/about/legal/privacy.html
-Email: privacy@citrix.com
+

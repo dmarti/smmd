@@ -1,7 +1,9 @@
+---
+company-name: "Live Help Now"
+domain: livehelpnow.net
+home: http://www.livehelpnow.net/
+privacy-policy: http://www.livehelpnow.net/policies/privacy/
+---
 
-# Live Help Now
 
-Name: Live Help Now
-Domain: livehelpnow.net
-Home: http://www.livehelpnow.net/
-Privacy_policy: http://www.livehelpnow.net/policies/privacy/
+

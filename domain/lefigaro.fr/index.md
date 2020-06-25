@@ -1,7 +1,9 @@
+---
+company-name: "Le Figaro"
+domain: lefigaro.fr
+home: http://www.lefigaro.fr/
+privacy-policy: http://mentions-legales.lefigaro.fr/page/infos-cookies
+---
 
-# Le Figaro
 
-Name: Le Figaro
-Domain: lefigaro.fr
-Home: http://www.lefigaro.fr/
-Privacy_policy: http://mentions-legales.lefigaro.fr/page/infos-cookies
+

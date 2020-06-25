@@ -1,8 +1,10 @@
+---
+company-name: ShopRunner
+domain: shoprunner.com
+home: https://www.shoprunner.com
+privacy-policy: https://www.shoprunner.com/terms/privacy/
+email: info@shoprunner.com
+---
 
-# ShopRunner
 
-Name: ShopRunner
-Domain: shoprunner.com
-Home: https://www.shoprunner.com
-Privacy_policy: https://www.shoprunner.com/terms/privacy/
-Email: info@shoprunner.com
+

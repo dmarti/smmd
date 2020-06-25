@@ -1,8 +1,10 @@
+---
+company-name: Opinary
+domain: opinary.com
+home: https://opinary.com/
+privacy-policy: https://opinary.com/privacy-policy/
+email: privacy@opinary.com
+---
 
-# Opinary
 
-Name: Opinary
-Domain: opinary.com
-Home: https://opinary.com/
-Privacy_policy: https://opinary.com/privacy-policy/
-Email: privacy@opinary.com
+

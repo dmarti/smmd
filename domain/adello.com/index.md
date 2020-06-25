@@ -1,9 +1,11 @@
+---
+company-name: Adello
+domain: adello.com
+home: https://www.adello.com/
+privacy-policy: https://www.adello.com/privacy-policy/
+email: privacy@adello.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Adello
 
-Name: Adello
-Domain: adello.com
-Home: https://www.adello.com/
-Privacy_policy: https://www.adello.com/privacy-policy/
-Email: privacy@adello.com
-Member_of: Interactive Advertising Bureau (IAB)
+

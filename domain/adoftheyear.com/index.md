@@ -1,6 +1,8 @@
+---
+company-name: adoftheyear.com
+domain: adoftheyear.com
+home: http://adoftheyear.com
+---
 
-# adoftheyear.com
 
-Name: adoftheyear.com
-Domain: adoftheyear.com
-Home: http://adoftheyear.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Media Decision GmbH"
+domain: actionallocator.de
+home: http://www.actionallocator.de/en/
+privacy-policy: http://www.actionallocator.de/en/data-privacy-statement/
+email: "+49 (0)821 21 77 95 0"
+---
 
-# Media Decision GmbH
 
-Name: Media Decision GmbH
-Domain: actionallocator.de
-Home: http://www.actionallocator.de/en/
-Privacy_policy: http://www.actionallocator.de/en/data-privacy-statement/
-Email: +49 (0)821 21 77 95 0
+

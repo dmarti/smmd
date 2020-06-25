@@ -1,7 +1,9 @@
+---
+company-name: Komoona
+domain: komoona.com
+home: http://www.komoona.com/#home
+email: support@komoona.com
+---
 
-# Komoona
 
-Name: Komoona
-Domain: komoona.com
-Home: http://www.komoona.com/#home
-Email: support@komoona.com
+

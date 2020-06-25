@@ -1,8 +1,10 @@
+---
+company-name: Way2traffic
+domain: way2traffic.com
+home: http://www.way2traffic.com/
+privacy-policy: http://www.way2traffic.com/en/index/privacy
+email: info@way2traffic.com
+---
 
-# Way2traffic
 
-Name: Way2traffic
-Domain: way2traffic.com
-Home: http://www.way2traffic.com/
-Privacy_policy: http://www.way2traffic.com/en/index/privacy
-Email: info@way2traffic.com
+

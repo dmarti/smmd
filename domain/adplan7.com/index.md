@@ -1,9 +1,11 @@
+---
+company-name: AdPlan
+domain: adplan7.com
+home: https://www.adplan7.com/
+privacy-policy: https://www.adplan7.com/privacy.html
+email: adplan-policy@mg.opt.ne.jp
+owned-by: OPT
+---
 
-# AdPlan
 
-Name: AdPlan
-Domain: adplan7.com
-Home: https://www.adplan7.com/
-Privacy_policy: https://www.adplan7.com/privacy.html
-Email: adplan-policy@mg.opt.ne.jp
-Owned_by: OPT
+

@@ -1,7 +1,9 @@
+---
+company-name: ClickAider
+domain: clickaider.com
+home: http://clickaider.com/
+email: info@clickaider.com
+---
 
-# ClickAider
 
-Name: ClickAider
-Domain: clickaider.com
-Home: http://clickaider.com/
-Email: info@clickaider.com
+

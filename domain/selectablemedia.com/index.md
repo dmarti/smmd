@@ -1,9 +1,11 @@
+---
+company-name: "Selectable Media"
+domain: selectablemedia.com
+home: http://selectablemedia.com/
+privacy-policy: http://selectablemedia.com/privacy-policy/
+email: privacy@selectablmedia.com
+owned-by: "Meredith Corporation"
+---
 
-# Selectable Media
 
-Name: Selectable Media
-Domain: selectablemedia.com
-Home: http://selectablemedia.com/
-Privacy_policy: http://selectablemedia.com/privacy-policy/
-Email: privacy@selectablmedia.com
-Owned_by: Meredith Corporation
+

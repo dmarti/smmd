@@ -1,11 +1,12 @@
+---
+company-name: AdXpose
+domain: adxpose.com
+home: http://www.adxpose.com/home.page
+privacy-policy: https://www.comscore.com/About-comScore/Privacy-Policy
+email: privacy@adxpose.com
+owned-by: comScore
+member-of: TrustE_TrustArc
+---
 
-# AdXpose
 
-Name: AdXpose
-Domain: adxpose.com
-Home: http://www.adxpose.com/home.page
-Privacy_policy: https://www.comscore.com/About-comScore/Privacy-Policy
-Email: privacy@adxpose.com
-Owned_by: comScore
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: TrustE_TrustArc
+

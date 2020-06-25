@@ -1,7 +1,9 @@
+---
+company-name: Programmatic.ly
+domain: programmatic.ly
+home: http://programmatic.ly/
+email: info@programmatic.ly
+---
 
-# Programmatic.ly
 
-Name: Programmatic.ly
-Domain: programmatic.ly
-Home: http://programmatic.ly/
-Email: info@programmatic.ly
+

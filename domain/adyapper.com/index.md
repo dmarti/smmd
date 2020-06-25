@@ -1,8 +1,10 @@
+---
+company-name: AdYapper
+domain: adyapper.com
+home: http://www.adyapper.com/
+privacy-policy: https://www.adyapper.com/privacy-policy.html
+email: contact@adyapper.com
+---
 
-# AdYapper
 
-Name: AdYapper
-Domain: adyapper.com
-Home: http://www.adyapper.com/
-Privacy_policy: https://www.adyapper.com/privacy-policy.html
-Email: contact@adyapper.com
+

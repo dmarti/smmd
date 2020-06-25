@@ -1,6 +1,8 @@
+---
+company-name: GB-World
+domain: gb-world.net
+home: http://www.gb-world.net/
+---
 
-# GB-World
 
-Name: GB-World
-Domain: gb-world.net
-Home: http://www.gb-world.net/
+

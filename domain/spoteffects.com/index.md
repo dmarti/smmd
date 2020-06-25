@@ -1,7 +1,9 @@
+---
+company-name: Spoteffect
+domain: spoteffects.com
+home: http://www.spoteffects.com/home/
+privacy-policy: http://www.spoteffects.com/footer/imprint/#c920
+---
 
-# Spoteffect
 
-Name: Spoteffect
-Domain: spoteffects.com
-Home: http://www.spoteffects.com/home/
-Privacy_policy: http://www.spoteffects.com/footer/imprint/#c920
+

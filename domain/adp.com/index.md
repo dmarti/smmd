@@ -1,8 +1,10 @@
+---
+company-name: "Automatic Data Processing (ADP)"
+domain: adp.com
+home: http://www.adp.com/
+privacy-policy: https://www.adp.com/privacy.aspx
+email: Privacy@ADP.com
+---
 
-# Automatic Data Processing (ADP)
 
-Name: Automatic Data Processing (ADP)
-Domain: adp.com
-Home: http://www.adp.com/
-Privacy_policy: https://www.adp.com/privacy.aspx
-Email: Privacy@ADP.com
+

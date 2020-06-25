@@ -1,8 +1,10 @@
+---
+company-name: "Dynatrace (Formally Gomez)"
+domain: dynatrace.com
+home: http://www.dynatrace.com/en_us/application-performance-management.html
+privacy-policy: https://www.dynatrace.com/company/trust-center/privacy/
+owned-by: Compuware
+---
 
-# Dynatrace (Formally Gomez)
 
-Name: Dynatrace (Formally Gomez)
-Domain: dynatrace.com
-Home: http://www.dynatrace.com/en_us/application-performance-management.html
-Privacy_policy: https://www.dynatrace.com/company/trust-center/privacy/
-Owned_by: Compuware
+

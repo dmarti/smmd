@@ -1,8 +1,10 @@
+---
+company-name: LiveAdmins
+domain: liveadmins.com
+home: https://www.liveadmins.com/
+privacy-policy: https://www.liveadmins.com/privacy-policy/
+email: info@liveadmins.com
+---
 
-# LiveAdmins
 
-Name: LiveAdmins
-Domain: liveadmins.com
-Home: https://www.liveadmins.com/
-Privacy_policy: https://www.liveadmins.com/privacy-policy/
-Email: info@liveadmins.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "Proformics Digital (Proformics Digitech)"
+domain: proformics.com
+home: https://www.proformics.com/
+email: contact@proformics.com
+---
 
-# Proformics Digital (Proformics Digitech)
 
-Name: Proformics Digital (Proformics Digitech)
-Domain: proformics.com
-Home: https://www.proformics.com/
-Email: contact@proformics.com
+

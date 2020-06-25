@@ -1,8 +1,10 @@
+---
+company-name: Roistat
+domain: roistat.com
+home: http://roistat.com/
+privacy-policy: http://roistat.com/privacy
+email: support@roistat.com
+---
 
-# Roistat
 
-Name: Roistat
-Domain: roistat.com
-Home: http://roistat.com/
-Privacy_policy: http://roistat.com/privacy
-Email: support@roistat.com
+

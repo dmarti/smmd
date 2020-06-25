@@ -1,7 +1,9 @@
+---
+company-name: eMnet
+domain: emnet.co.kr
+home: http://www.emnet.co.kr
+email: webmaster@emnet.co.kr
+---
 
-# eMnet
 
-Name: eMnet
-Domain: emnet.co.kr
-Home: http://www.emnet.co.kr
-Email: webmaster@emnet.co.kr
+

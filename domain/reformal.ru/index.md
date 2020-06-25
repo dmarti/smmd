@@ -1,8 +1,10 @@
+---
+company-name: Reformal
+domain: reformal.ru
+home: http://reformal.ru/
+privacy-policy: http://reformal.ru/pages/privacy
+email: info@reformal.ru
+---
 
-# Reformal
 
-Name: Reformal
-Domain: reformal.ru
-Home: http://reformal.ru/
-Privacy_policy: http://reformal.ru/pages/privacy
-Email: info@reformal.ru
+

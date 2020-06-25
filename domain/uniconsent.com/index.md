@@ -1,8 +1,10 @@
+---
+company-name: UniConsent
+domain: uniconsent.com
+home: https://www.uniconsent.com/
+privacy-policy: https://www.uniconsent.com/privacy
+email: hello@transfon.com
+---
 
-# UniConsent
 
-Name: UniConsent
-Domain: uniconsent.com
-Home: https://www.uniconsent.com/
-Privacy_policy: https://www.uniconsent.com/privacy
-Email: hello@transfon.com
+

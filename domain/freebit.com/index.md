@@ -1,7 +1,9 @@
+---
+company-name: "Freebit (AdMind)"
+domain: freebit.com
+home: http://freebit.com/
+privacy-policy: http://freebit.com/privacypolicy/
+---
 
-# Freebit (AdMind)
 
-Name: Freebit (AdMind)
-Domain: freebit.com
-Home: http://freebit.com/
-Privacy_policy: http://freebit.com/privacypolicy/
+

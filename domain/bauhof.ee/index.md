@@ -1,8 +1,10 @@
+---
+company-name: Bauhof
+domain: bauhof.ee
+home: https://www.bauhof.ee/
+privacy-policy: https://www.bauhof.ee/kliendiandmete-kasutamise-pohimotted
+email: info@bauhof.ee
+---
 
-# Bauhof
 
-Name: Bauhof
-Domain: bauhof.ee
-Home: https://www.bauhof.ee/
-Privacy_policy: https://www.bauhof.ee/kliendiandmete-kasutamise-pohimotted
-Email: info@bauhof.ee
+

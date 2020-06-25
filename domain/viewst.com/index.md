@@ -1,8 +1,10 @@
+---
+company-name: Viewst
+domain: viewst.com
+home: https://viewst.com/
+privacy-policy: https://viewst.com/privacy_policy
+email: hello@viewst.com
+---
 
-# Viewst
 
-Name: Viewst
-Domain: viewst.com
-Home: https://viewst.com/
-Privacy_policy: https://viewst.com/privacy_policy
-Email: hello@viewst.com
+

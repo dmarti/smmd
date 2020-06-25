@@ -1,7 +1,9 @@
-# Victoria's Secret
+---
+company-name: "Victoria's Secret"
+domain: victoriassecret.com
+opt-out-url: https://www.victoriassecret.com/data-subject-request
+---
 
-Name: Victoria's Secret
 
-Domain: victoriassecret.com
 
-Opt_out_url: https://www.victoriassecret.com/data-subject-request
+

@@ -1,8 +1,10 @@
+---
+company-name: Wibbitz
+domain: wibbitz.com
+home: http://www.wibbitz.com/
+privacy-policy: https://www.wibbitz.com/privacy-policy/
+email: feedback@wibbitz.com
+---
 
-# Wibbitz
 
-Name: Wibbitz
-Domain: wibbitz.com
-Home: http://www.wibbitz.com/
-Privacy_policy: https://www.wibbitz.com/privacy-policy/
-Email: feedback@wibbitz.com
+

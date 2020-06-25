@@ -1,7 +1,9 @@
+---
+company-name: "Geek Chart"
+domain: geekchart.com
+home: http://www.geekchart.com/
+privacy-policy: http://www.geekchart.com/privacy
+---
 
-# Geek Chart
 
-Name: Geek Chart
-Domain: geekchart.com
-Home: http://www.geekchart.com/
-Privacy_policy: http://www.geekchart.com/privacy
+

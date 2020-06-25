@@ -1,8 +1,10 @@
+---
+company-name: CivicScience
+domain: civicscience.com
+home: https://civicscience.com/
+privacy-policy: https://civicscience.com/about/
+email: privacy@civicscience.com
+---
 
-# CivicScience
 
-Name: CivicScience
-Domain: civicscience.com
-Home: https://civicscience.com/
-Privacy_policy: https://civicscience.com/about/
-Email: privacy@civicscience.com
+

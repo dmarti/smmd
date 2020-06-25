@@ -1,8 +1,10 @@
+---
+company-name: "Here Media"
+domain: heremedia.com
+home: https://www.heremedia.com/
+privacy-policy: https://www.heremedia.com/privacy-policy
+email: appsupport@heremedia.com
+---
 
-# Here Media
 
-Name: Here Media
-Domain: heremedia.com
-Home: https://www.heremedia.com/
-Privacy_policy: https://www.heremedia.com/privacy-policy
-Email: appsupport@heremedia.com
+

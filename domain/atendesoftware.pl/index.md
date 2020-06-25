@@ -1,8 +1,10 @@
+---
+company-name: Atende
+domain: atendesoftware.pl
+home: http://atendesoftware.pl/
+privacy-policy: http://
+email: info@atendesoftware.pl
+---
 
-# Atende
 
-Name: Atende
-Domain: atendesoftware.pl
-Home: http://atendesoftware.pl/
-Privacy_policy: http://
-Email: info@atendesoftware.pl
+

@@ -1,6 +1,8 @@
+---
+company-name: Wiqhit
+domain: wiqhit.com
+home: https://wiqhit.com/nl/
+---
 
-# Wiqhit
 
-Name: Wiqhit
-Domain: wiqhit.com
-Home: https://wiqhit.com/nl/
+

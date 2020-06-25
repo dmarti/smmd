@@ -1,6 +1,8 @@
+---
+company-name: "Revelate Digital Marketing"
+domain: revelate.ie
+home: https://revelate.ie
+---
 
-# Revelate Digital Marketing
 
-Name: Revelate Digital Marketing
-Domain: revelate.ie
-Home: https://revelate.ie
+

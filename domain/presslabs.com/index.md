@@ -1,7 +1,9 @@
+---
+company-name: PressLabs
+domain: presslabs.com
+home: http://www.presslabs.com/
+email: ping@presslabs.com
+---
 
-# PressLabs
 
-Name: PressLabs
-Domain: presslabs.com
-Home: http://www.presslabs.com/
-Email: ping@presslabs.com
+

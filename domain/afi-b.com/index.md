@@ -1,7 +1,9 @@
+---
+company-name: "Affiliate B"
+domain: afi-b.com
+home: https://www.afi-b.com/
+privacy-policy: https://www.afi-b.com/general/service/privacy
+---
 
-# Affiliate B
 
-Name: Affiliate B
-Domain: afi-b.com
-Home: https://www.afi-b.com/
-Privacy_policy: https://www.afi-b.com/general/service/privacy
+

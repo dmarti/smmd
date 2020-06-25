@@ -1,7 +1,9 @@
+---
+company-name: "Adpv (ADG Advertising Marketplace)"
+domain: adpv.com
+home: http://www.adpv.com/
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Adpv (ADG Advertising Marketplace)
 
-Name: Adpv (ADG Advertising Marketplace)
-Domain: adpv.com
-Home: http://www.adpv.com/
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

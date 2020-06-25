@@ -1,9 +1,11 @@
+---
+company-name: "Rhythm Max (Previously AdConductor)"
+domain: rhythmmax.io
+home: http://www.rhythmmax.io/v
+privacy-policy: http://www.rhythmmax.io/privacy-policy
+owned-by: RhythmOne
+member-of: TrustE_TrustArc
+---
 
-# Rhythm Max (Previously AdConductor)
 
-Name: Rhythm Max (Previously AdConductor)
-Domain: rhythmmax.io
-Home: http://www.rhythmmax.io/v
-Privacy_policy: http://www.rhythmmax.io/privacy-policy
-Owned_by: RhythmOne
-Member_of: TrustE_TrustArc
+

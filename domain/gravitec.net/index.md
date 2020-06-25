@@ -1,8 +1,10 @@
+---
+company-name: Gravitec
+domain: gravitec.net
+home: https://gravitec.net/
+privacy-policy: https://gravitec.net/privacy-policy
+email: support@gravitec.net
+---
 
-# Gravitec
 
-Name: Gravitec
-Domain: gravitec.net
-Home: https://gravitec.net/
-Privacy_policy: https://gravitec.net/privacy-policy
-Email: support@gravitec.net
+

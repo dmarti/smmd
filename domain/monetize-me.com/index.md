@@ -1,7 +1,9 @@
+---
+company-name: "Monetize Me"
+domain: monetize-me.com
+home: http://www.monetize-me.com/
+email: contact@monetize-me.com
+---
 
-# Monetize Me
 
-Name: Monetize Me
-Domain: monetize-me.com
-Home: http://www.monetize-me.com/
-Email: contact@monetize-me.com
+

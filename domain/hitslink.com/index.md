@@ -1,9 +1,11 @@
+---
+company-name: Hitslink
+domain: hitslink.com
+home: http://www.hitslink.com/
+privacy-policy: http://www.netapplications.com
+email: privacy@netapplications.com
+owned-by: "Net Applications"
+---
 
-# Hitslink
 
-Name: Hitslink
-Domain: hitslink.com
-Home: http://www.hitslink.com/
-Privacy_policy: http://www.netapplications.com
-Email: privacy@netapplications.com
-Owned_by: Net Applications
+

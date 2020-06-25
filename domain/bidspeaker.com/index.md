@@ -1,8 +1,10 @@
+---
+company-name: BidSpeaker
+domain: bidspeaker.com
+home: https://www.bidspeaker.com/
+privacy-policy: https://www.bidspeaker.com/privacy/
+email: info@bidspeaker.com
+---
 
-# BidSpeaker
 
-Name: BidSpeaker
-Domain: bidspeaker.com
-Home: https://www.bidspeaker.com/
-Privacy_policy: https://www.bidspeaker.com/privacy/
-Email: info@bidspeaker.com
+

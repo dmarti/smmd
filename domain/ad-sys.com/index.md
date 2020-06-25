@@ -1,6 +1,8 @@
+---
+company-name: Ad-Sys
+domain: ad-sys.com
+home: http://www.ad-sys.com/
+---
 
-# Ad-Sys
 
-Name: Ad-Sys
-Domain: ad-sys.com
-Home: http://www.ad-sys.com/
+

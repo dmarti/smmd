@@ -1,8 +1,10 @@
+---
+company-name: Spotler
+domain: spotler.com
+home: https://spotler.com/
+privacy-policy: https://spotler.com/privacy-statement
+email: contact@nl.spotler.com
+---
 
-# Spotler
 
-Name: Spotler
-Domain: spotler.com
-Home: https://spotler.com/
-Privacy_policy: https://spotler.com/privacy-statement
-Email: contact@nl.spotler.com
+

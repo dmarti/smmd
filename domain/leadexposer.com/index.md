@@ -1,6 +1,8 @@
+---
+company-name: Leadexposer
+domain: leadexposer.com
+home: http://leadexposer.com/
+---
 
-# Leadexposer
 
-Name: Leadexposer
-Domain: leadexposer.com
-Home: http://leadexposer.com/
+

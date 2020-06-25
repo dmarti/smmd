@@ -1,8 +1,10 @@
+---
+company-name: "Connected Interactive"
+domain: connectedinteractive.com
+home: http://connectedinteractive.com
+privacy-policy: http://connectedinteractive.com/privacy/
+email: Info@connectedinteractive.com
+---
 
-# Connected Interactive
 
-Name: Connected Interactive
-Domain: connectedinteractive.com
-Home: http://connectedinteractive.com
-Privacy_policy: http://connectedinteractive.com/privacy/
-Email: Info@connectedinteractive.com
+

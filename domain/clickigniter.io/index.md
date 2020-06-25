@@ -1,6 +1,8 @@
+---
+company-name: ClickIgniter
+domain: clickigniter.io
+home: http://www.clickigniter.io/
+---
 
-# ClickIgniter
 
-Name: ClickIgniter
-Domain: clickigniter.io
-Home: http://www.clickigniter.io/
+

@@ -1,7 +1,9 @@
+---
+company-name: Chatango
+domain: chatango.com
+home: http://www.chatango.com/
+privacy-policy: http://www.chatango.com/page?full_privacy
+---
 
-# Chatango
 
-Name: Chatango
-Domain: chatango.com
-Home: http://www.chatango.com/
-Privacy_policy: http://www.chatango.com/page?full_privacy
+

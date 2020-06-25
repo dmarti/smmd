@@ -1,7 +1,9 @@
+---
+company-name: Venyoo
+domain: venyoo.ru
+home: https://venyoo.ru/
+email: manager@venyoo.ru
+---
 
-# Venyoo
 
-Name: Venyoo
-Domain: venyoo.ru
-Home: https://venyoo.ru/
-Email: manager@venyoo.ru
+

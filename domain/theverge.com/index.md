@@ -1,7 +1,9 @@
-# The Verge
+---
+company-name: "The Verge"
+domain: theverge.com
+opt-out-url: https://www.theverge.com/contact#donotsell
+---
 
-Name: The Verge
 
-Domain: theverge.com
 
-Opt_out_url: https://www.theverge.com/contact#donotsell
+

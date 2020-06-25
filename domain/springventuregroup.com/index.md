@@ -1,8 +1,10 @@
+---
+company-name: "Spring Venture Group"
+domain: springventuregroup.com
+home: https://www.springventuregroup.com/
+privacy-policy: https://www.springventuregroup.com/privacy-policy/
+email: info@springventuregroup.com
+---
 
-# Spring Venture Group
 
-Name: Spring Venture Group
-Domain: springventuregroup.com
-Home: https://www.springventuregroup.com/
-Privacy_policy: https://www.springventuregroup.com/privacy-policy/
-Email: info@springventuregroup.com
+

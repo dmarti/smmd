@@ -1,9 +1,11 @@
+---
+company-name: Avail
+domain: avail.com
+home: http://avail.com
+privacy-policy: http://www.parkingcrew.net/privacy.html
+email: info@avail.com
+owned-by: RichRelevance
+---
 
-# Avail
 
-Name: Avail
-Domain: avail.com
-Home: http://avail.com
-Privacy_policy: http://www.parkingcrew.net/privacy.html
-Email: info@avail.com
-Owned_by: RichRelevance
+

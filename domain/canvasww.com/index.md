@@ -1,8 +1,10 @@
+---
+company-name: "Canvas Worldwide"
+domain: canvasww.com
+home: http://www.canvasww.com/
+privacy-policy: http://www.canvasww.com/privacy-policy
+email: info@canvasww.com
+---
 
-# Canvas Worldwide
 
-Name: Canvas Worldwide
-Domain: canvasww.com
-Home: http://www.canvasww.com/
-Privacy_policy: http://www.canvasww.com/privacy-policy
-Email: info@canvasww.com
+

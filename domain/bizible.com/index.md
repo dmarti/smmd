@@ -1,10 +1,12 @@
+---
+company-name: Bizible
+domain: bizible.com
+home: https://www.bizible.com/
+privacy-policy: https://www.bizible.com/privacy-policy
+email: support@bizible.com
+owned-by: Marketo
+member-of: TrustE_TrustArc
+---
 
-# Bizible
 
-Name: Bizible
-Domain: bizible.com
-Home: https://www.bizible.com/
-Privacy_policy: https://www.bizible.com/privacy-policy
-Email: support@bizible.com
-Owned_by: Marketo
-Member_of: TrustE_TrustArc
+

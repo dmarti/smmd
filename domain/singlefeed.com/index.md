@@ -1,8 +1,10 @@
+---
+company-name: SingleFeed
+domain: singlefeed.com
+home: https://www.singlefeed.com/
+privacy-policy: https://www.singlefeed.com/aboutus/privacy.php
+email: info@singlefeed.com
+---
 
-# SingleFeed
 
-Name: SingleFeed
-Domain: singlefeed.com
-Home: https://www.singlefeed.com/
-Privacy_policy: https://www.singlefeed.com/aboutus/privacy.php
-Email: info@singlefeed.com
+

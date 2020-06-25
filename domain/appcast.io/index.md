@@ -1,8 +1,10 @@
+---
+company-name: Appcast
+domain: appcast.io
+home: https://appcast.io/
+privacy-policy: https://appcast.io/privacy-policy/
+email: support@appcast.io
+---
 
-# Appcast
 
-Name: Appcast
-Domain: appcast.io
-Home: https://appcast.io/
-Privacy_policy: https://appcast.io/privacy-policy/
-Email: support@appcast.io
+

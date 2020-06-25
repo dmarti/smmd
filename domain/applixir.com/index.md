@@ -1,7 +1,9 @@
+---
+company-name: "Applixir (AppPrizes)"
+domain: applixir.com
+home: http://www.applixir.com/
+email: info@applixir.com
+---
 
-# Applixir (AppPrizes)
 
-Name: Applixir (AppPrizes)
-Domain: applixir.com
-Home: http://www.applixir.com/
-Email: info@applixir.com
+

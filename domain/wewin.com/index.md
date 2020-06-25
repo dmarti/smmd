@@ -1,8 +1,10 @@
+---
+company-name: "WeWin (Formally Axle Digital)"
+domain: wewin.com
+home: http://wewin.com/
+privacy-policy: http://wewin.com/privacy-policy
+email: info@axledigital.com
+---
 
-# WeWin (Formally Axle Digital)
 
-Name: WeWin (Formally Axle Digital)
-Domain: wewin.com
-Home: http://wewin.com/
-Privacy_policy: http://wewin.com/privacy-policy
-Email: info@axledigital.com
+

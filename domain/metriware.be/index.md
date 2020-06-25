@@ -1,7 +1,9 @@
+---
+company-name: MetriWare
+domain: metriware.be
+home: http://www.metriware.be/
+email: contact@metriware.com
+---
 
-# MetriWare
 
-Name: MetriWare
-Domain: metriware.be
-Home: http://www.metriware.be/
-Email: contact@metriware.com
+

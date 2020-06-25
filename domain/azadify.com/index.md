@@ -1,7 +1,9 @@
+---
+company-name: Azadify
+domain: azadify.com
+home: https://azadify.com/engage/
+email: engage@azadify.com
+---
 
-# Azadify
 
-Name: Azadify
-Domain: azadify.com
-Home: https://azadify.com/engage/
-Email: engage@azadify.com
+

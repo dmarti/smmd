@@ -1,7 +1,9 @@
+---
+company-name: Gunosy
+domain: gunosy.com
+home: https://gunosy.com
+privacy-policy: https://gunosy.com/about/privacy
+---
 
-# Gunosy
 
-Name: Gunosy
-Domain: gunosy.com
-Home: https://gunosy.com
-Privacy_policy: https://gunosy.com/about/privacy
+

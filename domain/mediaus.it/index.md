@@ -1,8 +1,10 @@
+---
+company-name: Mediaus
+domain: mediaus.it
+home: http://www.mediaus.it/
+privacy-policy: http://www.mediaus.it/2016/privacy-policy.html
+email: privacy@mediaus.it
+---
 
-# Mediaus
 
-Name: Mediaus
-Domain: mediaus.it
-Home: http://www.mediaus.it/
-Privacy_policy: http://www.mediaus.it/2016/privacy-policy.html
-Email: privacy@mediaus.it
+

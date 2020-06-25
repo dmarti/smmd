@@ -1,8 +1,10 @@
+---
+company-name: BodyClick
+domain: bodyclick.net
+home: http://bodyclick.net/
+privacy-policy: http://bodyclick.net/rules
+email: support@bodyclick.ne
+---
 
-# BodyClick
 
-Name: BodyClick
-Domain: bodyclick.net
-Home: http://bodyclick.net/
-Privacy_policy: http://bodyclick.net/rules
-Email: support@bodyclick.ne
+

@@ -1,8 +1,10 @@
+---
+company-name: iFlyChat
+domain: iflychat.com
+home: https://iflychat.com/
+privacy-policy: https://iflychat.com/privacy-policy
+email: support@iflylabs.com
+---
 
-# iFlyChat
 
-Name: iFlyChat
-Domain: iflychat.com
-Home: https://iflychat.com/
-Privacy_policy: https://iflychat.com/privacy-policy
-Email: support@iflylabs.com
+

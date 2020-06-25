@@ -1,8 +1,10 @@
+---
+company-name: Viewbix
+domain: viewbix.com
+home: http://corp.viewbix.com
+privacy-policy: http://corp.viewbix.com/privacy-policy/
+email: support@ViewBix.com
+---
 
-# Viewbix
 
-Name: Viewbix
-Domain: viewbix.com
-Home: http://corp.viewbix.com
-Privacy_policy: http://corp.viewbix.com/privacy-policy/
-Email: support@ViewBix.com
+

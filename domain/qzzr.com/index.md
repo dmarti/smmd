@@ -1,8 +1,10 @@
+---
+company-name: "QZZR (Movement Ventures)"
+domain: qzzr.com
+home: https://www.qzzr.com/movement-ventures
+privacy-policy: https://www.qzzr.com/privacy-policy
+email: hello@movementventures.com
+---
 
-# QZZR (Movement Ventures)
 
-Name: QZZR (Movement Ventures)
-Domain: qzzr.com
-Home: https://www.qzzr.com/movement-ventures
-Privacy_policy: https://www.qzzr.com/privacy-policy
-Email: hello@movementventures.com
+

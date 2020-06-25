@@ -1,9 +1,11 @@
+---
+company-name: ADMIXER
+domain: admixer.net
+home: https://www.admixer.net
+privacy-policy: https://admixer.net/privacy
+email: info@admixer.net
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# ADMIXER
 
-Name: ADMIXER
-Domain: admixer.net
-Home: https://www.admixer.net
-Privacy_policy: https://admixer.net/privacy
-Email: info@admixer.net
-Member_of: Interactive Advertising Bureau (IAB)
+

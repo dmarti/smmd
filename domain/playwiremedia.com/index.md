@@ -1,7 +1,9 @@
+---
+company-name: "Intergi Entertainment"
+domain: playwiremedia.com
+home: http://playwiremedia.com/
+privacy-policy: http://www.intergi.com/privacy
+---
 
-# Intergi Entertainment
 
-Name: Intergi Entertainment
-Domain: playwiremedia.com
-Home: http://playwiremedia.com/
-Privacy_policy: http://www.intergi.com/privacy
+

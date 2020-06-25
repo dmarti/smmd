@@ -1,7 +1,9 @@
+---
+company-name: ViralMint
+domain: viralmint.com
+home: http://www.viralmint.com/
+email: help@viralmint.com
+---
 
-# ViralMint
 
-Name: ViralMint
-Domain: viralmint.com
-Home: http://www.viralmint.com/
-Email: help@viralmint.com
+

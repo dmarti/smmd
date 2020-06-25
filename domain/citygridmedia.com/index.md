@@ -1,8 +1,10 @@
+---
+company-name: CityGrid
+domain: citygridmedia.com
+home: http://www.citygridmedia.com/
+privacy-policy: http://www.citygrid.com/privacy
+email: legal@citygridmedia.com
+---
 
-# CityGrid
 
-Name: CityGrid
-Domain: citygridmedia.com
-Home: http://www.citygridmedia.com/
-Privacy_policy: http://www.citygrid.com/privacy
-Email: legal@citygridmedia.com
+

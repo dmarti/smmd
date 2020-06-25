@@ -1,7 +1,9 @@
+---
+company-name: Speee
+domain: speee.jp
+home: https://speee.jp/
+privacy-policy: https://speee.jp/privacy/
+---
 
-# Speee
 
-Name: Speee
-Domain: speee.jp
-Home: https://speee.jp/
-Privacy_policy: https://speee.jp/privacy/
+

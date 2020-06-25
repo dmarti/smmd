@@ -1,7 +1,9 @@
+---
+company-name: BilginPro
+domain: bilgin.pro
+home: http://bilgin.pro/
+email: communication@abilgin.pro
+---
 
-# BilginPro
 
-Name: BilginPro
-Domain: bilgin.pro
-Home: http://bilgin.pro/
-Email: communication@abilgin.pro
+

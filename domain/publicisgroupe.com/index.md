@@ -1,7 +1,9 @@
+---
+company-name: "Publicis Groupe"
+domain: publicisgroupe.com
+home: http://www.publicisgroupe.com/
+privacy-policy: http://www.publicisgroupe.com/#/en/secondary/mentions
+---
 
-# Publicis Groupe
 
-Name: Publicis Groupe
-Domain: publicisgroupe.com
-Home: http://www.publicisgroupe.com/
-Privacy_policy: http://www.publicisgroupe.com/#/en/secondary/mentions
+

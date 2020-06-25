@@ -1,6 +1,8 @@
+---
+company-name: Vibes
+domain: vibes.com
+home: https://www.vibes.com/
+---
 
-# Vibes
 
-Name: Vibes
-Domain: vibes.com
-Home: https://www.vibes.com/
+

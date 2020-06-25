@@ -1,8 +1,10 @@
+---
+company-name: Entireweb
+domain: entireweb.com
+home: https://www.entireweb.com/
+privacy-policy: https://www.entireweb.com/about/privacy/
+email: info@entireweb.com
+---
 
-# Entireweb
 
-Name: Entireweb
-Domain: entireweb.com
-Home: https://www.entireweb.com/
-Privacy_policy: https://www.entireweb.com/about/privacy/
-Email: info@entireweb.com
+

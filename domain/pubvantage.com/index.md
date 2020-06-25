@@ -1,7 +1,9 @@
+---
+company-name: Pubvantage
+domain: pubvantage.com
+home: https://www.pubvantage.com/
+email: info@pubvantage.com
+---
 
-# Pubvantage
 
-Name: Pubvantage
-Domain: pubvantage.com
-Home: https://www.pubvantage.com/
-Email: info@pubvantage.com
+

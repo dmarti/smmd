@@ -1,8 +1,10 @@
+---
+company-name: Bidstack
+domain: bidstack.com
+home: https://bidstack.com/
+privacy-policy: https://bidstack.com/policy/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Bidstack
 
-Name: Bidstack
-Domain: bidstack.com
-Home: https://bidstack.com/
-Privacy_policy: https://bidstack.com/policy/
-Member_of: Interactive Advertising Bureau (IAB)
+

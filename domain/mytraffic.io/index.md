@@ -1,8 +1,10 @@
+---
+company-name: "My Traffic"
+domain: mytraffic.io
+home: https://www.mytraffic.io/en/
+privacy-policy: https://www.mytraffic.io/en/privacy
+email: support@mytraffic.fr
+---
 
-# My Traffic
 
-Name: My Traffic
-Domain: mytraffic.io
-Home: https://www.mytraffic.io/en/
-Privacy_policy: https://www.mytraffic.io/en/privacy
-Email: support@mytraffic.fr
+

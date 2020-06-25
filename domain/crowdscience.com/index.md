@@ -1,10 +1,12 @@
+---
+company-name: "Crowd Science"
+domain: crowdscience.com
+home: http://www.crowdscience.com/
+privacy-policy: http://www.crowdscience.com/privacy-policy
+email: privacy@crowdscience.com
+owned-by: YuMe
+member-of: TrustE_TrustArc
+---
 
-# Crowd Science
 
-Name: Crowd Science
-Domain: crowdscience.com
-Home: http://www.crowdscience.com/
-Privacy_policy: http://www.crowdscience.com/privacy-policy
-Email: privacy@crowdscience.com
-Owned_by: YuMe
-Member_of: TrustE_TrustArc
+

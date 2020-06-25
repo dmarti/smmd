@@ -1,8 +1,10 @@
+---
+company-name: Revenue
+domain: revenue.com
+home: https://revenue.com/
+privacy-policy: https://revenue.com/pages/privacy
+email: privacy@revenue.com
+---
 
-# Revenue
 
-Name: Revenue
-Domain: revenue.com
-Home: https://revenue.com/
-Privacy_policy: https://revenue.com/pages/privacy
-Email: privacy@revenue.com
+

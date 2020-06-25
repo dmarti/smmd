@@ -1,8 +1,10 @@
+---
+company-name: Adrecord
+domain: adrecord.com
+home: http://www.adrecord.com/
+privacy-policy: https://www.adrecord.com/sv/terms-and-conditions
+email: info@adrecord.com
+---
 
-# Adrecord
 
-Name: Adrecord
-Domain: adrecord.com
-Home: http://www.adrecord.com/
-Privacy_policy: https://www.adrecord.com/sv/terms-and-conditions
-Email: info@adrecord.com
+

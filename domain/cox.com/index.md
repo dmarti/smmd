@@ -1,7 +1,9 @@
-# Cox Communications
+---
+company-name: "Cox Communications"
+domain: cox.com
+opt-out-url: https://www.cox.com/aboutus/policies/ccpa.html
+---
 
-Name: Cox Communications
 
-Domain: cox.com
 
-Opt_out_url: https://www.cox.com/aboutus/policies/ccpa.html
+

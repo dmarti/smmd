@@ -1,8 +1,10 @@
+---
+company-name: Alexa
+domain: alexa.com
+home: http://www.alexa.com/
+privacy-policy: http://www.alexa.com/help/privacy
+owned-by: Amazon
+---
 
-# Alexa
 
-Name: Alexa
-Domain: alexa.com
-Home: http://www.alexa.com/
-Privacy_policy: http://www.alexa.com/help/privacy
-Owned_by: Amazon
+

@@ -1,8 +1,10 @@
+---
+company-name: "Eulerian Technologies"
+domain: eulerian.com
+home: https://www.eulerian.com/
+privacy-policy: https://www.eulerian.com/vie-privee/
+email: dpo@eulerian.com
+---
 
-# Eulerian Technologies
 
-Name: Eulerian Technologies
-Domain: eulerian.com
-Home: https://www.eulerian.com/
-Privacy_policy: https://www.eulerian.com/vie-privee/
-Email: dpo@eulerian.com
+

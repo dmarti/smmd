@@ -1,6 +1,8 @@
+---
+company-name: B2Bvideo
+domain: b2bvideo.ru
+home: http://b2bvideo.ru/
+---
 
-# B2Bvideo
 
-Name: B2Bvideo
-Domain: b2bvideo.ru
-Home: http://b2bvideo.ru/
+

@@ -1,8 +1,10 @@
+---
+company-name: Etteplan
+domain: etteplan.com
+home: https://www.etteplan.com/
+privacy-policy: https://www.etteplan.com/privacy-statement
+email: info@etteplan.com
+---
 
-# Etteplan
 
-Name: Etteplan
-Domain: etteplan.com
-Home: https://www.etteplan.com/
-Privacy_policy: https://www.etteplan.com/privacy-statement
-Email: info@etteplan.com
+

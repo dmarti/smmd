@@ -1,8 +1,10 @@
+---
+company-name: Wap.co.uk
+domain: wap.co.uk
+home: http://www.wap.co.uk
+privacy-policy: http://www.wap.co.uk/privacy.html
+email: privacy@wap.co.uk
+---
 
-# 	 Wap.co.uk
 
-Name: 	 Wap.co.uk
-Domain: wap.co.uk
-Home: http://www.wap.co.uk
-Privacy_policy: http://www.wap.co.uk/privacy.html
-Email: privacy@wap.co.uk
+

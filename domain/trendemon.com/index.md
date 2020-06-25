@@ -1,8 +1,10 @@
+---
+company-name: TrenDemon
+domain: trendemon.com
+home: http://trendemon.com
+privacy-policy: http://trendemon.com/privacy.html
+email: team@trendemon.com
+---
 
-# TrenDemon
 
-Name: TrenDemon
-Domain: trendemon.com
-Home: http://trendemon.com
-Privacy_policy: http://trendemon.com/privacy.html
-Email: team@trendemon.com
+

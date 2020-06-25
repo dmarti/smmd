@@ -1,8 +1,10 @@
+---
+company-name: Effinity
+domain: effinity.partners
+home: www.effinity.partners/
+privacy-policy: https://www.effiliation.com/politique-de-confidentialite/
+email: contact@effinity.partners
+---
 
-# Effinity
 
-Name: Effinity
-Domain: effinity.partners
-Home:  www.effinity.partners/
-Privacy_policy: https://www.effiliation.com/politique-de-confidentialite/
-Email: contact@effinity.partners
+

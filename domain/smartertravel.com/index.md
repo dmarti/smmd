@@ -1,9 +1,11 @@
+---
+company-name: SmarterTravel
+domain: smartertravel.com
+home: https://www.smartertravel.com
+privacy-policy: https://www.smartertravel.com/privacy-policy/
+email: privacy@SmarterTravel.com
+owned-by: TripAdvisor
+---
 
-# SmarterTravel
 
-Name: SmarterTravel
-Domain: smartertravel.com
-Home: https://www.smartertravel.com
-Privacy_policy: https://www.smartertravel.com/privacy-policy/
-Email: privacy@SmarterTravel.com
-Owned_by: TripAdvisor
+

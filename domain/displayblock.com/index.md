@@ -1,7 +1,9 @@
+---
+company-name: "display block"
+domain: displayblock.com
+home: https://www.displayblock.com/
+email: info@displayblock.com
+---
 
-# display block
 
-Name: display block
-Domain: displayblock.com
-Home: https://www.displayblock.com/
-Email: info@displayblock.com
+

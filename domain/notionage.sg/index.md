@@ -1,8 +1,10 @@
+---
+company-name: NotionAge
+domain: notionage.sg
+home: http://notionage.sg/
+privacy-policy: http://notionage.sg/privacy-policy.html
+email: enquiry@notionage.com
+---
 
-# NotionAge
 
-Name: NotionAge
-Domain: notionage.sg
-Home: http://notionage.sg/
-Privacy_policy: http://notionage.sg/privacy-policy.html
-Email: enquiry@notionage.com
+

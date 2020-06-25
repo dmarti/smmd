@@ -1,8 +1,10 @@
+---
+company-name: Enreach
+domain: enreach.me
+home: http://www.enreach.me/
+email: privacy@enreach.me
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Enreach
 
-Name: Enreach
-Domain: enreach.me
-Home: http://www.enreach.me/
-Email: privacy@enreach.me
-Member_of: Interactive Advertising Bureau (IAB)
+

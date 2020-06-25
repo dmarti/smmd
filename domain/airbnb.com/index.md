@@ -1,8 +1,10 @@
+---
+company-name: Airbnb
+domain: airbnb.com
+home: https://www.airbnb.com/
+privacy-policy: https://www.airbnb.com/terms/privacy_policy
+email: privacy@airbnb.com
+---
 
-# Airbnb
 
-Name: Airbnb
-Domain: airbnb.com
-Home: https://www.airbnb.com/
-Privacy_policy: https://www.airbnb.com/terms/privacy_policy
-Email: privacy@airbnb.com
+

@@ -1,7 +1,9 @@
-# Nintendo
+---
+company-name: Nintendo
+domain: nintendo.com
+opt-out-url: https://www.nintendo.com/privacy-request/
+---
 
-Name: Nintendo
 
-Domain: nintendo.com
 
-Opt_out_url: https://www.nintendo.com/privacy-request/
+

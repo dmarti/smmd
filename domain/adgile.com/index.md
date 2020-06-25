@@ -1,6 +1,8 @@
+---
+company-name: Adgile
+domain: adgile.com
+home: http://www.adgile.com/
+---
 
-# Adgile
 
-Name: Adgile
-Domain: adgile.com
-Home: http://www.adgile.com/
+

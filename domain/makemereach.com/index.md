@@ -1,7 +1,9 @@
+---
+company-name: Makemereach
+domain: makemereach.com
+home: https://makemereach.com/
+email: contact@makemereach.com
+---
 
-# Makemereach
 
-Name: Makemereach
-Domain: makemereach.com
-Home: https://makemereach.com/
-Email: contact@makemereach.com
+

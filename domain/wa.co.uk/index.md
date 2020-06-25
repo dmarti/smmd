@@ -1,8 +1,10 @@
+---
+company-name: Waa
+domain: wa.co.uk
+home: https://wa.co.uk/
+privacy-policy: http://waachosen.co.uk/privacy-policy/
+email: lovetotalk@waa.co.uk
+---
 
-# Waa
 
-Name: Waa
-Domain: wa.co.uk
-Home: https://wa.co.uk/
-Privacy_policy: http://waachosen.co.uk/privacy-policy/
-Email: lovetotalk@waa.co.uk
+

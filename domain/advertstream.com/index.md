@@ -1,8 +1,10 @@
+---
+company-name: AdvertStream
+domain: advertstream.com
+home: http://www.advertstream.com/
+privacy-policy: http://www.advertstream.com/en-privacy-policy
+owned-by: "ADThink Media"
+---
 
-# AdvertStream
 
-Name: AdvertStream
-Domain: advertstream.com
-Home: http://www.advertstream.com/
-Privacy_policy: http://www.advertstream.com/en-privacy-policy
-Owned_by: ADThink Media
+

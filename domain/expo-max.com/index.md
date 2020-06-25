@@ -1,8 +1,10 @@
+---
+company-name: expo-MAX
+domain: expo-max.com
+home: http://expo-max.com/
+privacy-policy: http://expo-max.com/privacy/
+email: support@expo-max.com
+---
 
-# expo-MAX
 
-Name: expo-MAX
-Domain: expo-max.com
-Home: http://expo-max.com/
-Privacy_policy: http://expo-max.com/privacy/
-Email: support@expo-max.com
+

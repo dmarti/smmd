@@ -1,9 +1,11 @@
+---
+company-name: "Rakuten Loyalty (formerly FreeCause)"
+domain: rakutenloyalty.com
+home: http://rakutenloyalty.com
+privacy-policy: http://www.rakuten.com/loc/privacy-policy/79085.html
+email: info@rakutenloyalty.com
+owned-by: "Rakuten Group"
+---
 
-# Rakuten Loyalty (formerly FreeCause)
 
-Name: Rakuten Loyalty (formerly FreeCause)
-Domain: rakutenloyalty.com
-Home: http://rakutenloyalty.com
-Privacy_policy: http://www.rakuten.com/loc/privacy-policy/79085.html
-Email: info@rakutenloyalty.com
-Owned_by: Rakuten Group
+

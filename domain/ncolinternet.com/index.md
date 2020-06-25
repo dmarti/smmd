@@ -1,6 +1,8 @@
+---
+company-name: NCOL
+domain: ncolinternet.com
+home: http://www.ncolinternet.com/
+---
 
-# NCOL
 
-Name: NCOL
-Domain: ncolinternet.com
-Home: http://www.ncolinternet.com/
+

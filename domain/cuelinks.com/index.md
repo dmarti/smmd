@@ -1,7 +1,9 @@
+---
+company-name: CueLinks
+domain: cuelinks.com
+home: https://www.cuelinks.com/
+privacy-policy: https://www.cuelinks.com/privacy
+---
 
-# CueLinks
 
-Name: CueLinks
-Domain: cuelinks.com
-Home: https://www.cuelinks.com/
-Privacy_policy: https://www.cuelinks.com/privacy
+

@@ -1,7 +1,9 @@
+---
+company-name: "Ad Dynamics"
+domain: addynamics.com
+home: http://www.addynamics.com/Home.aspx
+email: support@addynamics.com
+---
 
-# Ad Dynamics
 
-Name: Ad Dynamics
-Domain: addynamics.com
-Home: http://www.addynamics.com/Home.aspx
-Email: support@addynamics.com
+

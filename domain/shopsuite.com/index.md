@@ -1,8 +1,10 @@
+---
+company-name: "Shop Suite"
+domain: shopsuite.com
+home: https://shopsuite.com/
+privacy-policy: https://shopsuite.com/privacy-policy/
+email: hello@shopsuite.com
+---
 
-# Shop Suite
 
-Name: Shop Suite
-Domain: shopsuite.com
-Home: https://shopsuite.com/
-Privacy_policy: https://shopsuite.com/privacy-policy/
-Email: hello@shopsuite.com
+

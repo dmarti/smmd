@@ -1,8 +1,10 @@
+---
+company-name: Kubota
+domain: kubota.com
+home: http://kubota.com/
+privacy-policy: https://www.kubotausa.com/privacy-policy
+email: KubotaPrivacy@kubota.com
+---
 
-# Kubota
 
-Name: Kubota
-Domain: kubota.com
-Home: http://kubota.com/
-Privacy_policy: https://www.kubotausa.com/privacy-policy
-Email: KubotaPrivacy@kubota.com
+

@@ -1,7 +1,9 @@
+---
+company-name: BittAds
+domain: bittads.com
+home: http://www.bittads.com/
+email: info@bittads.com
+---
 
-# BittAds
 
-Name: BittAds
-Domain: bittads.com
-Home: http://www.bittads.com/
-Email: info@bittads.com
+

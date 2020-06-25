@@ -1,8 +1,10 @@
+---
+company-name: AdServe.zone
+domain: adserve.zone
+home: http://adserve.zone/
+privacy-policy: http://adserve.zone/adserveprivacypolicy.html
+email: privacypolicy@adserve.zone
+---
 
-# AdServe.zone
 
-Name: AdServe.zone
-Domain: adserve.zone
-Home: http://adserve.zone/
-Privacy_policy: http://adserve.zone/adserveprivacypolicy.html
-Email: privacypolicy@adserve.zone
+

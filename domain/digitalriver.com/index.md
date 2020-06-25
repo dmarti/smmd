@@ -1,8 +1,10 @@
+---
+company-name: "Digital River"
+domain: digitalriver.com
+home: http://corporate.digitalriver.com
+privacy-policy: http://www.digitalriver.com/company/corporate-policies/
+email: privacy@digitalriver.com
+---
 
-# Digital River
 
-Name: Digital River
-Domain: digitalriver.com
-Home: http://corporate.digitalriver.com
-Privacy_policy: http://www.digitalriver.com/company/corporate-policies/
-Email: privacy@digitalriver.com
+

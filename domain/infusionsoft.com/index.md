@@ -1,8 +1,10 @@
+---
+company-name: Infusionsoft
+domain: infusionsoft.com
+home: http://www.infusionsoft.com/
+privacy-policy: https://www.infusionsoft.com/legal/privacy-policy
+email: legal@infusionsoft.com
+---
 
-# Infusionsoft
 
-Name: Infusionsoft
-Domain: infusionsoft.com
-Home: http://www.infusionsoft.com/
-Privacy_policy: https://www.infusionsoft.com/legal/privacy-policy
-Email: legal@infusionsoft.com
+

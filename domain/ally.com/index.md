@@ -1,7 +1,9 @@
-# Ally Financial
+---
+company-name: "Ally Financial"
+domain: ally.com
+opt-out-url: https://www.ally.com/resources/pdf/corporate/CCPADisclosureforCAResidents_Final.pdf
+---
 
-Name: Ally Financial
 
-Domain: ally.com
 
-Opt_out_url: https://www.ally.com/resources/pdf/corporate/CCPADisclosureforCAResidents_Final.pdf
+

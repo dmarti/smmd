@@ -1,10 +1,12 @@
+---
+company-name: TagMan
+domain: tagman.com
+home: http://www.tagman.com/
+privacy-policy: http://www.ensighten.com/privacy-policy/
+email: contact@tagman.com
+owned-by: Ensighten
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# TagMan
 
-Name: TagMan
-Domain: tagman.com
-Home: http://www.tagman.com/
-Privacy_policy: http://www.ensighten.com/privacy-policy/
-Email: contact@tagman.com
-Owned_by: Ensighten
-Member_of: Interactive Advertising Bureau (IAB)
+

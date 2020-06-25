@@ -1,9 +1,11 @@
+---
+company-name: Yozio
+domain: yozio.com
+home: http://www.yozio.com/
+privacy-policy: http://www.findera.com/privacy
+email: privacy@yozio.com
+member-of: "Better Business Bureau"
+---
 
-# Yozio
 
-Name: Yozio
-Domain: yozio.com
-Home: http://www.yozio.com/
-Privacy_policy: http://www.findera.com/privacy
-Email: privacy@yozio.com
-Member_of: Better Business Bureau
+

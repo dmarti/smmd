@@ -1,8 +1,10 @@
+---
+company-name: sociablelabs
+domain: sociablelabs.com
+home: https://www.sociablelabs.com/
+privacy-policy: https://www.sociablelabs.com/privacy
+email: info@sociablelabs.com
+---
 
-# sociablelabs
 
-Name: sociablelabs
-Domain: sociablelabs.com
-Home: https://www.sociablelabs.com/
-Privacy_policy: https://www.sociablelabs.com/privacy
-Email: info@sociablelabs.com
+

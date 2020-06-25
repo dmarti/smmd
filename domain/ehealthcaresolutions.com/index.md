@@ -1,8 +1,10 @@
+---
+company-name: "eHealthcare Solutions"
+domain: ehealthcaresolutions.com
+home: http://www.ehealthcaresolutions.com/
+privacy-policy: http://www.ehealthcaresolutions.com/privacy-policy/
+email: privacy@ehsmail.com
+---
 
-# eHealthcare Solutions
 
-Name: eHealthcare Solutions
-Domain: ehealthcaresolutions.com
-Home: http://www.ehealthcaresolutions.com/
-Privacy_policy: http://www.ehealthcaresolutions.com/privacy-policy/
-Email: privacy@ehsmail.com
+

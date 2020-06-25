@@ -1,7 +1,9 @@
-# Chipotle
+---
+company-name: Chipotle
+domain: chipotle.com
+opt-out-url: https://www.chipotle.com/donotsell
+---
 
-Name: Chipotle
 
-Domain: chipotle.com
 
-Opt_out_url: https://www.chipotle.com/donotsell
+

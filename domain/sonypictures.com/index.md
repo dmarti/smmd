@@ -1,8 +1,10 @@
+---
+company-name: "Sony Pictures Digital Productions"
+domain: sonypictures.com
+home: http://www.sonypictures.com/
+privacy-policy: http://www.sonypictures.com/corp/privacy.html
+owned-by: "Sony Corporation"
+---
 
-# Sony Pictures Digital Productions
 
-Name: Sony Pictures Digital Productions
-Domain: sonypictures.com
-Home: http://www.sonypictures.com/
-Privacy_policy: http://www.sonypictures.com/corp/privacy.html
-Owned_by: Sony Corporation
+

@@ -1,9 +1,11 @@
+---
+company-name: Gaug.es
+domain: gaug.es
+home: https://get.gaug.es/
+privacy-policy: http://get.gaug.es/privacy/
+email: privacy@reportgarden.com
+owned-by: GitHub
+---
 
-# Gaug.es
 
-Name: Gaug.es
-Domain: gaug.es
-Home: https://get.gaug.es/
-Privacy_policy: http://get.gaug.es/privacy/
-Email: privacy@reportgarden.com
-Owned_by: GitHub
+

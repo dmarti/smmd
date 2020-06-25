@@ -1,8 +1,10 @@
+---
+company-name: "Meta Network"
+domain: metanetwork.com
+home: http://www.metanetwork.com/
+email: info@metanetwork.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Meta Network
 
-Name: Meta Network
-Domain: metanetwork.com
-Home: http://www.metanetwork.com/
-Email: info@metanetwork.com
-Member_of: Interactive Advertising Bureau (IAB)
+

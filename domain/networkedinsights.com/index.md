@@ -1,6 +1,8 @@
+---
+company-name: "Networked Insights"
+domain: networkedinsights.com
+home: http://www.networkedinsights.com/
+---
 
-# Networked Insights
 
-Name: Networked Insights
-Domain: networkedinsights.com
-Home: http://www.networkedinsights.com/
+

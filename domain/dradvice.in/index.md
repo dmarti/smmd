@@ -1,8 +1,10 @@
+---
+company-name: "DrAdvice (sikander-e-azam plus)"
+domain: dradvice.in
+home: http://www.dradvice.in/penis-enlargement-capsule/
+privacy-policy: http://www.dradvice.in/penis-enlargement-capsule/end-privacy.html
+email: inquiry@dradvice.in
+---
 
-# DrAdvice (sikander-e-azam plus)
 
-Name: DrAdvice (sikander-e-azam plus)
-Domain: dradvice.in
-Home: http://www.dradvice.in/penis-enlargement-capsule/
-Privacy_policy: http://www.dradvice.in/penis-enlargement-capsule/end-privacy.html
-Email: inquiry@dradvice.in
+

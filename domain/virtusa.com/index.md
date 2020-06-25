@@ -1,21 +1,11 @@
-
-# Virtusa.com
-
-Name: Virtusa.com
-
-Domain: virtusa.com
-
-Home: dpooffice@virtusa.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: https://www.virtusa.com/privacy-statement/
-
-
-
+---
+company-name: Virtusa.com
+domain: virtusa.com
+home: dpooffice@virtusa.com
+opt-out-url: https://www.virtusa.com/privacy-statement/
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +13,20 @@ Opt_out_url: https://www.virtusa.com/privacy-statement/
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

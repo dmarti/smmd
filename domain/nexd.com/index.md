@@ -1,9 +1,11 @@
+---
+company-name: Nexd
+domain: nexd.com
+home: https://nexd.com/
+privacy-policy: https://nexd.com/privacy-policy/
+email: hello@nexd.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Nexd
 
-Name: Nexd
-Domain: nexd.com
-Home: https://nexd.com/
-Privacy_policy: https://nexd.com/privacy-policy/
-Email: hello@nexd.com
-Member_of: Interactive Advertising Bureau (IAB)
+

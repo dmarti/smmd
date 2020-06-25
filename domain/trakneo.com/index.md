@@ -1,7 +1,9 @@
+---
+company-name: Trakneo
+domain: trakneo.com
+home: https://www.trakneo.com/
+email: info@trakneo.com
+---
 
-# Trakneo
 
-Name: Trakneo
-Domain: trakneo.com
-Home: https://www.trakneo.com/
-Email: info@trakneo.com
+

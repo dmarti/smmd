@@ -1,10 +1,11 @@
+---
+company-name: "Sociomantic Labs GmbH"
+domain: sociomantic.com
+home: https://www.sociomantic.com
+privacy-policy: https://www.sociomantic.com/privacy/en/
+email: privacy@sociomantic.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Sociomantic Labs GmbH
 
-Name: Sociomantic Labs GmbH
-Domain: sociomantic.com
-Home: https://www.sociomantic.com
-Privacy_policy: https://www.sociomantic.com/privacy/en/
-Email: privacy@sociomantic.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

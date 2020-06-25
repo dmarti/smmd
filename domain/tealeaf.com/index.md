@@ -1,10 +1,12 @@
+---
+company-name: Tealeaf
+domain: tealeaf.com
+home: http://www.tealeaf.com/
+privacy-policy: http://www.tealeaf.com/company/privacy-policy.php
+email: privacy@Tealeaf.com
+owned-by: IBM
+member-of: "Association of National Advertisers"
+---
 
-# Tealeaf
 
-Name: Tealeaf
-Domain: tealeaf.com
-Home: http://www.tealeaf.com/
-Privacy_policy: http://www.tealeaf.com/company/privacy-policy.php
-Email: privacy@Tealeaf.com
-Owned_by: IBM
-Member_of: Association of National Advertisers
+

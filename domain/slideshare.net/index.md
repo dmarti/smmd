@@ -1,9 +1,11 @@
+---
+company-name: SlideShare
+domain: slideshare.net
+home: http://www.slideshare.net/
+privacy-policy: https://www.linkedin.com/legal/privacy-policy
+email: privacy@slideshare.com
+owned-by: LinkedIn
+---
 
-# SlideShare
 
-Name: SlideShare
-Domain: slideshare.net
-Home: http://www.slideshare.net/
-Privacy_policy: https://www.linkedin.com/legal/privacy-policy
-Email: privacy@slideshare.com
-Owned_by: LinkedIn
+

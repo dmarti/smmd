@@ -1,10 +1,11 @@
+---
+company-name: Myntelligence
+domain: myntelligence.com
+home: http://www.myntelligence.com/
+privacy-policy: http://www.myntelligence.com/privacy-page/
+email: luca.censoni@myntelligence.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Myntelligence
 
-Name: Myntelligence
-Domain: myntelligence.com
-Home: http://www.myntelligence.com/
-Privacy_policy: http://www.myntelligence.com/privacy-page/
-Email: luca.censoni@myntelligence.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

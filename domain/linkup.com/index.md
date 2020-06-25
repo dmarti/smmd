@@ -1,6 +1,8 @@
+---
+company-name: Linkup
+domain: linkup.com
+home: http://www.linkup.com/
+---
 
-# Linkup
 
-Name: Linkup
-Domain: linkup.com
-Home: http://www.linkup.com/
+

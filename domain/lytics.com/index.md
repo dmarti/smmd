@@ -1,8 +1,10 @@
+---
+company-name: "Lytics Inc."
+domain: lytics.com
+home: https://www.lytics.com/
+privacy-policy: https://learn.lytics.com/legal/privacy-policy
+email: privacy@lytics.io
+---
 
-# Lytics Inc.
 
-Name: Lytics Inc.
-Domain: lytics.com
-Home: https://www.lytics.com/
-Privacy_policy: https://learn.lytics.com/legal/privacy-policy
-Email: privacy@lytics.io
+

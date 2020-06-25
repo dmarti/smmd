@@ -1,6 +1,8 @@
+---
+company-name: Jackson
+domain: fasterxml.com
+home: http://fasterxml.com/
+---
 
-# Jackson
 
-Name: Jackson
-Domain: fasterxml.com
-Home: http://fasterxml.com/
+

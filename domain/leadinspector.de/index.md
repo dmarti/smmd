@@ -1,8 +1,10 @@
+---
+company-name: LeadInspector
+domain: leadinspector.de
+home: https://www.leadinspector.de/
+privacy-policy: https://www.leadinspector.de/b2b-kundengewinnung-neu-definiert/impressum/
+email: info@leadinspector.de
+---
 
-# LeadInspector
 
-Name: LeadInspector
-Domain: leadinspector.de
-Home: https://www.leadinspector.de/
-Privacy_policy: https://www.leadinspector.de/b2b-kundengewinnung-neu-definiert/impressum/
-Email: info@leadinspector.de
+

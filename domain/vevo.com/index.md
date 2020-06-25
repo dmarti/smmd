@@ -1,8 +1,10 @@
+---
+company-name: VEVO
+domain: vevo.com
+home: https://www.vevo.com/
+privacy-policy: https://hq.vevo.com/privacy-policy
+email: privacy@vevo.com
+---
 
-# VEVO
 
-Name: VEVO
-Domain: vevo.com
-Home: https://www.vevo.com/
-Privacy_policy: https://hq.vevo.com/privacy-policy
-Email: privacy@vevo.com
+

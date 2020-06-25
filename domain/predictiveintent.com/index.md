@@ -1,6 +1,8 @@
+---
+company-name: PredictiveIntent
+domain: predictiveintent.com
+home: http://www.predictiveintent.com/
+---
 
-# PredictiveIntent
 
-Name: PredictiveIntent
-Domain: predictiveintent.com
-Home: http://www.predictiveintent.com/
+

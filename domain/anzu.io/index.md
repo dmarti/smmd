@@ -1,8 +1,10 @@
+---
+company-name: "Anzu Virtual Reality LTD"
+domain: anzu.io
+home: https://anzu.io/
+privacy-policy: https://anzu.io/privacy/
+email: dpo@anzu.io.
+---
 
-# Anzu Virtual Reality LTD
 
-Name: Anzu Virtual Reality LTD
-Domain: anzu.io
-Home: https://anzu.io/
-Privacy_policy: https://anzu.io/privacy/
-Email: dpo@anzu.io.
+

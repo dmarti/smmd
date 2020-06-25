@@ -1,8 +1,10 @@
+---
+company-name: "Naked Lime Marketing"
+domain: nakedlime.com
+home: http://nakedlime.com/
+privacy-policy: http://nakedlime.com/termsandconditions.html
+email: info@nakedlime.com
+---
 
-# Naked Lime Marketing
 
-Name: Naked Lime Marketing
-Domain: nakedlime.com
-Home: http://nakedlime.com/
-Privacy_policy: http://nakedlime.com/termsandconditions.html
-Email: info@nakedlime.com
+

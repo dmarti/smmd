@@ -1,8 +1,10 @@
+---
+company-name: Cloud.IQ
+domain: cloud-iq.com
+home: https://www.cloud-iq.com/
+privacy-policy: https://www.cloud-iq.com/privacy-policy
+email: support@cloud-iq.com
+---
 
-# Cloud.IQ
 
-Name: Cloud.IQ
-Domain: cloud-iq.com
-Home: https://www.cloud-iq.com/
-Privacy_policy: https://www.cloud-iq.com/privacy-policy
-Email: support@cloud-iq.com
+

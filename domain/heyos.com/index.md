@@ -1,6 +1,8 @@
+---
+company-name: Heyos
+domain: heyos.com
+home: http://www.heyos.com/
+---
 
-# Heyos
 
-Name: Heyos
-Domain: heyos.com
-Home: http://www.heyos.com/
+

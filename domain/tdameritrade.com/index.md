@@ -1,8 +1,10 @@
+---
+company-name: "TD Ameritrade"
+domain: tdameritrade.com
+home: https://www.tdameritrade.com/home.page
+privacy-policy: https://www.tdameritrade.com/privacy
+email: opt-out@tdameritrade.com
+---
 
-# TD Ameritrade
 
-Name: TD Ameritrade
-Domain: tdameritrade.com
-Home: https://www.tdameritrade.com/home.page
-Privacy_policy: https://www.tdameritrade.com/privacy
-Email: opt-out@tdameritrade.com
+

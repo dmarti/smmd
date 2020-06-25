@@ -1,9 +1,11 @@
+---
+company-name: "Mediaglu (formerly MLN Advertising)"
+domain: mediaglu.net
+home: http://mediaglu.net/
+email: mln@mlnadvertising.com
+owned-by: AppNexus
+member-of: "Network Advertising Initiative"
+---
 
-# Mediaglu (formerly MLN Advertising)
 
-Name: Mediaglu (formerly MLN Advertising)
-Domain: mediaglu.net
-Home: http://mediaglu.net/
-Email: mln@mlnadvertising.com
-Owned_by: AppNexus
-Member_of: Network Advertising Initiative
+

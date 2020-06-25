@@ -1,8 +1,10 @@
+---
+company-name: iJento
+domain: ijento.com
+home: http://www.ijento.com/1
+privacy-policy: https://www.fospha.com/cookies
+email: info@iJento.com
+---
 
-# iJento
 
-Name: iJento
-Domain: ijento.com
-Home: http://www.ijento.com/1
-Privacy_policy: https://www.fospha.com/cookies
-Email: info@iJento.com
+

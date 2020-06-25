@@ -1,8 +1,10 @@
+---
+company-name: Splurgy
+domain: splurgy.com
+home: http://www.splurgy.com/
+privacy-policy: http://www.splurgy.com/privacy-policy/
+email: inquiry@splurgy.com
+---
 
-# Splurgy
 
-Name: Splurgy
-Domain: splurgy.com
-Home: http://www.splurgy.com/
-Privacy_policy: http://www.splurgy.com/privacy-policy/
-Email: inquiry@splurgy.com
+

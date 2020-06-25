@@ -1,6 +1,8 @@
+---
+company-name: Modernus
+domain: modernus.is
+home: http://www.modernus.is
+---
 
-# Modernus
 
-Name: Modernus
-Domain: modernus.is
-Home: http://www.modernus.is
+

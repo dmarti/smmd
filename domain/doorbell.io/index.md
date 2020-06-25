@@ -1,8 +1,10 @@
+---
+company-name: Doorbell.io
+domain: doorbell.io
+home: https://doorbell.io/
+privacy-policy: https://doorbell.io/privacy
+email: privacy@doorbell.io
+---
 
-# Doorbell.io
 
-Name: Doorbell.io
-Domain: doorbell.io
-Home: https://doorbell.io/
-Privacy_policy: https://doorbell.io/privacy
-Email: privacy@doorbell.io
+

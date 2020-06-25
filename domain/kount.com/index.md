@@ -1,8 +1,10 @@
+---
+company-name: Kount
+domain: kount.com
+home: http://www.kount.com/
+privacy-policy: http://www.kount.com/legal/privacy-policy
+email: privacy@kount.com
+---
 
-# Kount
 
-Name: Kount
-Domain: kount.com
-Home: http://www.kount.com/
-Privacy_policy: http://www.kount.com/legal/privacy-policy
-Email: privacy@kount.com
+

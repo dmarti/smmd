@@ -1,8 +1,10 @@
+---
+company-name: Adventive
+domain: adventive.com
+home: https://www.adventive.com/
+privacy-policy: https://www.adventive.com/legal/privacy-policy
+email: privacy@adventive.com
+---
 
-# Adventive
 
-Name: Adventive
-Domain: adventive.com
-Home: https://www.adventive.com/
-Privacy_policy: https://www.adventive.com/legal/privacy-policy
-Email: privacy@adventive.com
+

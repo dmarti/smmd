@@ -1,9 +1,11 @@
+---
+company-name: "AdCurve (formerly Shop2market)"
+domain: adcurve.com
+home: https://adcurve.com/nl/
+privacy-policy: https://adcurve.com/privacy-policy/
+email: info@shop2market.com
+owned-by: "AdCurve (formerly Shop2market)"
+---
 
-# AdCurve (formerly Shop2market)
 
-Name: AdCurve (formerly Shop2market)
-Domain: adcurve.com
-Home: https://adcurve.com/nl/
-Privacy_policy: https://adcurve.com/privacy-policy/
-Email: info@shop2market.com
-Owned_by: AdCurve (formerly Shop2market)
+

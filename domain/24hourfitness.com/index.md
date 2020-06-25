@@ -1,7 +1,9 @@
-# 24Hour Fitness
+---
+company-name: "24Hour Fitness"
+domain: 24hourfitness.com
+opt-out-url: https://www.24hourfitness.com/membership/inclub_privacy_policy.html
+---
 
-Name: 24Hour Fitness
 
-Domain: 24hourfitness.com
 
-Opt_out_url: https://www.24hourfitness.com/membership/inclub_privacy_policy.html
+

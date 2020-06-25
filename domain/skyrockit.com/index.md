@@ -1,7 +1,9 @@
+---
+company-name: Skyrockit
+domain: skyrockit.com
+home: http://www.skyrockit.com/
+email: help@modtones.com
+---
 
-# Skyrockit
 
-Name: Skyrockit
-Domain: skyrockit.com
-Home: http://www.skyrockit.com/
-Email: help@modtones.com
+

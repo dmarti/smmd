@@ -1,10 +1,11 @@
+---
+company-name: Yola
+domain: yola.com
+home: https://www.yola.com/
+privacy-policy: https://www.yola.com/privacy-policy
+email: support@yola.com
+member-of: TrustE_TrustArc
+---
 
-# Yola
 
-Name: Yola
-Domain: yola.com
-Home: https://www.yola.com/
-Privacy_policy: https://www.yola.com/privacy-policy
-Email: support@yola.com
-Member_of: Better Business Bureau
-Member_of: TrustE_TrustArc
+

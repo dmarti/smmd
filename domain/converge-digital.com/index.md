@@ -1,9 +1,11 @@
+---
+company-name: "Converge Digital"
+domain: converge-digital.com
+home: https://converge-digital.com/
+privacy-policy: https://converge-digital.com/privacy-policy/
+email: info@converge-digital.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Converge Digital 
 
-Name: Converge Digital 
-Domain: converge-digital.com
-Home: https://converge-digital.com/
-Privacy_policy: https://converge-digital.com/privacy-policy/
-Email: info@converge-digital.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,9 +1,11 @@
+---
+company-name: "Metacafe (Collective Digital Studio)"
+domain: metacafe.com
+home: http://www.metacafe.com/
+privacy-policy: http://www.metacafe.com/privacy/policy/
+email: support@metacafe.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Metacafe (Collective Digital Studio) 
 
-Name: Metacafe (Collective Digital Studio) 
-Domain: metacafe.com
-Home: http://www.metacafe.com/
-Privacy_policy: http://www.metacafe.com/privacy/policy/
-Email: support@metacafe.com
-Member_of: Interactive Advertising Bureau (IAB)
+

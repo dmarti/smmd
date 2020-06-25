@@ -1,7 +1,9 @@
+---
+company-name: Caspion
+domain: caspion.com
+home: http://caspion.com/
+email: aviv@caspion.com
+---
 
-# Caspion
 
-Name: Caspion
-Domain: caspion.com
-Home: http://caspion.com/
-Email: aviv@caspion.com
+

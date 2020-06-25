@@ -1,8 +1,10 @@
+---
+company-name: "Everton Football Club"
+domain: evertonfc.com
+home: http://www.evertonfc.com/home
+privacy-policy: http://www.evertonfc.com/cookiepolicy/
+email: CRM@evertonfc.com
+---
 
-# Everton Football Club
 
-Name: Everton Football Club
-Domain: evertonfc.com
-Home: http://www.evertonfc.com/home
-Privacy_policy: http://www.evertonfc.com/cookiepolicy/
-Email: CRM@evertonfc.com
+

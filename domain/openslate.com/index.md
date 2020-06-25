@@ -1,9 +1,11 @@
+---
+company-name: OpenSlate
+domain: openslate.com
+home: https://www.openslate.com/
+privacy-policy: https://www.openslate.com/privacy-policy/
+email: info@openslatedata.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# OpenSlate
 
-Name: OpenSlate
-Domain: openslate.com
-Home: https://www.openslate.com/
-Privacy_policy: https://www.openslate.com/privacy-policy/
-Email: info@openslatedata.com
-Member_of: Interactive Advertising Bureau (IAB)
+

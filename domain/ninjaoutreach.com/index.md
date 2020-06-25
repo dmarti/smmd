@@ -1,7 +1,9 @@
+---
+company-name: NinjaOutreach
+domain: ninjaoutreach.com
+home: http://ninjaoutreach.com/
+privacy-policy: https://ninjaoutreach.com/privacy-policy/
+---
 
-# NinjaOutreach
 
-Name: NinjaOutreach
-Domain: ninjaoutreach.com
-Home: http://ninjaoutreach.com/
-Privacy_policy: https://ninjaoutreach.com/privacy-policy/
+

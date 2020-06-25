@@ -1,8 +1,10 @@
+---
+company-name: "Push Engage"
+domain: pushengage.com
+home: https://www.pushengage.com/
+privacy-policy: https://www.pushengage.com/privacy
+email: admin@pushengage.com
+---
 
-# Push Engage
 
-Name: Push Engage
-Domain: pushengage.com
-Home: https://www.pushengage.com/
-Privacy_policy: https://www.pushengage.com/privacy
-Email: admin@pushengage.com
+

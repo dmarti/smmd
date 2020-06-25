@@ -1,8 +1,10 @@
+---
+company-name: zapunited
+domain: zapunited.com
+home: http://www.zapunited.com/
+privacy-policy: http://www.zapunited.com/help/privacy
+email: info@zapunited.com
+---
 
-# zapunited
 
-Name: zapunited
-Domain: zapunited.com
-Home: http://www.zapunited.com/
-Privacy_policy: http://www.zapunited.com/help/privacy
-Email: info@zapunited.com
+

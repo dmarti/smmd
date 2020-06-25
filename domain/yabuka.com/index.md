@@ -1,7 +1,9 @@
+---
+company-name: Yabuka
+domain: yabuka.com
+home: http://www.yabuka.com/
+privacy-policy: http://www.yabuka.com/privacy
+---
 
-# Yabuka
 
-Name: Yabuka
-Domain: yabuka.com
-Home: http://www.yabuka.com/
-Privacy_policy: http://www.yabuka.com/privacy
+

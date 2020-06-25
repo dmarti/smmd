@@ -1,8 +1,10 @@
+---
+company-name: "iMedia Audiences"
+domain: imediaaudiences.com
+home: http://imediaaudiences.com/
+privacy-policy: https://imediaaudiences.com/privacy-policy/
+email: hello@imediaaudiences.com
+---
 
-# iMedia Audiences
 
-Name: iMedia Audiences
-Domain: imediaaudiences.com
-Home: http://imediaaudiences.com/
-Privacy_policy: https://imediaaudiences.com/privacy-policy/
-Email: hello@imediaaudiences.com
+

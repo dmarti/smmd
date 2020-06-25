@@ -1,8 +1,10 @@
+---
+company-name: "UBM Medica"
+domain: ubmmedica.com
+home: http://mediakit.ubmmedica.com/
+privacy-policy: http://imaging.ubmmedica.com/all/UBMMedica_Privacy_Statement.html
+owned-by: "UBM plc"
+---
 
-# UBM Medica
 
-Name: UBM Medica
-Domain: ubmmedica.com
-Home: http://mediakit.ubmmedica.com/
-Privacy_policy: http://imaging.ubmmedica.com/all/UBMMedica_Privacy_Statement.html
-Owned_by: UBM plc
+

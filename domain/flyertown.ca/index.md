@@ -1,8 +1,10 @@
+---
+company-name: Flyertown
+domain: flyertown.ca
+home: http://www.flyertown.ca/
+email: privacy@wishabi.com
+owned-by: Wishabi
+---
 
-# Flyertown
 
-Name: Flyertown
-Domain: flyertown.ca
-Home: http://www.flyertown.ca/
-Email: privacy@wishabi.com
-Owned_by: Wishabi
+

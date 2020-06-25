@@ -1,8 +1,10 @@
+---
+company-name: Relevanc
+domain: relevanc.com
+home: http://www.relevanc.com/index.html
+privacy-policy: http://www.relevanc.com/privacy.html
+email: privacy@relevanc.com
+---
 
-# Relevanc
 
-Name: Relevanc
-Domain: relevanc.com
-Home: http://www.relevanc.com/index.html
-Privacy_policy: http://www.relevanc.com/privacy.html
-Email: privacy@relevanc.com
+

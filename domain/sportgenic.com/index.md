@@ -1,8 +1,10 @@
+---
+company-name: Sportgenic
+domain: sportgenic.com
+home: http://www.sportgenic.com/
+email: Info@sportgenic.com
+owned-by: "Mode Media (formerly Glam Media)"
+---
 
-# Sportgenic
 
-Name: Sportgenic
-Domain: sportgenic.com
-Home: http://www.sportgenic.com/
-Email: Info@sportgenic.com
-Owned_by: Mode Media (formerly Glam Media)
+

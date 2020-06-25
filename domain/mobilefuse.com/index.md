@@ -1,7 +1,9 @@
+---
+company-name: MobileFuse
+domain: mobilefuse.com
+home: https://www.mobilefuse.com/
+privacy-policy: https://mobilefuse.com/privacy-policy/
+---
 
-# MobileFuse
 
-Name: MobileFuse
-Domain: mobilefuse.com
-Home: https://www.mobilefuse.com/
-Privacy_policy: https://mobilefuse.com/privacy-policy/
+

@@ -1,9 +1,11 @@
+---
+company-name: "Business Insider"
+domain: businessinsider.com
+home: http://www.businessinsider.com/
+privacy-policy: http://www.businessinsider.com/privacy-policy
+email: feedback@businessinsider.com
+member-of: "Digital Content Network(?)"
+---
 
-# Business Insider
 
-Name: Business Insider
-Domain: businessinsider.com
-Home: http://www.businessinsider.com/
-Privacy_policy: http://www.businessinsider.com/privacy-policy
-Email: feedback@businessinsider.com
-Member_of: Digital Content Network(?)
+

@@ -1,7 +1,9 @@
+---
+company-name: Gridsum
+domain: gridsum.com
+home: http://www.gridsum.com/
+privacy-policy: http://www.gridsum.com/en/LegalNotices/
+---
 
-# Gridsum
 
-Name: Gridsum
-Domain: gridsum.com
-Home: http://www.gridsum.com/
-Privacy_policy: http://www.gridsum.com/en/LegalNotices/
+

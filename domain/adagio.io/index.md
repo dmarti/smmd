@@ -1,8 +1,10 @@
+---
+company-name: "OnFocus (Adagio)"
+domain: adagio.io
+home: https://adagio.io
+privacy-policy: https://adagio.io/privacy
+email: dpo@adagio.io
+---
 
-# OnFocus (Adagio)
 
-Name: OnFocus (Adagio)
-Domain: adagio.io
-Home: https://adagio.io
-Privacy_policy: https://adagio.io/privacy
-Email: dpo@adagio.io
+

@@ -1,7 +1,9 @@
+---
+company-name: "Hargreaves Lansdown"
+domain: hl.co.uk
+home: https://www.hl.co.uk/
+privacy-policy: https://www.hl.co.uk/privacy-policy
+---
 
-# Hargreaves Lansdown
 
-Name: Hargreaves Lansdown
-Domain: hl.co.uk
-Home: https://www.hl.co.uk/
-Privacy_policy: https://www.hl.co.uk/privacy-policy
+

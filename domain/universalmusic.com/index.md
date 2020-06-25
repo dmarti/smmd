@@ -1,6 +1,8 @@
+---
+company-name: "Universal Music Group"
+domain: universalmusic.com
+home: https://www.universalmusic.com/
+---
 
-# Universal Music Group
 
-Name: Universal Music Group
-Domain: universalmusic.com
-Home: https://www.universalmusic.com/
+

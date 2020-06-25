@@ -1,8 +1,10 @@
+---
+company-name: Sokrati
+domain: sokrati.com
+home: https://sokrati.com/
+privacy-policy: https://sokrati.com/privacy-notice/
+email: info@sokrati.com
+---
 
-# Sokrati
 
-Name: Sokrati
-Domain: sokrati.com
-Home: https://sokrati.com/
-Privacy_policy: https://sokrati.com/privacy-notice/
-Email: info@sokrati.com
+

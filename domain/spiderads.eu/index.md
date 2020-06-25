@@ -1,9 +1,11 @@
+---
+company-name: SpiderAds
+domain: spiderads.eu
+home: http://www.spiderads.eu/
+privacy-policy: http://www.spiderads.eu/privacy-policy/
+email: contact@bifirm.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# SpiderAds
 
-Name: SpiderAds
-Domain: spiderads.eu
-Home: http://www.spiderads.eu/
-Privacy_policy: http://www.spiderads.eu/privacy-policy/
-Email: contact@bifirm.com
-Member_of: Interactive Advertising Bureau (IAB)
+

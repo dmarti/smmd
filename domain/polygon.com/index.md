@@ -1,7 +1,9 @@
-# Polygon
+---
+company-name: Polygon
+domain: polygon.com
+opt-out-url: https://www.polygon.com/contact#donotsell
+---
 
-Name: Polygon
 
-Domain: polygon.com
 
-Opt_out_url: https://www.polygon.com/contact#donotsell
+

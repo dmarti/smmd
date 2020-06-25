@@ -1,9 +1,11 @@
+---
+company-name: Lithium
+domain: lithium.com
+home: http://lithium.com/
+privacy-policy: http://lithium.com/privacy
+email: privacy@lithium.com
+member-of: TrustE_TrustArc
+---
 
-# Lithium
 
-Name: Lithium
-Domain: lithium.com
-Home: http://lithium.com/
-Privacy_policy: http://lithium.com/privacy
-Email: privacy@lithium.com
-Member_of: TrustE_TrustArc
+

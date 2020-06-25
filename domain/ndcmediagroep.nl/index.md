@@ -1,7 +1,9 @@
+---
+company-name: "NDC Mediagroep"
+domain: ndcmediagroep.nl
+home: http://www.ndcmediagroep.nl/
+privacy-policy: http://www.ndcmediagroep.nl/privacy-statement/
+---
 
-# NDC Mediagroep
 
-Name: NDC Mediagroep
-Domain: ndcmediagroep.nl
-Home: http://www.ndcmediagroep.nl/
-Privacy_policy: http://www.ndcmediagroep.nl/privacy-statement/
+

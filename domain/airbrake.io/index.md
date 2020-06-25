@@ -1,8 +1,10 @@
+---
+company-name: "Airbrake (Formally Exceptional)"
+domain: airbrake.io
+home: https://airbrake.io/
+privacy-policy: https://airbrake.io/privacy
+email: support@airbrake.io
+---
 
-# Airbrake (Formally Exceptional)
 
-Name: Airbrake (Formally Exceptional)
-Domain: airbrake.io
-Home: https://airbrake.io/
-Privacy_policy: https://airbrake.io/privacy
-Email: support@airbrake.io
+

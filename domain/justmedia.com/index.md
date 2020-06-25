@@ -1,8 +1,10 @@
+---
+company-name: "Just Media"
+domain: justmedia.com
+home: http://justmedia.com/
+privacy-policy: http://www.justmedia.com/privacy-policy/
+email: president@justmedia.com
+---
 
-# Just Media
 
-Name: Just Media
-Domain: justmedia.com
-Home: http://justmedia.com/
-Privacy_policy: http://www.justmedia.com/privacy-policy/
-Email: president@justmedia.com
+

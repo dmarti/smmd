@@ -1,7 +1,9 @@
+---
+company-name: "Castle Ridge Media"
+domain: castleridgemedia.com
+home: http://castleridgemedia.com/
+privacy-policy: http://castleridgemedia.com/contact.html
+---
 
-# Castle Ridge Media
 
-Name: Castle Ridge Media
-Domain: castleridgemedia.com
-Home: http://castleridgemedia.com/
-Privacy_policy: http://castleridgemedia.com/contact.html
+

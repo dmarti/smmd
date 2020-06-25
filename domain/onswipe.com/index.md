@@ -1,8 +1,10 @@
+---
+company-name: Onswipe
+domain: onswipe.com
+home: http://www.onswipe.com/
+email: founders@onswipe.com
+owned-by: "Beanstock Media"
+---
 
-# Onswipe
 
-Name: Onswipe
-Domain: onswipe.com
-Home: http://www.onswipe.com/
-Email: founders@onswipe.com
-Owned_by: Beanstock Media
+

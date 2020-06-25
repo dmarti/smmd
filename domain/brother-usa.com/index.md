@@ -1,8 +1,10 @@
+---
+company-name: "Brother International Corporation"
+domain: brother-usa.com
+home: https://www.brother-usa.com/business
+privacy-policy: https://www.brother-usa.com/privacy-policy
+email: privacy@brother.com
+---
 
-# Brother International Corporation
 
-Name: Brother International Corporation
-Domain: brother-usa.com
-Home: https://www.brother-usa.com/business
-Privacy_policy: https://www.brother-usa.com/privacy-policy
-Email: privacy@brother.com
+

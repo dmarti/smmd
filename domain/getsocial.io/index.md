@@ -1,8 +1,10 @@
+---
+company-name: GetSocial
+domain: getsocial.io
+home: https://getsocial.io/
+privacy-policy: https://getsocial.io/privacy-policy
+email: support@getsocial.io
+---
 
-# GetSocial
 
-Name: GetSocial
-Domain: getsocial.io
-Home: https://getsocial.io/
-Privacy_policy: https://getsocial.io/privacy-policy
-Email: support@getsocial.io
+

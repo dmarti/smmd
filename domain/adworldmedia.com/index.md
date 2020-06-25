@@ -1,8 +1,10 @@
+---
+company-name: "Adult AdWorld"
+domain: adworldmedia.com
+home: http://www.adworldmedia.com/
+privacy-policy: http://www.adworldmedia.com/privacy-policy/
+email: pubsupport@adworldmedia.com
+---
 
-# Adult AdWorld
 
-Name: Adult AdWorld
-Domain: adworldmedia.com
-Home: http://www.adworldmedia.com/
-Privacy_policy: http://www.adworldmedia.com/privacy-policy/
-Email: pubsupport@adworldmedia.com
+

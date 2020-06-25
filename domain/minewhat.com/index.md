@@ -1,7 +1,9 @@
+---
+company-name: MineWhat
+domain: minewhat.com
+home: http://www.minewhat.com
+privacy-policy: https://minewhat.com/privacypolicy
+---
 
-# MineWhat
 
-Name: MineWhat
-Domain: minewhat.com
-Home: http://www.minewhat.com
-Privacy_policy: https://minewhat.com/privacypolicy
+

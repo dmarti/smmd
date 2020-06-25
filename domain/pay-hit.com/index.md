@@ -1,7 +1,9 @@
+---
+company-name: Pay-Hit
+domain: pay-hit.com
+home: http://pay-hit.com/
+email: privacy@pay-hit.com
+---
 
-# Pay-Hit
 
-Name: Pay-Hit
-Domain: pay-hit.com
-Home: http://pay-hit.com/
-Email: privacy@pay-hit.com
+

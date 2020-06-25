@@ -1,22 +1,7 @@
-# 
-
-Name:
-
-Domain: 
-
-Home: 
-
-Privacy_policy: 
-
-Owned_by:
-
-Member_of: 
-
-Opt_out_url: 
-
-
-
+---
+---
 ## How to opt out
+
 
 
 
@@ -24,6 +9,19 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 

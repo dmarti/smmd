@@ -1,9 +1,11 @@
+---
+company-name: "Underdog Media"
+domain: underdogmedia.com
+home: http://www.underdogmedia.com
+privacy-policy: http://www.underdogmedia.com/privacy/
+email: admin@underdogmedia.com
+member-of: "Digital Advertising Alliance"
+---
 
-# Underdog Media
 
-Name: Underdog Media
-Domain: underdogmedia.com
-Home: http://www.underdogmedia.com
-Privacy_policy: http://www.underdogmedia.com/privacy/
-Email: admin@underdogmedia.com
-Member_of: Digital Advertising Alliance
+

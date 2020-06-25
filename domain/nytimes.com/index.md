@@ -1,7 +1,9 @@
-# New York Times
+---
+company-name: "New York Times"
+domain: nytimes.com
+opt-out-url: https://www.nytimes.com/data-subject-request
+---
 
-Name: New York Times
 
-Domain: nytimes.com
 
-Opt_out_url: https://www.nytimes.com/data-subject-request
+

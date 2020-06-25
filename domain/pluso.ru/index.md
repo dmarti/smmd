@@ -1,6 +1,8 @@
+---
+company-name: Pluso
+domain: pluso.ru
+home: http://share.pluso.ru/
+---
 
-# Pluso
 
-Name: Pluso
-Domain: pluso.ru
-Home: http://share.pluso.ru/
+

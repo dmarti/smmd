@@ -1,7 +1,9 @@
+---
+company-name: "Smarter Click"
+domain: smarterclick.com
+home: https://www.smarterclick.com/
+email: info@smarterclick.co.uk
+---
 
-# Smarter Click
 
-Name: Smarter Click
-Domain: smarterclick.com
-Home: https://www.smarterclick.com/
-Email: info@smarterclick.co.uk
+

@@ -1,8 +1,10 @@
+---
+company-name: "Alma Media"
+domain: almamedia.fi
+home: https://www.almamedia.fi
+email: tietosuoja@almamedia.fi
+member-of: "European Data Interactive Alliance"
+---
 
-# Alma Media
 
-Name: Alma Media
-Domain: almamedia.fi
-Home: https://www.almamedia.fi
-Email: tietosuoja@almamedia.fi
-Member_of: European Data Interactive Alliance
+

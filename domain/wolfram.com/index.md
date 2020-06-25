@@ -1,7 +1,9 @@
-# Wolfram
+---
+company-name: Wolfram
+domain: wolfram.com
+opt-out-url: https://www.wolfram.com/legal/privacy/ccpa-addendum/
+---
 
-Name: Wolfram
 
-Domain: wolfram.com
 
-Opt_out_url: https://www.wolfram.com/legal/privacy/ccpa-addendum/
+

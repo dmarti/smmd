@@ -1,8 +1,10 @@
+---
+company-name: Converlytics
+domain: converlytics.com
+home: https://converlytics.com/
+privacy-policy: https://converlytics.com/datenschutz/
+email: info@converlytics.com
+---
 
-# Converlytics
 
-Name: Converlytics
-Domain: converlytics.com
-Home: https://converlytics.com/
-Privacy_policy: https://converlytics.com/datenschutz/
-Email: info@converlytics.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Maytrics
+domain: maytrics.com
+home: https://maytrics.com
+privacy-policy: https://maytrics.com/de/content/datenschutz
+email: info@maytrics.de
+---
 
-# Maytrics
 
-Name: Maytrics
-Domain: maytrics.com
-Home: https://maytrics.com
-Privacy_policy: https://maytrics.com/de/content/datenschutz
-Email: info@maytrics.de
+

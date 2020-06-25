@@ -1,8 +1,10 @@
+---
+company-name: LinkTo.Tv
+domain: linkto.tv
+home: http://www.linkto.tv/
+privacy-policy: https://www.linkto.tv/policy/privacy
+email: info@linkto.tv
+---
 
-# LinkTo.Tv
 
-Name: LinkTo.Tv
-Domain: linkto.tv
-Home: http://www.linkto.tv/
-Privacy_policy: https://www.linkto.tv/policy/privacy
-Email: info@linkto.tv
+

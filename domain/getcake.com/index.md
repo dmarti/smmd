@@ -1,8 +1,10 @@
+---
+company-name: CAKE
+domain: getcake.com
+home: https://getcake.com
+privacy-policy: https://getcake.com/privacy-policy/
+email: privacy@getCAKE.com
+---
 
-# CAKE
 
-Name: CAKE
-Domain: getcake.com
-Home: https://getcake.com
-Privacy_policy: https://getcake.com/privacy-policy/
-Email: privacy@getCAKE.com
+

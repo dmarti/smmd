@@ -1,7 +1,9 @@
+---
+company-name: "Advantage Media"
+domain: advantagemedia.dk
+home: http://advantagemedia.dk/en
+email: sales@advantagemedia.dk
+---
 
-# Advantage Media
 
-Name: Advantage Media
-Domain: advantagemedia.dk
-Home: http://advantagemedia.dk/en
-Email: sales@advantagemedia.dk
+

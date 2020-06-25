@@ -1,8 +1,10 @@
+---
+company-name: Videostrip
+domain: videostrip.com
+home: http://www.videostrip.com/?lang=en
+privacy-policy: http://www.videostrip.com/privacy-policy/?lang=en
+email: info@videostrip.com
+---
 
-# Videostrip
 
-Name: Videostrip
-Domain: videostrip.com
-Home: http://www.videostrip.com/?lang=en
-Privacy_policy: http://www.videostrip.com/privacy-policy/?lang=en
-Email: info@videostrip.com
+

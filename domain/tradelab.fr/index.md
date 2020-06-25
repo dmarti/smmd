@@ -1,11 +1,11 @@
+---
+company-name: Tradelab
+domain: tradelab.fr
+home: http://www.tradelab.fr/
+privacy-policy: http://tradelab.com/en/privacy/
+email: contact@tradelab.fr
+member-of: "Mobile Marketing Asc"
+---
 
-# Tradelab
 
-Name: Tradelab
-Domain: tradelab.fr
-Home: http://www.tradelab.fr/
-Privacy_policy: http://tradelab.com/en/privacy/
-Email: contact@tradelab.fr
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Mobile Marketing Asc
+

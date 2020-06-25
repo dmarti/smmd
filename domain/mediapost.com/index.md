@@ -1,8 +1,10 @@
+---
+company-name: MediaPost
+domain: mediapost.com
+home: http://www.mediapost.com/
+privacy-policy: http://www.mediapost.com/privacy/
+email: mark.kecko@mediapost.com
+---
 
-# MediaPost
 
-Name: MediaPost
-Domain: mediapost.com
-Home: http://www.mediapost.com/
-Privacy_policy: http://www.mediapost.com/privacy/
-Email: mark.kecko@mediapost.com
+

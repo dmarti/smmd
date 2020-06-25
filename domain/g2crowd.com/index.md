@@ -1,8 +1,10 @@
+---
+company-name: G2Crowd
+domain: g2crowd.com
+home: http://g2crowd.com
+privacy-policy: https://www.g2crowd.com/static/privacy
+email: legal@g2crowd.com
+---
 
-# G2Crowd
 
-Name: G2Crowd
-Domain: g2crowd.com
-Home: http://g2crowd.com
-Privacy_policy: https://www.g2crowd.com/static/privacy
-Email: legal@g2crowd.com
+

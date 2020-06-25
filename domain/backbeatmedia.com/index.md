@@ -1,8 +1,10 @@
+---
+company-name: "BackBeat Media"
+domain: backbeatmedia.com
+home: https://www.backbeatmedia.com/
+privacy-policy: https://www.backbeatmedia.com/privacy/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# BackBeat Media
 
-Name: BackBeat Media
-Domain: backbeatmedia.com
-Home: https://www.backbeatmedia.com/
-Privacy_policy: https://www.backbeatmedia.com/privacy/
-Member_of: Interactive Advertising Bureau (IAB)
+

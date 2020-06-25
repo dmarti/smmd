@@ -1,8 +1,10 @@
+---
+company-name: "Dynamic 1001 GmbH"
+domain: dynamic1001.com
+home: http://dynamic1001.com/
+privacy-policy: http://dynamic1001.com/Modules/Common/impressum.aspx
+email: welcome@dynamic1001.com
+---
 
-# Dynamic 1001 GmbH
 
-Name: Dynamic 1001 GmbH
-Domain: dynamic1001.com
-Home: http://dynamic1001.com/
-Privacy_policy: http://dynamic1001.com/Modules/Common/impressum.aspx
-Email: welcome@dynamic1001.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "RCS MediaGroup"
+domain: rcsmediagroup.it
+home: http://www.rcsmediagroup.it/
+privacy-policy: http://www.rcsmediagroup.it/en/pages/privacy-and-cookies-policies/
+email: privacy@rcsdigital.it
+---
 
-# RCS MediaGroup
 
-Name: RCS MediaGroup
-Domain: rcsmediagroup.it
-Home: http://www.rcsmediagroup.it/
-Privacy_policy: http://www.rcsmediagroup.it/en/pages/privacy-and-cookies-policies/
-Email: privacy@rcsdigital.it
+

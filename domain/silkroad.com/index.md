@@ -1,8 +1,10 @@
+---
+company-name: SilkRoad
+domain: silkroad.com
+home: http://www.silkroad.com/
+privacy-policy: http://www.silkroad.com/privacy/
+email: info@silkroadtech.com
+---
 
-# SilkRoad
 
-Name: SilkRoad
-Domain: silkroad.com
-Home: http://www.silkroad.com/
-Privacy_policy: http://www.silkroad.com/privacy/
-Email: info@silkroadtech.com
+

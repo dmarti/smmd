@@ -1,7 +1,9 @@
+---
+company-name: Capturly
+domain: capturly.com
+home: http://capturly.com/
+privacy-policy: https://capturly.com/privacy
+---
 
-# Capturly
 
-Name: Capturly
-Domain: capturly.com
-Home: http://capturly.com/
-Privacy_policy: https://capturly.com/privacy
+

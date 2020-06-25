@@ -1,8 +1,10 @@
+---
+company-name: AdPushup
+domain: adpushup.com
+home: http://adpushup.com/
+privacy-policy: http://www.adpushup.com/privacy.php
+email: info@adpushup.com
+---
 
-# AdPushup
 
-Name: AdPushup
-Domain: adpushup.com
-Home: http://adpushup.com/
-Privacy_policy: http://www.adpushup.com/privacy.php
-Email: info@adpushup.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Adenyo (Motricity)"
+domain: adenyo.com
+home: http://www.adenyo.com/
+privacy-policy: http://www.adenyo.com/privacy
+email: privacy@motricity.com
+---
 
-# Adenyo (Motricity)
 
-Name: Adenyo (Motricity)
-Domain: adenyo.com
-Home: http://www.adenyo.com/
-Privacy_policy: http://www.adenyo.com/privacy
-Email: privacy@motricity.com
+

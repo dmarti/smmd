@@ -1,8 +1,10 @@
+---
+company-name: AdsWizz
+domain: adswizz.com
+home: http://www.adswizz.com/
+email: contact.us@adswizz.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# AdsWizz
 
-Name: AdsWizz
-Domain: adswizz.com
-Home: http://www.adswizz.com/
-Email: contact.us@adswizz.com
-Member_of: Interactive Advertising Bureau (IAB)
+

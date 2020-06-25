@@ -1,7 +1,9 @@
+---
+company-name: LotLinx
+domain: lotlinx.com
+home: https://www.lotlinx.com/
+privacy-policy: https://www.lotlinx.com/privacy-statement/
+---
 
-# LotLinx
 
-Name: LotLinx
-Domain: lotlinx.com
-Home: https://www.lotlinx.com/
-Privacy_policy: https://www.lotlinx.com/privacy-statement/
+

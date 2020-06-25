@@ -1,7 +1,9 @@
+---
+company-name: VITRO
+domain: vitroagency.com
+home: http://vitroagency.com/
+privacy-policy: http://
+---
 
-# VITRO
 
-Name: VITRO
-Domain: vitroagency.com
-Home: http://vitroagency.com/
-Privacy_policy: http://
+

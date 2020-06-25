@@ -1,8 +1,10 @@
+---
+company-name: "Sally Beauty"
+domain: sallybeauty.com
+home: http://www.sallybeauty.com/
+privacy-policy: http://www.sallybeauty.com/privacy-Policy/privacyPolicy,default,pg.html
+email: sbsupport@sallybeauty.com
+---
 
-# Sally Beauty
 
-Name: Sally Beauty
-Domain: sallybeauty.com
-Home: http://www.sallybeauty.com/
-Privacy_policy: http://www.sallybeauty.com/privacy-Policy/privacyPolicy,default,pg.html
-Email: sbsupport@sallybeauty.com
+

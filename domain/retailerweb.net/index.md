@@ -1,9 +1,11 @@
+---
+company-name: Retailerweb
+domain: retailerweb.net
+home: https://www.retailerweb.net/
+privacy-policy: https://www.retailerweb.net/privacy-policy.do
+email: datenschutz@verticaladsgroup.com
+owned-by: "VerticalAds Group"
+---
 
-# Retailerweb
 
-Name: Retailerweb
-Domain: retailerweb.net
-Home: https://www.retailerweb.net/
-Privacy_policy: https://www.retailerweb.net/privacy-policy.do
-Email: datenschutz@verticaladsgroup.com
-Owned_by: VerticalAds Group
+

@@ -1,6 +1,8 @@
+---
+company-name: Pic-Upload
+domain: pic-upload.de
+home: http://www.pic-upload.de/
+---
 
-# Pic-Upload
 
-Name: Pic-Upload
-Domain: pic-upload.de
-Home: http://www.pic-upload.de/
+

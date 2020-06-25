@@ -1,7 +1,9 @@
+---
+company-name: "Apoxy Media"
+domain: apoxymedia.com
+home: http://apoxymedia.com/
+email: info@apoxymedia.in
+---
 
-# Apoxy Media
 
-Name: Apoxy Media
-Domain: apoxymedia.com
-Home: http://apoxymedia.com/
-Email: info@apoxymedia.in
+

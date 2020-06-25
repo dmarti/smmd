@@ -1,7 +1,9 @@
+---
+company-name: Freecaster
+domain: freecaster.com
+home: http://freecaster.com/
+email: team@freecaster.com
+---
 
-# Freecaster
 
-Name: Freecaster
-Domain: freecaster.com
-Home: http://freecaster.com/
-Email: team@freecaster.com
+

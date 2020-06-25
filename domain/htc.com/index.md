@@ -1,8 +1,10 @@
+---
+company-name: HTC
+domain: htc.com
+home: http://www.htc.com/us/
+privacy-policy: http://www.htc.com/us/terms/privacy/
+email: global-privacy@htc.com
+---
 
-# HTC
 
-Name: HTC
-Domain: htc.com
-Home: http://www.htc.com/us/
-Privacy_policy: http://www.htc.com/us/terms/privacy/
-Email: global-privacy@htc.com
+

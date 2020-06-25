@@ -1,9 +1,11 @@
+---
+company-name: "Carat Australia"
+domain: carat.com.au
+home: http://www.carat.com.au/
+privacy-policy: https://www.carat.com/au/en/privacy-and-cookie-policy/
+email: privacy@dentsuaegis.com
+owned-by: "Dentsu Aegis Network"
+---
 
-# Carat Australia
 
-Name: Carat Australia
-Domain: carat.com.au
-Home: http://www.carat.com.au/
-Privacy_policy: https://www.carat.com/au/en/privacy-and-cookie-policy/
-Email: privacy@dentsuaegis.com
-Owned_by: Dentsu Aegis Network
+

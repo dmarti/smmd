@@ -1,8 +1,10 @@
+---
+company-name: ProProfs
+domain: proprofs.com
+home: https://www.proprofs.com/
+privacy-policy: https://www.proprofs.com/privacy/
+email: support@proprofs.com
+---
 
-# ProProfs
 
-Name: ProProfs
-Domain: proprofs.com
-Home: https://www.proprofs.com/
-Privacy_policy: https://www.proprofs.com/privacy/
-Email: support@proprofs.com
+

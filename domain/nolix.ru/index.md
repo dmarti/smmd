@@ -1,6 +1,8 @@
+---
+company-name: Nolix
+domain: nolix.ru
+home: http://nolix.ru/
+---
 
-# Nolix
 
-Name: Nolix
-Domain: nolix.ru
-Home: http://nolix.ru/
+

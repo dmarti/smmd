@@ -1,8 +1,10 @@
+---
+company-name: Lengow
+domain: lengow.com
+home: http://www.lengow.com/
+privacy-policy: https://www.lengow.com/legal-notice/
+email: contact@lengow.com
+---
 
-# Lengow
 
-Name: Lengow
-Domain: lengow.com
-Home: http://www.lengow.com/
-Privacy_policy: https://www.lengow.com/legal-notice/
-Email: contact@lengow.com
+

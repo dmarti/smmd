@@ -1,7 +1,9 @@
+---
+company-name: Nirror
+domain: nirror.com
+home: https://www.nirror.com/
+owned-by: "AB Tasty"
+---
 
-# Nirror
 
-Name: Nirror
-Domain: nirror.com
-Home: https://www.nirror.com/
-Owned_by: AB Tasty
+

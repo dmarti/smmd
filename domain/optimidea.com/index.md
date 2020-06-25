@@ -1,7 +1,9 @@
+---
+company-name: Optimidea
+domain: optimidea.com
+home: https://www.optimidea.com
+email: support@optimidea.com
+---
 
-# Optimidea
 
-Name: Optimidea
-Domain: optimidea.com
-Home: https://www.optimidea.com
-Email: support@optimidea.com
+

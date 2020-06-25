@@ -1,7 +1,9 @@
+---
+company-name: "Encompass Insurance"
+domain: encompassinsurance.com
+home: http://www.encompassinsurance.com
+privacy-policy: https://www.encompassinsurance.com/privacy.aspx
+---
 
-# Encompass Insurance
 
-Name: Encompass Insurance
-Domain: encompassinsurance.com
-Home: http://www.encompassinsurance.com
-Privacy_policy: https://www.encompassinsurance.com/privacy.aspx
+

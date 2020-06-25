@@ -1,8 +1,10 @@
+---
+company-name: eBuzzing
+domain: ebuzzing.co.uk
+home: http://social.ebuzzing.co.uk/
+privacy-policy: http://social.ebuzzing.co.uk/privacy/
+email: infos@ebuzzing.com
+---
 
-# eBuzzing
 
-Name: eBuzzing
-Domain: ebuzzing.co.uk
-Home: http://social.ebuzzing.co.uk/
-Privacy_policy: http://social.ebuzzing.co.uk/privacy/
-Email: infos@ebuzzing.com
+

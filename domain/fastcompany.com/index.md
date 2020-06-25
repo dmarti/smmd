@@ -1,10 +1,11 @@
+---
+company-name: "Fast Company"
+domain: fastcompany.com
+home: http://www.fastcompany.com/
+privacy-policy: http://www.mansueto.com/privacy.html
+email: privacy@inc.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Fast Company
 
-Name: Fast Company
-Domain: fastcompany.com
-Home: http://www.fastcompany.com/
-Privacy_policy: http://www.mansueto.com/privacy.html
-Email: privacy@inc.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

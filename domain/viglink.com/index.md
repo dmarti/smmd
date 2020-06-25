@@ -1,8 +1,10 @@
+---
+company-name: VigLink
+domain: viglink.com
+home: http://www.viglink.com/
+privacy-policy: https://www.viglink.com/legal/privacy/
+email: privacy@viglink.com
+---
 
-# VigLink
 
-Name: VigLink
-Domain: viglink.com
-Home: http://www.viglink.com/
-Privacy_policy: https://www.viglink.com/legal/privacy/
-Email: privacy@viglink.com
+

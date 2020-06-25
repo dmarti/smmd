@@ -1,6 +1,8 @@
+---
+company-name: Mooxar
+domain: mooxar.com
+home: http://mooxar.com/
+---
 
-# Mooxar
 
-Name: Mooxar
-Domain: mooxar.com
-Home: http://mooxar.com/
+

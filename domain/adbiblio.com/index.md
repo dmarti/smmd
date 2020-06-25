@@ -1,9 +1,11 @@
+---
+company-name: Adbiblio
+domain: adbiblio.com
+home: http://adbiblio.com/
+privacy-policy: http://adbiblio.com/privacy-policy/
+email: advertising@adbiblio.com
+owned-by: Pressflex
+---
 
-# Adbiblio
 
-Name: Adbiblio
-Domain: adbiblio.com
-Home: http://adbiblio.com/
-Privacy_policy: http://adbiblio.com/privacy-policy/
-Email: advertising@adbiblio.com
-Owned_by: Pressflex
+

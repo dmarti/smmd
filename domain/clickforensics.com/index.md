@@ -1,10 +1,12 @@
+---
+company-name: "Click Forensics"
+domain: clickforensics.com
+home: http://www.clickforensics.com/
+privacy-policy: http://www.adometry.com/privacy.php
+email: info@clickforensics.com
+owned-by: "Google Attribution 360 (formerly Adometry)"
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Click Forensics
 
-Name: Click Forensics
-Domain: clickforensics.com
-Home: http://www.clickforensics.com/
-Privacy_policy: http://www.adometry.com/privacy.php
-Email: info@clickforensics.com
-Owned_by: Google Attribution 360 (formerly Adometry)
-Member_of: Interactive Advertising Bureau (IAB)
+

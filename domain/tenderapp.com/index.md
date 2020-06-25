@@ -1,8 +1,10 @@
+---
+company-name: Tender
+domain: tenderapp.com
+home: http://www.tenderapp.com/
+privacy-policy: http://www.tenderapp.com/privacy/
+email: support@tenderapp.com
+---
 
-# Tender
 
-Name: Tender
-Domain: tenderapp.com
-Home: http://www.tenderapp.com/
-Privacy_policy: http://www.tenderapp.com/privacy/
-Email: support@tenderapp.com
+

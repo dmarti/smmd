@@ -1,10 +1,11 @@
+---
+company-name: "eBay Partner Network"
+domain: ebay.com
+home: https://partnernetwork.ebay.com/
+privacy-policy: https://partnernetwork.ebay.com/legal#privacy-notice
+owned-by: "eBay Inc."
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# eBay Partner Network
 
-Name: eBay Partner Network
-Domain: ebay.com
-Home: https://partnernetwork.ebay.com/
-Privacy_policy: https://partnernetwork.ebay.com/legal#privacy-notice
-Owned_by: eBay Inc.
-Member_of: Association of National Advertisers
-Member_of: Interactive Advertising Bureau (IAB)
+

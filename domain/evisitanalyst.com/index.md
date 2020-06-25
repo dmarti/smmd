@@ -1,6 +1,8 @@
+---
+company-name: "eVisit Analyst"
+domain: evisitanalyst.com
+home: http://www.evisitanalyst.com
+---
 
-# eVisit Analyst
 
-Name: eVisit Analyst
-Domain: evisitanalyst.com
-Home: http://www.evisitanalyst.com
+

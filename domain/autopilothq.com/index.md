@@ -1,8 +1,10 @@
+---
+company-name: "Auto Pilot"
+domain: autopilothq.com
+home: https://autopilothq.com/
+privacy-policy: https://www.autopilothq.com/legal/privacy-policy
+email: privacy@autopilothq.com
+---
 
-# Auto Pilot 
 
-Name: Auto Pilot 
-Domain: autopilothq.com
-Home: https://autopilothq.com/
-Privacy_policy: https://www.autopilothq.com/legal/privacy-policy
-Email: privacy@autopilothq.com
+

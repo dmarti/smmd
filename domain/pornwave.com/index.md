@@ -1,6 +1,8 @@
+---
+company-name: Pornwave.com
+domain: pornwave.com
+home: http://pornwave.com
+---
 
-# Pornwave.com
 
-Name: Pornwave.com
-Domain: pornwave.com
-Home: http://pornwave.com
+

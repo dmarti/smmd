@@ -1,8 +1,10 @@
+---
+company-name: WordPress.com
+domain: wordpress.com
+home: http://www.wordpress.com
+privacy-policy: https://automattic.com/privacy/
+owned-by: Automattic
+---
 
-# WordPress.com
 
-Name: WordPress.com
-Domain: wordpress.com
-Home: http://www.wordpress.com
-Privacy_policy: https://automattic.com/privacy/
-Owned_by: Automattic
+

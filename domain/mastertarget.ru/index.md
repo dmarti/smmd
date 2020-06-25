@@ -1,7 +1,9 @@
+---
+company-name: MasterTarget
+domain: mastertarget.ru
+home: http://mastertarget.ru/
+email: support@mastertarget.ru
+---
 
-# MasterTarget
 
-Name: MasterTarget
-Domain: mastertarget.ru
-Home: http://mastertarget.ru/
-Email: support@mastertarget.ru
+

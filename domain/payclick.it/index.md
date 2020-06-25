@@ -1,6 +1,8 @@
+---
+company-name: PayClick
+domain: payclick.it
+home: http://www.payclick.it/it/
+---
 
-# PayClick
 
-Name: PayClick
-Domain: payclick.it
-Home: http://www.payclick.it/it/
+

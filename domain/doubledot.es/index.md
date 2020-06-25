@@ -1,8 +1,10 @@
+---
+company-name: DoubleDot
+domain: doubledot.es
+home: https://doubledot.es
+privacy-policy: https://doubledot.es/politica-de-privacidad
+email: lopd@doubledot.es
+---
 
-# DoubleDot
 
-Name: DoubleDot
-Domain: doubledot.es
-Home: https://doubledot.es
-Privacy_policy: https://doubledot.es/politica-de-privacidad
-Email: lopd@doubledot.es
+

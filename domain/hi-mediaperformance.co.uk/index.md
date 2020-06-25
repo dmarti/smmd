@@ -1,9 +1,11 @@
+---
+company-name: "Hi-media Performance"
+domain: hi-mediaperformance.co.uk
+home: http://www.hi-mediaperformance.co.uk/en_GB
+privacy-policy: http://www.hi-mediaperformance.co.uk/en_GB/index/informations-legales/optout
+email: contactperformanceuk@hi-media.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Hi-media Performance
 
-Name: Hi-media Performance
-Domain: hi-mediaperformance.co.uk
-Home: http://www.hi-mediaperformance.co.uk/en_GB
-Privacy_policy: http://www.hi-mediaperformance.co.uk/en_GB/index/informations-legales/optout
-Email: contactperformanceuk@hi-media.com
-Member_of: European Data Interactive Alliance
+

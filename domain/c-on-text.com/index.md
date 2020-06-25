@@ -1,7 +1,9 @@
+---
+company-name: C|ON|TEXT
+domain: c-on-text.com
+home: http://c-on-text.com
+privacy-policy: http://c-on-text.com/PrivacyPolicy.aspx
+---
 
-# C|ON|TEXT
 
-Name: C|ON|TEXT
-Domain: c-on-text.com
-Home: http://c-on-text.com
-Privacy_policy: http://c-on-text.com/PrivacyPolicy.aspx
+

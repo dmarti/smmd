@@ -1,6 +1,8 @@
+---
+company-name: "Myst Statistics"
+domain: mystat.hu
+home: http://mystat.hu/
+---
 
-# Myst Statistics
 
-Name: Myst Statistics
-Domain: mystat.hu
-Home: http://mystat.hu/
+

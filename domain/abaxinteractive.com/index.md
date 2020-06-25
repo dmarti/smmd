@@ -1,8 +1,10 @@
+---
+company-name: "Abax Interactive"
+domain: abaxinteractive.com
+home: http://abaxinteractive.com/
+privacy-policy: http://www.abaxinteractive.com/?page_id=8
+email: info@abaxinteractive.com
+---
 
-# Abax Interactive
 
-Name: Abax Interactive
-Domain: abaxinteractive.com
-Home: http://abaxinteractive.com/
-Privacy_policy: http://www.abaxinteractive.com/?page_id=8
-Email: info@abaxinteractive.com
+

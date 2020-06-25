@@ -1,9 +1,11 @@
+---
+company-name: Tovarro
+domain: tovarro.com
+home: https://www.tovarro.com/
+privacy-policy: https://www.tovarro.com/licence.html
+email: support@tovarro.com
+owned-by: MIRS
+---
 
-# Tovarro
 
-Name: Tovarro
-Domain: tovarro.com
-Home: https://www.tovarro.com/
-Privacy_policy: https://www.tovarro.com/licence.html
-Email: support@tovarro.com
-Owned_by: MIRS
+

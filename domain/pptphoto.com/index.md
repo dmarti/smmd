@@ -1,6 +1,8 @@
+---
+company-name: "PPT Photo"
+domain: pptphoto.com
+home: http://pptphoto.com/
+---
 
-# PPT Photo
 
-Name: PPT Photo
-Domain: pptphoto.com
-Home: http://pptphoto.com/
+

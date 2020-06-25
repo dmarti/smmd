@@ -1,7 +1,9 @@
+---
+company-name: Chartboost
+domain: chartboost.com
+home: http://chartboost.com/
+email: privacy@chartboost.com
+---
 
-# Chartboost
 
-Name: Chartboost
-Domain: chartboost.com
-Home: http://chartboost.com/
-Email: privacy@chartboost.com
+

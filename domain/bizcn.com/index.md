@@ -1,6 +1,8 @@
+---
+company-name: Bizcn
+domain: bizcn.com
+home: http://www.bizcn.com/
+---
 
-# Bizcn
 
-Name: Bizcn
-Domain: bizcn.com
-Home: http://www.bizcn.com/
+

@@ -1,8 +1,10 @@
+---
+company-name: Conversio
+domain: conversio.com
+home: https://conversio.com/
+privacy-policy: https://conversio.com/privacy/
+email: admin@conversio.com
+---
 
-# Conversio
 
-Name: Conversio
-Domain: conversio.com
-Home: https://conversio.com/
-Privacy_policy: https://conversio.com/privacy/
-Email: admin@conversio.com
+

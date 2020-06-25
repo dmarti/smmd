@@ -1,8 +1,10 @@
+---
+company-name: Glassbox
+domain: glassboxdigital.com
+home: https://www.glassboxdigital.com/
+privacy-policy: https://www.glassboxdigital.com/privacy-policy/
+email: info@glassboxdigital.com
+---
 
-# Glassbox
 
-Name: Glassbox
-Domain: glassboxdigital.com
-Home: https://www.glassboxdigital.com/
-Privacy_policy: https://www.glassboxdigital.com/privacy-policy/
-Email: info@glassboxdigital.com
+

@@ -1,9 +1,11 @@
+---
+company-name: TechRadar
+domain: techradar.com
+home: http://www.techradar.com/us
+privacy-policy: http://www.futureplc.com/privacy-policy/
+email: webmaster@furturenet.com
+owned-by: "Future Publishing"
+---
 
-# TechRadar
 
-Name: TechRadar
-Domain: techradar.com
-Home: http://www.techradar.com/us
-Privacy_policy: http://www.futureplc.com/privacy-policy/
-Email: webmaster@furturenet.com
-Owned_by: Future Publishing
+

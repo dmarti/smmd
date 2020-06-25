@@ -1,9 +1,11 @@
+---
+company-name: SoundCast
+domain: soundcast.fm
+home: https://soundcast.fm
+privacy-policy: https://soundcast.fm/en/data-privacy
+email: contact@soundcast.fm
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# SoundCast
 
-Name: SoundCast
-Domain: soundcast.fm
-Home: https://soundcast.fm
-Privacy_policy: https://soundcast.fm/en/data-privacy
-Email: contact@soundcast.fm
-Member_of: Interactive Advertising Bureau (IAB)
+

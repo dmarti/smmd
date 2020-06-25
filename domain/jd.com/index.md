@@ -1,7 +1,9 @@
+---
+company-name: "Jing Dong"
+domain: jd.com
+home: http://www.jd.com/
+privacy-policy: http://about.jd.com/privacy/
+---
 
-# Jing Dong
 
-Name: Jing Dong
-Domain: jd.com
-Home: http://www.jd.com/
-Privacy_policy: http://about.jd.com/privacy/
+

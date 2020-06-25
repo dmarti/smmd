@@ -1,7 +1,9 @@
+---
+company-name: PureRED
+domain: purered.net
+home: http://www.purered.net/
+privacy-policy: http://www.purered.net/privacy-policy/
+---
 
-# PureRED
 
-Name: PureRED
-Domain: purered.net
-Home: http://www.purered.net/
-Privacy_policy: http://www.purered.net/privacy-policy/
+

@@ -1,8 +1,10 @@
+---
+company-name: GoingUp
+domain: goingup.com
+home: https://www.goingup.com/
+privacy-policy: https://www.goingup.com/privacy-policy/
+email: info@goingup.com
+---
 
-# GoingUp
 
-Name: GoingUp
-Domain: goingup.com
-Home: https://www.goingup.com/
-Privacy_policy: https://www.goingup.com/privacy-policy/
-Email: info@goingup.com
+

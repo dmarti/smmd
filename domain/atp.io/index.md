@@ -1,8 +1,10 @@
+---
+company-name: "ATP (Audience Trading Platform)"
+domain: atp.io
+home: https://atp.io/
+privacy-policy: https://atp.io/privacy-policy
+email: newyork@atp.io
+---
 
-# ATP (Audience Trading Platform)
 
-Name: ATP (Audience Trading Platform)
-Domain: atp.io
-Home: https://atp.io/
-Privacy_policy: https://atp.io/privacy-policy
-Email: newyork@atp.io
+

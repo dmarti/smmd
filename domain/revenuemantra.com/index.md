@@ -1,8 +1,10 @@
+---
+company-name: RevenueMantra
+domain: revenuemantra.com
+home: http://www.revenuemantra.com/
+privacy-policy: http://www.revenuemantra.com/privacy.html
+email: contact@revenuemantra.com
+---
 
-# RevenueMantra
 
-Name: RevenueMantra
-Domain: revenuemantra.com
-Home: http://www.revenuemantra.com/
-Privacy_policy: http://www.revenuemantra.com/privacy.html
-Email: contact@revenuemantra.com
+

@@ -1,9 +1,11 @@
+---
+company-name: Cendyn
+domain: cendyn.com
+home: http://www.cendyn.com/
+privacy-policy: http://www.cendyn.com/privacy-policy/
+email: support@cendyn.com
+member-of: TrustE_TrustArc
+---
 
-# Cendyn
 
-Name: Cendyn
-Domain: cendyn.com
-Home: http://www.cendyn.com/
-Privacy_policy: http://www.cendyn.com/privacy-policy/
-Email: support@cendyn.com
-Member_of: TrustE_TrustArc
+

@@ -1,8 +1,10 @@
+---
+company-name: BannerNow
+domain: bannernow.com
+home: https://bannernow.com/
+privacy-policy: https://bannernow.com/privacy
+email: support@bannernow.com
+---
 
-# BannerNow
 
-Name: BannerNow
-Domain: bannernow.com
-Home: https://bannernow.com/
-Privacy_policy: https://bannernow.com/privacy
-Email: support@bannernow.com
+

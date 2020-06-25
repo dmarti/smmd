@@ -1,8 +1,10 @@
+---
+company-name: RadarStats
+domain: radarstats.com
+home: http://www.radarstats.com/
+privacy-policy: http://radarstats.com/pages/policy/
+email: coredevise@gmail.com
+---
 
-# RadarStats
 
-Name: RadarStats
-Domain: radarstats.com
-Home: http://www.radarstats.com/
-Privacy_policy: http://radarstats.com/pages/policy/
-Email: coredevise@gmail.com
+

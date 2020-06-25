@@ -1,7 +1,9 @@
+---
+company-name: "Mint Digital"
+domain: mintdigital.com
+home: https://mintdigital.com/
+email: hello@mintdigital.com
+---
 
-# Mint Digital
 
-Name: Mint Digital
-Domain: mintdigital.com
-Home: https://mintdigital.com/
-Email: hello@mintdigital.com
+

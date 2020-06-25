@@ -1,7 +1,9 @@
+---
+company-name: "Keep Holdings (formerly AdKeeper)"
+domain: keepholdings.com
+home: http://www.keepholdings.com/
+email: info@keepholdings.com
+---
 
-# Keep Holdings (formerly AdKeeper)
 
-Name: Keep Holdings (formerly AdKeeper)
-Domain: keepholdings.com
-Home: http://www.keepholdings.com/
-Email: info@keepholdings.com
+

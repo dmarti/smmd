@@ -1,8 +1,10 @@
+---
+company-name: Blinds.com
+domain: blinds.com
+home: http://www.blinds.com/
+privacy-policy: https://www.blinds.com/infopage/privacy-policy
+email: subscription@blinds.com
+---
 
-# Blinds.com
 
-Name: Blinds.com
-Domain: blinds.com
-Home: http://www.blinds.com/
-Privacy_policy: https://www.blinds.com/infopage/privacy-policy
-Email: subscription@blinds.com
+

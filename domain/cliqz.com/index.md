@@ -1,8 +1,10 @@
+---
+company-name: Cliqz
+domain: cliqz.com
+home: https://cliqz.com/
+privacy-policy: https://cliqz.com/en/legal
+email: info@cliqz.com
+---
 
-# Cliqz
 
-Name: Cliqz
-Domain: cliqz.com
-Home: https://cliqz.com/
-Privacy_policy: https://cliqz.com/en/legal
-Email: info@cliqz.com
+

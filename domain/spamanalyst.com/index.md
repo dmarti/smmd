@@ -1,6 +1,8 @@
+---
+company-name: "Spam Analyst"
+domain: spamanalyst.com
+home: http://spamanalyst.com/
+---
 
-# Spam Analyst
 
-Name: Spam Analyst
-Domain: spamanalyst.com
-Home: http://spamanalyst.com/
+

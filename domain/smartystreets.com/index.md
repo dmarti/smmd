@@ -1,8 +1,10 @@
+---
+company-name: SmartyStreets
+domain: smartystreets.com
+home: https://smartystreets.com/
+privacy-policy: https://smartystreets.com/legal/privacy-policy
+email: sales@smartystreets.com
+---
 
-# SmartyStreets
 
-Name: SmartyStreets
-Domain: smartystreets.com
-Home: https://smartystreets.com/
-Privacy_policy: https://smartystreets.com/legal/privacy-policy
-Email: sales@smartystreets.com
+

@@ -1,7 +1,9 @@
+---
+company-name: JuggCash
+domain: juggcash.com
+home: http://www.juggcash.com
+email: mouss@brazzers.com
+---
 
-# JuggCash
 
-Name: JuggCash
-Domain: juggcash.com
-Home: http://www.juggcash.com
-Email: mouss@brazzers.com
+

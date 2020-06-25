@@ -1,9 +1,11 @@
+---
+company-name: Panjiva
+domain: panjiva.com
+home: https://panjiva.com
+privacy-policy: https://panjiva.com/info/privacy_policy
+email: privacy@panjiva.com
+owned-by: "SNL Financial (S&P Global)"
+---
 
-# Panjiva
 
-Name: Panjiva
-Domain: panjiva.com
-Home: https://panjiva.com
-Privacy_policy: https://panjiva.com/info/privacy_policy
-Email: privacy@panjiva.com
-Owned_by: SNL Financial (S&P Global)
+

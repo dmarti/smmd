@@ -1,8 +1,10 @@
+---
+company-name: RebelMouse
+domain: rebelmouse.com
+home: https://www.rebelmouse.com/
+privacy-policy: https://www.rebelmouse.com/st/Privacy_Policy
+email: early@rebelmouse.com
+---
 
-# RebelMouse
 
-Name: RebelMouse
-Domain: rebelmouse.com
-Home: https://www.rebelmouse.com/
-Privacy_policy: https://www.rebelmouse.com/st/Privacy_Policy
-Email: early@rebelmouse.com
+

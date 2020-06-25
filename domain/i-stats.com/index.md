@@ -1,7 +1,9 @@
+---
+company-name: I-stats
+domain: i-stats.com
+home: http://www.i-stats.com/
+email: admin@i-stats.com
+---
 
-# I-stats
 
-Name: I-stats
-Domain: i-stats.com
-Home: http://www.i-stats.com/
-Email: admin@i-stats.com
+

@@ -1,9 +1,11 @@
+---
+company-name: SubPLY
+domain: subply.com
+home: http://www.subply.com/
+privacy-policy: http://www.subply.com/en/privacy.htm
+email: info@subply.com
+owned-by: PLYmedia
+---
 
-# SubPLY
 
-Name: SubPLY
-Domain: subply.com
-Home: http://www.subply.com/
-Privacy_policy: http://www.subply.com/en/privacy.htm
-Email: info@subply.com
-Owned_by: PLYmedia
+

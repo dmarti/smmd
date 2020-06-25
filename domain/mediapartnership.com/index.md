@@ -1,8 +1,10 @@
+---
+company-name: "Media Partnership"
+domain: mediapartnership.com
+home: http://www.mediapartnership.com/
+email: info@mediapartnership.com
+member-of: "American Association of Advertising Agencies"
+---
 
-# Media Partnership
 
-Name: Media Partnership
-Domain: mediapartnership.com
-Home: http://www.mediapartnership.com/
-Email: info@mediapartnership.com
-Member_of: American Association of Advertising Agencies
+

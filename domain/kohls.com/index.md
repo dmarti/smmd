@@ -1,7 +1,9 @@
-# Kohl's
+---
+company-name: Kohl's
+domain: kohls.com
+opt-out-url: https://www.kohls.com/CAPrivacyCenter
+---
 
-Name: Kohl's
 
-Domain: kohls.com
 
-Opt_out_url: https://www.kohls.com/CAPrivacyCenter
+

@@ -1,8 +1,10 @@
+---
+company-name: "Campus Explorer"
+domain: campusexplorer.com
+home: http://www.campusexplorer.com/
+privacy-policy: http://www.campusexplorer.com/company/legal/privacy/
+email: privacy@campusexplorer.com
+---
 
-# Campus Explorer
 
-Name: Campus Explorer
-Domain: campusexplorer.com
-Home: http://www.campusexplorer.com/
-Privacy_policy: http://www.campusexplorer.com/company/legal/privacy/
-Email: privacy@campusexplorer.com
+

@@ -1,6 +1,8 @@
+---
+company-name: "Huddled Masses"
+domain: huddledmasses.com
+home: https://huddledmasses.com/
+---
 
-# Huddled Masses 
 
-Name: Huddled Masses 
-Domain: huddledmasses.com
-Home: https://huddledmasses.com/
+

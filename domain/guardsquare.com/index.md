@@ -1,7 +1,9 @@
+---
+company-name: ProGuard
+domain: guardsquare.com
+home: https://www.guardsquare.com/en/products/proguard
+privacy-policy: https://www.guardsquare.com/en/privacy-policy
+---
 
-# ProGuard
 
-Name: ProGuard
-Domain: guardsquare.com
-Home: https://www.guardsquare.com/en/products/proguard
-Privacy_policy: https://www.guardsquare.com/en/privacy-policy
+

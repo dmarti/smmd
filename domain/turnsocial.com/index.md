@@ -1,8 +1,10 @@
+---
+company-name: TurnSocial
+domain: turnsocial.com
+home: http://turnsocial.com/
+privacy-policy: http://turnsocial.com/privacy
+email: info@turnsocial.com
+---
 
-# TurnSocial
 
-Name: TurnSocial
-Domain: turnsocial.com
-Home: http://turnsocial.com/
-Privacy_policy: http://turnsocial.com/privacy
-Email: info@turnsocial.com
+

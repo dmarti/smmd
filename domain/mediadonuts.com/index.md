@@ -1,9 +1,11 @@
+---
+company-name: MediaDonuts
+domain: mediadonuts.com
+home: https://www.mediadonuts.com/
+privacy-policy: https://www.mediadonuts.com/privacy.php
+email: info@mediadonuts.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# MediaDonuts
 
-Name: MediaDonuts
-Domain: mediadonuts.com
-Home: https://www.mediadonuts.com/
-Privacy_policy: https://www.mediadonuts.com/privacy.php
-Email: info@mediadonuts.com
-Member_of: Interactive Advertising Bureau (IAB)
+

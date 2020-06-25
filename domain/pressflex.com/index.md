@@ -1,7 +1,9 @@
+---
+company-name: Pressflex
+domain: pressflex.com
+home: http://www.pressflex.com/
+email: privacy@pressflex.com
+---
 
-# Pressflex
 
-Name: Pressflex
-Domain: pressflex.com
-Home: http://www.pressflex.com/
-Email: privacy@pressflex.com
+

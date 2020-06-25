@@ -1,8 +1,10 @@
+---
+company-name: Conmio
+domain: conmio.com
+home: http://www.conmio.com/
+privacy-policy: http://www.conmio.com/privacy
+email: contact@conmio.com
+---
 
-# Conmio
 
-Name: Conmio
-Domain: conmio.com
-Home: http://www.conmio.com/
-Privacy_policy: http://www.conmio.com/privacy
-Email: contact@conmio.com
+

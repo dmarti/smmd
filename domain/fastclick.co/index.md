@@ -1,6 +1,8 @@
+---
+company-name: FastClick
+domain: fastclick.co
+home: http://fastclick.co/
+---
 
-# FastClick 
 
-Name: FastClick 
-Domain: fastclick.co
-Home: http://fastclick.co/
+

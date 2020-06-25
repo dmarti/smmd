@@ -1,8 +1,10 @@
+---
+company-name: "Oxford Biochonometrics"
+domain: oxford-biochron.com
+home: https://oxford-biochron.com/
+privacy-policy: https://oxford-biochron.com/privacy-policy/
+email: info@oxford-biochron.com
+---
 
-# Oxford Biochonometrics
 
-Name: Oxford Biochonometrics
-Domain: oxford-biochron.com
-Home: https://oxford-biochron.com/
-Privacy_policy: https://oxford-biochron.com/privacy-policy/
-Email: info@oxford-biochron.com
+

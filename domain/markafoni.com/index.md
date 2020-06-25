@@ -1,8 +1,10 @@
+---
+company-name: Markafoni
+domain: markafoni.com
+home: https://www.markafoni.com/
+privacy-policy: https://www.markafoni.com/s/gizlilik-politikasi
+email: support@markafoni.com
+---
 
-# Markafoni
 
-Name: Markafoni
-Domain: markafoni.com
-Home: https://www.markafoni.com/
-Privacy_policy: https://www.markafoni.com/s/gizlilik-politikasi
-Email: support@markafoni.com
+

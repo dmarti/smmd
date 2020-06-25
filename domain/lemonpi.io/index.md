@@ -1,9 +1,11 @@
+---
+company-name: LemonPI
+domain: lemonpi.io
+home: https://www.lemonpi.io/
+privacy-policy: https://www.lemonpi.io/privacy-policy/
+email: privacy@greenhousegroup.com
+owned-by: "Greenhouse Group"
+---
 
-# LemonPI
 
-Name: LemonPI
-Domain: lemonpi.io
-Home: https://www.lemonpi.io/
-Privacy_policy: https://www.lemonpi.io/privacy-policy/
-Email: privacy@greenhousegroup.com
-Owned_by: Greenhouse Group
+

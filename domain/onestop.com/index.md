@@ -1,8 +1,10 @@
+---
+company-name: Onestop
+domain: onestop.com
+home: http://www.onestop.com/
+privacy-policy: http://onestop.com/privacy-policy/
+email: info@onestop.com
+---
 
-# Onestop
 
-Name: Onestop
-Domain: onestop.com
-Home: http://www.onestop.com/
-Privacy_policy: http://onestop.com/privacy-policy/
-Email: info@onestop.com
+

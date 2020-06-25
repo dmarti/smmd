@@ -1,21 +1,10 @@
-
-# Second Measure
-
-Name: Second Measure
-
-Domain: secondmeasure.com
-
-Home: secondmeasure.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: "Second Measure"
+domain: secondmeasure.com
+home: secondmeasure.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

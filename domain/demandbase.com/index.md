@@ -1,8 +1,10 @@
+---
+company-name: Demandbase
+domain: demandbase.com
+home: https://www.demandbase.com/
+privacy-policy: https://www.demandbase.com/privacy-policy/
+email: support@demandbase.com
+---
 
-# Demandbase
 
-Name: Demandbase
-Domain: demandbase.com
-Home: https://www.demandbase.com/
-Privacy_policy: https://www.demandbase.com/privacy-policy/
-Email: support@demandbase.com
+

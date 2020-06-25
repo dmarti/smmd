@@ -1,8 +1,10 @@
+---
+company-name: "Gothamist LLC"
+domain: gothamistllc.com
+home: http://gothamistllc.com/mediakit/
+privacy-policy: http://gothamistllc.com/privacylegal/
+email: legal@gothamist.com
+---
 
-# Gothamist LLC
 
-Name: Gothamist LLC
-Domain: gothamistllc.com
-Home: http://gothamistllc.com/mediakit/
-Privacy_policy: http://gothamistllc.com/privacylegal/
-Email: legal@gothamist.com
+

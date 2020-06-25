@@ -1,8 +1,10 @@
+---
+company-name: Adcrowd
+domain: adcrowd.com
+home: https://www.adcrowd.com
+privacy-policy: https://www.adcrowd.com/nl/privacy
+email: support@adcrowd.nl
+---
 
-# Adcrowd
 
-Name: Adcrowd
-Domain: adcrowd.com
-Home: https://www.adcrowd.com
-Privacy_policy: https://www.adcrowd.com/nl/privacy
-Email: support@adcrowd.nl
+

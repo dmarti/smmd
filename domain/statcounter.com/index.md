@@ -1,7 +1,9 @@
+---
+company-name: StatCounter
+domain: statcounter.com
+home: http://statcounter.com/
+privacy-policy: http://statcounter.com/about/legal/#privacy
+---
 
-# StatCounter
 
-Name: StatCounter
-Domain: statcounter.com
-Home: http://statcounter.com/
-Privacy_policy: http://statcounter.com/about/legal/#privacy
+

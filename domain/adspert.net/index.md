@@ -1,8 +1,10 @@
+---
+company-name: "Adspert (Bidmanagement GmbH)"
+domain: adspert.net
+home: https://www.adspert.net
+privacy-policy: https://www.adspert.net/de/datenschutz/
+email: info@adspert.de
+---
 
-# Adspert (Bidmanagement GmbH)
 
-Name: Adspert (Bidmanagement GmbH)
-Domain: adspert.net
-Home: https://www.adspert.net
-Privacy_policy: https://www.adspert.net/de/datenschutz/
-Email: info@adspert.de
+

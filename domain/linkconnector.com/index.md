@@ -1,9 +1,11 @@
+---
+company-name: LinkConnector
+domain: linkconnector.com
+home: https://www.linkconnector.com/
+privacy-policy: https://www.linkconnector.com/privacy-policy/
+email: policy@linkconnector.com
+member-of: DMA_ANA
+---
 
-# LinkConnector
 
-Name: LinkConnector
-Domain: linkconnector.com
-Home: https://www.linkconnector.com/
-Privacy_policy: https://www.linkconnector.com/privacy-policy/
-Email: policy@linkconnector.com
-Member_of: DMA_ANA
+

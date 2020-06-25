@@ -1,8 +1,10 @@
+---
+company-name: BeOp
+domain: beop.io
+home: https://beop.io/
+privacy-policy: https://beop.io/privacy
+email: dpo@beop.io
+---
 
-# BeOp
 
-Name: BeOp
-Domain: beop.io
-Home: https://beop.io/
-Privacy_policy: https://beop.io/privacy
-Email: dpo@beop.io
+

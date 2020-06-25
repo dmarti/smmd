@@ -1,23 +1,12 @@
-
-# US Marketing Group
-
-Name: US Marketing Group
-
-Domain: usmarketinggrp.com
-
-Home: http://www.usmarketinggrp.com
-
-Email: arash [at] usmarketinggrp.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/27/2020
-
-
-
+---
+company-name: "US Marketing Group"
+domain: usmarketinggrp.com
+home: http://www.usmarketinggrp.com
+email: "arash [at] usmarketinggrp.com"
+california-date: 02/27/2020
+---
 ## How to opt out
+
 
 In process of building new site.
 
@@ -33,6 +22,7 @@ For more information about verification, see Response Timing and Format . For in
 
 ## How to delete
 
+
 In process of building new site.
 
 Exercising Access, Data Portability, and Deletion Rights
@@ -47,7 +37,20 @@ For more information about verification, see Response Timing and Format . For in
 
 ## Additional info
 
+
 All data we License is either opt in through a landing page or public information. We do not aggregate any data ourselves.
 
 5435 Balboa Blvd, suite 201Encino, CA 91316United States
+
+
+
+
+
+
+
+
+
+
+
+
 

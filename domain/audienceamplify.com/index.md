@@ -1,7 +1,9 @@
+---
+company-name: "Audience Amplify"
+domain: audienceamplify.com
+home: http://audienceamplify.com/
+email: info@audienceamplify.com
+---
 
-# Audience Amplify
 
-Name: Audience Amplify
-Domain: audienceamplify.com
-Home: http://audienceamplify.com/
-Email: info@audienceamplify.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Pipz Automation"
+domain: pipz.com
+home: https://pipz.com
+privacy-policy: https://pipz.com/legal/privacy-policy/
+email: contact@ecentry.com
+---
 
-# Pipz Automation
 
-Name: Pipz Automation
-Domain: pipz.com
-Home: https://pipz.com
-Privacy_policy: https://pipz.com/legal/privacy-policy/
-Email: contact@ecentry.com
+

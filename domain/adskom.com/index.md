@@ -1,8 +1,10 @@
+---
+company-name: ADSKOM
+domain: adskom.com
+home: http://adskom.com/
+privacy-policy: http://adskom.com/
+email: info@adskom.com
+---
 
-# ADSKOM
 
-Name: ADSKOM
-Domain: adskom.com
-Home: http://adskom.com/
-Privacy_policy: http://adskom.com/
-Email: info@adskom.com
+

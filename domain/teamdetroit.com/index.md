@@ -1,8 +1,10 @@
+---
+company-name: "Team Detroit"
+domain: teamdetroit.com
+home: http://www.teamdetroit.com/
+privacy-policy: http://www.teamdetroit.com/_/doc/TDI_Website_Internet_Privacy_Policy.pdf
+email: Bob.Mueller@teamdetroit.com
+---
 
-# Team Detroit
 
-Name: Team Detroit
-Domain: teamdetroit.com
-Home: http://www.teamdetroit.com/
-Privacy_policy: http://www.teamdetroit.com/_/doc/TDI_Website_Internet_Privacy_Policy.pdf
-Email: Bob.Mueller@teamdetroit.com
+

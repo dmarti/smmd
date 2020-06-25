@@ -1,7 +1,9 @@
+---
+company-name: 1password
+domain: 1password.com
+home: https://1password.com/
+privacy-policy: https://1password.com/legal/privacy/
+---
 
-# 1password
 
-Name: 1password
-Domain: 1password.com
-Home: https://1password.com/
-Privacy_policy: https://1password.com/legal/privacy/
+

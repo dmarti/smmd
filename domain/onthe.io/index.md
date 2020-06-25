@@ -1,8 +1,10 @@
+---
+company-name: onthe.io
+domain: onthe.io
+home: https://t.onthe.io/media
+privacy-policy: https://iotechnologies.com/pp
+email: den@iotechnologies.com
+---
 
-# onthe.io
 
-Name: onthe.io
-Domain: onthe.io
-Home: https://t.onthe.io/media
-Privacy_policy: https://iotechnologies.com/pp
-Email: den@iotechnologies.com
+

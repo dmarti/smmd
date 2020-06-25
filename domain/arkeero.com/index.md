@@ -1,8 +1,10 @@
+---
+company-name: Arkeero
+domain: arkeero.com
+home: https://arkeero.com/
+privacy-policy: https://arkeero.com/privacy/
+email: dpd@arkeero.com
+---
 
-# Arkeero
 
-Name: Arkeero
-Domain: arkeero.com
-Home: https://arkeero.com/
-Privacy_policy: https://arkeero.com/privacy/
-Email: dpd@arkeero.com
+

@@ -1,7 +1,9 @@
+---
+company-name: Anetwork
+domain: anetwork.ir
+home: http://anetwork.ir/
+email: info@anetwork.ir
+---
 
-# Anetwork
 
-Name: Anetwork
-Domain: anetwork.ir
-Home: http://anetwork.ir/
-Email: info@anetwork.ir
+

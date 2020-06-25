@@ -1,7 +1,9 @@
+---
+company-name: "Analog Demographics"
+domain: analogdemographics.com
+home: http://www.analogdemographics.com/
+email: privacy@analogdemographics.com
+---
 
-# Analog Demographics
 
-Name: Analog Demographics
-Domain: analogdemographics.com
-Home: http://www.analogdemographics.com/
-Email: privacy@analogdemographics.com
+

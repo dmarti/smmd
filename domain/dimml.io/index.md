@@ -1,7 +1,9 @@
+---
+company-name: DimML
+domain: dimml.io
+home: http://www.dimml.io/
+owned-by: "Advertisement BV  (Insite Innovations and Properties BV)"
+---
 
-# DimML
 
-Name: DimML
-Domain: dimml.io
-Home: http://www.dimml.io/
-Owned_by: Advertisement BV  (Insite Innovations and Properties BV)
+

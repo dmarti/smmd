@@ -1,6 +1,8 @@
+---
+company-name: AdsCpm
+domain: adscpm.net
+home: http://adscpm.net/
+---
 
-# AdsCpm
 
-Name: AdsCpm
-Domain: adscpm.net
-Home: http://adscpm.net/
+

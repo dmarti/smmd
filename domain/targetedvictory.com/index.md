@@ -1,9 +1,11 @@
+---
+company-name: "Targeted Victory"
+domain: targetedvictory.com
+home: https://www.targetedvictory.com/
+privacy-policy: http://www.targetedvictory.com/privacy-policy/
+email: support@targetedvictory.com
+member-of: "Digital Advertising Alliance"
+---
 
-# Targeted Victory
 
-Name: Targeted Victory
-Domain: targetedvictory.com
-Home: https://www.targetedvictory.com/
-Privacy_policy: http://www.targetedvictory.com/privacy-policy/
-Email: support@targetedvictory.com
-Member_of: Digital Advertising Alliance
+

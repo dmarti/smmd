@@ -1,7 +1,9 @@
+---
+company-name: Fabric
+domain: fabricww.com
+home: http://www.fabricww.com/
+email: privacy@fabricww.com
+---
 
-# Fabric
 
-Name: Fabric
-Domain: fabricww.com
-Home: http://www.fabricww.com/
-Email: privacy@fabricww.com
+

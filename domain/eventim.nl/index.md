@@ -1,9 +1,11 @@
+---
+company-name: "CTS Eventim NL"
+domain: eventim.nl
+home: http://www.eventim.nl/
+privacy-policy: http://www.eventim.nl/tickets.html?affiliate=ENL&doc=info/dataProtection
+email: info@eventim.nl
+owned-by: "CTS Eventim"
+---
 
-# CTS Eventim NL
 
-Name: CTS Eventim NL
-Domain: eventim.nl
-Home: http://www.eventim.nl/
-Privacy_policy: http://www.eventim.nl/tickets.html?affiliate=ENL&doc=info/dataProtection
-Email: info@eventim.nl
-Owned_by: CTS Eventim
+

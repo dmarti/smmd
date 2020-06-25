@@ -1,7 +1,9 @@
+---
+company-name: Sito
+domain: sitomobile.com
+home: http://sitomobile.com/
+privacy-policy: http://sitomobile.com/#privacy
+---
 
-# Sito
 
-Name: Sito
-Domain: sitomobile.com
-Home: http://sitomobile.com/
-Privacy_policy: http://sitomobile.com/#privacy
+

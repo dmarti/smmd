@@ -1,8 +1,10 @@
+---
+company-name: "digitalbox Group"
+domain: digitalbox.com
+home: http://www.digitalbox.com/
+email: hello@digitalbox.com
+member-of: DMA_ANA
+---
 
-# digitalbox Group
 
-Name: digitalbox Group
-Domain: digitalbox.com
-Home: http://www.digitalbox.com/
-Email: hello@digitalbox.com
-Member_of: DMA_ANA
+

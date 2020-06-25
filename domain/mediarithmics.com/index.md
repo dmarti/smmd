@@ -1,8 +1,10 @@
+---
+company-name: Mediarithmics
+domain: mediarithmics.com
+home: https://www.mediarithmics.com/en/
+privacy-policy: https://www.mediarithmics.com/en/legal-notice.html
+email: privacy@mediarithmics.com
+---
 
-# Mediarithmics
 
-Name: Mediarithmics
-Domain: mediarithmics.com
-Home: https://www.mediarithmics.com/en/
-Privacy_policy: https://www.mediarithmics.com/en/legal-notice.html
-Email: privacy@mediarithmics.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "GTxcel (formerly Texterity)"
+domain: gtxcel.com
+home: http://www.gtxcel.com/
+privacy-policy: http://www.gtxcel.com/privacy/
+---
 
-# GTxcel (formerly Texterity)
 
-Name: GTxcel (formerly Texterity)
-Domain: gtxcel.com
-Home: http://www.gtxcel.com/
-Privacy_policy: http://www.gtxcel.com/privacy/
+

@@ -1,6 +1,8 @@
+---
+company-name: ReWords
+domain: rewords.pl
+home: http://www.rewords.pl/
+---
 
-# ReWords
 
-Name: ReWords
-Domain: rewords.pl
-Home: http://www.rewords.pl/
+

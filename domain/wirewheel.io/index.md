@@ -1,8 +1,10 @@
+---
+company-name: WireWheel
+domain: wirewheel.io
+home: https://wirewheel.io/
+privacy-policy: https://wirewheel.io/privacy-studio/
+email: justin@wirewheel.io
+---
 
-# WireWheel
 
-Name: WireWheel
-Domain: wirewheel.io
-Home: https://wirewheel.io/
-Privacy_policy: https://wirewheel.io/privacy-studio/
-Email: justin@wirewheel.io
+

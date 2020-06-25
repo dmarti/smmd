@@ -1,8 +1,10 @@
+---
+company-name: Klikki
+domain: klikki.com
+home: http://www.klikki.com/
+email: stockholm@klikki.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Klikki
 
-Name: Klikki
-Domain: klikki.com
-Home: http://www.klikki.com/
-Email: stockholm@klikki.com
-Member_of: European Data Interactive Alliance
+

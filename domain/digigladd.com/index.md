@@ -1,8 +1,10 @@
+---
+company-name: Digigladd
+domain: digigladd.com
+home: http://www.digigladd.com/
+privacy-policy: http://www.digigladd.com/privacy.php
+email: privacy@digigladd.com
+---
 
-# Digigladd
 
-Name: Digigladd
-Domain: digigladd.com
-Home: http://www.digigladd.com/
-Privacy_policy: http://www.digigladd.com/privacy.php
-Email: privacy@digigladd.com
+

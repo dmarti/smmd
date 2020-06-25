@@ -1,8 +1,10 @@
+---
+company-name: WebEngage
+domain: webengage.com
+home: https://webengage.com/
+privacy-policy: https://webengage.com/privacy/
+email: support@webklipper.com
+---
 
-# WebEngage
 
-Name: WebEngage
-Domain: webengage.com
-Home: https://webengage.com/
-Privacy_policy: https://webengage.com/privacy/
-Email: support@webklipper.com
+

@@ -1,10 +1,10 @@
+---
+company-name: "General Motors"
+domain: gm.com
+home: https://www.gm.com/
+privacy-policy: https://www.gm.com/privacy-statement.html
+member-of: "Digital Advertising Alliance"
+---
 
-# General Motors
 
-Name: General Motors
-Domain: gm.com
-Home: https://www.gm.com/
-Privacy_policy: https://www.gm.com/privacy-statement.html
-Member_of: American Advertising Federation
-Member_of: Association of National Advertisers
-Member_of: Digital Advertising Alliance
+

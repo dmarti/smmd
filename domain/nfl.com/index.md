@@ -1,7 +1,9 @@
-# National Football League
+---
+company-name: "National Football League"
+domain: nfl.com
+opt-out-url: https://www.nfl.com/help/privacy#california
+---
 
-Name: National Football League
 
-Domain: nfl.com
 
-Opt_out_url: https://www.nfl.com/help/privacy#california
+

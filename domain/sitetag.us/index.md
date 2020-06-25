@@ -1,8 +1,10 @@
+---
+company-name: SiteTag
+domain: sitetag.us
+home: http://www.sitetag.us/
+privacy-policy: http://www.sitetag.us/privacy
+email: privacy@sitetag.us
+---
 
-# SiteTag
 
-Name: SiteTag
-Domain: sitetag.us
-Home: http://www.sitetag.us/
-Privacy_policy: http://www.sitetag.us/privacy
-Email: privacy@sitetag.us
+

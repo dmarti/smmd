@@ -1,6 +1,8 @@
+---
+company-name: "New Nation"
+domain: newnation.sg
+home: http://newnation.sg/
+---
 
-# New Nation
 
-Name: New Nation
-Domain: newnation.sg
-Home: http://newnation.sg/
+

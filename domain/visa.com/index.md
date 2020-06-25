@@ -1,7 +1,9 @@
+---
+company-name: Visa
+domain: visa.com
+home: http://www.visa.com
+privacy-policy: https://usa.visa.com/legal/privacy-policy.html
+---
 
-# Visa
 
-Name: Visa
-Domain: visa.com
-Home: http://www.visa.com
-Privacy_policy: https://usa.visa.com/legal/privacy-policy.html
+

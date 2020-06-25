@@ -1,8 +1,10 @@
+---
+company-name: "CPM Rocket"
+domain: cpmrocket.com
+home: http://www.cpmrocket.com/
+privacy-policy: http://cpmrocket.com/privacy.html
+email: nuria@cpmrocket.com
+---
 
-# CPM Rocket
 
-Name: CPM Rocket
-Domain: cpmrocket.com
-Home: http://www.cpmrocket.com/
-Privacy_policy: http://cpmrocket.com/privacy.html
-Email: nuria@cpmrocket.com
+

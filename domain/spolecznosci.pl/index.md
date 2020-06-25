@@ -1,9 +1,11 @@
+---
+company-name: Spolecznosci
+domain: spolecznosci.pl
+home: https://www.spolecznosci.pl/
+privacy-policy: https://www.spolecznosci.pl/polityka-prywatnosci
+email: iod@spolecznosci.pl
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Spolecznosci
 
-Name: Spolecznosci
-Domain: spolecznosci.pl
-Home: https://www.spolecznosci.pl/
-Privacy_policy: https://www.spolecznosci.pl/polityka-prywatnosci
-Email: iod@spolecznosci.pl
-Member_of: Interactive Advertising Bureau (IAB)
+

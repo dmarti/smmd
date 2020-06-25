@@ -1,9 +1,11 @@
+---
+company-name: "Financial Content"
+domain: financialcontent.com
+home: http://www.financialcontent.com
+privacy-policy: http://www.financialcontent.com/privacy.php
+email: support@financialcontent.com
+member-of: "Network Advertising Initiative"
+---
 
-# Financial Content
 
-Name: Financial Content
-Domain: financialcontent.com
-Home: http://www.financialcontent.com
-Privacy_policy: http://www.financialcontent.com/privacy.php
-Email: support@financialcontent.com
-Member_of: Network Advertising Initiative
+

@@ -1,7 +1,9 @@
-# Disney
+---
+company-name: Disney
+domain: thewaltdisneycompany.com
+opt-out-url: https://privacy.thewaltdisneycompany.com/en/dnsmi/
+---
 
-Name: Disney
 
-Domain: thewaltdisneycompany.com
 
-Opt_out_url: https://privacy.thewaltdisneycompany.com/en/dnsmi/
+

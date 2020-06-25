@@ -1,8 +1,10 @@
+---
+company-name: "HQ GmbH"
+domain: hqgmbh.eu
+home: https://www.hqgmbh.eu/
+privacy-policy: https://www.hqgmbh.eu/datenschutz.html
+email: info@hqgmbh.de
+---
 
-# HQ GmbH
 
-Name: HQ GmbH
-Domain: hqgmbh.eu
-Home: https://www.hqgmbh.eu/
-Privacy_policy: https://www.hqgmbh.eu/datenschutz.html
-Email: info@hqgmbh.de
+

@@ -1,9 +1,11 @@
+---
+company-name: TailTarget
+domain: tail.digital
+home: http://www.tail.digital/
+privacy-policy: http://www.tail.digital/
+email: faleconosco@tail.digital
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# TailTarget
 
-Name: TailTarget
-Domain: tail.digital
-Home: http://www.tail.digital/
-Privacy_policy: http://www.tail.digital/
-Email: faleconosco@tail.digital
-Member_of: Interactive Advertising Bureau (IAB)
+

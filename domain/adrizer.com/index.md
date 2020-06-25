@@ -1,8 +1,10 @@
+---
+company-name: AdRizer
+domain: adrizer.com
+home: https://adrizer.com/
+privacy-policy: https://adrizer.com/privacy-policy/
+email: privacy@adrizer.com
+---
 
-# AdRizer
 
-Name: AdRizer
-Domain: adrizer.com
-Home: https://adrizer.com/
-Privacy_policy: https://adrizer.com/privacy-policy/
-Email: privacy@adrizer.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "Deli Ads"
+domain: deliads.com
+home: http://www.deliads.com/
+email: info@deliads.com
+---
 
-# Deli Ads
 
-Name: Deli Ads
-Domain: deliads.com
-Home: http://www.deliads.com/
-Email: info@deliads.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Eventbrite
+domain: eventbrite.com
+home: http://www.eventbrite.com/
+privacy-policy: https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy
+email: privacy@eventbrite.com
+---
 
-# Eventbrite
 
-Name: Eventbrite
-Domain: eventbrite.com
-Home: http://www.eventbrite.com/
-Privacy_policy: https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy
-Email: privacy@eventbrite.com
+

@@ -1,7 +1,9 @@
+---
+company-name: Pulselive
+domain: pulselive.com
+home: http://pulselive.com/
+privacy-policy: http://pulselive.com/privacy-policy/
+---
 
-# Pulselive
 
-Name: Pulselive
-Domain: pulselive.com
-Home: http://pulselive.com/
-Privacy_policy: http://pulselive.com/privacy-policy/
+

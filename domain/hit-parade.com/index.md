@@ -1,6 +1,8 @@
+---
+company-name: Hit-Parade
+domain: hit-parade.com
+home: http://www.hit-parade.com/
+---
 
-# Hit-Parade
 
-Name: Hit-Parade
-Domain: hit-parade.com
-Home: http://www.hit-parade.com/
+

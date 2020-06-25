@@ -1,8 +1,10 @@
+---
+company-name: Hashtag'd
+domain: hashtagd.net
+home: https://hashtagd.net/
+privacy-policy: https://hashtagd.net/about/privacy
+email: help@hashtagd.net
+---
 
-# Hashtag'd
 
-Name: Hashtag'd
-Domain: hashtagd.net
-Home: https://hashtagd.net/
-Privacy_policy: https://hashtagd.net/about/privacy
-Email: help@hashtagd.net
+

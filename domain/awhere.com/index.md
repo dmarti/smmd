@@ -1,7 +1,9 @@
+---
+company-name: aWhere
+domain: awhere.com
+home: http://www.awhere.com/en-us
+privacy-policy: http://www.awhere.com/privacy-policy
+---
 
-# aWhere
 
-Name: aWhere
-Domain: awhere.com
-Home: http://www.awhere.com/en-us
-Privacy_policy: http://www.awhere.com/privacy-policy
+

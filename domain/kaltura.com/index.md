@@ -1,8 +1,10 @@
+---
+company-name: Kaltura
+domain: kaltura.com
+home: http://corp.kaltura.com/
+privacy-policy: https://corp.kaltura.com/privacy-policy/
+email: info@kaltura.com
+---
 
-# Kaltura
 
-Name: Kaltura
-Domain: kaltura.com
-Home: http://corp.kaltura.com/
-Privacy_policy: https://corp.kaltura.com/privacy-policy/
-Email: info@kaltura.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Opinion People"
+domain: opinion-people.com
+home: https://opinion-people.com/
+privacy-policy: https://opinion-people.com/dataprotection
+email: dpo@opinion-people.com
+---
 
-# Opinion People
 
-Name: Opinion People
-Domain: opinion-people.com
-Home: https://opinion-people.com/
-Privacy_policy: https://opinion-people.com/dataprotection
-Email: dpo@opinion-people.com
+

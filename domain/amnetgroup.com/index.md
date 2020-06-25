@@ -1,8 +1,10 @@
+---
+company-name: "AMNET Group"
+domain: amnetgroup.com
+home: http://www.amnetgroup.com/
+privacy-policy: https://www.amnetgroup.com/terms-and-privacy/
+owned-by: "Dentsu Aegis Network"
+---
 
-# AMNET Group 
 
-Name: AMNET Group 
-Domain: amnetgroup.com
-Home: http://www.amnetgroup.com/ 
-Privacy_policy: https://www.amnetgroup.com/terms-and-privacy/
-Owned_by: Dentsu Aegis Network
+

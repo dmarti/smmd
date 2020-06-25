@@ -1,8 +1,10 @@
+---
+company-name: Twitvid
+domain: twitvid.com
+home: http://www.twitvid.com/
+privacy-policy: http://www.twitvid.com/?s=about#privacy
+email: support@twitvid.com
+---
 
-# Twitvid
 
-Name: Twitvid
-Domain: twitvid.com
-Home: http://www.twitvid.com/
-Privacy_policy: http://www.twitvid.com/?s=about#privacy
-Email: support@twitvid.com
+

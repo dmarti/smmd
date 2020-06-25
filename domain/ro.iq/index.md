@@ -1,23 +1,11 @@
-
-# RoiQ Inc
-
-Name: RoiQ Inc
-
-Domain: ro.iq
-
-Home: www.ro.iq
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 362929
-
-
-
+---
+company-name: "RoiQ Inc"
+domain: ro.iq
+home: www.ro.iq
+vermont-id: 362929
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 362929
 
 
 
+
 ## Additional info
 
 
 
+
 7901 4th St., STE 300, St. Petersburg, FL, 33702, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,7 +1,9 @@
+---
+company-name: Binotel
+domain: binotel.ua
+home: http://www.binotel.ua/
+email: service@binotel.ua
+---
 
-# Binotel
 
-Name: Binotel
-Domain: binotel.ua
-Home: http://www.binotel.ua/
-Email: service@binotel.ua
+

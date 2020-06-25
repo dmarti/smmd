@@ -1,8 +1,10 @@
+---
+company-name: Zapr
+domain: zapr.in
+home: https://www.zapr.in/
+privacy-policy: https://www.zapr.in/privacy/
+email: privacy@zapr.in
+---
 
-# Zapr 
 
-Name: Zapr 
-Domain: zapr.in
-Home: https://www.zapr.in/
-Privacy_policy: https://www.zapr.in/privacy/
-Email: privacy@zapr.in
+

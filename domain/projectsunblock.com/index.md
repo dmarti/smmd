@@ -1,6 +1,8 @@
+---
+company-name: "Project Sunblock"
+domain: projectsunblock.com
+home: http://www.projectsunblock.com/
+---
 
-# Project Sunblock
 
-Name: Project Sunblock
-Domain: projectsunblock.com
-Home: http://www.projectsunblock.com/
+

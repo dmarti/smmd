@@ -1,8 +1,10 @@
+---
+company-name: "RTX Platform"
+domain: rtxplatform.com
+home: https://www.rtxplatform.com/
+privacy-policy: https://www.rtxplatform.com/privacy/
+email: privacy@rtxplatform.com
+---
 
-# RTX Platform
 
-Name: RTX Platform
-Domain: rtxplatform.com
-Home: https://www.rtxplatform.com/
-Privacy_policy: https://www.rtxplatform.com/privacy/
-Email: privacy@rtxplatform.com
+

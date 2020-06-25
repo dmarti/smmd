@@ -1,6 +1,8 @@
+---
+company-name: Maxlab
+domain: maxlab.ru
+home: http://maxlab.ru
+---
 
-# Maxlab
 
-Name: Maxlab
-Domain: maxlab.ru
-Home: http://maxlab.ru
+

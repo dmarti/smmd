@@ -1,6 +1,8 @@
+---
+company-name: "BannerHost (Yadro)"
+domain: bannerhost.ru
+home: http://bannerhost.ru/
+---
 
-# BannerHost (Yadro)
 
-Name: BannerHost (Yadro)
-Domain: bannerhost.ru
-Home: http://bannerhost.ru/
+

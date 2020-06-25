@@ -1,6 +1,8 @@
+---
+company-name: "Nexstar Media Group"
+domain: nexstar.tv
+home: http://www.nexstar.tv
+---
 
-# Nexstar Media Group
 
-Name: Nexstar Media Group
-Domain: nexstar.tv
-Home: http://www.nexstar.tv
+

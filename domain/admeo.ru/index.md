@@ -1,7 +1,9 @@
+---
+company-name: Admeo.ru
+domain: admeo.ru
+home: http://admeo.ru/
+privacy-policy: http://
+---
 
-# Admeo.ru
 
-Name: Admeo.ru
-Domain: admeo.ru
-Home: http://admeo.ru/
-Privacy_policy: http://
+

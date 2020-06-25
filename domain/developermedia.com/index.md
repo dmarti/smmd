@@ -1,8 +1,10 @@
+---
+company-name: "Developer Media"
+domain: developermedia.com
+home: https://developermedia.com/
+privacy-policy: https://developermedia.com/developer-media-privacy-policy/
+email: webmaster@developermedia.com
+---
 
-# Developer Media
 
-Name: Developer Media
-Domain: developermedia.com
-Home: https://developermedia.com/
-Privacy_policy: https://developermedia.com/developer-media-privacy-policy/
-Email: webmaster@developermedia.com
+

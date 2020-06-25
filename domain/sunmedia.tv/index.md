@@ -1,9 +1,11 @@
+---
+company-name: SunMedia
+domain: sunmedia.tv
+home: https://www.sunmedia.tv/
+privacy-policy: https://www.sunmedia.tv/en/legal
+email: gdpr@sunmedia.tv
+owned-by: Fibonad
+---
 
-# SunMedia
 
-Name: SunMedia
-Domain: sunmedia.tv
-Home: https://www.sunmedia.tv/
-Privacy_policy: https://www.sunmedia.tv/en/legal
-Email: gdpr@sunmedia.tv
-Owned_by: Fibonad
+

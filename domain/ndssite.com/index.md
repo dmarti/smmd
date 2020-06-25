@@ -1,7 +1,9 @@
+---
+company-name: "National Data Systems"
+domain: ndssite.com
+home: https://www.ndssite.com
+email: Support@LeadTrac.net
+---
 
-# National Data Systems
 
-Name: National Data Systems
-Domain: ndssite.com
-Home: https://www.ndssite.com
-Email: Support@LeadTrac.net
+

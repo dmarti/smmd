@@ -1,9 +1,11 @@
+---
+company-name: Genius
+domain: genius.com
+home: https://www.genius.com/
+privacy-policy: https://genius.com/static/privacy_policy
+email: privacy@genius.com
+member-of: TrustE_TrustArc
+---
 
-# Genius
 
-Name: Genius
-Domain: genius.com
-Home: https://www.genius.com/
-Privacy_policy: https://genius.com/static/privacy_policy
-Email: privacy@genius.com
-Member_of: TrustE_TrustArc
+

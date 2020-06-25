@@ -1,7 +1,9 @@
+---
+company-name: Afilio
+domain: afilio.com.br
+home: http://afilio.com.br/
+email: contato@afil.io
+---
 
-# Afilio
 
-Name: Afilio
-Domain: afilio.com.br
-Home: http://afilio.com.br/
-Email: contato@afil.io
+

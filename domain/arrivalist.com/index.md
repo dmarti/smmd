@@ -1,9 +1,11 @@
+---
+company-name: Arrivalist
+domain: arrivalist.com
+home: http://www.arrivalist.com/
+privacy-policy: https://www.arrivalist.com/privacy
+email: support@arrivalist.com
+member-of: TrustE_TrustArc
+---
 
-# Arrivalist
 
-Name: Arrivalist
-Domain: arrivalist.com
-Home: http://www.arrivalist.com/
-Privacy_policy: https://www.arrivalist.com/privacy
-Email: support@arrivalist.com
-Member_of: TrustE_TrustArc
+

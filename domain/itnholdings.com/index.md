@@ -1,6 +1,8 @@
+---
+company-name: "ITN Networks"
+domain: itnholdings.com
+home: http://www.itnholdings.com
+---
 
-# ITN Networks
 
-Name: ITN Networks
-Domain: itnholdings.com
-Home: http://www.itnholdings.com
+

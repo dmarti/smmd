@@ -1,8 +1,10 @@
+---
+company-name: Advertlets
+domain: advertlets.com
+home: http://www.advertlets.com/
+privacy-policy: http://www.advertlets.com/privacy-policy/
+email: info@advertlets.com
+---
 
-# Advertlets
 
-Name: Advertlets
-Domain: advertlets.com
-Home: http://www.advertlets.com/
-Privacy_policy: http://www.advertlets.com/privacy-policy/
-Email: info@advertlets.com
+

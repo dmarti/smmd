@@ -1,9 +1,11 @@
+---
+company-name: Prosperent
+domain: prosperent.com
+home: http://prosperent.com/
+privacy-policy: http://prosperent.com/privacy
+email: privacy@prosperent.com
+owned-by: VigLink
+---
 
-# Prosperent
 
-Name: Prosperent
-Domain: prosperent.com
-Home: http://prosperent.com/
-Privacy_policy: http://prosperent.com/privacy
-Email: privacy@prosperent.com
-Owned_by: VigLink
+

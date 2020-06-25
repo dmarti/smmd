@@ -1,8 +1,10 @@
+---
+company-name: Alphonso
+domain: alphonso.tv
+home: http://alphonso.tv/
+privacy-policy: http://alphonso.tv/privacy.html
+email: raghu@alphonso.tv
+---
 
-# Alphonso 
 
-Name: Alphonso 
-Domain: alphonso.tv
-Home: http://alphonso.tv/
-Privacy_policy: http://alphonso.tv/privacy.html
-Email: raghu@alphonso.tv
+

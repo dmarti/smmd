@@ -1,9 +1,11 @@
+---
+company-name: "Treasure Data"
+domain: treasuredata.com
+home: https://www.treasuredata.com/
+privacy-policy: https://www.treasuredata.com/privacy
+email: privacy@treasuredata.com
+member-of: TrustE_TrustArc
+---
 
-# Treasure Data
 
-Name: Treasure Data
-Domain: treasuredata.com
-Home: https://www.treasuredata.com/
-Privacy_policy: https://www.treasuredata.com/privacy
-Email: privacy@treasuredata.com
-Member_of: TrustE_TrustArc
+

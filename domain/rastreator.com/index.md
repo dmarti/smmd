@@ -1,8 +1,10 @@
+---
+company-name: Rastreator
+domain: rastreator.com
+home: http://www.rastreator.com/
+privacy-policy: http://www.rastreator.com/politica-de-privacidad.aspx
+email: bajas@rastreator.com
+---
 
-# Rastreator
 
-Name: Rastreator
-Domain: rastreator.com
-Home: http://www.rastreator.com/
-Privacy_policy: http://www.rastreator.com/politica-de-privacidad.aspx
-Email: bajas@rastreator.com
+

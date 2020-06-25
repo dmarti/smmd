@@ -1,8 +1,10 @@
+---
+company-name: Memoriki
+domain: memoriki.com
+home: https://www.memoriki.com/
+privacy-policy: https://www.memoriki.com/privacy-policy/
+email: support@memoriki.com
+---
 
-# Memoriki
 
-Name: Memoriki
-Domain: memoriki.com
-Home: https://www.memoriki.com/
-Privacy_policy: https://www.memoriki.com/privacy-policy/
-Email: support@memoriki.com
+

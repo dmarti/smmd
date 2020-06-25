@@ -1,8 +1,10 @@
+---
+company-name: BoxxSpring
+domain: boxxspring.com
+home: http://www.boxxspring.com/
+privacy-policy: http://sportsrocket.com/privacy
+email: legal@Sportsrocket.com
+---
 
-# BoxxSpring
 
-Name: BoxxSpring
-Domain: boxxspring.com
-Home: http://www.boxxspring.com/
-Privacy_policy: http://sportsrocket.com/privacy
-Email: legal@Sportsrocket.com
+

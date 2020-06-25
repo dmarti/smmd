@@ -1,8 +1,10 @@
+---
+company-name: Adwit
+domain: adwitserver.com
+home: http://www.adwitserver.com
+privacy-policy: http://www.adwitserver.com/privacy.html
+email: contact@adwitserver.com
+---
 
-# Adwit
 
-Name: Adwit
-Domain: adwitserver.com
-Home: http://www.adwitserver.com
-Privacy_policy: http://www.adwitserver.com/privacy.html
-Email: contact@adwitserver.com
+

@@ -1,7 +1,9 @@
+---
+company-name: MediaShakers
+domain: mediashakers.com
+home: http://www.mediashakers.com
+privacy-policy: http://www.mediashakers.com/index.php/privacy-policy
+---
 
-# MediaShakers
 
-Name: MediaShakers
-Domain: mediashakers.com
-Home: http://www.mediashakers.com
-Privacy_policy: http://www.mediashakers.com/index.php/privacy-policy
+

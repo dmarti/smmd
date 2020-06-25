@@ -1,9 +1,11 @@
+---
+company-name: TimeOne
+domain: timeonegroup.com
+home: https://www.timeonegroup.com/
+privacy-policy: https://www.timeonegroup.com/privacy-policies/
+email: privacy@timeonegroup.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# TimeOne
 
-Name: TimeOne
-Domain: timeonegroup.com
-Home: https://www.timeonegroup.com/
-Privacy_policy: https://www.timeonegroup.com/privacy-policies/
-Email: privacy@timeonegroup.com
-Member_of: Interactive Advertising Bureau (IAB)
+

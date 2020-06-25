@@ -1,9 +1,11 @@
+---
+company-name: WayWire
+domain: waywireglobal.com
+home: https://waywireglobal.com/
+privacy-policy: http://enterprise.waywire.com/terms-privacy/
+email: way@waywire.com
+owned-by: "Waywire Enterprise (Magnify Networks)"
+---
 
-# WayWire
 
-Name: WayWire
-Domain: waywireglobal.com
-Home: https://waywireglobal.com/
-Privacy_policy: http://enterprise.waywire.com/terms-privacy/
-Email: way@waywire.com
-Owned_by: Waywire Enterprise (Magnify Networks)
+

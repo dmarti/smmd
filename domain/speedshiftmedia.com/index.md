@@ -1,10 +1,11 @@
+---
+company-name: "Speed Shift Media"
+domain: speedshiftmedia.com
+home: http://www.speedshiftmedia.com/
+privacy-policy: http://www.speedshiftmedia.com/privacy
+email: privacy@speedshiftmedia.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Speed Shift Media
 
-Name: Speed Shift Media
-Domain: speedshiftmedia.com
-Home: http://www.speedshiftmedia.com/
-Privacy_policy: http://www.speedshiftmedia.com/privacy
-Email: privacy@speedshiftmedia.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,8 +1,10 @@
+---
+company-name: Apsis
+domain: apsis.com
+home: http://www.apsis.com/
+privacy-policy: https://www.apsis.com/about-us/policies/privacy-policy
+email: privacy@apsis.com
+---
 
-# Apsis
 
-Name: Apsis
-Domain: apsis.com
-Home: http://www.apsis.com/
-Privacy_policy: https://www.apsis.com/about-us/policies/privacy-policy
-Email: privacy@apsis.com
+

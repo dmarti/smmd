@@ -1,8 +1,10 @@
+---
+company-name: "ScaleOut Software"
+domain: scaleoutsoftware.com
+home: https://www.scaleoutsoftware.com/
+privacy-policy: https://www.scaleoutsoftware.com/privacy/
+email: webmaster@www.scaleoutsoftware.com
+---
 
-# ScaleOut Software
 
-Name: ScaleOut Software
-Domain: scaleoutsoftware.com
-Home: https://www.scaleoutsoftware.com/ 
-Privacy_policy: https://www.scaleoutsoftware.com/privacy/
-Email: webmaster@www.scaleoutsoftware.com
+

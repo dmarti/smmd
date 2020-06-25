@@ -1,7 +1,9 @@
+---
+company-name: Coinzilla
+domain: coinzilla.io
+home: https://coinzilla.io/
+privacy-policy: https://coinzilla.io/privacy-policy/
+---
 
-# Coinzilla
 
-Name: Coinzilla
-Domain: coinzilla.io
-Home: https://coinzilla.io/
-Privacy_policy: https://coinzilla.io/privacy-policy/
+

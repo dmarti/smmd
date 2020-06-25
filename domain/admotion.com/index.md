@@ -1,8 +1,10 @@
+---
+company-name: Admotion
+domain: admotion.com
+home: http://www.admotion.com/en
+privacy-policy: http://www.admotion.com/privacy
+email: info@admotion.com
+---
 
-# Admotion
 
-Name: Admotion
-Domain: admotion.com
-Home: http://www.admotion.com/en
-Privacy_policy: http://www.admotion.com/privacy
-Email: info@admotion.com
+

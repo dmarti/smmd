@@ -1,13 +1,11 @@
+---
+company-name: Bloomberg
+domain: bloomberg.com
+home: https://www.bloomberg.com/
+privacy-policy: https://www.bloomberg.com/notices/privacy/
+email: privacy@bloomberg.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Bloomberg
 
-Name: Bloomberg
-Domain: bloomberg.com
-Home: https://www.bloomberg.com/
-Privacy_policy: https://www.bloomberg.com/notices/privacy/
-Email: privacy@bloomberg.com
-Member_of: American Advertising Federation
-Member_of: Association of National Advertisers
-Member_of: Digital Advertising Alliance
-Member_of: Digital Content Network(?)
-Member_of: Interactive Advertising Bureau (IAB)
+

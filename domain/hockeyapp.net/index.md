@@ -1,9 +1,11 @@
+---
+company-name: HockeyApp
+domain: hockeyapp.net
+home: http://hockeyapp.net/features/
+privacy-policy: https://privacy.microsoft.com/en-us/privacystatement
+email: support@hockeyapp.net
+owned-by: "Microsoft Mobile"
+---
 
-# HockeyApp
 
-Name: HockeyApp
-Domain: hockeyapp.net
-Home: http://hockeyapp.net/features/
-Privacy_policy: https://privacy.microsoft.com/en-us/privacystatement
-Email: support@hockeyapp.net
-Owned_by: Microsoft Mobile
+

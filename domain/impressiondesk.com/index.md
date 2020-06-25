@@ -1,11 +1,11 @@
+---
+company-name: "Impression Desk"
+domain: impressiondesk.com
+home: https://impressiondesk.com/
+privacy-policy: https://impressiondesk.com/cookie-policy/
+email: privacy@infectiousmedia.com
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# Impression Desk
 
-Name: Impression Desk
-Domain: impressiondesk.com
-Home: https://impressiondesk.com/
-Privacy_policy: https://impressiondesk.com/cookie-policy/
-Email: privacy@infectiousmedia.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

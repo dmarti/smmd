@@ -1,7 +1,9 @@
-# National Basketball Association
+---
+company-name: "National Basketball Association"
+domain: nba.com
+opt-out-url: https://www.nba.com/news/privacy_policy.html
+---
 
-Name: National Basketball Association
 
-Domain: nba.com
 
-Opt_out_url: https://www.nba.com/news/privacy_policy.html
+

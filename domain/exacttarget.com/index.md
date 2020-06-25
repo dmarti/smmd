@@ -1,12 +1,12 @@
+---
+company-name: ExactTarget
+domain: exacttarget.com
+home: http://www.exacttarget.com/
+privacy-policy: https://www.salesforce.com/company/privacy/?d=marketingcloud.com/privacy-policy/website-privacy-statement&internal=true
+email: privacy@exacttarget.com
+owned-by: Salesforce
+member-of: TrustE_TrustArc
+---
 
-# ExactTarget
 
-Name: ExactTarget
-Domain: exacttarget.com
-Home: http://www.exacttarget.com/
-Privacy_policy: https://www.salesforce.com/company/privacy/?d=marketingcloud.com/privacy-policy/website-privacy-statement&internal=true
-Email: privacy@exacttarget.com
-Owned_by: Salesforce
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Online Trust Alliance
-Member_of: TrustE_TrustArc
+

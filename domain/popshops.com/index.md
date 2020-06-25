@@ -1,9 +1,11 @@
+---
+company-name: "Rakuten PopShops"
+domain: popshops.com
+home: http://popshops.com/
+privacy-policy: http://popshops.com/support/privacy-policy
+email: privacy@popshops.com
+owned-by: "Rakuten Marketing"
+---
 
-# Rakuten PopShops
 
-Name: Rakuten PopShops
-Domain: popshops.com
-Home: http://popshops.com/
-Privacy_policy: http://popshops.com/support/privacy-policy
-Email: privacy@popshops.com
-Owned_by: Rakuten Marketing
+

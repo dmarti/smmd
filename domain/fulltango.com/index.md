@@ -1,12 +1,12 @@
+---
+company-name: "Full Tango"
+domain: fulltango.com
+home: http://www.fulltango.com/
+privacy-policy: http://www.fulltango.com/PrivacyPolicy.html
+email: privacy@exponential.com
+owned-by: "Exponential Interactive"
+member-of: "Network Advertising Initiative"
+---
 
-# Full Tango
 
-Name: Full Tango
-Domain: fulltango.com
-Home: http://www.fulltango.com/
-Privacy_policy: http://www.fulltango.com/PrivacyPolicy.html
-Email: privacy@exponential.com
-Owned_by: Exponential Interactive
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Network Advertising Initiative
+

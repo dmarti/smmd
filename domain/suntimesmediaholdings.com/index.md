@@ -1,7 +1,9 @@
+---
+company-name: "Sun-Times Media"
+domain: suntimesmediaholdings.com
+home: http://www.suntimesmediaholdings.com/
+email: copyrightagent@suntimes.com
+---
 
-# Sun-Times Media
 
-Name: Sun-Times Media
-Domain: suntimesmediaholdings.com
-Home: http://www.suntimesmediaholdings.com/
-Email: copyrightagent@suntimes.com
+

@@ -1,10 +1,12 @@
+---
+company-name: Mediawhiz
+domain: mediawhiz.com
+home: http://www.mediawhiz.com/
+privacy-policy: http://www.matomy.com/assets/global-privacy-policy
+email: termsconditions@mediawhiz.com
+owned-by: "Matomy Media"
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Mediawhiz
 
-Name: Mediawhiz
-Domain: mediawhiz.com
-Home: http://www.mediawhiz.com/
-Privacy_policy: http://www.matomy.com/assets/global-privacy-policy
-Email: termsconditions@mediawhiz.com
-Owned_by: Matomy Media
-Member_of: Interactive Advertising Bureau (IAB)
+

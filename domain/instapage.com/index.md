@@ -1,8 +1,10 @@
+---
+company-name: Instapage
+domain: instapage.com
+home: https://instapage.com/
+privacy-policy: https://instapage.com/privacy-policy
+email: help@instapage.com
+---
 
-# Instapage
 
-Name: Instapage
-Domain: instapage.com
-Home: https://instapage.com/
-Privacy_policy: https://instapage.com/privacy-policy
-Email: help@instapage.com
+

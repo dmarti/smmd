@@ -1,8 +1,10 @@
+---
+company-name: "De Persgroep"
+domain: persgroep.nl
+home: http://www.persgroep.nl
+privacy-policy: http://www.persgroep.nl/privacy
+email: privacy@persgroep.nl
+---
 
-# De Persgroep
 
-Name: De Persgroep
-Domain: persgroep.nl
-Home: http://www.persgroep.nl
-Privacy_policy: http://www.persgroep.nl/privacy
-Email: privacy@persgroep.nl
+

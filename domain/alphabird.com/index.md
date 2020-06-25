@@ -1,8 +1,10 @@
+---
+company-name: Alphabird
+domain: alphabird.com
+home: http://www.alphabird.com/
+privacy-policy: http://www.alphabird.com/privacy-policy/
+email: privacy@alphabird.com
+---
 
-# Alphabird
 
-Name: Alphabird
-Domain: alphabird.com
-Home: http://www.alphabird.com/
-Privacy_policy: http://www.alphabird.com/privacy-policy/
-Email: privacy@alphabird.com
+

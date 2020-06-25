@@ -1,7 +1,9 @@
+---
+company-name: Scotiabank
+domain: scotiabank.com
+home: http://www.scotiabank.com
+privacy-policy: http://www.scotiabank.com/ca/en/0,,351,00.html
+---
 
-# Scotiabank
 
-Name: Scotiabank
-Domain: scotiabank.com
-Home: http://www.scotiabank.com
-Privacy_policy: http://www.scotiabank.com/ca/en/0,,351,00.html
+

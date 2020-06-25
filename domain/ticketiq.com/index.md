@@ -1,8 +1,10 @@
+---
+company-name: "TicketIQ (Formerly TiqIQ)"
+domain: ticketiq.com
+home: https://www.ticketiq.com/
+privacy-policy: https://www.ticketiq.com/help/privacy-policy
+email: privacy@ticketiq.com
+---
 
-# TicketIQ (Formerly TiqIQ)
 
-Name: TicketIQ (Formerly TiqIQ)
-Domain: ticketiq.com
-Home: https://www.ticketiq.com/
-Privacy_policy: https://www.ticketiq.com/help/privacy-policy
-Email: privacy@ticketiq.com
+

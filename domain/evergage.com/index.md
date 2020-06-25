@@ -1,8 +1,10 @@
+---
+company-name: Evergage
+domain: evergage.com
+home: https://www.evergage.com/
+privacy-policy: https://www.evergage.com/privacy-policy/
+email: dpo@evergage.com
+---
 
-# Evergage
 
-Name: Evergage
-Domain: evergage.com
-Home: https://www.evergage.com/
-Privacy_policy: https://www.evergage.com/privacy-policy/
-Email: dpo@evergage.com
+

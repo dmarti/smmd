@@ -1,7 +1,9 @@
-# Yoshi
+---
+company-name: Yoshi
+domain: startyoshi.com
+opt-out-url: https://www.startyoshi.com/privacy
+---
 
-Name: Yoshi
 
-Domain: startyoshi.com
 
-Opt_out_url: https://www.startyoshi.com/privacy
+

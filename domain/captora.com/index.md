@@ -1,8 +1,10 @@
+---
+company-name: Captora
+domain: captora.com
+home: http://www.captora.com/
+privacy-policy: http://www.captora.com/privacy-policy/
+email: privacy@captora.com
+---
 
-# Captora
 
-Name: Captora
-Domain: captora.com
-Home: http://www.captora.com/
-Privacy_policy: http://www.captora.com/privacy-policy/
-Email: privacy@captora.com
+

@@ -1,7 +1,9 @@
-# Peloton
+---
+company-name: Peloton
+domain: onepeloton.com
+opt-out-url: https://www.onepeloton.com/california-privacy-notice
+---
 
-Name: Peloton
 
-Domain: onepeloton.com
 
-Opt_out_url: https://www.onepeloton.com/california-privacy-notice
+

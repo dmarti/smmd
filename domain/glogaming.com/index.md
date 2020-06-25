@@ -1,7 +1,9 @@
+---
+company-name: "GLO Gaming"
+domain: glogaming.com
+home: http://www.glogaming.com/
+privacy-policy: http://www.glogaming.com/privacy
+---
 
-# GLO Gaming
 
-Name: GLO Gaming
-Domain: glogaming.com
-Home: http://www.glogaming.com/
-Privacy_policy: http://www.glogaming.com/privacy
+

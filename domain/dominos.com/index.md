@@ -1,7 +1,9 @@
-# Domino's Pizza
+---
+company-name: "Domino's Pizza"
+domain: dominos.com
+opt-out-url: https://www.dominos.com/en/pages/customer/#!/ccpa/
+---
 
-Name: Domino's Pizza
 
-Domain: dominos.com
 
-Opt_out_url: https://www.dominos.com/en/pages/customer/#!/ccpa/
+

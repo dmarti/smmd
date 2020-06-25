@@ -1,8 +1,10 @@
+---
+company-name: FlyerTalk
+domain: flyertalk.com
+home: http://www.flyertalk.com/
+privacy-policy: http://www.internetbrands.com/privacy/privacy-main.html
+owned-by: "Internet Brands"
+---
 
-# FlyerTalk
 
-Name: FlyerTalk
-Domain: flyertalk.com
-Home: http://www.flyertalk.com/
-Privacy_policy: http://www.internetbrands.com/privacy/privacy-main.html
-Owned_by: Internet Brands
+

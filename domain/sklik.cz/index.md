@@ -1,7 +1,9 @@
+---
+company-name: Sklik
+domain: sklik.cz
+home: https://www.sklik.cz/
+owned-by: Seznam
+---
 
-# Sklik
 
-Name: Sklik
-Domain: sklik.cz
-Home: https://www.sklik.cz/
-Owned_by: Seznam
+

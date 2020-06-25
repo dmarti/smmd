@@ -1,7 +1,9 @@
+---
+company-name: Advenity
+domain: advenity.com
+home: http://www.advenity.com/
+email: info@enernetics.com
+---
 
-# Advenity
 
-Name: Advenity
-Domain: advenity.com
-Home: http://www.advenity.com/
-Email: info@enernetics.com
+

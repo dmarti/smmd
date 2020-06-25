@@ -1,7 +1,9 @@
+---
+company-name: Premonix
+domain: premonix.com
+home: http://www.premonix.com/
+email: contact@premonix.com
+---
 
-# Premonix
 
-Name: Premonix
-Domain: premonix.com
-Home: http://www.premonix.com/
-Email: contact@premonix.com
+

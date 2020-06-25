@@ -1,8 +1,10 @@
+---
+company-name: Rejoiner
+domain: rejoiner.com
+home: http://rejoiner.com/
+privacy-policy: http://rejoiner.com/privacy
+email: help@rejoiner.com
+---
 
-# Rejoiner
 
-Name: Rejoiner
-Domain: rejoiner.com
-Home: http://rejoiner.com/
-Privacy_policy: http://rejoiner.com/privacy
-Email: help@rejoiner.com
+

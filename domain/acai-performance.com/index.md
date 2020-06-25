@@ -1,8 +1,10 @@
+---
+company-name: "ACAI Performance"
+domain: acai-performance.com
+home: http://www.acai-performance.com/
+privacy-policy: http://www.acai-performance.com/politicas-de-privacidad
+email: info@acai-performance.com
+---
 
-# ACAI Performance
 
-Name: ACAI Performance
-Domain: acai-performance.com
-Home: http://www.acai-performance.com/
-Privacy_policy: http://www.acai-performance.com/politicas-de-privacidad
-Email: info@acai-performance.com
+

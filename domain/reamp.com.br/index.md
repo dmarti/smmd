@@ -1,9 +1,11 @@
+---
+company-name: ReAmp
+domain: reamp.com.br
+home: http://www.reamp.com.br/
+privacy-policy: http://rmemx.reamp.com.br/2015/privacy-policy/privacy.html
+email: contato@reamp.com.br
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# ReAmp
 
-Name: ReAmp
-Domain: reamp.com.br
-Home: http://www.reamp.com.br/
-Privacy_policy: http://rmemx.reamp.com.br/2015/privacy-policy/privacy.html
-Email: contato@reamp.com.br
-Member_of: Interactive Advertising Bureau (IAB)
+

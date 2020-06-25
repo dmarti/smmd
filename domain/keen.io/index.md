@@ -1,8 +1,10 @@
+---
+company-name: "Keen IO"
+domain: keen.io
+home: https://keen.io
+privacy-policy: https://keen.io/privacy-policy/
+email: privacy@keen.io
+---
 
-# Keen IO
 
-Name: Keen IO
-Domain: keen.io
-Home: https://keen.io
-Privacy_policy: https://keen.io/privacy-policy/
-Email: privacy@keen.io
+

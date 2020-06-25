@@ -1,8 +1,10 @@
+---
+company-name: "SEMPRO (FKA BONZAII)"
+domain: sempro.no
+home: http://sempro.no/
+privacy-policy: http://sempro.no/privacy
+email: post@bonzaii
+---
 
-# SEMPRO (FKA BONZAII)
 
-Name: SEMPRO (FKA BONZAII)
-Domain: sempro.no
-Home: http://sempro.no/
-Privacy_policy: http://sempro.no/privacy
-Email: post@bonzaii
+

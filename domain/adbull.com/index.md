@@ -1,8 +1,10 @@
+---
+company-name: AdBull
+domain: adbull.com
+home: http://www.adbull.com/adbull.php
+privacy-policy: http://www.adbull.com/privacy.php
+email: info@adbull.com
+---
 
-# AdBull
 
-Name: AdBull
-Domain: adbull.com
-Home: http://www.adbull.com/adbull.php
-Privacy_policy: http://www.adbull.com/privacy.php
-Email: info@adbull.com
+

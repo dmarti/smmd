@@ -1,11 +1,11 @@
+---
+company-name: "Distribute Travel"
+domain: distributetravel.com
+home: http://www.distributetravel.com/
+privacy-policy: http://www.distributetravel.com/index.php/privacy/
+email: help@distributetravel.com
+member-of: "Network Advertising Initiative"
+---
 
-# Distribute Travel
 
-Name: Distribute Travel
-Domain: distributetravel.com
-Home: http://www.distributetravel.com/
-Privacy_policy: http://www.distributetravel.com/index.php/privacy/
-Email: help@distributetravel.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
-Member_of: Network Advertising Initiative
+

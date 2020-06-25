@@ -1,7 +1,9 @@
-# 1 by AOL (FKA Vidible)
+---
+company-name: "1 by AOL (FKA Vidible)"
+domain: vidible.tv
+home: http://vidible.tv/
+owned-by: yahoo.com
+privacy-policy: https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html
+---
 
-Name: 1 by AOL (FKA Vidible)
-Domain: vidible.tv
-Home: http://vidible.tv/
-Owned_by: yahoo.com
-Privacy_policy: https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html
+

@@ -1,9 +1,11 @@
+---
+company-name: Conviva
+domain: conviva.com
+home: https://www.conviva.com/
+privacy-policy: https://www.conviva.com/legal/
+email: privacy@conviva.com
+member-of: TrustE_TrustArc
+---
 
-# Conviva
 
-Name: Conviva
-Domain: conviva.com
-Home: https://www.conviva.com/
-Privacy_policy: https://www.conviva.com/legal/
-Email: privacy@conviva.com
-Member_of: TrustE_TrustArc
+

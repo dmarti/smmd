@@ -1,9 +1,11 @@
+---
+company-name: Adtiming
+domain: adtiming.com
+home: http://www.adtiming.com
+privacy-policy: http://www.adtiming.com/cn/privacypolicy.html
+email: privacy@adtiming.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Adtiming
 
-Name: Adtiming
-Domain: adtiming.com
-Home: http://www.adtiming.com
-Privacy_policy: http://www.adtiming.com/cn/privacypolicy.html
-Email: privacy@adtiming.com
-Member_of: Interactive Advertising Bureau (IAB)
+

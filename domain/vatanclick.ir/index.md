@@ -1,6 +1,8 @@
+---
+company-name: VatanClick
+domain: vatanclick.ir
+home: http://vatanclick.ir/
+---
 
-# VatanClick
 
-Name: VatanClick
-Domain: vatanclick.ir
-Home: http://vatanclick.ir/
+

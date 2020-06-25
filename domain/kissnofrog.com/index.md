@@ -1,8 +1,10 @@
+---
+company-name: "Kiss No Frog"
+domain: kissnofrog.com
+home: https://www.kissnofrog.com/
+privacy-policy: https://www.kissnofrog.com/legal/privacy
+email: support@kissnofrog.com
+---
 
-# Kiss No Frog
 
-Name: Kiss No Frog
-Domain: kissnofrog.com
-Home: https://www.kissnofrog.com/
-Privacy_policy: https://www.kissnofrog.com/legal/privacy
-Email: support@kissnofrog.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Vidoomy
+domain: vidoomy.com
+home: https://vidoomy.com
+privacy-policy: https://www.vidoomy.com/privacy-policy.html
+email: info@vidoomy.com
+---
 
-# Vidoomy
 
-Name: Vidoomy
-Domain: vidoomy.com
-Home: https://vidoomy.com
-Privacy_policy: https://www.vidoomy.com/privacy-policy.html
-Email: info@vidoomy.com
+

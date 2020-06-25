@@ -1,8 +1,10 @@
+---
+company-name: BugHerd
+domain: bugherd.com
+home: http://www.bugherd.com/
+privacy-policy: http://www.bugherd.com/privacy
+email: support@bugherd.com
+---
 
-# BugHerd
 
-Name: BugHerd
-Domain: bugherd.com
-Home: http://www.bugherd.com/
-Privacy_policy: http://www.bugherd.com/privacy
-Email: support@bugherd.com
+

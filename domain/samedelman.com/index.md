@@ -1,8 +1,10 @@
+---
+company-name: "Sam Edelman"
+domain: samedelman.com
+home: http://www.samedelman.com/
+privacy-policy: http://content.samedelman.com/privacy-policy/
+email: customerservice@samedelman.com
+---
 
-# Sam Edelman
 
-Name: Sam Edelman
-Domain: samedelman.com
-Home: http://www.samedelman.com/
-Privacy_policy: http://content.samedelman.com/privacy-policy/
-Email: customerservice@samedelman.com
+

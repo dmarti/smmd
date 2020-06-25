@@ -1,8 +1,10 @@
+---
+company-name: "Free Online Users"
+domain: freeonlineusers.com
+home: https://freeonlineusers.com/
+privacy-policy: https://freeonlineusers.com/privacy/
+email: webmaster@freeonlineusers.com
+---
 
-# Free Online Users
 
-Name: Free Online Users
-Domain: freeonlineusers.com
-Home: https://freeonlineusers.com/
-Privacy_policy: https://freeonlineusers.com/privacy/
-Email: webmaster@freeonlineusers.com
+

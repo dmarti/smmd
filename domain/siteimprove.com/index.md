@@ -1,8 +1,10 @@
+---
+company-name: Siteimprove
+domain: siteimprove.com
+home: https://siteimprove.com
+privacy-policy: https://siteimprove.com/en/privacy/
+email: privacy@siteimprove.com
+---
 
-# Siteimprove
 
-Name: Siteimprove
-Domain: siteimprove.com
-Home: https://siteimprove.com
-Privacy_policy: https://siteimprove.com/en/privacy/
-Email: privacy@siteimprove.com
+

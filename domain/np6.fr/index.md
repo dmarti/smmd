@@ -1,9 +1,11 @@
+---
+company-name: "NP6 (formerly Ezakus)"
+domain: np6.fr
+home: https://www.np6.fr/
+privacy-policy: https://www.np6.fr/privacy-policy/
+email: privacy@np6.com
+member-of: "European Data Interactive Alliance"
+---
 
-# NP6 (formerly Ezakus)
 
-Name: NP6 (formerly Ezakus)
-Domain: np6.fr
-Home: https://www.np6.fr/
-Privacy_policy: https://www.np6.fr/privacy-policy/
-Email: privacy@np6.com
-Member_of: European Data Interactive Alliance
+

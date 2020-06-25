@@ -1,8 +1,10 @@
+---
+company-name: Webedia
+domain: webedia-group.com
+home: http://www.webedia-group.com/
+privacy-policy: http://www.webedia-group.com/site/privacy-policy
+email: dpo@webedia-group.com
+---
 
-# Webedia
 
-Name: Webedia
-Domain: webedia-group.com
-Home: http://www.webedia-group.com/
-Privacy_policy: http://www.webedia-group.com/site/privacy-policy
-Email: dpo@webedia-group.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Travel Click"
+domain: travelclick.com
+home: http://www.travelclick.com/en/homepage
+privacy-policy: https://www.travelclick.com/privacy-policy.html
+email: cs@travelclick.com
+---
 
-# Travel Click
 
-Name: Travel Click
-Domain: travelclick.com
-Home: http://www.travelclick.com/en/homepage
-Privacy_policy: https://www.travelclick.com/privacy-policy.html
-Email: cs@travelclick.com
+

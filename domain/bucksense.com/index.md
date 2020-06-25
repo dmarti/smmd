@@ -1,9 +1,11 @@
+---
+company-name: Bucksense
+domain: bucksense.com
+home: https://www.bucksense.com
+privacy-policy: https://www.bucksense.com/platform-privacy-policy/
+email: privacy@bucksense.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Bucksense
 
-Name: Bucksense
-Domain: bucksense.com
-Home: https://www.bucksense.com
-Privacy_policy: https://www.bucksense.com/platform-privacy-policy/
-Email: privacy@bucksense.com
-Member_of: Interactive Advertising Bureau (IAB)
+

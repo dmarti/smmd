@@ -1,8 +1,10 @@
+---
+company-name: Vectaury
+domain: vectaury.io
+home: https://www.vectaury.io/en/
+privacy-policy: https://www.vectaury.io/en/personal-data
+email: contact@vectaury.io
+---
 
-# Vectaury
 
-Name: Vectaury
-Domain: vectaury.io
-Home: https://www.vectaury.io/en/
-Privacy_policy: https://www.vectaury.io/en/personal-data
-Email: contact@vectaury.io
+

@@ -1,11 +1,11 @@
+---
+company-name: Captify
+domain: captify.co.uk
+home: http://www.captify.co.uk/
+privacy-policy: http://www.captify.co.uk/privacy-policy/
+email: privacy@captify.co.uk
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Captify
 
-Name: Captify
-Domain: captify.co.uk
-Home: http://www.captify.co.uk/
-Privacy_policy: http://www.captify.co.uk/privacy-policy/
-Email: privacy@captify.co.uk
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

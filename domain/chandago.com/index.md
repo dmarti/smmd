@@ -1,8 +1,10 @@
+---
+company-name: Chandago
+domain: chandago.com
+home: https://chandago.com/en
+privacy-policy: https://chandago.com/en/privacy-policy
+email: privacy@chandago.com
+---
 
-# Chandago
 
-Name: Chandago
-Domain: chandago.com
-Home: https://chandago.com/en
-Privacy_policy: https://chandago.com/en/privacy-policy
-Email: privacy@chandago.com
+

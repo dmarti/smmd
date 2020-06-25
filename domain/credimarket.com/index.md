@@ -1,8 +1,10 @@
+---
+company-name: CreditMarket
+domain: credimarket.com
+home: https://www.credimarket.com/
+privacy-policy: https://www.credimarket.com/privacidad
+email: dpo@credimarket.com
+---
 
-# CreditMarket
 
-Name: CreditMarket
-Domain: credimarket.com
-Home: https://www.credimarket.com/
-Privacy_policy: https://www.credimarket.com/privacidad
-Email: dpo@credimarket.com
+

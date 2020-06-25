@@ -1,6 +1,8 @@
+---
+company-name: "YieldPro (formerly Ancora)"
+domain: yieldpro.eu
+home: https://yieldpro.eu
+---
 
-# YieldPro (formerly Ancora)
 
-Name: YieldPro (formerly Ancora)
-Domain: yieldpro.eu
-Home: https://yieldpro.eu
+

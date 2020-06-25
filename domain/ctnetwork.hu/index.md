@@ -1,7 +1,9 @@
+---
+company-name: CTnetwork
+domain: ctnetwork.hu
+home: http://ctnetwork.hu/
+email: info@ctnetwork.hu
+---
 
-# CTnetwork
 
-Name: CTnetwork
-Domain: ctnetwork.hu
-Home: http://ctnetwork.hu/
-Email: info@ctnetwork.hu
+

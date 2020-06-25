@@ -1,9 +1,11 @@
+---
+company-name: Smadex
+domain: smadex.com
+home: http://smadex.com/
+privacy-policy: http://smadex.com/index.html@p=3888.html
+email: privacy@smadex.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Smadex
 
-Name: Smadex
-Domain: smadex.com
-Home: http://smadex.com/
-Privacy_policy: http://smadex.com/index.html@p=3888.html
-Email: privacy@smadex.com
-Member_of: Interactive Advertising Bureau (IAB)
+

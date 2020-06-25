@@ -1,6 +1,8 @@
+---
+company-name: Edgevertise
+domain: edgevertise.com
+home: http://edgevertise.com/
+---
 
-# Edgevertise
 
-Name: Edgevertise
-Domain: edgevertise.com
-Home: http://edgevertise.com/
+

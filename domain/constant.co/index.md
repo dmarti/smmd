@@ -1,8 +1,10 @@
+---
+company-name: "Constant Commerce"
+domain: constant.co
+home: http://constant.co/
+privacy-policy: http://constant.co/terms
+email: hello@constant.co
+---
 
-# Constant Commerce
 
-Name: Constant Commerce
-Domain: constant.co
-Home: http://constant.co/
-Privacy_policy: http://constant.co/terms
-Email: hello@constant.co
+

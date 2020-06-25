@@ -1,8 +1,10 @@
+---
+company-name: Advertise.com
+domain: advertise.com
+home: http://www.advertise.com/
+privacy-policy: http://www.advertise.com/privacy-policy/
+email: dataprotectionofficer@advertise.com
+---
 
-# Advertise.com
 
-Name: Advertise.com
-Domain: advertise.com
-Home: http://www.advertise.com/
-Privacy_policy: http://www.advertise.com/privacy-policy/
-Email: dataprotectionofficer@advertise.com
+

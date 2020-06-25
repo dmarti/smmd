@@ -1,8 +1,10 @@
+---
+company-name: ip-label
+domain: ip-label.co.uk
+home: http://www.ip-label.co.uk/
+privacy-policy: http://www.ip-label.co.uk/legal-information/
+email: contact@ip-label.com
+---
 
-# ip-label
 
-Name: ip-label
-Domain: ip-label.co.uk
-Home: http://www.ip-label.co.uk/
-Privacy_policy: http://www.ip-label.co.uk/legal-information/
-Email: contact@ip-label.com
+

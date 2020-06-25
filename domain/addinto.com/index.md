@@ -1,6 +1,8 @@
+---
+company-name: AddInto
+domain: addinto.com
+home: http://www.addinto.com/
+---
 
-# AddInto
 
-Name: AddInto
-Domain: addinto.com
-Home: http://www.addinto.com/
+

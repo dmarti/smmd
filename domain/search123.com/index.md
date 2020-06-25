@@ -1,8 +1,10 @@
+---
+company-name: Search123
+domain: search123.com
+home: http://www.search123.com/
+privacy-policy: http://www.search123.com/privacy/
+email: privacy.uk@search123.com
+---
 
-# Search123
 
-Name: Search123
-Domain: search123.com
-Home: http://www.search123.com/
-Privacy_policy: http://www.search123.com/privacy/
-Email: privacy.uk@search123.com
+

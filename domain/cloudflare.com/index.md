@@ -1,9 +1,11 @@
+---
+company-name: CloudFlare
+domain: cloudflare.com
+home: https://www.cloudflare.com/
+privacy-policy: https://www.cloudflare.com/privacypolicy/
+email: privacyquestions@cloudflare.com
+member-of: TrustE_TrustArc
+---
 
-# CloudFlare
 
-Name: CloudFlare
-Domain: cloudflare.com
-Home: https://www.cloudflare.com/
-Privacy_policy: https://www.cloudflare.com/privacypolicy/
-Email: privacyquestions@cloudflare.com
-Member_of: TrustE_TrustArc
+

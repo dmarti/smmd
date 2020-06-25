@@ -1,9 +1,11 @@
+---
+company-name: ViziSense
+domain: vizisense.com
+home: http://www.vizisense.com/
+privacy-policy: http://www.vizisense.com/privacy-policy/
+email: support@viziSense.com
+owned-by: "RevX (Formally Komli Media)"
+---
 
-# ViziSense
 
-Name: ViziSense
-Domain: vizisense.com
-Home: http://www.vizisense.com/
-Privacy_policy: http://www.vizisense.com/privacy-policy/
-Email: support@viziSense.com
-Owned_by: RevX (Formally Komli Media)
+

@@ -1,8 +1,10 @@
+---
+company-name: Deqwas
+domain: deqwas.com
+home: http://www.deqwas.com/
+privacy-policy: http://www.scigineer.co.jp/privacy/
+email: info@scigineer.co.jp
+---
 
-# Deqwas
 
-Name: Deqwas
-Domain: deqwas.com
-Home: http://www.deqwas.com/
-Privacy_policy: http://www.scigineer.co.jp/privacy/
-Email: info@scigineer.co.jp
+

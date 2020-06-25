@@ -1,8 +1,10 @@
+---
+company-name: WaveNet
+domain: wavenet.com.tw
+home: https://www.wavenet.com.tw/about-wavenet/
+privacy-policy: https://www.wavenet.com.tw/privacy/
+email: Sales@wavenet.com.tw
+---
 
-# WaveNet
 
-Name: WaveNet
-Domain: wavenet.com.tw
-Home: https://www.wavenet.com.tw/about-wavenet/
-Privacy_policy: https://www.wavenet.com.tw/privacy/
-Email: Sales@wavenet.com.tw
+

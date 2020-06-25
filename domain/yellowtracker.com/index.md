@@ -1,6 +1,8 @@
+---
+company-name: "Yellow Tracker"
+domain: yellowtracker.com
+home: http://www.yellowtracker.com/
+---
 
-# Yellow Tracker
 
-Name: Yellow Tracker
-Domain: yellowtracker.com
-Home: http://www.yellowtracker.com/
+

@@ -1,8 +1,10 @@
+---
+company-name: AppsFlyer
+domain: appsflyer.com
+home: https://www.appsflyer.com/
+privacy-policy: https://www.appsflyer.com/privacy-policy/
+email: contact@appsflyer.com
+---
 
-# AppsFlyer
 
-Name: AppsFlyer
-Domain: appsflyer.com
-Home: https://www.appsflyer.com/
-Privacy_policy: https://www.appsflyer.com/privacy-policy/
-Email: contact@appsflyer.com
+

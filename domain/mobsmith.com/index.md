@@ -1,10 +1,12 @@
+---
+company-name: "REVV for Mobile (formerly Mobsmith)"
+domain: mobsmith.com
+home: http://www.mobsmith.com/
+privacy-policy: http://www.mobsmith.com/privacy-policy
+email: contact@mobsmith.com
+owned-by: "Rubicon Project"
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# REVV for Mobile (formerly Mobsmith)
 
-Name: REVV for Mobile (formerly Mobsmith)
-Domain: mobsmith.com
-Home: http://www.mobsmith.com/
-Privacy_policy: http://www.mobsmith.com/privacy-policy
-Email: contact@mobsmith.com
-Owned_by: Rubicon Project
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,7 +1,9 @@
+---
+company-name: CapitalData
+domain: capitaldata.fr
+home: https://www.capitaldata.fr/
+privacy-policy: https://www.capitaldata.fr/politique-de-confidentialite/
+---
 
-# CapitalData
 
-Name: CapitalData
-Domain: capitaldata.fr
-Home: https://www.capitaldata.fr/
-Privacy_policy: https://www.capitaldata.fr/politique-de-confidentialite/
+

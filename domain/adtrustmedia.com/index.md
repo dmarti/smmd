@@ -1,7 +1,9 @@
+---
+company-name: AdTrustMedia
+domain: adtrustmedia.com
+home: https://adtrustmedia.com/
+privacy-policy: https://adtrustmedia.com/policy
+---
 
-# AdTrustMedia
 
-Name: AdTrustMedia
-Domain: adtrustmedia.com
-Home: https://adtrustmedia.com/
-Privacy_policy: https://adtrustmedia.com/policy
+

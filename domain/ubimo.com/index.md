@@ -1,11 +1,11 @@
+---
+company-name: Ubimo
+domain: ubimo.com
+home: http://ubimo.com/
+privacy-policy: http://www.ubimo.com/privacy
+email: info@ubimo.com
+member-of: "Mobile Marketing Asc"
+---
 
-# Ubimo
 
-Name: Ubimo
-Domain: ubimo.com
-Home: http://ubimo.com/
-Privacy_policy: http://www.ubimo.com/privacy
-Email: info@ubimo.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Mobile Marketing Asc
+

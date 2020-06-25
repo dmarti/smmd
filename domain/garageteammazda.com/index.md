@@ -1,6 +1,8 @@
+---
+company-name: "Garage Team Mazda"
+domain: garageteammazda.com
+home: https://www.garageteammazda.com/
+---
 
-# Garage Team Mazda
 
-Name: Garage Team Mazda
-Domain: garageteammazda.com
-Home: https://www.garageteammazda.com/
+

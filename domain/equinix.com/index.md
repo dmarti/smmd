@@ -1,8 +1,10 @@
+---
+company-name: Equinix
+domain: equinix.com
+home: https://www.equinix.com/
+privacy-policy: https://www.equinix.com/company/legal/privacy/
+email: marketing@Equinix.com
+---
 
-# Equinix
 
-Name: Equinix
-Domain: equinix.com
-Home: https://www.equinix.com/
-Privacy_policy: https://www.equinix.com/company/legal/privacy/
-Email: marketing@Equinix.com
+

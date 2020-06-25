@@ -1,10 +1,12 @@
+---
+company-name: VivaKi
+domain: vivaki.com
+home: http://vivaki.com/
+privacy-policy: https://www.publicisgroupe.com/en/cookies
+email: mailto:law@vivaki.com
+owned-by: "Publicis Groupe"
+member-of: "American Association of Advertising Agencies"
+---
 
-# VivaKi
 
-Name: VivaKi
-Domain: vivaki.com
-Home: http://vivaki.com/
-Privacy_policy: https://www.publicisgroupe.com/en/cookies
-Email: mailto:law@vivaki.com
-Owned_by: Publicis Groupe
-Member_of: American Association of Advertising Agencies
+

@@ -1,8 +1,10 @@
+---
+company-name: Ensighten
+domain: ensighten.com
+home: https://www.ensighten.com
+privacy-policy: https://www.ensighten.com/privacy-policy/
+email: privacy@ensighten.com
+---
 
-# Ensighten
 
-Name: Ensighten
-Domain: ensighten.com
-Home: https://www.ensighten.com
-Privacy_policy: https://www.ensighten.com/privacy-policy/
-Email: privacy@ensighten.com
+

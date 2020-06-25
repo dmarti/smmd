@@ -1,6 +1,8 @@
+---
+company-name: "Tag Trek (formerly IP Mappers)"
+domain: tag-trek.com
+home: http://tag-trek.com/
+---
 
-# Tag Trek (formerly IP Mappers)
 
-Name: Tag Trek (formerly IP Mappers)
-Domain: tag-trek.com
-Home: http://tag-trek.com/
+

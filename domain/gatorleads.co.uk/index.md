@@ -1,7 +1,9 @@
+---
+company-name: "GatorLeads (formally WOW Analytics)"
+domain: gatorleads.co.uk
+home: https://www.gatorleads.co.uk/
+email: info@communigator.co.uk
+---
 
-# GatorLeads (formally WOW Analytics)
 
-Name: GatorLeads (formally WOW Analytics)
-Domain: gatorleads.co.uk
-Home: https://www.gatorleads.co.uk/
-Email: info@communigator.co.uk
+

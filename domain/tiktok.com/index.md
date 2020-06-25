@@ -1,8 +1,10 @@
+---
+company-name: "Tik Tok"
+domain: tiktok.com
+home: https://www.tiktok.com/en
+privacy-policy: https://www.tiktok.com/legal/privacy-policy?lang=en
+email: privacy@tiktok.com
+---
 
-# Tik Tok
 
-Name: Tik Tok
-Domain: tiktok.com
-Home: https://www.tiktok.com/en
-Privacy_policy: https://www.tiktok.com/legal/privacy-policy?lang=en
-Email: privacy@tiktok.com
+

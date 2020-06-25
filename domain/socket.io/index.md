@@ -1,6 +1,8 @@
+---
+company-name: Socket.IO
+domain: socket.io
+home: https://socket.io
+---
 
-# Socket.IO
 
-Name: Socket.IO
-Domain: socket.io
-Home: https://socket.io
+

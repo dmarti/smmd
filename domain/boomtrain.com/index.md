@@ -1,8 +1,10 @@
+---
+company-name: Boomtrain
+domain: boomtrain.com
+home: https://boomtrain.com/
+privacy-policy: https://boomtrain.com/privacy-policy/
+email: support@boomtrain.com
+---
 
-# Boomtrain
 
-Name: Boomtrain
-Domain: boomtrain.com
-Home: https://boomtrain.com/
-Privacy_policy: https://boomtrain.com/privacy-policy/
-Email: support@boomtrain.com
+

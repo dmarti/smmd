@@ -1,11 +1,11 @@
+---
+company-name: Allstate
+domain: allstate.com
+home: http://www.allstate.com/
+privacy-policy: http://www.allstate.com/about/privacy-statement-aic.aspx
+email: customerprivacy@allstate.com
+member-of: "Digital Advertising Alliance"
+---
 
-# Allstate
 
-Name: Allstate
-Domain: allstate.com
-Home: http://www.allstate.com/
-Privacy_policy: http://www.allstate.com/about/privacy-statement-aic.aspx
-Email: customerprivacy@allstate.com
-Member_of: American Advertising Federation
-Member_of: Association of National Advertisers
-Member_of: Digital Advertising Alliance
+

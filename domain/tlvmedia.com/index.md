@@ -1,7 +1,9 @@
+---
+company-name: TLVMedia
+domain: tlvmedia.com
+home: http://www.tlvmedia.com
+email: contact@tlvmedia.com
+---
 
-# TLVMedia
 
-Name: TLVMedia
-Domain: tlvmedia.com
-Home: http://www.tlvmedia.com
-Email: contact@tlvmedia.com
+

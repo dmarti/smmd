@@ -1,8 +1,10 @@
+---
+company-name: "Addaptive (Formerly DataPoint Media)"
+domain: addaptive.com
+home: https://www.addaptive.com/
+privacy-policy: https://www.addaptive.com/privacy
+email: privacy@addaptive.com
+---
 
-# Addaptive (Formerly DataPoint Media)
 
-Name: Addaptive (Formerly DataPoint Media)
-Domain: addaptive.com
-Home: https://www.addaptive.com/
-Privacy_policy: https://www.addaptive.com/privacy
-Email: privacy@addaptive.com
+

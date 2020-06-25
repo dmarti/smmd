@@ -1,8 +1,10 @@
+---
+company-name: Sonobi
+domain: sonobi.com
+home: http://sonobi.com/
+privacy-policy: http://sonobi.com/privacy-policy/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Sonobi
 
-Name: Sonobi
-Domain: sonobi.com
-Home: http://sonobi.com/
-Privacy_policy: http://sonobi.com/privacy-policy/
-Member_of: Interactive Advertising Bureau (IAB)
+

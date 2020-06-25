@@ -1,8 +1,10 @@
+---
+company-name: "Cheetah Mobile"
+domain: cmcm.com
+home: https://www.cmcm.com
+privacy-policy: https://www.cmcm.com/protocol/site/privacy.html
+email: legalnotice@cmcm.com
+---
 
-# Cheetah Mobile
 
-Name: Cheetah Mobile
-Domain: cmcm.com
-Home: https://www.cmcm.com
-Privacy_policy: https://www.cmcm.com/protocol/site/privacy.html
-Email: legalnotice@cmcm.com
+

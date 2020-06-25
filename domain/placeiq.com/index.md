@@ -1,23 +1,12 @@
-
-# PlaceIQ, Inc.
-
-Name: PlaceIQ, Inc.
-
-Domain: placeiq.com
-
-Home: http://www.placeiq.com
-
-Email: privacy [at] placeiq.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/07/2020
-
-
-
+---
+company-name: "PlaceIQ, Inc."
+domain: placeiq.com
+home: http://www.placeiq.com
+email: "privacy [at] placeiq.com"
+california-date: 02/07/2020
+---
 ## How to opt out
+
 
 You can make requests related to your California privacy rights at the following links:
 
@@ -37,6 +26,7 @@ We will review the information provided and may request additional information t
 
 ## How to delete
 
+
 You can make requests related to your California privacy rights at the following links:
 
 Access My Personal Information
@@ -55,7 +45,20 @@ We will review the information provided and may request additional information t
 
 ## Additional info
 
+
 Please visit: www.placeiq.com/privacy
 
 5 Bryant18th FloorNew York, NY 10018United States
+
+
+
+
+
+
+
+
+
+
+
+
 

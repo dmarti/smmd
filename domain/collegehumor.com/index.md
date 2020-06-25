@@ -1,8 +1,10 @@
+---
+company-name: CollegeHumor
+domain: collegehumor.com
+home: http://www.collegehumor.com/
+privacy-policy: http://www.collegehumor.com/static/privacy
+email: chlegal@electus.com
+---
 
-# CollegeHumor
 
-Name: CollegeHumor
-Domain: collegehumor.com
-Home: http://www.collegehumor.com/
-Privacy_policy: http://www.collegehumor.com/static/privacy
-Email: chlegal@electus.com
+

@@ -1,8 +1,10 @@
+---
+company-name: AdEye
+domain: adeye.com
+home: http://www.adeye.com/
+email: info@adeye.com
+owned-by: Programmatic.ly
+---
 
-# AdEye
 
-Name: AdEye
-Domain: adeye.com
-Home: http://www.adeye.com/
-Email: info@adeye.com
-Owned_by: Programmatic.ly
+

@@ -1,9 +1,11 @@
+---
+company-name: e-Rewards
+domain: e-rewards.com
+home: https://www.e-rewards.com/home.do
+privacy-policy: https://www.e-rewards.com/privacypolicy.do
+email: hmilt@researchnow.com
+owned-by: "Research Now (New Version)"
+---
 
-# e-Rewards
 
-Name: e-Rewards
-Domain: e-rewards.com
-Home: https://www.e-rewards.com/home.do
-Privacy_policy: https://www.e-rewards.com/privacypolicy.do
-Email: hmilt@researchnow.com
-Owned_by: Research Now (New Version)
+

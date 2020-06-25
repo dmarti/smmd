@@ -1,8 +1,10 @@
+---
+company-name: Tribune
+domain: tribune.com
+home: http://www.tribune.com/
+email: privacy@tribune.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Tribune
 
-Name: Tribune
-Domain: tribune.com
-Home: http://www.tribune.com/
-Email: privacy@tribune.com
-Member_of: Interactive Advertising Bureau (IAB)
+

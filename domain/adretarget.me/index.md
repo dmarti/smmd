@@ -1,7 +1,9 @@
+---
+company-name: AdRetarget
+domain: adretarget.me
+home: https://adretarget.me/
+privacy-policy: https://adretarget.me/privacy-policy/
+---
 
-# AdRetarget 
 
-Name: AdRetarget 
-Domain: adretarget.me
-Home: https://adretarget.me/
-Privacy_policy: https://adretarget.me/privacy-policy/
+

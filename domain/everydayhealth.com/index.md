@@ -1,9 +1,11 @@
+---
+company-name: EveryDayHealth
+domain: everydayhealth.com
+home: https://www.everydayhealth.com/
+privacy-policy: https://www.everydayhealth.com/privacyterms/
+email: privacy@everydayhealth.com
+member-of: "Digital Content Network(?)"
+---
 
-# EveryDayHealth
 
-Name: EveryDayHealth
-Domain: everydayhealth.com
-Home: https://www.everydayhealth.com/
-Privacy_policy: https://www.everydayhealth.com/privacyterms/
-Email: privacy@everydayhealth.com
-Member_of: Digital Content Network(?)
+

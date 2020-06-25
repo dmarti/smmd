@@ -1,7 +1,9 @@
-# CVS
+---
+company-name: CVS
+domain: cvs.com
+opt-out-url: https://www.cvs.com/extracare/ccpa
+---
 
-Name: CVS
 
-Domain: cvs.com
 
-Opt_out_url: https://www.cvs.com/extracare/ccpa
+

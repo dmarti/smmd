@@ -1,7 +1,9 @@
+---
+company-name: Shareaholic
+domain: shareaholic.com
+home: https://www.shareaholic.com/
+privacy-policy: https://www.shareaholic.com/privacy/
+---
 
-# Shareaholic
 
-Name: Shareaholic
-Domain: shareaholic.com
-Home: https://www.shareaholic.com/
-Privacy_policy: https://www.shareaholic.com/privacy/
+

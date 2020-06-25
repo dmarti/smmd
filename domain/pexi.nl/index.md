@@ -1,7 +1,9 @@
+---
+company-name: "Pexi B.V."
+domain: pexi.nl
+home: https://pexi.nl/
+privacy-policy: https://pexi.nl/privacy-policy/
+---
 
-# Pexi B.V.
 
-Name: Pexi B.V.
-Domain: pexi.nl
-Home: https://pexi.nl/
-Privacy_policy: https://pexi.nl/privacy-policy/
+

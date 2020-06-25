@@ -1,8 +1,10 @@
+---
+company-name: Singular
+domain: singular.net
+home: https://www.singular.net/
+privacy-policy: https://www.singular.net/privacy-policy/
+email: privacy@singular.net
+---
 
-# Singular
 
-Name: Singular
-Domain: singular.net
-Home: https://www.singular.net/
-Privacy_policy: https://www.singular.net/privacy-policy/
-Email: privacy@singular.net
+

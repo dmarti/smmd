@@ -1,21 +1,10 @@
-
-# Exact Data
-
-Name: Exact Data
-
-Domain: exactdata.com
-
-Home: exactdata.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: "Exact Data"
+domain: exactdata.com
+home: exactdata.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

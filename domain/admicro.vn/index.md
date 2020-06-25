@@ -1,8 +1,10 @@
+---
+company-name: AdMicro
+domain: admicro.vn
+home: https://admicro.vn/
+privacy-policy: https://admicro.vn/chinh-sach-bao-mat/
+email: contact@admicro.vn
+---
 
-# AdMicro
 
-Name: AdMicro
-Domain: admicro.vn
-Home: https://admicro.vn/
-Privacy_policy: https://admicro.vn/chinh-sach-bao-mat/
-Email: contact@admicro.vn
+

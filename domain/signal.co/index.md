@@ -1,10 +1,11 @@
+---
+company-name: "Signal (formerly BrightTag)"
+domain: signal.co
+home: https://www.signal.co/
+privacy-policy: https://www.signal.co/privacy-policy/
+email: privacy@signal.co
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Signal (formerly BrightTag)
 
-Name: Signal (formerly BrightTag)
-Domain: signal.co
-Home: https://www.signal.co/
-Privacy_policy: https://www.signal.co/privacy-policy/
-Email: privacy@signal.co
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

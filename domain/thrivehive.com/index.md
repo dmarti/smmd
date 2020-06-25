@@ -1,9 +1,11 @@
+---
+company-name: "ThriveHive (formerly Lytiks)"
+domain: thrivehive.com
+home: https://thrivehive.com/
+privacy-policy: https://thrivehive.com/privacy-policy/
+email: webmaster@gatehousemedia.com
+owned-by: "Gatehouse Media, LLC."
+---
 
-# ThriveHive (formerly Lytiks)
 
-Name: ThriveHive (formerly Lytiks)
-Domain: thrivehive.com
-Home: https://thrivehive.com/
-Privacy_policy: https://thrivehive.com/privacy-policy/
-Email: webmaster@gatehousemedia.com
-Owned_by: Gatehouse Media, LLC.
+

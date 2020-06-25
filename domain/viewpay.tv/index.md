@@ -1,9 +1,11 @@
+---
+company-name: ViewPay
+domain: viewpay.tv
+home: http://viewpay.tv/en/
+privacy-policy: http://viewpay.tv/mentions-legales/
+email: contact@markelys.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# ViewPay
 
-Name: ViewPay
-Domain: viewpay.tv
-Home: http://viewpay.tv/en/
-Privacy_policy: http://viewpay.tv/mentions-legales/
-Email: contact@markelys.com
-Member_of: Interactive Advertising Bureau (IAB)
+

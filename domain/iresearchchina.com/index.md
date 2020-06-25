@@ -1,7 +1,9 @@
+---
+company-name: iResearch
+domain: iresearchchina.com
+home: http://www.iresearchchina.com/
+email: insights.list@iresearch.com.cn
+---
 
-# iResearch
 
-Name: iResearch
-Domain: iresearchchina.com
-Home: http://www.iresearchchina.com/
-Email: insights.list@iresearch.com.cn
+

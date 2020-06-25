@@ -1,8 +1,10 @@
+---
+company-name: "Be Opinion"
+domain: beopinion.com
+home: http://beopinion.com/
+privacy-policy: https://admin.beopinion.com/terms
+email: contact@beopinion.com
+---
 
-# Be Opinion
 
-Name: Be Opinion
-Domain: beopinion.com
-Home: http://beopinion.com/
-Privacy_policy: https://admin.beopinion.com/terms
-Email: contact@beopinion.com
+

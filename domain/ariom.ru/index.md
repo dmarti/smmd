@@ -1,6 +1,8 @@
+---
+company-name: ariom.ru
+domain: ariom.ru
+home: http://ariom.ru/
+---
 
-# ariom.ru
 
-Name: ariom.ru
-Domain: ariom.ru
-Home: http://ariom.ru/
+

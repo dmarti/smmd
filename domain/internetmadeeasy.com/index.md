@@ -1,6 +1,8 @@
+---
+company-name: mir
+domain: internetmadeeasy.com
+home: http://www.internetmadeeasy.com/
+---
 
-# mir
 
-Name: mir
-Domain: internetmadeeasy.com
-Home: http://www.internetmadeeasy.com/
+

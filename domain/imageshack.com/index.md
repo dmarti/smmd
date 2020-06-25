@@ -1,7 +1,9 @@
+---
+company-name: ImageShack
+domain: imageshack.com
+home: https://imageshack.com/
+privacy-policy: https://imageshack.com/privacy
+---
 
-# ImageShack
 
-Name: ImageShack
-Domain: imageshack.com
-Home: https://imageshack.com/
-Privacy_policy: https://imageshack.com/privacy
+

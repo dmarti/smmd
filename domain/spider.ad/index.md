@@ -1,8 +1,10 @@
+---
+company-name: Spider.Ad
+domain: spider.ad
+home: http://spider.ad/
+privacy-policy: http://spider.ad/site/privacy
+email: hello@spider.ad
+---
 
-# Spider.Ad
 
-Name: Spider.Ad
-Domain: spider.ad
-Home: http://spider.ad/
-Privacy_policy: http://spider.ad/site/privacy
-Email: hello@spider.ad
+

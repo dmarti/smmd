@@ -1,8 +1,10 @@
+---
+company-name: Kiip
+domain: kiip.me
+home: http://www.kiip.me/
+privacy-policy: https://app.kiip.me/privacy
+email: privacy@kiip.me
+---
 
-# Kiip
 
-Name: Kiip
-Domain: kiip.me
-Home: http://www.kiip.me/
-Privacy_policy: https://app.kiip.me/privacy
-Email: privacy@kiip.me
+

@@ -1,6 +1,8 @@
+---
+company-name: Mediagra
+domain: mediagra.com
+home: http://mediagra.com/
+---
 
-# Mediagra
 
-Name: Mediagra
-Domain: mediagra.com
-Home: http://mediagra.com/
+

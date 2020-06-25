@@ -1,8 +1,10 @@
+---
+company-name: Liveclicker
+domain: liveclicker.com
+home: http://www.liveclicker.com
+privacy-policy: http://www.liveclicker.com/privacy/
+email: support@liveclicker.com
+---
 
-# Liveclicker
 
-Name: Liveclicker
-Domain: liveclicker.com
-Home: http://www.liveclicker.com
-Privacy_policy: http://www.liveclicker.com/privacy/
-Email: support@liveclicker.com
+

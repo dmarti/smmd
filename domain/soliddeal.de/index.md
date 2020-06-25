@@ -1,7 +1,9 @@
+---
+company-name: "Solid Deal"
+domain: soliddeal.de
+home: http://soliddeal.de/
+email: info@soliddeal.de
+---
 
-# Solid Deal
 
-Name: Solid Deal
-Domain: soliddeal.de
-Home: http://soliddeal.de/
-Email: info@soliddeal.de
+

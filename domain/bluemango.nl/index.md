@@ -1,9 +1,11 @@
+---
+company-name: "BlueMango Interactive"
+domain: bluemango.nl
+home: https://www.bluemango.nl
+privacy-policy: https://www.bluemango.nl/en/privacy/
+email: info@bluemango.nl
+owned-by: "Greenhouse Group"
+---
 
-# BlueMango Interactive
 
-Name: BlueMango Interactive
-Domain: bluemango.nl
-Home: https://www.bluemango.nl
-Privacy_policy: https://www.bluemango.nl/en/privacy/
-Email: info@bluemango.nl
-Owned_by: Greenhouse Group
+

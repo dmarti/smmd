@@ -1,8 +1,10 @@
+---
+company-name: "TACTIC™ Real-Time Marketing AS"
+domain: tacticrealtime.com
+home: http://tacticrealtime.com/
+privacy-policy: https://tacticrealtime.com/privacy/
+email: privacy@tacticrealtime.com
+---
 
-# TACTIC™ Real-Time Marketing AS
 
-Name: TACTIC™ Real-Time Marketing AS
-Domain: tacticrealtime.com
-Home: http://tacticrealtime.com/
-Privacy_policy: https://tacticrealtime.com/privacy/
-Email: privacy@tacticrealtime.com
+

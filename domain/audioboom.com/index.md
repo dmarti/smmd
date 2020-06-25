@@ -1,8 +1,10 @@
+---
+company-name: "Audioboom (Previously Audioboo)"
+domain: audioboom.com
+home: https://audioboom.com/
+privacy-policy: https://audioboom.com/about/privacy
+email: support@audioboom.com
+---
 
-# Audioboom (Previously Audioboo)
 
-Name: Audioboom (Previously Audioboo)
-Domain: audioboom.com
-Home: https://audioboom.com/
-Privacy_policy: https://audioboom.com/about/privacy
-Email: support@audioboom.com
+

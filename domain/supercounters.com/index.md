@@ -1,8 +1,10 @@
+---
+company-name: SuperCounters
+domain: supercounters.com
+home: http://www.supercounters.com/
+privacy-policy: http://www.supercounters.com/privacy
+email: g4seven@Yahoo.com
+---
 
-# SuperCounters
 
-Name: SuperCounters
-Domain: supercounters.com
-Home: http://www.supercounters.com/
-Privacy_policy: http://www.supercounters.com/privacy
-Email: g4seven@Yahoo.com
+

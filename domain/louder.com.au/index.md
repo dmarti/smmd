@@ -1,7 +1,9 @@
+---
+company-name: Louder
+domain: louder.com.au
+home: http://louder.com.au/
+privacy-policy: https://louder.com.au/privacy/
+---
 
-# Louder
 
-Name: Louder
-Domain: louder.com.au
-Home: http://louder.com.au/
-Privacy_policy: https://louder.com.au/privacy/
+

@@ -1,8 +1,10 @@
+---
+company-name: MindTake
+domain: mindtake.com
+home: https://www.mindtake.com/
+email: office@mindtake.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# MindTake
 
-Name: MindTake
-Domain: mindtake.com
-Home: https://www.mindtake.com/
-Email: office@mindtake.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

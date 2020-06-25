@@ -1,8 +1,10 @@
+---
+company-name: "InSites Consulting"
+domain: insites-consulting.com
+home: https://www.insites-consulting.com/
+privacy-policy: https://www.insites-consulting.com/privacy-statements/
+email: marketing@insites.eu
+---
 
-# InSites Consulting
 
-Name: InSites Consulting
-Domain: insites-consulting.com
-Home: https://www.insites-consulting.com/
-Privacy_policy: https://www.insites-consulting.com/privacy-statements/
-Email: marketing@insites.eu
+

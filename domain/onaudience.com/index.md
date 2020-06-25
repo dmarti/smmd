@@ -1,7 +1,9 @@
+---
+company-name: OnAudience
+domain: onaudience.com
+home: http://www.onaudience.com/
+privacy-policy: https://www.onaudience.com/internet-advertising-privacy-policy
+---
 
-# OnAudience
 
-Name: OnAudience
-Domain: onaudience.com
-Home: http://www.onaudience.com/
-Privacy_policy: https://www.onaudience.com/internet-advertising-privacy-policy
+

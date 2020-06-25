@@ -1,12 +1,12 @@
+---
+company-name: FreeWheel
+domain: freewheel.tv
+home: http://freewheel.tv/
+privacy-policy: http://freewheel.tv/privacy-policy/
+email: privacy@freewheel.tv
+owned-by: "Xfinity (formerly Comcast)"
+member-of: TrustE_TrustArc
+---
 
-# FreeWheel
 
-Name: FreeWheel
-Domain: freewheel.tv
-Home: http://freewheel.tv/
-Privacy_policy: http://freewheel.tv/privacy-policy/
-Email: privacy@freewheel.tv
-Owned_by: Xfinity (formerly Comcast)
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: TrustE_TrustArc
+

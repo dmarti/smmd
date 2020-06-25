@@ -1,7 +1,9 @@
+---
+company-name: Evonia
+domain: evonia.com
+home: http://www.evonia.com/
+email: contact@evonia.com
+---
 
-# Evonia
 
-Name: Evonia
-Domain: evonia.com
-Home: http://www.evonia.com/
-Email: contact@evonia.com
+

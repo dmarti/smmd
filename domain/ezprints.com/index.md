@@ -1,7 +1,9 @@
+---
+company-name: EzPrints
+domain: ezprints.com
+home: http://ezprints.com
+privacy-policy: http://
+---
 
-# EzPrints
 
-Name: EzPrints
-Domain: ezprints.com
-Home: http://ezprints.com
-Privacy_policy: http://
+

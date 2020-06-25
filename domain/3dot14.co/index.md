@@ -1,8 +1,10 @@
+---
+company-name: "3.14 Digital"
+domain: 3dot14.co
+home: http://3dot14.co/
+privacy-policy: http://3dot14.co/privacy_policy
+email: info@3dot14.co
+---
 
-# 3.14 Digital
 
-Name: 3.14 Digital
-Domain: 3dot14.co
-Home: http://3dot14.co/
-Privacy_policy: http://3dot14.co/privacy_policy
-Email: info@3dot14.co
+

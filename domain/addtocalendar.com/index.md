@@ -1,7 +1,9 @@
+---
+company-name: AddToCalendar
+domain: addtocalendar.com
+home: http://addtocalendar.com/
+owned-by: AddEvent
+---
 
-# AddToCalendar
 
-Name: AddToCalendar
-Domain: addtocalendar.com
-Home: http://addtocalendar.com/
-Owned_by: AddEvent
+

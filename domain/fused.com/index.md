@@ -1,8 +1,10 @@
+---
+company-name: Fused
+domain: fused.com
+home: http://www.fused.com/
+privacy-policy: http://www.fused.com/terms.php
+email: support@fused.com
+---
 
-# Fused
 
-Name: Fused
-Domain: fused.com
-Home: http://www.fused.com/
-Privacy_policy: http://www.fused.com/terms.php
-Email: support@fused.com
+

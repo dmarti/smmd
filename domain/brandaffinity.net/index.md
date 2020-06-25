@@ -1,7 +1,9 @@
+---
+company-name: "Brand Affinity"
+domain: brandaffinity.net
+home: http://brandaffinity.net/
+email: privacy@brandaffinity.net
+---
 
-# Brand Affinity
 
-Name: Brand Affinity
-Domain: brandaffinity.net
-Home: http://brandaffinity.net/
-Email: privacy@brandaffinity.net
+

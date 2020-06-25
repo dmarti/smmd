@@ -1,8 +1,10 @@
+---
+company-name: RightWave
+domain: https.
+home: https://www.rightwave.com/
+privacy-policy: https://www.rightwave.com/rwi/privacy
+email: privacy@rightwave.com
+---
 
-# RightWave
 
-Name: RightWave
-Domain: https.
-Home:  https://www.rightwave.com/
-Privacy_policy: https://www.rightwave.com/rwi/privacy
-Email: privacy@rightwave.com
+

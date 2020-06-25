@@ -1,6 +1,8 @@
+---
+company-name: Click2Commission
+domain: click2commission.com
+home: http://www.click2commission.com/
+---
 
-# Click2Commission
 
-Name: Click2Commission
-Domain: click2commission.com
-Home: http://www.click2commission.com/
+

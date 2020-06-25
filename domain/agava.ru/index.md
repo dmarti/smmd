@@ -1,7 +1,9 @@
+---
+company-name: AGAVA
+domain: agava.ru
+home: http://www.agava.ru
+email: support@agava.com
+---
 
-# AGAVA
 
-Name: AGAVA
-Domain: agava.ru
-Home: http://www.agava.ru
-Email: support@agava.com
+

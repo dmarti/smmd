@@ -1,7 +1,9 @@
+---
+company-name: Digitec
+domain: digitec.ch
+home: https://www.digitec.ch/
+privacy-policy: https://www.digitec.ch/de/Wiki/2791
+---
 
-# Digitec
 
-Name: Digitec
-Domain: digitec.ch
-Home: https://www.digitec.ch/
-Privacy_policy: https://www.digitec.ch/de/Wiki/2791
+

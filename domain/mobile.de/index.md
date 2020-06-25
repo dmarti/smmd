@@ -1,9 +1,11 @@
+---
+company-name: "mobile.de GmbH"
+domain: mobile.de
+home: http://www.mobile.de/?lang=en
+privacy-policy: https://www.mobile.de/service/privacyPolicy
+email: datenschutz@team.mobile.de
+owned-by: eBay
+---
 
-# mobile.de GmbH
 
-Name: mobile.de GmbH
-Domain: mobile.de
-Home: http://www.mobile.de/?lang=en
-Privacy_policy: https://www.mobile.de/service/privacyPolicy
-Email: datenschutz@team.mobile.de
-Owned_by: eBay
+

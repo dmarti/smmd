@@ -1,8 +1,10 @@
+---
+company-name: Thunder
+domain: makethunder.com
+home: https://www.makethunder.com/
+privacy-policy: https://www.makethunder.com/privacy
+email: privacy@makethunder.com
+---
 
-# Thunder
 
-Name: Thunder
-Domain: makethunder.com
-Home: https://www.makethunder.com/
-Privacy_policy: https://www.makethunder.com/privacy
-Email: privacy@makethunder.com
+

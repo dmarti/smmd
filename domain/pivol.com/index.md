@@ -1,8 +1,10 @@
+---
+company-name: Pivol
+domain: pivol.com
+home: https://www.pivol.com/
+privacy-policy: https://www.pivol.com/en/main/privacy-policy
+email: contact@pivol.com
+---
 
-# Pivol
 
-Name: Pivol
-Domain: pivol.com
-Home: https://www.pivol.com/
-Privacy_policy: https://www.pivol.com/en/main/privacy-policy
-Email: contact@pivol.com
+

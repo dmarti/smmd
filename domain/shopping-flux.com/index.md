@@ -1,7 +1,9 @@
+---
+company-name: "Shopping Flux"
+domain: shopping-flux.com
+home: http://www.shopping-flux.com/
+email: contact@shopping-flux.com
+---
 
-# Shopping Flux
 
-Name: Shopping Flux
-Domain: shopping-flux.com
-Home: http://www.shopping-flux.com/
-Email: contact@shopping-flux.com
+

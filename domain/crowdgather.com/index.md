@@ -1,8 +1,10 @@
+---
+company-name: CrowdGather
+domain: crowdgather.com
+home: http://www.crowdgather.com/
+privacy-policy: http://www.crowdgather.com/privacy
+email: privacy@crowdgather.com
+---
 
-# CrowdGather
 
-Name: CrowdGather
-Domain: crowdgather.com
-Home: http://www.crowdgather.com/
-Privacy_policy: http://www.crowdgather.com/privacy
-Email: privacy@crowdgather.com
+

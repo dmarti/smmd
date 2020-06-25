@@ -1,6 +1,8 @@
+---
+company-name: Stratics
+domain: stratics.com
+home: http://stratics.com/
+---
 
-# Stratics
 
-Name: Stratics
-Domain: stratics.com
-Home: http://stratics.com/
+

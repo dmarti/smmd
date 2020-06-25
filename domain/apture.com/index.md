@@ -1,8 +1,10 @@
+---
+company-name: "Apture (Google)"
+domain: apture.com
+home: http://www.apture.com/
+email: contact@apture.com
+owned-by: "Google Inc."
+---
 
-# Apture (Google)
 
-Name: Apture (Google)
-Domain: apture.com
-Home: http://www.apture.com/
-Email: contact@apture.com
-Owned_by: Google Inc.
+

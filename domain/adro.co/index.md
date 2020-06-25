@@ -1,6 +1,8 @@
+---
+company-name: Adro
+domain: adro.co
+home: https://adro.co/
+---
 
-# Adro
 
-Name: Adro
-Domain: adro.co
-Home: https://adro.co/
+

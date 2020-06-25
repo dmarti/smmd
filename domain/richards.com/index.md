@@ -1,16 +1,12 @@
-# The Richards Group
-
-Name: The Richards Group
-
-Domain: richards.com
-
-Home: https://richards.com/
-
-Privacy_policy: https://richards.com/privacy/
-
-FIXME: no CCPA in privacy policy, but using Facebook Custom Audiences
-
+---
+company-name: "The Richards Group"
+domain: richards.com
+home: https://richards.com/
+privacy-policy: https://richards.com/privacy/
+fixme: "no CCPA in privacy policy, but using Facebook Custom Audiences"
+---
 ## How to opt out
+
 
 
 
@@ -19,6 +15,15 @@ FIXME: no CCPA in privacy policy, but using Facebook Custom Audiences
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
 
 

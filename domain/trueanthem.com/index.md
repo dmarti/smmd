@@ -1,8 +1,10 @@
+---
+company-name: trueAnthem
+domain: trueanthem.com
+home: http://www.trueanthem.com
+privacy-policy: http://www.trueanthem.com/privacy-policy/
+email: hello@trueanthem.com
+---
 
-# trueAnthem
 
-Name: trueAnthem
-Domain: trueanthem.com
-Home: http://www.trueanthem.com
-Privacy_policy: http://www.trueanthem.com/privacy-policy/
-Email: hello@trueanthem.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Commerce Connector"
+domain: commerce-connector.com
+home: https://www.commerce-connector.com
+privacy-policy: https://www.commerce-connector.com/web/en/privacy-policy/
+email: info@commerce-connector.com
+---
 
-# Commerce Connector
 
-Name: Commerce Connector
-Domain: commerce-connector.com
-Home: https://www.commerce-connector.com
-Privacy_policy: https://www.commerce-connector.com/web/en/privacy-policy/
-Email: info@commerce-connector.com
+

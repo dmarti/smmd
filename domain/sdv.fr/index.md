@@ -1,7 +1,9 @@
+---
+company-name: "SdV Plurimédia"
+domain: sdv.fr
+home: http://www.sdv.fr/
+email: contact@sdv.fr
+---
 
-# SdV Plurimédia
 
-Name: SdV Plurimédia
-Domain: sdv.fr
-Home: http://www.sdv.fr/
-Email: contact@sdv.fr
+

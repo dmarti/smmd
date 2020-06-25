@@ -1,10 +1,12 @@
+---
+company-name: "Complex Media, Inc."
+domain: complex.com
+home: https://www.complex.com
+privacy-policy: https://www.complex.com/privacy
+email: legal@complex.com
+owned-by: Verizon
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Complex Media, Inc.
 
-Name: Complex Media, Inc.
-Domain: complex.com
-Home: https://www.complex.com
-Privacy_policy: https://www.complex.com/privacy
-Email: legal@complex.com
-Owned_by: Verizon
-Member_of: Interactive Advertising Bureau (IAB)
+

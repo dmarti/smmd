@@ -1,7 +1,9 @@
+---
+company-name: HeyBubble
+domain: heybubble.com
+home: https://www.heybubble.com/
+privacy-policy: https://www.heybubble.com/Privacy-Policy
+---
 
-# HeyBubble
 
-Name: HeyBubble
-Domain: heybubble.com
-Home: https://www.heybubble.com/
-Privacy_policy: https://www.heybubble.com/Privacy-Policy
+

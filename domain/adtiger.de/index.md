@@ -1,9 +1,11 @@
+---
+company-name: AdTiger
+domain: adtiger.de
+home: http://www.adtiger.de
+privacy-policy: http://www.adtiger.de/datenschutzerklaerung/
+email: jan.winkler@adtiger.de
+member-of: "Internet Advertising Sales Houses Council"
+---
 
-# AdTiger
 
-Name: AdTiger
-Domain: adtiger.de
-Home: http://www.adtiger.de
-Privacy_policy: http://www.adtiger.de/datenschutzerklaerung/
-Email: jan.winkler@adtiger.de
-Member_of: Internet Advertising Sales Houses Council
+

@@ -1,7 +1,9 @@
+---
+company-name: Gittip
+domain: gittip.com
+home: https://www.gittip.com/
+email: chad@zetaweb.com
+---
 
-# Gittip
 
-Name: Gittip
-Domain: gittip.com
-Home: https://www.gittip.com/
-Email: chad@zetaweb.com
+

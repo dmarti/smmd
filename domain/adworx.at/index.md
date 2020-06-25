@@ -1,10 +1,11 @@
+---
+company-name: Adworx
+domain: adworx.at
+home: http://www.adworx.at/
+email: adworx@ors.at
+owned-by: ORS
+member-of: "Mobile Marketing Asc"
+---
 
-# Adworx
 
-Name: Adworx
-Domain: adworx.at
-Home: http://www.adworx.at/
-Email: adworx@ors.at
-Owned_by: ORS
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Mobile Marketing Asc
+

@@ -1,6 +1,8 @@
+---
+company-name: uLogix
+domain: ulogix.ru
+home: http://ulogix.ru
+---
 
-# uLogix
 
-Name: uLogix
-Domain: ulogix.ru
-Home: http://ulogix.ru
+

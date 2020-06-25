@@ -1,9 +1,11 @@
+---
+company-name: Atedra
+domain: atedra.com
+home: http://www.atedra.com/
+privacy-policy: http://www.atedra.com/vie-privee
+email: support@atedra.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Atedra
 
-Name: Atedra
-Domain: atedra.com
-Home: http://www.atedra.com/
-Privacy_policy: http://www.atedra.com/vie-privee
-Email: support@atedra.com
-Member_of: Interactive Advertising Bureau (IAB)
+

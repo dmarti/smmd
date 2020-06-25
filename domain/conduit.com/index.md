@@ -1,9 +1,11 @@
+---
+company-name: Wibiya
+domain: conduit.com
+home: http://wibiya.conduit.com//
+privacy-policy: http://wibiya.conduit.com//privacy
+email: info@wibiya.com
+owned-by: "Como (formerly Conduit)"
+---
 
-# Wibiya
 
-Name: Wibiya
-Domain: conduit.com
-Home: http://wibiya.conduit.com//
-Privacy_policy: http://wibiya.conduit.com//privacy
-Email: info@wibiya.com
-Owned_by: Como (formerly Conduit)
+

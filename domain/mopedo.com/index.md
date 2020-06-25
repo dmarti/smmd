@@ -1,9 +1,11 @@
+---
+company-name: Mopedo
+domain: mopedo.com
+home: http://mopedo.com/
+privacy-policy: http://mopedo.com/privacy-policy/#privacy
+email: privacy@mopedo.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Mopedo
 
-Name: Mopedo
-Domain: mopedo.com
-Home: http://mopedo.com/
-Privacy_policy: http://mopedo.com/privacy-policy/#privacy
-Email: privacy@mopedo.com
-Member_of: Interactive Advertising Bureau (IAB)
+

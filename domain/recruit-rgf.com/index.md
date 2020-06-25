@@ -1,7 +1,9 @@
+---
+company-name: "Recruit Ad Network (Recruit Holdings, Inc.)"
+domain: recruit-rgf.com
+home: http://www.recruit-rgf.com/
+privacy-policy: http://www.recruit-rgf.com/privacypolicy.html
+---
 
-# Recruit Ad Network (Recruit Holdings, Inc.) 
 
-Name: Recruit Ad Network (Recruit Holdings, Inc.) 
-Domain: recruit-rgf.com
-Home: http://www.recruit-rgf.com/
-Privacy_policy: http://www.recruit-rgf.com/privacypolicy.html
+

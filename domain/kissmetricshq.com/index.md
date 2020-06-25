@@ -1,9 +1,11 @@
+---
+company-name: Kissmetrics
+domain: kissmetricshq.com
+home: https://www.kissmetricshq.com/
+privacy-policy: https://signin.kissmetrics.com/privacy/
+email: privacy@kissmetrics.com
+member-of: TrustE_TrustArc
+---
 
-# Kissmetrics
 
-Name: Kissmetrics
-Domain: kissmetricshq.com
-Home: https://www.kissmetricshq.com/
-Privacy_policy: https://signin.kissmetrics.com/privacy/
-Email: privacy@kissmetrics.com
-Member_of: TrustE_TrustArc
+

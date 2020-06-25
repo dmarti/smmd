@@ -1,8 +1,10 @@
+---
+company-name: "Intent IQ"
+domain: intentiq.com
+home: http://www.intentiq.com/
+email: "(646) 845 9225"
+owned-by: "AlmondNet Group"
+---
 
-# Intent IQ
 
-Name: Intent IQ
-Domain: intentiq.com
-Home: http://www.intentiq.com/
-Email: (646) 845 9225
-Owned_by: AlmondNet Group
+

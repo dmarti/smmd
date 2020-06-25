@@ -1,7 +1,9 @@
+---
+company-name: BinLayer
+domain: binlayer.com
+home: https://binlayer.com/
+email: support@binlayer.com
+---
 
-# BinLayer
 
-Name: BinLayer
-Domain: binlayer.com
-Home: https://binlayer.com/
-Email: support@binlayer.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "AdMaster (Jing Shuo Technology)"
+domain: admaster.com.cn
+home: http://www.admaster.com.cn/
+privacy-policy: http://www.admaster.com.cn/?c=abouts&a=content&code=statement
+email: help@admaster.com.cn
+---
 
-# AdMaster (Jing Shuo Technology)
 
-Name: AdMaster (Jing Shuo Technology)
-Domain: admaster.com.cn
-Home: http://www.admaster.com.cn/
-Privacy_policy: http://www.admaster.com.cn/?c=abouts&a=content&code=statement
-Email: help@admaster.com.cn
+

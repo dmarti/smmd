@@ -1,7 +1,9 @@
+---
+company-name: ADSHARE
+domain: adshare.at
+home: http://www.adshare.at/
+privacy-policy: http://www.adshare.at/#Privacy
+---
 
-# ADSHARE
 
-Name: ADSHARE
-Domain: adshare.at
-Home: http://www.adshare.at/
-Privacy_policy: http://www.adshare.at/#Privacy  
+

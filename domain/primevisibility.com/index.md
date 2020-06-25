@@ -1,8 +1,10 @@
+---
+company-name: "Prime Visibility"
+domain: primevisibility.com
+home: http://www.primevisibility.com/
+privacy-policy: http://www.primevisibility.com/privacy-policy
+owned-by: Blinkx
+---
 
-# Prime Visibility
 
-Name: Prime Visibility
-Domain: primevisibility.com
-Home: http://www.primevisibility.com/
-Privacy_policy: http://www.primevisibility.com/privacy-policy
-Owned_by: Blinkx
+

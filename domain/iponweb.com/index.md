@@ -1,8 +1,10 @@
+---
+company-name: IPONWEB
+domain: iponweb.com
+home: https://www.iponweb.com/
+privacy-policy: https://www.iponweb.com/privacy-policy/
+email: info@iponweb.net
+---
 
-# IPONWEB
 
-Name: IPONWEB
-Domain: iponweb.com
-Home: https://www.iponweb.com/
-Privacy_policy: https://www.iponweb.com/privacy-policy/
-Email: info@iponweb.net
+

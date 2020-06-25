@@ -1,9 +1,11 @@
+---
+company-name: creditcards.com
+domain: creditcards.com
+home: https://www.creditcards.com
+privacy-policy: https://www.creditcards.com/privacy/
+email: support@creditcards.com
+owned-by: Bankrate
+---
 
-# creditcards.com
 
-Name: creditcards.com
-Domain: creditcards.com
-Home: https://www.creditcards.com
-Privacy_policy: https://www.creditcards.com/privacy/
-Email: support@creditcards.com
-Owned_by: Bankrate
+

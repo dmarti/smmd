@@ -1,6 +1,8 @@
+---
+company-name: "Trion Interactive"
+domain: trioninteractive.com
+home: http://trioninteractive.com/
+---
 
-# Trion Interactive
 
-Name: Trion Interactive
-Domain: trioninteractive.com
-Home: http://trioninteractive.com/
+

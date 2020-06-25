@@ -1,7 +1,9 @@
+---
+company-name: Mediametrics
+domain: mediametrics.ru
+home: http://mediametrics.ru
+email: support@mediametrics.ru
+---
 
-# Mediametrics
 
-Name: Mediametrics
-Domain: mediametrics.ru
-Home: http://mediametrics.ru
-Email: support@mediametrics.ru
+

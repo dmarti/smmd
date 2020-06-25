@@ -1,7 +1,9 @@
+---
+company-name: SocialInterface
+domain: socialinterface.com
+home: http://socialinterface.com/
+email: info@socialinterface.com
+---
 
-# SocialInterface
 
-Name: SocialInterface
-Domain: socialinterface.com
-Home: http://socialinterface.com/
-Email: info@socialinterface.com
+

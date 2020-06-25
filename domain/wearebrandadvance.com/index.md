@@ -1,8 +1,10 @@
+---
+company-name: "Brand Advance Limited"
+domain: wearebrandadvance.com
+home: https://www.wearebrandadvance.com/
+privacy-policy: https://www.wearebrandadvance.com/website-privacy-policy
+email: "privacy @brandadvance.co.uk"
+---
 
-# Brand Advance Limited
 
-Name: Brand Advance Limited
-Domain: wearebrandadvance.com
-Home: https://www.wearebrandadvance.com/
-Privacy_policy: https://www.wearebrandadvance.com/website-privacy-policy
-Email: privacy @brandadvance.co.uk
+

@@ -1,7 +1,9 @@
+---
+company-name: "VPS Cash"
+domain: vpscash.com
+home: http://www.vpscash.com/home
+privacy-policy: http://www.vpscash.com/generalconditions
+---
 
-# VPS Cash
 
-Name: VPS Cash
-Domain: vpscash.com
-Home: http://www.vpscash.com/home
-Privacy_policy: http://www.vpscash.com/generalconditions
+

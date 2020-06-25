@@ -1,7 +1,9 @@
+---
+company-name: Vidgyor
+domain: vidgyor.com
+home: http://vidgyor.com/
+email: contact@vidgyor.com
+---
 
-# Vidgyor
 
-Name: Vidgyor
-Domain: vidgyor.com
-Home: http://vidgyor.com/
-Email: contact@vidgyor.com
+

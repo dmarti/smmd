@@ -1,9 +1,11 @@
+---
+company-name: Mattel
+domain: mattel.com
+home: http://www.mattel.com/
+privacy-policy: http://corporate.mattel.com/privacy-policy.aspx
+email: Service@mattel.com
+member-of: "Association of National Advertisers"
+---
 
-# Mattel
 
-Name: Mattel
-Domain: mattel.com
-Home: http://www.mattel.com/
-Privacy_policy: http://corporate.mattel.com/privacy-policy.aspx
-Email: Service@mattel.com
-Member_of: Association of National Advertisers
+

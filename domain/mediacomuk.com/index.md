@@ -1,8 +1,10 @@
+---
+company-name: "Mediacom UK"
+domain: mediacomuk.com
+home: http://mediacomuk.com/
+privacy-policy: https://www.mediacom.com/uk/privacy-policy
+owned-by: GroupM
+---
 
-# Mediacom UK
 
-Name: Mediacom UK
-Domain: mediacomuk.com
-Home: http://mediacomuk.com/
-Privacy_policy: https://www.mediacom.com/uk/privacy-policy
-Owned_by: GroupM
+

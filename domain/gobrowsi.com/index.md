@@ -1,8 +1,10 @@
+---
+company-name: Browsi
+domain: gobrowsi.com
+home: https://gobrowsi.com/
+privacy-policy: https://gobrowsi.com/privacy-policy
+email: privacy@gobrowsi.com
+---
 
-# Browsi
 
-Name: Browsi
-Domain: gobrowsi.com
-Home: https://gobrowsi.com/
-Privacy_policy: https://gobrowsi.com/privacy-policy
-Email: privacy@gobrowsi.com
+

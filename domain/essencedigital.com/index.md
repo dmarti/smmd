@@ -1,9 +1,11 @@
+---
+company-name: "Essence Digital"
+domain: essencedigital.com
+home: http://www.essencedigital.com/
+privacy-policy: http://www.essencedigital.com/privacy.html
+email: privacy@essence.co.uk
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Essence Digital
 
-Name: Essence Digital
-Domain: essencedigital.com
-Home: http://www.essencedigital.com/
-Privacy_policy: http://www.essencedigital.com/privacy.html
-Email: privacy@essence.co.uk
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

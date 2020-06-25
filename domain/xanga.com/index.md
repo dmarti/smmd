@@ -1,7 +1,9 @@
+---
+company-name: Xanga
+domain: xanga.com
+home: http://www.xanga.com/
+privacy-policy: http://about.xanga.com/legal/privacy-policy/
+---
 
-# Xanga
 
-Name: Xanga
-Domain: xanga.com
-Home: http://www.xanga.com/
-Privacy_policy: http://about.xanga.com/legal/privacy-policy/
+

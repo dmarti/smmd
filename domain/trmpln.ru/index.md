@@ -1,8 +1,10 @@
+---
+company-name: "Tramplin Media"
+domain: trmpln.ru
+home: http://trmpln.ru/
+privacy-policy: https://trmpln.ru/docs/privacy-policy.pdf
+email: welcome@trmpln.ru
+---
 
-# Tramplin Media
 
-Name: Tramplin Media
-Domain: trmpln.ru
-Home: http://trmpln.ru/
-Privacy_policy: https://trmpln.ru/docs/privacy-policy.pdf
-Email: welcome@trmpln.ru
+

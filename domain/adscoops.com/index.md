@@ -1,6 +1,8 @@
+---
+company-name: "Ad Scoops"
+domain: adscoops.com
+home: http://www.adscoops.com/
+---
 
-# Ad Scoops
 
-Name: Ad Scoops
-Domain: adscoops.com
-Home: http://www.adscoops.com/
+

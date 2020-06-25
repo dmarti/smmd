@@ -1,7 +1,9 @@
+---
+company-name: WebGozar
+domain: webgozar.com
+home: http://webgozar.com/
+email: support@webgozar.com
+---
 
-# WebGozar
 
-Name: WebGozar
-Domain: webgozar.com
-Home: http://webgozar.com/
-Email: support@webgozar.com
+

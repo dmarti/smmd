@@ -1,8 +1,10 @@
+---
+company-name: "Hannon Hill"
+domain: hannonhill.com
+home: https://www.hannonhill.com/index.html
+privacy-policy: https://www.hannonhill.com/legal/privacy.html
+email: privacy@hannonhill.com
+---
 
-# Hannon Hill
 
-Name: Hannon Hill
-Domain: hannonhill.com
-Home: https://www.hannonhill.com/index.html
-Privacy_policy: https://www.hannonhill.com/legal/privacy.html
-Email: privacy@hannonhill.com
+

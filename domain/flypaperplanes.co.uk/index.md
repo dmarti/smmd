@@ -1,8 +1,10 @@
+---
+company-name: PaperPlanes
+domain: flypaperplanes.co.uk
+home: http://flypaperplanes.co.uk/
+privacy-policy: http://flypaperplanes.co.uk/privacy/
+email: "email info@flypaperplanes.co.uk"
+---
 
-# PaperPlanes
 
-Name: PaperPlanes
-Domain: flypaperplanes.co.uk
-Home: http://flypaperplanes.co.uk/
-Privacy_policy: http://flypaperplanes.co.uk/privacy/
-Email: email info@flypaperplanes.co.uk
+

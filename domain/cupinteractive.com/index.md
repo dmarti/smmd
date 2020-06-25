@@ -1,8 +1,10 @@
+---
+company-name: "Cup Interactive"
+domain: cupinteractive.com
+home: http://www.cupinteractive.com/
+privacy-policy: http://www.cupinteractive.com/politique-de-confidentialite.html
+owned-by: "TF1 Group"
+---
 
-# Cup Interactive
 
-Name: Cup Interactive
-Domain: cupinteractive.com
-Home: http://www.cupinteractive.com/
-Privacy_policy: http://www.cupinteractive.com/politique-de-confidentialite.html
-Owned_by: TF1 Group
+

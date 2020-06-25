@@ -1,8 +1,10 @@
+---
+company-name: Adchex
+domain: adchex.com
+home: https://adchex.com/
+privacy-policy: https://adchex.com/privacy-policy/
+email: office@doublecheck.com.pl
+---
 
-# Adchex
 
-Name: Adchex
-Domain: adchex.com
-Home: https://adchex.com/
-Privacy_policy: https://adchex.com/privacy-policy/
-Email: office@doublecheck.com.pl
+

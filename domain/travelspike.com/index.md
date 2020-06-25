@@ -1,9 +1,11 @@
+---
+company-name: "Travel Spike"
+domain: travelspike.com
+home: http://travelspike.com/
+privacy-policy: http://travelspike.com/privacy-policy/
+email: info@travelspike.com
+member-of: "Network Advertising Initiative"
+---
 
-# Travel Spike
 
-Name: Travel Spike
-Domain: travelspike.com
-Home: http://travelspike.com/
-Privacy_policy: http://travelspike.com/privacy-policy/
-Email: info@travelspike.com
-Member_of: Network Advertising Initiative
+

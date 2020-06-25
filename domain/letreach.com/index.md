@@ -1,8 +1,10 @@
+---
+company-name: "Let Reach"
+domain: letreach.com
+home: https://letreach.com/
+privacy-policy: https://letreach.com/privacy-policy
+email: support@letx.com
+---
 
-# Let Reach
 
-Name: Let Reach
-Domain: letreach.com
-Home: https://letreach.com/
-Privacy_policy: https://letreach.com/privacy-policy
-Email: support@letx.com
+

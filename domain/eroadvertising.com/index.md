@@ -1,8 +1,10 @@
+---
+company-name: EroAdvertising
+domain: eroadvertising.com
+home: https://eroadvertising.com
+privacy-policy: https://eroadvertising.com/#!/privacy
+email: info@ero-advertising.com
+---
 
-# EroAdvertising
 
-Name: EroAdvertising
-Domain: eroadvertising.com
-Home: https://eroadvertising.com
-Privacy_policy: https://eroadvertising.com/#!/privacy
-Email: info@ero-advertising.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "Jumpstart Automotive Group"
+domain: jumpstartautomotivegroup.com
+home: http://www.jumpstartautomotivegroup.com/
+email: privacy@JumpstartAuto.com
+---
 
-# Jumpstart Automotive Group
 
-Name: Jumpstart Automotive Group
-Domain: jumpstartautomotivegroup.com
-Home: http://www.jumpstartautomotivegroup.com/
-Email: privacy@JumpstartAuto.com
+

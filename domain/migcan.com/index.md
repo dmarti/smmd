@@ -1,7 +1,9 @@
+---
+company-name: "Mobile Interactive Group"
+domain: migcan.com
+home: http://www.migcan.com/
+email: mobile@migcan.com
+---
 
-# Mobile Interactive Group
 
-Name: Mobile Interactive Group
-Domain: migcan.com
-Home: http://www.migcan.com/
-Email: mobile@migcan.com
+

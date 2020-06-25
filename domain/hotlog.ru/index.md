@@ -1,8 +1,10 @@
+---
+company-name: HotLog
+domain: hotlog.ru
+home: https://hotlog.ru/
+privacy-policy: https://hotlog.ru/static?tpl=offer#security
+email: info@palitrumlab.ru
+---
 
-# HotLog
 
-Name: HotLog
-Domain: hotlog.ru
-Home: https://hotlog.ru/
-Privacy_policy: https://hotlog.ru/static?tpl=offer#security
-Email: info@palitrumlab.ru
+

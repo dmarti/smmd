@@ -1,8 +1,10 @@
+---
+company-name: "Delivr (formerly Percent Mobile)"
+domain: delivr.com
+home: https://delivr.com/
+privacy-policy: https://delivr.com/page/511/privacy-policy
+email: privacy@delivr.com
+---
 
-# Delivr (formerly Percent Mobile)
 
-Name: Delivr (formerly Percent Mobile)
-Domain: delivr.com
-Home: https://delivr.com/
-Privacy_policy: https://delivr.com/page/511/privacy-policy
-Email: privacy@delivr.com
+

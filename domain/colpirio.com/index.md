@@ -1,9 +1,11 @@
+---
+company-name: Colpirio
+domain: colpirio.com
+home: https://www.colpirio.com/en/home/
+privacy-policy: https://privacy-policy.colpirio.com/en/
+email: privacy@colpirio.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Colpirio
 
-Name: Colpirio
-Domain: colpirio.com
-Home: https://www.colpirio.com/en/home/
-Privacy_policy: https://privacy-policy.colpirio.com/en/
-Email: privacy@colpirio.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

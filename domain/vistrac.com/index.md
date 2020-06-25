@@ -1,6 +1,8 @@
+---
+company-name: "Visitor Tracking"
+domain: vistrac.com
+home: http://www.vistrac.com/
+---
 
-# Visitor Tracking
 
-Name: Visitor Tracking
-Domain: vistrac.com
-Home: http://www.vistrac.com/
+

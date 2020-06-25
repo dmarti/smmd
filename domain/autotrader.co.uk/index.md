@@ -1,6 +1,8 @@
+---
+company-name: "Autotrader UK"
+domain: autotrader.co.uk
+home: https://www.autotrader.co.uk/
+---
 
-# Autotrader UK
 
-Name: Autotrader UK
-Domain: autotrader.co.uk
-Home: https://www.autotrader.co.uk/
+

@@ -1,7 +1,9 @@
+---
+company-name: Blastam
+domain: blastam.com
+home: http://www.blastam.com/
+privacy-policy: http://www.blastam.com/privacy
+---
 
-# Blastam
 
-Name: Blastam
-Domain: blastam.com
-Home: http://www.blastam.com/
-Privacy_policy: http://www.blastam.com/privacy
+

@@ -1,7 +1,9 @@
+---
+company-name: Wootled
+domain: wootled.com
+home: https://www.wootled.com/
+privacy-policy: https://www.wootled.com/privacy
+---
 
-# Wootled
 
-Name: Wootled
-Domain: wootled.com
-Home: https://www.wootled.com/
-Privacy_policy: https://www.wootled.com/privacy
+

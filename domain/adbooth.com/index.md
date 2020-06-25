@@ -1,8 +1,10 @@
+---
+company-name: "adbooth Media Group"
+domain: adbooth.com
+home: https://www.adbooth.com/
+privacy-policy: https://www.adbooth.com/pages/privacy-en.html
+email: support@adbooth.com
+---
 
-# adbooth Media Group
 
-Name: adbooth Media Group
-Domain: adbooth.com
-Home: https://www.adbooth.com/
-Privacy_policy: https://www.adbooth.com/pages/privacy-en.html
-Email: support@adbooth.com
+

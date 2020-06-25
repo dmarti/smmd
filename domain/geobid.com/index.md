@@ -1,6 +1,8 @@
+---
+company-name: Geobid
+domain: geobid.com
+home: https://geobid.com/
+---
 
-# Geobid
 
-Name: Geobid
-Domain: geobid.com
-Home: https://geobid.com/
+

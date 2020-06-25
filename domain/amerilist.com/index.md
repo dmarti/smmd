@@ -1,23 +1,11 @@
-
-# Amerilist Inc
-
-Name: Amerilist Inc
-
-Domain: amerilist.com
-
-Home: www.amerilist.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 368187
-
-
-
+---
+company-name: "Amerilist Inc"
+domain: amerilist.com
+home: www.amerilist.com
+vermont-id: 368187
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 368187
 
 
 
+
 ## Additional info
 
 
 
+
 40 Ramland Rd So, Ste 203b, Orangeburg, NY, 10962, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

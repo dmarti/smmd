@@ -1,7 +1,9 @@
+---
+company-name: Tanx
+domain: tanx.com
+home: http://tanx.com/
+privacy-policy: http://tanx.com/web/opt.html
+---
 
-# Tanx
 
-Name: Tanx
-Domain: tanx.com
-Home: http://tanx.com/
-Privacy_policy: http://tanx.com/web/opt.html
+

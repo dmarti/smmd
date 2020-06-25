@@ -1,10 +1,11 @@
+---
+company-name: "Pi rate"
+domain: pi-rate.com.au
+home: https://www.pi-rate.com.au/index.html
+privacy-policy: https://www.pi-rate.com.au/privacy.html
+email: privacy@Pi-rate.com.au
+member-of: "Network Advertising Initiative"
+---
 
-# Pi rate
 
-Name: Pi rate
-Domain: pi-rate.com.au
-Home: https://www.pi-rate.com.au/index.html
-Privacy_policy: https://www.pi-rate.com.au/privacy.html
-Email: privacy@Pi-rate.com.au
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

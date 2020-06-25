@@ -1,8 +1,10 @@
+---
+company-name: Kimia
+domain: kimiagroup.com
+home: https://kimiagroup.com/
+privacy-policy: https://kimiagroup.com/privacy-policy.html
+email: complaints.channel@kimiagroup.com
+---
 
-# Kimia
 
-Name: Kimia
-Domain: kimiagroup.com
-Home: https://kimiagroup.com/
-Privacy_policy: https://kimiagroup.com/privacy-policy.html
-Email: complaints.channel@kimiagroup.com
+

@@ -1,7 +1,9 @@
+---
+company-name: netFactor
+domain: netfactor.com
+home: http://www.netfactor.com/
+privacy-policy: http://netfactor.com/privacy-policy/
+---
 
-# netFactor
 
-Name: netFactor
-Domain: netfactor.com
-Home: http://www.netfactor.com/
-Privacy_policy: http://netfactor.com/privacy-policy/
+

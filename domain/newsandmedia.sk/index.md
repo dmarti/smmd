@@ -1,8 +1,10 @@
+---
+company-name: "News & Media Holding"
+domain: newsandmedia.sk
+home: https://www.newsandmedia.sk
+privacy-policy: https://www.newsandmedia.sk/gdpr/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# News & Media Holding
 
-Name: News & Media Holding
-Domain: newsandmedia.sk
-Home: https://www.newsandmedia.sk
-Privacy_policy: https://www.newsandmedia.sk/gdpr/
-Member_of: Interactive Advertising Bureau (IAB)
+

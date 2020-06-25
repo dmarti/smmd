@@ -1,8 +1,10 @@
+---
+company-name: Mobilewalla
+domain: mobilewalla.com
+home: http://www.mobilewalla.com/
+privacy-policy: http://www.mobilewalla.com/business-services-privacy-policy
+email: privacy@mobilewalla.com
+---
 
-# Mobilewalla
 
-Name: Mobilewalla
-Domain: mobilewalla.com
-Home: http://www.mobilewalla.com/
-Privacy_policy: http://www.mobilewalla.com/business-services-privacy-policy
-Email: privacy@mobilewalla.com
+

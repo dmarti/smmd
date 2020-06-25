@@ -1,7 +1,9 @@
+---
+company-name: Adomik
+domain: adomik.com
+home: http://www.adomik.com/
+privacy-policy: https://www.adomik.com/adomik-sas-privacy-policy/
+---
 
-# Adomik
 
-Name: Adomik
-Domain: adomik.com
-Home: http://www.adomik.com/
-Privacy_policy: https://www.adomik.com/adomik-sas-privacy-policy/
+

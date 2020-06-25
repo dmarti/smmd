@@ -1,6 +1,8 @@
+---
+company-name: Path
+domain: path.com
+home: https://path.com/
+---
 
-# Path
 
-Name: Path
-Domain: path.com
-Home: https://path.com/
+

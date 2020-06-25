@@ -1,8 +1,10 @@
+---
+company-name: RapidApe
+domain: rapidape.com
+home: http://rapidape.com/
+privacy-policy: http://rapidape.com/privacy-policy/
+email: info@rapidape.com
+---
 
-# RapidApe
 
-Name: RapidApe
-Domain: rapidape.com
-Home: http://rapidape.com/
-Privacy_policy: http://rapidape.com/privacy-policy/
-Email: info@rapidape.com
+

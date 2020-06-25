@@ -1,8 +1,10 @@
+---
+company-name: "IAC Applications"
+domain: iacapps.com
+home: http://www.iacapps.com/
+privacy-policy: http://eula.mindspark.com/privacypolicy/
+email: support@help.mindspark.com
+---
 
-# IAC Applications
 
-Name: IAC Applications
-Domain: iacapps.com
-Home: http://www.iacapps.com/
-Privacy_policy: http://eula.mindspark.com/privacypolicy/
-Email: support@help.mindspark.com
+

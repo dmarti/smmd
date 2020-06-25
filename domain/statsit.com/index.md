@@ -1,8 +1,10 @@
+---
+company-name: Statsit
+domain: statsit.com
+home: http://www.statsit.com/
+privacy-policy: http://www.statsit.com/blog/2016/01/12/privacy-policy/
+email: info@statsit.com
+---
 
-# Statsit
 
-Name: Statsit
-Domain: statsit.com
-Home: http://www.statsit.com/
-Privacy_policy: http://www.statsit.com/blog/2016/01/12/privacy-policy/
-Email: info@statsit.com
+

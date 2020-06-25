@@ -1,10 +1,12 @@
+---
+company-name: GeoTrust
+domain: geotrust.com
+home: https://www.geotrust.com/
+privacy-policy: https://www.websecurity.symantec.com/legal/privacy
+email: support@geotrust.com
+owned-by: "Symantec (Norton Secured Seal)"
+member-of: TrustE_TrustArc
+---
 
-# GeoTrust
 
-Name: GeoTrust
-Domain: geotrust.com
-Home: https://www.geotrust.com/
-Privacy_policy: https://www.websecurity.symantec.com/legal/privacy
-Email: support@geotrust.com
-Owned_by: Symantec (Norton Secured Seal)
-Member_of: TrustE_TrustArc
+

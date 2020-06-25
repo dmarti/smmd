@@ -1,8 +1,10 @@
+---
+company-name: Luc.id
+domain: luc.id
+home: https://luc.id/
+privacy-policy: https://luc.id/privacy-policy/
+email: privacy@luc.id
+---
 
-# Luc.id
 
-Name: Luc.id
-Domain: luc.id
-Home: https://luc.id/
-Privacy_policy: https://luc.id/privacy-policy/
-Email: privacy@luc.id
+

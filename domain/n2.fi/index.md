@@ -1,7 +1,9 @@
+---
+company-name: N2
+domain: n2.fi
+home: https://n2.fi/
+privacy-policy: https://n2.fi/privacy-policy/
+---
 
-# N2
 
-Name: N2
-Domain: n2.fi
-Home: https://n2.fi/
-Privacy_policy: https://n2.fi/privacy-policy/
+

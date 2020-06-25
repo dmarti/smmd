@@ -1,7 +1,9 @@
+---
+company-name: "Children's Place"
+domain: childrensplace.com
+home: https://www.childrensplace.com
+privacy-policy: https://www.childrensplace.com/us/help-center/#privacyPolicySectionli
+---
 
-# Children's Place
 
-Name: Children's Place
-Domain: childrensplace.com
-Home: https://www.childrensplace.com
-Privacy_policy: https://www.childrensplace.com/us/help-center/#privacyPolicySectionli
+

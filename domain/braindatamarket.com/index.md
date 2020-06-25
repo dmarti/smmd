@@ -1,8 +1,10 @@
+---
+company-name: "Brain Data Market"
+domain: braindatamarket.com
+home: https://www.braindatamarket.com/
+privacy-policy: https://www.braindatamarket.com/privacy-cookies/
+email: brain@mktmedia.se
+---
 
-# Brain Data Market
 
-Name: Brain Data Market
-Domain: braindatamarket.com
-Home: https://www.braindatamarket.com/
-Privacy_policy: https://www.braindatamarket.com/privacy-cookies/
-Email: brain@mktmedia.se
+

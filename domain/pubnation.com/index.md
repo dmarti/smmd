@@ -1,9 +1,11 @@
+---
+company-name: PubNation
+domain: pubnation.com
+home: http://pubnation.com
+privacy-policy: https://app.pubnation.com/legal/privacy
+email: help@pubnation.com
+owned-by: OpenX
+---
 
-# PubNation
 
-Name: PubNation
-Domain: pubnation.com
-Home: http://pubnation.com
-Privacy_policy: https://app.pubnation.com/legal/privacy
-Email: help@pubnation.com
-Owned_by: OpenX
+

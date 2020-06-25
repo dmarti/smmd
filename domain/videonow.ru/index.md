@@ -1,7 +1,9 @@
+---
+company-name: VideoNow
+domain: videonow.ru
+home: http://videonow.ru/
+email: info@videonow.ru
+---
 
-# VideoNow
 
-Name: VideoNow
-Domain: videonow.ru
-Home: http://videonow.ru/
-Email: info@videonow.ru
+

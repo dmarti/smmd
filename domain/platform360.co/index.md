@@ -1,8 +1,10 @@
+---
+company-name: Platform360
+domain: platform360.co
+home: http://platform360.co/
+privacy-policy: http://platform360.co/privacy.html
+email: privacy@platform360.co
+---
 
-# Platform360 
 
-Name: Platform360 
-Domain: platform360.co
-Home: http://platform360.co/
-Privacy_policy: http://platform360.co/privacy.html
-Email: privacy@platform360.co
+

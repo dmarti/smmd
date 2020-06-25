@@ -1,23 +1,12 @@
-
-# Killi Inc.
-
-Name: Killi Inc.
-
-Domain: killi.io
-
-Home: https://killi.io/
-
-Email: privacy [at] killi.io
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 03/11/2020
-
-
-
+---
+company-name: "Killi Inc."
+domain: killi.io
+home: https://killi.io/
+email: "privacy [at] killi.io"
+california-date: 03/11/2020
+---
 ## How to opt out
+
 
 In the Identity Screen of your registered Account, you have the option to edit any data point that you are sharing. Once you click ‘stop sharing’, the data point will no longer be shared with any advertisers it will only reside on your phone. This is with exception to IDFA.
 
@@ -34,9 +23,11 @@ Opt out location sharing by selecting Settings -> Apps and Notifications -> Kill
 
 ## How to delete
 
+
 To opt out of a data point from being shared you can simply go to the specific data point in your registered Account profile and select not to share it. Alternatively, if you would like to stop sharing all your data points and request all data used previously, be purged, you can delete your registered Account. To delete your registered Account, select “Delete Account” within the App.
 
 ## Additional info
+
 
 We understand how important protecting your privacy is, and we are committed to safeguarding the Data collected or accessed. We have implemented specific security procedures to protect the storage and disclosure of Data we gather. Access to Data is restricted to select employees or representatives. By default, Killi stores all User Data on your mobile device until the App is deleted.
 
@@ -49,4 +40,16 @@ Killi retains and uses information as necessary to comply with our legal obligat
  Postal Code/Zip, Age, Gender, Phone Number, Email.
 
 409 King St WSuite 400Toronto, ON M5V1K1Canada
+
+
+
+
+
+
+
+
+
+
+
+
 

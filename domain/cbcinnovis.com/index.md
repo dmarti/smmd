@@ -1,23 +1,11 @@
-
-# CBCInnovis, Inc.
-
-Name: CBCInnovis, Inc.
-
-Domain: cbcinnovis.com
-
-Home: https://www.cbcinnovis.com/
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 367692
-
-
-
+---
+company-name: "CBCInnovis, Inc."
+domain: cbcinnovis.com
+home: https://www.cbcinnovis.com/
+vermont-id: 367692
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 367692
 
 
 
+
 ## Additional info
 
 
 
+
 250 East Broad Street, Columbus, OH, 43215, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

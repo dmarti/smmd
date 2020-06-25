@@ -1,8 +1,10 @@
+---
+company-name: BusinessOnline
+domain: businessol.com
+home: http://www.businessol.com/
+privacy-policy: http://www.businessol.com/privacy-policy/
+email: legal@BusinessOL.com
+---
 
-# BusinessOnline
 
-Name: BusinessOnline
-Domain: businessol.com
-Home: http://www.businessol.com/
-Privacy_policy: http://www.businessol.com/privacy-policy/
-Email: legal@BusinessOL.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Unique Digital"
+domain: uniquedigital.co.uk
+home: http://www.uniquedigital.co.uk/
+email: hello@uniquedigital.co.uk
+owned-by: WPP
+---
 
-# Unique Digital
 
-Name: Unique Digital
-Domain: uniquedigital.co.uk
-Home: http://www.uniquedigital.co.uk/
-Email: hello@uniquedigital.co.uk
-Owned_by: WPP
+

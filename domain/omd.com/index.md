@@ -1,9 +1,11 @@
+---
+company-name: "OMD UK"
+domain: omd.com
+home: http://www.omd.com/uk/global-media-agency
+privacy-policy: http://www.omd.com/privacy-policy
+email: privacy@omnicommediagroup.com
+owned-by: "Omnicom Group"
+---
 
-# OMD UK
 
-Name: OMD UK
-Domain: omd.com
-Home: http://www.omd.com/uk/global-media-agency
-Privacy_policy: http://www.omd.com/privacy-policy
-Email: privacy@omnicommediagroup.com
-Owned_by: Omnicom Group
+

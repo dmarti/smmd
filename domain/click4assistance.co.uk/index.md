@@ -1,8 +1,10 @@
+---
+company-name: "Click 4 Assistance"
+domain: click4assistance.co.uk
+home: http://www.click4assistance.co.uk/
+privacy-policy: http://www.click4assistance.co.uk/privacy-policy
+email: support@click4assistance.co.uk
+---
 
-# Click 4 Assistance
 
-Name: Click 4 Assistance
-Domain: click4assistance.co.uk
-Home: http://www.click4assistance.co.uk/
-Privacy_policy: http://www.click4assistance.co.uk/privacy-policy
-Email: support@click4assistance.co.uk
+

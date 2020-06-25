@@ -1,6 +1,8 @@
+---
+company-name: "Next Jump"
+domain: nextjump.com
+home: http://www.nextjump.com/
+---
 
-# Next Jump
 
-Name: Next Jump
-Domain: nextjump.com
-Home: http://www.nextjump.com/
+

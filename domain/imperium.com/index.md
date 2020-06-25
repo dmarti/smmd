@@ -1,7 +1,9 @@
+---
+company-name: Imperium
+domain: imperium.com
+home: http://imperium.com/
+privacy-policy: http://imperium.com/privacy-policy.html
+---
 
-# Imperium
 
-Name: Imperium
-Domain: imperium.com
-Home: http://imperium.com/
-Privacy_policy: http://imperium.com/privacy-policy.html
+

@@ -1,7 +1,9 @@
+---
+company-name: "Bolt Integrated Marketing"
+domain: bolt247.com
+home: http://bolt247.com/
+email: customerservice@boltintegrated.com
+---
 
-# Bolt Integrated Marketing
 
-Name: Bolt Integrated Marketing
-Domain: bolt247.com
-Home: http://bolt247.com/
-Email: customerservice@boltintegrated.com
+

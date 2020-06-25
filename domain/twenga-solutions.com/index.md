@@ -1,8 +1,10 @@
+---
+company-name: Twenga
+domain: twenga-solutions.com
+home: https://www.twenga-solutions.com
+privacy-policy: https://www.twenga-solutions.com/en/privacypolicy
+email: support.merchants@twenga-solutions.com
+---
 
-# Twenga
 
-Name: Twenga
-Domain: twenga-solutions.com
-Home: https://www.twenga-solutions.com
-Privacy_policy: https://www.twenga-solutions.com/en/privacypolicy
-Email: support.merchants@twenga-solutions.com
+

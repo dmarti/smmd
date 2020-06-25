@@ -1,9 +1,11 @@
+---
+company-name: "NEXT AUDIENCE"
+domain: next-audience.com
+home: http://www.next-audience.com/
+privacy-policy: https://next-audience.com/en/privacy-guidelines/
+email: bettina.kaehler@privcom.de
+member-of: "European Data Interactive Alliance"
+---
 
-# NEXT AUDIENCE
 
-Name: NEXT AUDIENCE
-Domain: next-audience.com
-Home: http://www.next-audience.com/
-Privacy_policy: https://next-audience.com/en/privacy-guidelines/
-Email: bettina.kaehler@privcom.de
-Member_of: European Data Interactive Alliance
+

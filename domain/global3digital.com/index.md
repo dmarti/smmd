@@ -1,6 +1,8 @@
+---
+company-name: global3digital
+domain: global3digital.com
+home: http://www.global3digital.com/
+---
 
-# global3digital
 
-Name: global3digital
-Domain: global3digital.com
-Home: http://www.global3digital.com/
+

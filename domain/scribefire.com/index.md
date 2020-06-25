@@ -1,6 +1,8 @@
+---
+company-name: ScribeFire
+domain: scribefire.com
+home: http://www.scribefire.com/
+---
 
-# ScribeFire
 
-Name: ScribeFire
-Domain: scribefire.com
-Home: http://www.scribefire.com/
+

@@ -1,9 +1,11 @@
+---
+company-name: Weebly
+domain: weebly.com
+home: http://www.weebly.com
+privacy-policy: http://www.weebly.com/privacy/
+email: support@weebly.com
+member-of: TrustE_TrustArc
+---
 
-# Weebly
 
-Name: Weebly
-Domain: weebly.com
-Home: http://www.weebly.com
-Privacy_policy: http://www.weebly.com/privacy/
-Email: support@weebly.com
-Member_of: TrustE_TrustArc
+

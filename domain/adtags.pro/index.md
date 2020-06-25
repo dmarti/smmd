@@ -1,8 +1,10 @@
+---
+company-name: AdTags
+domain: adtags.pro
+home: http://adtags.pro/
+privacy-policy: http://adtags.pro/tos.pdf
+email: info@adtags.pro
+---
 
-# AdTags
 
-Name: AdTags
-Domain: adtags.pro
-Home: http://adtags.pro/
-Privacy_policy: http://adtags.pro/tos.pdf
-Email: info@adtags.pro
+

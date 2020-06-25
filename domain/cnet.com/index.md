@@ -1,8 +1,10 @@
+---
+company-name: CNET
+domain: cnet.com
+home: https://www.cnet.com/
+privacy-policy: https://www.cbsinteractive.com/legal/cbsi/privacy-policy
+owned-by: "CBS Interactive"
+---
 
-# CNET
 
-Name: CNET
-Domain: cnet.com
-Home: https://www.cnet.com/
-Privacy_policy: https://www.cbsinteractive.com/legal/cbsi/privacy-policy
-Owned_by: CBS Interactive
+

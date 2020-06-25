@@ -1,8 +1,10 @@
+---
+company-name: SendPulse
+domain: sendpulse.com
+home: https://sendpulse.com
+privacy-policy: https://sendpulse.com/legal/pp
+email: support@sendpulse.com
+---
 
-# SendPulse
 
-Name: SendPulse
-Domain: sendpulse.com
-Home: https://sendpulse.com
-Privacy_policy: https://sendpulse.com/legal/pp
-Email: support@sendpulse.com
+

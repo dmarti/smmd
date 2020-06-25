@@ -1,8 +1,10 @@
+---
+company-name: StatHat
+domain: stathat.com
+home: http://www.stathat.com/
+privacy-policy: http://www.stathat.com/docs/privacy
+email: info@stathat.com
+---
 
-# StatHat
 
-Name: StatHat
-Domain: stathat.com
-Home: http://www.stathat.com/
-Privacy_policy: http://www.stathat.com/docs/privacy
-Email: info@stathat.com
+

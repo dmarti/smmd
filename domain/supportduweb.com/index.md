@@ -1,6 +1,8 @@
+---
+company-name: "Support du Web"
+domain: supportduweb.com
+home: http://supportduweb.com/
+---
 
-# Support du Web
 
-Name: Support du Web
-Domain: supportduweb.com
-Home: http://supportduweb.com/
+

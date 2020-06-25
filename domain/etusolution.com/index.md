@@ -1,8 +1,10 @@
+---
+company-name: "Etu Solution"
+domain: etusolution.com
+home: https://www.etusolution.com/index.php/en/
+privacy-policy: https://www.etusolution.com/index.php/en/about/privacy
+email: info@etusolution.com
+---
 
-# Etu Solution
 
-Name: Etu Solution
-Domain: etusolution.com
-Home: https://www.etusolution.com/index.php/en/
-Privacy_policy: https://www.etusolution.com/index.php/en/about/privacy
-Email: info@etusolution.com
+

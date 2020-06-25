@@ -1,8 +1,10 @@
+---
+company-name: "Waywire Enterprise (Magnify Networks)"
+domain: waywire.com
+home: http://enterprise.waywire.com/
+privacy-policy: http://waywireglobal.com/privacy.html
+email: way@waywire.com
+---
 
-# Waywire Enterprise (Magnify Networks)
 
-Name: Waywire Enterprise (Magnify Networks)
-Domain: waywire.com
-Home: http://enterprise.waywire.com/
-Privacy_policy: http://waywireglobal.com/privacy.html
-Email: way@waywire.com
+

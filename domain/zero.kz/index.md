@@ -1,6 +1,8 @@
+---
+company-name: "Neolabs ZERO"
+domain: zero.kz
+home: http://zero.kz/
+---
 
-# Neolabs ZERO
 
-Name: Neolabs ZERO
-Domain: zero.kz
-Home: http://zero.kz/
+

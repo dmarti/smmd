@@ -1,7 +1,9 @@
-# Activision
+---
+company-name: Activision
+domain: activision.com
+opt-out-url: https://support.activision.com/privacy
+---
 
-Name: Activision
 
-Domain: activision.com
 
-Opt_out_url: https://support.activision.com/privacy
+

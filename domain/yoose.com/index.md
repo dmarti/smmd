@@ -1,7 +1,9 @@
+---
+company-name: Yoose
+domain: yoose.com
+home: https://www.yoose.com
+privacy-policy: https://www.yoose.com/privacy-policy
+---
 
-# Yoose
 
-Name: Yoose
-Domain: yoose.com
-Home: https://www.yoose.com
-Privacy_policy: https://www.yoose.com/privacy-policy
+

@@ -1,8 +1,10 @@
+---
+company-name: FlowPlayer
+domain: flowplayer.com
+home: https://flowplayer.com/
+privacy-policy: https://flowplayer.org/about/privacy-policy.html
+email: legal@flowplayer.com
+---
 
-# FlowPlayer
 
-Name: FlowPlayer
-Domain: flowplayer.com
-Home: https://flowplayer.com/
-Privacy_policy: https://flowplayer.org/about/privacy-policy.html
-Email: legal@flowplayer.com
+

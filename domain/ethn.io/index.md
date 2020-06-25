@@ -1,9 +1,11 @@
+---
+company-name: Ethnio
+domain: ethn.io
+home: https://ethn.io/
+privacy-policy: https://ethn.io/privacy
+email: info@ethnio.com
+member-of: TrustE_TrustArc
+---
 
-# Ethnio
 
-Name: Ethnio
-Domain: ethn.io
-Home: https://ethn.io/
-Privacy_policy: https://ethn.io/privacy
-Email: info@ethnio.com
-Member_of: TrustE_TrustArc
+

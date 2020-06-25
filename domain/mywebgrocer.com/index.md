@@ -1,9 +1,11 @@
+---
+company-name: MyWebGrocer
+domain: mywebgrocer.com
+home: http://mywebgrocer.com/
+privacy-policy: http://mywebgrocer.com/privacy-policy/
+email: privacy@mywebgrocer.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# MyWebGrocer
 
-Name: MyWebGrocer
-Domain: mywebgrocer.com
-Home: http://mywebgrocer.com/
-Privacy_policy: http://mywebgrocer.com/privacy-policy/
-Email: privacy@mywebgrocer.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,9 +1,10 @@
+---
+company-name: Pfizer
+domain: pfizer.com
+home: http://www.pfizer.com/home/
+email: privacy.officer@pfizer.com
+member-of: "Association of National Advertisers"
+---
 
-# Pfizer
 
-Name: Pfizer
-Domain: pfizer.com
-Home: http://www.pfizer.com/home/
-Email: privacy.officer@pfizer.com
-Member_of: American Advertising Federation
-Member_of: Association of National Advertisers
+

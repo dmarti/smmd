@@ -1,8 +1,10 @@
+---
+company-name: Georama
+domain: georama.tv
+home: http://georama.tv
+privacy-policy: http://www.georama.tv/terms-and-privacy
+email: contact@georama.com
+---
 
-# Georama
 
-Name: Georama
-Domain: georama.tv
-Home: http://georama.tv
-Privacy_policy: http://www.georama.tv/terms-and-privacy
-Email: contact@georama.com
+

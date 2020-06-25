@@ -1,8 +1,10 @@
+---
+company-name: Zumobi
+domain: zumobi.com
+home: https://www.zumobi.com/
+privacy-policy: https://www.zumobi.com/policy/
+email: info@zumobi.com
+---
 
-# Zumobi
 
-Name: Zumobi
-Domain: zumobi.com
-Home: https://www.zumobi.com/
-Privacy_policy: https://www.zumobi.com/policy/
-Email: info@zumobi.com
+

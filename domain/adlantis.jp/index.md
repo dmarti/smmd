@@ -1,6 +1,8 @@
+---
+company-name: AdLantis
+domain: adlantis.jp
+home: http://www.adlantis.jp/
+---
 
-# AdLantis
 
-Name: AdLantis
-Domain: adlantis.jp
-Home: http://www.adlantis.jp/
+

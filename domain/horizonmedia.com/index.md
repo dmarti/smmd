@@ -1,9 +1,11 @@
+---
+company-name: "Horizon Media"
+domain: horizonmedia.com
+home: http://www.horizonmedia.com/
+privacy-policy: http://www.horizonmedia.com/privacy_legal
+email: legal@horizonmedia.com
+member-of: "American Association of Advertising Agencies"
+---
 
-# Horizon Media
 
-Name: Horizon Media
-Domain: horizonmedia.com
-Home: http://www.horizonmedia.com/
-Privacy_policy: http://www.horizonmedia.com/privacy_legal
-Email: legal@horizonmedia.com
-Member_of: American Association of Advertising Agencies
+

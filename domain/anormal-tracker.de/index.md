@@ -1,7 +1,9 @@
+---
+company-name: Anormal-Tracker
+domain: anormal-tracker.de
+home: http://anormal-tracker.de/
+email: info@anormal-tracker.de
+---
 
-# Anormal-Tracker
 
-Name: Anormal-Tracker
-Domain: anormal-tracker.de
-Home: http://anormal-tracker.de/
-Email: info@anormal-tracker.de
+

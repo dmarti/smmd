@@ -1,6 +1,8 @@
+---
+company-name: "Master Banner Network"
+domain: mbn.com.ua
+home: http://www.mbn.com.ua/
+---
 
-# Master Banner Network
 
-Name: Master Banner Network
-Domain: mbn.com.ua
-Home: http://www.mbn.com.ua/
+

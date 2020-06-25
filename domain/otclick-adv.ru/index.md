@@ -1,8 +1,10 @@
+---
+company-name: otClick
+domain: otclick-adv.ru
+home: http://otclick-adv.ru/
+privacy-policy: https://otclick-adv.ru/privacy-policy/
+email: support@otclick-adv.ru
+---
 
-# otClick
 
-Name: otClick
-Domain: otclick-adv.ru
-Home: http://otclick-adv.ru/
-Privacy_policy: https://otclick-adv.ru/privacy-policy/
-Email: support@otclick-adv.ru
+

@@ -1,9 +1,11 @@
+---
+company-name: NuDetect
+domain: nudatasecurity.com
+home: https://nudatasecurity.com/solutions/nudetect/
+privacy-policy: https://www.mastercard.ca/en-ca/about-mastercard/what-we-do/privacy.html
+email: bizdev@nudatasecurity.com
+owned-by: Mastercard
+---
 
-# NuDetect
 
-Name: NuDetect
-Domain: nudatasecurity.com
-Home: https://nudatasecurity.com/solutions/nudetect/
-Privacy_policy: https://www.mastercard.ca/en-ca/about-mastercard/what-we-do/privacy.html
-Email: bizdev@nudatasecurity.com
-Owned_by: Mastercard
+

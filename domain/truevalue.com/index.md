@@ -1,7 +1,9 @@
+---
+company-name: "True Value"
+domain: truevalue.com
+home: http://www.truevalue.com/
+privacy-policy: https://www.truevalue.com/privacy-policy
+---
 
-# True Value
 
-Name: True Value
-Domain: truevalue.com
-Home: http://www.truevalue.com/
-Privacy_policy: https://www.truevalue.com/privacy-policy
+

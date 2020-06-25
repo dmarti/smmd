@@ -1,8 +1,10 @@
+---
+company-name: PrecisionDemand
+domain: precisiondemand.com
+home: http://www.precisiondemand.com/
+privacy-policy: http://www.precisiondemand.com/privacy
+email: privacy@precisiondemand.com
+---
 
-# PrecisionDemand
 
-Name: PrecisionDemand
-Domain: precisiondemand.com
-Home: http://www.precisiondemand.com/
-Privacy_policy: http://www.precisiondemand.com/privacy
-Email: privacy@precisiondemand.com
+

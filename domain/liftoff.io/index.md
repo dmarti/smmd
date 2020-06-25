@@ -1,8 +1,10 @@
+---
+company-name: Liftoff
+domain: liftoff.io
+home: https://liftoff.io/
+privacy-policy: https://liftoff.io/privacy-policy/
+email: support@liftoff.io
+---
 
-# Liftoff
 
-Name: Liftoff
-Domain: liftoff.io
-Home: https://liftoff.io/
-Privacy_policy: https://liftoff.io/privacy-policy/
-Email: support@liftoff.io
+

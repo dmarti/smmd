@@ -1,8 +1,10 @@
+---
+company-name: AdNanny
+domain: adnanny.com
+home: http://adnanny.com/
+privacy-policy: http://adnanny.com/privacy/
+email: data@adnanny.com
+---
 
-# AdNanny
 
-Name: AdNanny
-Domain: adnanny.com
-Home: http://adnanny.com/
-Privacy_policy: http://adnanny.com/privacy/
-Email: data@adnanny.com
+

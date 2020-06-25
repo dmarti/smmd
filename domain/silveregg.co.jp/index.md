@@ -1,7 +1,9 @@
+---
+company-name: "Silver Egg Technology"
+domain: silveregg.co.jp
+home: https://www.silveregg.co.jp/
+privacy-policy: https://www.silveregg.co.jp/privacy.html
+---
 
-# Silver Egg Technology
 
-Name: Silver Egg Technology
-Domain: silveregg.co.jp
-Home: https://www.silveregg.co.jp/
-Privacy_policy: https://www.silveregg.co.jp/privacy.html
+

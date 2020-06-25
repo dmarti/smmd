@@ -1,6 +1,8 @@
+---
+company-name: Respublica
+domain: respublica.al
+home: http://www.respublica.al/
+---
 
-# Respublica
 
-Name: Respublica
-Domain: respublica.al
-Home: http://www.respublica.al/
+

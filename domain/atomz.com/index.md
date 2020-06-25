@@ -1,7 +1,9 @@
+---
+company-name: Atomz
+domain: atomz.com
+home: http://atomz.com/
+privacy-policy: http://atomz.com/privacy.html
+---
 
-# Atomz
 
-Name: Atomz
-Domain: atomz.com
-Home: http://atomz.com/
-Privacy_policy: http://atomz.com/privacy.html
+

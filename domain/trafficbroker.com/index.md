@@ -1,7 +1,9 @@
+---
+company-name: TrafficBroker
+domain: trafficbroker.com
+home: https://www.trafficbroker.com/
+email: support@trafficbroker.com
+---
 
-# TrafficBroker
 
-Name: TrafficBroker
-Domain: trafficbroker.com
-Home: https://www.trafficbroker.com/
-Email: support@trafficbroker.com
+

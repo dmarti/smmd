@@ -1,7 +1,9 @@
-# TeamViewer
+---
+company-name: TeamViewer
+domain: teamviewer.com
+opt-out-url: https://www.teamviewer.com/en/privacy-policy/
+---
 
-Name: TeamViewer
 
-Domain: teamviewer.com
 
-Opt_out_url: https://www.teamviewer.com/en/privacy-policy/
+

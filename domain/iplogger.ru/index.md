@@ -1,7 +1,9 @@
+---
+company-name: IPLogger
+domain: iplogger.ru
+home: http://iplogger.ru/
+email: iplogger.ru@gmail.com
+---
 
-# IPLogger
 
-Name: IPLogger
-Domain: iplogger.ru
-Home: http://iplogger.ru/
-Email: iplogger.ru@gmail.com
+

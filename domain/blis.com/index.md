@@ -1,10 +1,11 @@
+---
+company-name: "Blis Media"
+domain: blis.com
+home: http://www.blis.com
+privacy-policy: http://www.blis.com/privacy/
+email: privacy@blis.com
+member-of: TrustE_TrustArc
+---
 
-# Blis Media
 
-Name: Blis Media
-Domain: blis.com
-Home: http://www.blis.com
-Privacy_policy: http://www.blis.com/privacy/
-Email: privacy@blis.com
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: TrustE_TrustArc
+

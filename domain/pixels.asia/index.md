@@ -1,8 +1,10 @@
+---
+company-name: "Pixels.asia Previously (Pixel Media)"
+domain: pixels.asia
+home: http://pixels.asia/
+email: sh@pixelmedia.cn
+owned-by: "DaVinci II (FKA Gravity4)"
+---
 
-# Pixels.asia Previously (Pixel Media)
 
-Name: Pixels.asia Previously (Pixel Media)
-Domain: pixels.asia
-Home: http://pixels.asia/
-Email: sh@pixelmedia.cn
-Owned_by: DaVinci II (FKA Gravity4)
+

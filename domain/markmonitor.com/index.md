@@ -1,10 +1,11 @@
+---
+company-name: MarkMonitor
+domain: markmonitor.com
+home: https://www.markmonitor.com/
+privacy-policy: https://www.markmonitor.com/legal/privacy.php
+email: support@markmonitor.com
+member-of: "Online Trust Alliance"
+---
 
-# MarkMonitor
 
-Name: MarkMonitor
-Domain: markmonitor.com
-Home: https://www.markmonitor.com/
-Privacy_policy: https://www.markmonitor.com/legal/privacy.php
-Email: support@markmonitor.com
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Online Trust Alliance
+

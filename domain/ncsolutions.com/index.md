@@ -1,9 +1,11 @@
+---
+company-name: "Nielsen Catalina Solutions"
+domain: ncsolutions.com
+home: https://www.ncsolutions.com
+privacy-policy: https://www.ncsolutions.com/website-privacy-policy/
+email: privacy.ncs@ncsolutions.com
+owned-by: Nielsen
+---
 
-# Nielsen Catalina Solutions
 
-Name: Nielsen Catalina Solutions
-Domain: ncsolutions.com
-Home: https://www.ncsolutions.com
-Privacy_policy: https://www.ncsolutions.com/website-privacy-policy/
-Email: privacy.ncs@ncsolutions.com
-Owned_by: Nielsen
+

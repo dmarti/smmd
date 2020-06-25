@@ -1,8 +1,10 @@
+---
+company-name: Placester
+domain: placester.com
+home: https://placester.com/
+privacy-policy: https://placester.com/terms/
+email: support@placester.com
+---
 
-# Placester
 
-Name: Placester
-Domain: placester.com
-Home: https://placester.com/
-Privacy_policy: https://placester.com/terms/
-Email: support@placester.com
+

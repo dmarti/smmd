@@ -1,9 +1,11 @@
+---
+company-name: i-Say
+domain: i-say.com
+home: https://i-say.com/
+privacy-policy: https://i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx
+email: questions@i-Say.com
+owned-by: Ipsos
+---
 
-# i-Say
 
-Name: i-Say
-Domain: i-say.com
-Home: https://i-say.com/
-Privacy_policy: https://i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx
-Email: questions@i-Say.com
-Owned_by: Ipsos
+

@@ -1,8 +1,10 @@
+---
+company-name: Bigpoint
+domain: bigpoint.net
+home: http://bigpoint.net/
+privacy-policy: https://legal.bigpoint.com/US/privacy-policy/en
+email: legal@bigpoint.net
+---
 
-# Bigpoint
 
-Name: Bigpoint
-Domain: bigpoint.net
-Home: http://bigpoint.net/
-Privacy_policy: https://legal.bigpoint.com/US/privacy-policy/en
-Email: legal@bigpoint.net
+

@@ -1,8 +1,10 @@
+---
+company-name: "TapInfluence (formerly BlogFrog)"
+domain: tapinfluence.com
+home: https://www.tapinfluence.com/
+privacy-policy: https://www.tapinfluence.com/privacy/
+email: info@tapinfluence.com
+---
 
-# TapInfluence (formerly BlogFrog)
 
-Name: TapInfluence (formerly BlogFrog)
-Domain: tapinfluence.com
-Home: https://www.tapinfluence.com/
-Privacy_policy: https://www.tapinfluence.com/privacy/
-Email: info@tapinfluence.com
+

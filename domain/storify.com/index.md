@@ -1,9 +1,11 @@
+---
+company-name: Storify
+domain: storify.com
+home: https://storify.com/
+privacy-policy: https://storify.com/privacy
+email: support@storify.com
+owned-by: "Adobe Livefyre"
+---
 
-# Storify
 
-Name: Storify
-Domain: storify.com
-Home: https://storify.com/
-Privacy_policy: https://storify.com/privacy
-Email: support@storify.com
-Owned_by: Adobe Livefyre
+

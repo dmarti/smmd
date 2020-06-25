@@ -1,8 +1,10 @@
+---
+company-name: "Retail 9 Ventures"
+domain: retail9.com
+home: http://www.retail9.com/public/retail9_ventures/
+privacy-policy: http://www.retail9.com/public/retail9_ventures/privacy-policy.html
+email: anujkumar@retail9.com
+---
 
-# Retail 9 Ventures
 
-Name: Retail 9 Ventures
-Domain: retail9.com
-Home: http://www.retail9.com/public/retail9_ventures/
-Privacy_policy: http://www.retail9.com/public/retail9_ventures/privacy-policy.html
-Email: anujkumar@retail9.com
+

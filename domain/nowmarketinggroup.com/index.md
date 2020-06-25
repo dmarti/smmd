@@ -1,8 +1,10 @@
+---
+company-name: "Now Marketing Group"
+domain: nowmarketinggroup.com
+home: https://nowmarketinggroup.com/
+privacy-policy: https://nowmarketinggroup.com/privacy-policy/
+email: info@nowmarketinggroup.com
+---
 
-# Now Marketing Group
 
-Name: Now Marketing Group
-Domain: nowmarketinggroup.com
-Home: https://nowmarketinggroup.com/
-Privacy_policy: https://nowmarketinggroup.com/privacy-policy/
-Email: info@nowmarketinggroup.com
+

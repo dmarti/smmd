@@ -1,7 +1,9 @@
+---
+company-name: ADmulti
+domain: admulti.com
+home: http://admulti.com
+email: support@admulti.com
+---
 
-# ADmulti
 
-Name: ADmulti
-Domain: admulti.com
-Home: http://admulti.com
-Email: support@admulti.com
+

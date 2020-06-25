@@ -1,7 +1,9 @@
+---
+company-name: "Stanley Black & Decker"
+domain: stanleyblackanddecker.com
+home: http://www.stanleyblackanddecker.com/
+privacy-policy: http://www.stanleyblackanddecker.com/privacy-policy
+---
 
-# Stanley Black & Decker
 
-Name: Stanley Black & Decker
-Domain: stanleyblackanddecker.com
-Home: http://www.stanleyblackanddecker.com/
-Privacy_policy: http://www.stanleyblackanddecker.com/privacy-policy
+

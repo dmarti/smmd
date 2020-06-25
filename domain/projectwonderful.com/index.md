@@ -1,8 +1,10 @@
+---
+company-name: "Project Wonderful"
+domain: projectwonderful.com
+home: https://www.projectwonderful.com/
+privacy-policy: https://www.projectwonderful.com/privacypolicy.php
+email: service@projectwonderful.com
+---
 
-# Project Wonderful
 
-Name: Project Wonderful
-Domain: projectwonderful.com
-Home: https://www.projectwonderful.com/
-Privacy_policy: https://www.projectwonderful.com/privacypolicy.php
-Email: service@projectwonderful.com
+

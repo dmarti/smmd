@@ -1,6 +1,8 @@
+---
+company-name: "My Vacation Countdown"
+domain: myvacationcountdown.com
+home: http://www.myvacationcountdown.com/main.php
+---
 
-# My Vacation Countdown
 
-Name: My Vacation Countdown
-Domain: myvacationcountdown.com
-Home: http://www.myvacationcountdown.com/main.php
+

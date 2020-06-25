@@ -1,8 +1,10 @@
+---
+company-name: Permodo
+domain: permodo.com
+home: http://permodo.com/de.html
+privacy-policy: http://permodo.com/de/privacy.html
+email: info@permodo.com
+---
 
-# Permodo
 
-Name: Permodo
-Domain: permodo.com
-Home: http://permodo.com/de.html
-Privacy_policy: http://permodo.com/de/privacy.html
-Email: info@permodo.com
+

@@ -1,27 +1,17 @@
-
-# American City Business Journals, Inc.
-
-Name: American City Business Journals, Inc.
-
-Domain: acbj.com
-
-Home: https://www.acbj.com
-
-Email: legal [at] bizjournals.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/27/2020
-
-
-
+---
+company-name: "American City Business Journals, Inc."
+domain: acbj.com
+home: https://www.acbj.com
+email: "legal [at] bizjournals.com"
+california-date: 02/27/2020
+---
 ## How to opt out
+
 
 Through a link on our website
 
 ## How to delete
+
 
 Through a link on our website
 
@@ -29,5 +19,18 @@ Through a link on our website
 
 
 
+
 120 W. Morehead St.Charlotte, NC 28202United States
+
+
+
+
+
+
+
+
+
+
+
+
 

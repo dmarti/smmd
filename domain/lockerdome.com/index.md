@@ -1,8 +1,10 @@
+---
+company-name: LockerDome
+domain: lockerdome.com
+home: https://lockerdome.com
+privacy-policy: https://lockerdome.com/privacy
+email: support@lockerdome.com
+---
 
-# LockerDome
 
-Name: LockerDome
-Domain: lockerdome.com
-Home: https://lockerdome.com
-Privacy_policy: https://lockerdome.com/privacy
-Email: support@lockerdome.com
+

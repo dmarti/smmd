@@ -1,8 +1,10 @@
+---
+company-name: ZMAGS
+domain: zmags.com
+home: https://zmags.com/
+privacy-policy: https://zmags.com/privacy-policy/
+email: support@zmags.com
+---
 
-# ZMAGS
 
-Name: ZMAGS
-Domain: zmags.com
-Home: https://zmags.com/
-Privacy_policy: https://zmags.com/privacy-policy/
-Email: support@zmags.com
+

@@ -1,9 +1,11 @@
+---
+company-name: "RMSi Radio Marketing Service interactive"
+domain: rms.de
+home: https://www.rms.de/
+privacy-policy: https://www.rms.de/datenschutz/
+email: service@rms.de
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# RMSi Radio Marketing Service interactive
 
-Name: RMSi Radio Marketing Service interactive
-Domain: rms.de
-Home: https://www.rms.de/
-Privacy_policy: https://www.rms.de/datenschutz/
-Email: service@rms.de
-Member_of: Interactive Advertising Bureau (IAB)
+

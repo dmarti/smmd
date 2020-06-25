@@ -1,7 +1,9 @@
+---
+company-name: SmartContext
+domain: smartcontext.pl
+home: http://smartcontext.pl/
+email: info@smartcontext.pl
+---
 
-# SmartContext
 
-Name: SmartContext
-Domain: smartcontext.pl
-Home: http://smartcontext.pl/
-Email: info@smartcontext.pl
+

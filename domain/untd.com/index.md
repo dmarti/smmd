@@ -1,7 +1,9 @@
+---
+company-name: "United Online (Adcurate)"
+domain: untd.com
+home: http://www.untd.com/
+privacy-policy: http://www.untd.com/terms-of-use/
+---
 
-# United Online (Adcurate)
 
-Name: United Online (Adcurate)
-Domain: untd.com
-Home: http://www.untd.com/
-Privacy_policy: http://www.untd.com/terms-of-use/
+

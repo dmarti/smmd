@@ -1,8 +1,10 @@
+---
+company-name: "Eli Lilly"
+domain: lilly.com
+home: https://www.lilly.com/
+privacy-policy: https://www.lilly.com/privacy
+email: privacy@lilly.com
+---
 
-# Eli Lilly
 
-Name: Eli Lilly
-Domain: lilly.com
-Home: https://www.lilly.com/
-Privacy_policy: https://www.lilly.com/privacy
-Email: privacy@lilly.com
+

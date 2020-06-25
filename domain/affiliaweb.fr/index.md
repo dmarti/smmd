@@ -1,7 +1,9 @@
+---
+company-name: Affiliaweb
+domain: affiliaweb.fr
+home: http://affiliaweb.fr/
+email: contact@affiliaweb.fr
+---
 
-# Affiliaweb
 
-Name: Affiliaweb
-Domain: affiliaweb.fr
-Home: http://affiliaweb.fr/
-Email: contact@affiliaweb.fr
+

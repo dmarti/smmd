@@ -1,6 +1,8 @@
+---
+company-name: GrowingIO
+domain: growingio.com
+home: https://www.growingio.com/
+---
 
-# GrowingIO
 
-Name: GrowingIO
-Domain: growingio.com
-Home: https://www.growingio.com/
+

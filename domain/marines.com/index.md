@@ -1,7 +1,9 @@
+---
+company-name: "US Marine Corps"
+domain: marines.com
+home: http://www.marines.com/home
+privacy-policy: https://www.marines.com/privacy-policy.html
+---
 
-# US Marine Corps
 
-Name: US Marine Corps
-Domain: marines.com
-Home: http://www.marines.com/home
-Privacy_policy: https://www.marines.com/privacy-policy.html
+

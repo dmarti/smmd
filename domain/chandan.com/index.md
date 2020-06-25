@@ -1,7 +1,9 @@
+---
+company-name: "Chandan Economics"
+domain: chandan.com
+home: http://www.chandan.com/
+privacy-policy: http://www.chandan.com/content/privacy-policy
+---
 
-# Chandan Economics
 
-Name: Chandan Economics
-Domain: chandan.com
-Home: http://www.chandan.com/
-Privacy_policy: http://www.chandan.com/content/privacy-policy
+

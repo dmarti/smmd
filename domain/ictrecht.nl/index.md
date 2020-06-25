@@ -1,7 +1,9 @@
+---
+company-name: ICTRecht
+domain: ictrecht.nl
+home: http://ictrecht.nl/
+email: info@ictrecht.nl
+---
 
-# ICTRecht
 
-Name: ICTRecht
-Domain: ictrecht.nl
-Home: http://ictrecht.nl/
-Email: info@ictrecht.nl
+

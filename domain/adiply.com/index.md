@@ -1,8 +1,10 @@
+---
+company-name: Adiply
+domain: adiply.com
+home: http://adiply.com/
+privacy-policy: http://adiply.com/privacy-policy/
+email: info@adiply.com
+---
 
-# Adiply
 
-Name: Adiply
-Domain: adiply.com
-Home: http://adiply.com/
-Privacy_policy: http://adiply.com/privacy-policy/
-Email: info@adiply.com
+

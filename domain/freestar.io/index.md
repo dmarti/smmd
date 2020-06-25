@@ -1,8 +1,10 @@
+---
+company-name: Freestar
+domain: freestar.io
+home: https://freestar.io/
+privacy-policy: https://freestar.io/data-policy/
+email: info@freestar.io
+---
 
-# Freestar
 
-Name: Freestar
-Domain: freestar.io
-Home: https://freestar.io/
-Privacy_policy: https://freestar.io/data-policy/
-Email: info@freestar.io
+

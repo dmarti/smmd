@@ -1,7 +1,9 @@
+---
+company-name: "Adservice Media"
+domain: adservicemedia.com
+home: http://www.adservicemedia.com/
+email: info@adservice.dk
+---
 
-# Adservice Media
 
-Name: Adservice Media
-Domain: adservicemedia.com
-Home: http://www.adservicemedia.com/
-Email: info@adservice.dk
+

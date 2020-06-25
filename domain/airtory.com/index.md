@@ -1,8 +1,10 @@
+---
+company-name: Airtory
+domain: airtory.com
+home: https://airtory.com/
+privacy-policy: https://airtory.com/privacy_policy.html
+email: legal@airtory.com
+---
 
-# Airtory
 
-Name: Airtory
-Domain: airtory.com
-Home: https://airtory.com/
-Privacy_policy: https://airtory.com/privacy_policy.html
-Email: legal@airtory.com
+

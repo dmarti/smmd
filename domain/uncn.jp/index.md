@@ -1,8 +1,10 @@
+---
+company-name: Unicorn
+domain: uncn.jp
+home: https://uncn.jp/
+privacy-policy: https://uncn.jp/#!?policy=1&lan=ja
+email: support@bulbit.jp
+---
 
-# Unicorn
 
-Name: Unicorn
-Domain: uncn.jp
-Home: https://uncn.jp/
-Privacy_policy: https://uncn.jp/#!?policy=1&lan=ja
-Email: support@bulbit.jp
+

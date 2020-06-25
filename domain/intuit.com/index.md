@@ -1,7 +1,9 @@
-# Intuit
+---
+company-name: Intuit
+domain: intuit.com
+opt-out-url: https://www.intuit.com/privacy/statement/
+---
 
-Name: Intuit
 
-Domain: intuit.com
 
-Opt_out_url: https://www.intuit.com/privacy/statement/
+

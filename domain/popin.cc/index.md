@@ -1,8 +1,10 @@
+---
+company-name: popIn
+domain: popin.cc
+home: http://www.popin.cc/
+privacy-policy: https://www.popin.cc/action/policy
+owned-by: Baidu
+---
 
-# popIn
 
-Name: popIn
-Domain: popin.cc
-Home: http://www.popin.cc/
-Privacy_policy: https://www.popin.cc/action/policy
-Owned_by: Baidu
+

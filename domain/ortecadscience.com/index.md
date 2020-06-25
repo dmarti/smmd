@@ -1,9 +1,11 @@
+---
+company-name: "Ortec AdScience"
+domain: ortecadscience.com
+home: https://www.ortecadscience.com/
+privacy-policy: https://www.ortecadscience.com/privacy-policy/
+email: info@ortec.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Ortec AdScience 
 
-Name: Ortec AdScience 
-Domain: ortecadscience.com
-Home: https://www.ortecadscience.com/
-Privacy_policy: https://www.ortecadscience.com/privacy-policy/
-Email: info@ortec.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

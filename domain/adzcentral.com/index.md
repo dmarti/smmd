@@ -1,6 +1,8 @@
+---
+company-name: AdzCentral
+domain: adzcentral.com
+home: http://www.adzcentral.com/
+---
 
-# AdzCentral
 
-Name: AdzCentral
-Domain: adzcentral.com
-Home: http://www.adzcentral.com/
+

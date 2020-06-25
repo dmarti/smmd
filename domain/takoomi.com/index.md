@@ -1,8 +1,10 @@
+---
+company-name: Takoomi
+domain: takoomi.com
+home: https://www.takoomi.com/
+privacy-policy: https://www.takoomi.com/privacy-policy
+email: support@takoomi.com
+---
 
-# Takoomi
 
-Name: Takoomi
-Domain: takoomi.com
-Home: https://www.takoomi.com/
-Privacy_policy: https://www.takoomi.com/privacy-policy
-Email: support@takoomi.com
+

@@ -1,11 +1,11 @@
+---
+company-name: "MaxPoint Interactive"
+domain: maxpoint.com
+home: http://maxpoint.com/us
+privacy-policy: http://www.maxpointinteractive.com/privacy-policy/
+email: privacy@maxpointinteractive.com
+member-of: "Network Advertising Initiative"
+---
 
-# MaxPoint Interactive
 
-Name: MaxPoint Interactive
-Domain: maxpoint.com
-Home: http://maxpoint.com/us
-Privacy_policy: http://www.maxpointinteractive.com/privacy-policy/
-Email: privacy@maxpointinteractive.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

@@ -1,8 +1,10 @@
+---
+company-name: DuMedia
+domain: mydumedia.com
+home: https://mydumedia.com/en/
+privacy-policy: https://mydumedia.com/en/policy
+email: info@mydumedia.com
+---
 
-# DuMedia
 
-Name: DuMedia
-Domain: mydumedia.com
-Home: https://mydumedia.com/en/
-Privacy_policy: https://mydumedia.com/en/policy
-Email: info@mydumedia.com
+

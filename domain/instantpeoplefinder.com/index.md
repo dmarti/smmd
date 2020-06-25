@@ -1,21 +1,11 @@
-
-# instant people finder
-
-Name: instant people finder
-
-Domain: instantpeoplefinder.com
-
-Home: https://instantpeoplefinder.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: https://www.instantpeoplefinder.com/optout.php
-
-
-
+---
+company-name: "instant people finder"
+domain: instantpeoplefinder.com
+home: https://instantpeoplefinder.com
+opt-out-url: https://www.instantpeoplefinder.com/optout.php
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +13,20 @@ Opt_out_url: https://www.instantpeoplefinder.com/optout.php
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

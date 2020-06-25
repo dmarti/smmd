@@ -1,8 +1,10 @@
+---
+company-name: "BLOOM Digital Platforms"
+domain: bloom-hq.com
+home: http://bloom-hq.com/
+email: hello@bloomdigital.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# BLOOM Digital Platforms
 
-Name: BLOOM Digital Platforms
-Domain: bloom-hq.com
-Home: http://bloom-hq.com/
-Email: hello@bloomdigital.com
-Member_of: Interactive Advertising Bureau (IAB)
+

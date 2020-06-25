@@ -1,7 +1,9 @@
+---
+company-name: Digiglitz
+domain: digiglitz.com
+home: http://www.digiglitz.com/
+email: raghu@digiglitz.com
+---
 
-# Digiglitz
 
-Name: Digiglitz
-Domain: digiglitz.com
-Home: http://www.digiglitz.com/
-Email: raghu@digiglitz.com
+

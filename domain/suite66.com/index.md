@@ -1,7 +1,9 @@
+---
+company-name: "Suite 66"
+domain: suite66.com
+home: http://www.suite66.com/index.html
+privacy-policy: http://www.suite66.com/privacy-policy/
+---
 
-# Suite 66
 
-Name: Suite 66
-Domain: suite66.com
-Home: http://www.suite66.com/index.html
-Privacy_policy: http://www.suite66.com/privacy-policy/
+

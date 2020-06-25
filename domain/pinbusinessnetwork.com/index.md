@@ -1,7 +1,9 @@
+---
+company-name: "Pin Business Network"
+domain: pinbusinessnetwork.com
+home: https://pinbusinessnetwork.com
+privacy-policy: https://pinbusinessnetwork.com/pin-privacy-policy/
+---
 
-# Pin Business Network
 
-Name: Pin Business Network
-Domain: pinbusinessnetwork.com
-Home: https://pinbusinessnetwork.com
-Privacy_policy: https://pinbusinessnetwork.com/pin-privacy-policy/
+

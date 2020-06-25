@@ -1,9 +1,11 @@
+---
+company-name: "Mercier Champagne"
+domain: champagnemercier.fr
+home: http://champagnemercier.fr/en
+privacy-policy: http://www.champagnemercier.com/en/personnal-data-and-cookies-policy
+email: contacts@mercier.tm.fr
+owned-by: "Moet Hennessy SNC"
+---
 
-# Mercier Champagne
 
-Name: Mercier Champagne
-Domain: champagnemercier.fr
-Home: http://champagnemercier.fr/en
-Privacy_policy: http://www.champagnemercier.com/en/personnal-data-and-cookies-policy
-Email: contacts@mercier.tm.fr
-Owned_by: Moet Hennessy SNC
+

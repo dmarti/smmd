@@ -1,7 +1,9 @@
+---
+company-name: Monoloop
+domain: monoloop.com
+home: http://www.monoloop.com/
+email: privacy@monoloop.com
+---
 
-# Monoloop
 
-Name: Monoloop
-Domain: monoloop.com
-Home: http://www.monoloop.com/
-Email: privacy@monoloop.com
+

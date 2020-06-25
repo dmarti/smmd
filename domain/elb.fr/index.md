@@ -1,6 +1,8 @@
+---
+company-name: "Elb Multimedia"
+domain: elb.fr
+home: http://www.elb.fr/
+---
 
-# Elb Multimedia
 
-Name: Elb Multimedia
-Domain: elb.fr
-Home: http://www.elb.fr/
+

@@ -1,21 +1,10 @@
-
-# Bombora
-
-Name: Bombora
-
-Domain: bombora.com
-
-Home: bombora.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: Bombora
+domain: bombora.com
+home: bombora.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

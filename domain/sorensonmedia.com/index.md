@@ -1,7 +1,9 @@
+---
+company-name: "Sorenson Media"
+domain: sorensonmedia.com
+home: http://www.sorensonmedia.com/
+privacy-policy: http://www.sorensonmedia.com/privacy/
+---
 
-# Sorenson Media
 
-Name: Sorenson Media
-Domain: sorensonmedia.com
-Home: http://www.sorensonmedia.com/
-Privacy_policy: http://www.sorensonmedia.com/privacy/
+

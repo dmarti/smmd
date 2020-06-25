@@ -1,8 +1,10 @@
+---
+company-name: "The Bridge LLC"
+domain: bridgecdi.com
+home: https://bridgecdi.com/
+privacy-policy: https://bridgecdi.com/privacy.php
+email: privacy@bridgecdi.com
+---
 
-# The Bridge LLC
 
-Name: The Bridge LLC
-Domain: bridgecdi.com
-Home: https://bridgecdi.com/
-Privacy_policy: https://bridgecdi.com/privacy.php
-Email: privacy@bridgecdi.com
+

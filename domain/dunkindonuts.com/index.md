@@ -1,7 +1,9 @@
-# Dunkin
+---
+company-name: Dunkin
+domain: dunkindonuts.com
+opt-out-url: https://www.dunkindonuts.com/en/consumer-rights
+---
 
-Name: Dunkin
 
-Domain: dunkindonuts.com
 
-Opt_out_url: https://www.dunkindonuts.com/en/consumer-rights
+

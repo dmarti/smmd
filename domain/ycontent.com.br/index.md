@@ -1,7 +1,9 @@
+---
+company-name: YContent
+domain: ycontent.com.br
+home: http://ycontent.com.br/
+email: contato@ycontent.com.br
+---
 
-# YContent
 
-Name: YContent
-Domain: ycontent.com.br
-Home: http://ycontent.com.br/
-Email: contato@ycontent.com.br
+

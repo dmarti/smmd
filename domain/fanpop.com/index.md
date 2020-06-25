@@ -1,9 +1,11 @@
+---
+company-name: Fanpop
+domain: fanpop.com
+home: http://www.fanpop.com/
+privacy-policy: http://www.fanpop.com/privacy
+email: privacy@fanpop.com
+member-of: "Digital Advertising Alliance"
+---
 
-# Fanpop
 
-Name: Fanpop
-Domain: fanpop.com
-Home: http://www.fanpop.com/
-Privacy_policy: http://www.fanpop.com/privacy
-Email: privacy@fanpop.com
-Member_of: Digital Advertising Alliance
+

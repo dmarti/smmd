@@ -1,9 +1,11 @@
+---
+company-name: YouTube
+domain: youtube.com
+home: http://www.youtube.com/
+privacy-policy: https://policies.google.com/privacy
+owned-by: "Google Inc."
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# YouTube
 
-Name: YouTube
-Domain: youtube.com
-Home: http://www.youtube.com/
-Privacy_policy: https://policies.google.com/privacy
-Owned_by: Google Inc.
-Member_of: Interactive Advertising Bureau (IAB)
+

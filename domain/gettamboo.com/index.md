@@ -1,6 +1,8 @@
+---
+company-name: Tamboo
+domain: gettamboo.com
+home: https://gettamboo.com/
+---
 
-# Tamboo
 
-Name: Tamboo
-Domain: gettamboo.com
-Home: https://gettamboo.com/
+

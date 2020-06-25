@@ -1,9 +1,11 @@
+---
+company-name: Mix
+domain: mix.com
+home: https://mix.com
+privacy-policy: https://mix.com/privacy
+email: support@mix.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Mix
 
-Name: Mix
-Domain: mix.com
-Home: https://mix.com
-Privacy_policy: https://mix.com/privacy
-Email: support@mix.com
-Member_of: Interactive Advertising Bureau (IAB)
+

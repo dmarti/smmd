@@ -1,9 +1,11 @@
+---
+company-name: "Martini Media"
+domain: martini.media
+home: http://martini.media/
+privacy-policy: http://martini.media/privacy-policy/
+email: privacy@martini-corp.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Martini Media
 
-Name: Martini Media
-Domain: martini.media
-Home: http://martini.media/
-Privacy_policy: http://martini.media/privacy-policy/
-Email: privacy@martini-corp.com
-Member_of: Interactive Advertising Bureau (IAB)
+

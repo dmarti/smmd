@@ -1,7 +1,9 @@
+---
+company-name: Mutua
+domain: mutua.es
+home: https://www.mutua.es/
+privacy-policy: https://www.mutua.es/proteccion-datos/
+---
 
-# Mutua
 
-Name: Mutua
-Domain: mutua.es
-Home: https://www.mutua.es/
-Privacy_policy: https://www.mutua.es/proteccion-datos/
+

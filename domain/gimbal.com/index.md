@@ -1,8 +1,10 @@
+---
+company-name: Gimbal
+domain: gimbal.com
+home: https://gimbal.com/
+privacy-policy: https://manager.gimbal.com/privacy
+email: privacy@gimbal.com
+---
 
-# Gimbal
 
-Name: Gimbal
-Domain: gimbal.com
-Home: https://gimbal.com/
-Privacy_policy: https://manager.gimbal.com/privacy
-Email: privacy@gimbal.com
+

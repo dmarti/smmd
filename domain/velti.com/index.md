@@ -1,7 +1,9 @@
+---
+company-name: Velti
+domain: velti.com
+home: http://www.velti.com/
+privacy-policy: http://www.velti.com/privacy.html
+---
 
-# Velti
 
-Name: Velti
-Domain: velti.com
-Home: http://www.velti.com/
-Privacy_policy: http://www.velti.com/privacy.html
+

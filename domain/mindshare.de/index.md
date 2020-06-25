@@ -1,10 +1,11 @@
+---
+company-name: "Mindshare DE"
+domain: mindshare.de
+home: http://www.mindshare.de/
+email: privacy@mindshareworld.com
+owned-by: GroupM
+member-of: "Digital Advertising Alliance"
+---
 
-# Mindshare DE
 
-Name: Mindshare DE
-Domain: mindshare.de
-Home: http://www.mindshare.de/
-Email: privacy@mindshareworld.com
-Owned_by: GroupM
-Member_of: American Association of Advertising Agencies
-Member_of: Digital Advertising Alliance
+

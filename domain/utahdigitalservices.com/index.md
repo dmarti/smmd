@@ -1,8 +1,10 @@
+---
+company-name: "UDS (Utah Digital Services)"
+domain: utahdigitalservices.com
+home: http://utahdigitalservices.com/
+privacy-policy: http://utahdigitalservices.com/privacy-policy
+email: info@utahdigitalservices.com
+---
 
-# UDS (Utah Digital Services)
 
-Name: UDS (Utah Digital Services)
-Domain: utahdigitalservices.com
-Home: http://utahdigitalservices.com/
-Privacy_policy: http://utahdigitalservices.com/privacy-policy
-Email: info@utahdigitalservices.com
+

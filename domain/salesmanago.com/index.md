@@ -1,8 +1,10 @@
+---
+company-name: SalesManago
+domain: salesmanago.com
+home: https://salesmanago.com/
+privacy-policy: https://salesmanago.com/marketing-automation/terms.htm
+email: support@giosg.com
+---
 
-# SalesManago
 
-Name: SalesManago
-Domain: salesmanago.com
-Home: https://salesmanago.com/
-Privacy_policy: https://salesmanago.com/marketing-automation/terms.htm
-Email: support@giosg.com
+

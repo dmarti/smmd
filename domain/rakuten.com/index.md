@@ -1,9 +1,11 @@
+---
+company-name: "Rakuten.com Shopping (formerly Buy.com)"
+domain: rakuten.com
+home: http://www.rakuten.com/
+privacy-policy: http://www.rakuten.com/loc/privacy-policy/79085.html
+owned-by: "Rakuten Group"
+member-of: "Better Business Bureau"
+---
 
-# Rakuten.com Shopping (formerly Buy.com)
 
-Name: Rakuten.com Shopping (formerly Buy.com)
-Domain: rakuten.com
-Home: http://www.rakuten.com/
-Privacy_policy: http://www.rakuten.com/loc/privacy-policy/79085.html
-Owned_by: Rakuten Group
-Member_of: Better Business Bureau
+

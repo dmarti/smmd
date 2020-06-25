@@ -1,7 +1,9 @@
+---
+company-name: Peerius
+domain: peerius.com
+home: http://www.peerius.com/
+email: info@peerius.com
+---
 
-# Peerius
 
-Name: Peerius
-Domain: peerius.com
-Home: http://www.peerius.com/
-Email: info@peerius.com
+

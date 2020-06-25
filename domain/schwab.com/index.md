@@ -1,7 +1,9 @@
+---
+company-name: "Charles Schwab & Co."
+domain: schwab.com
+home: https://www.schwab.com/
+privacy-policy: https://www.schwab.com/public/schwab/nn/legal_compliance/privacy/online_privacy
+---
 
-# Charles Schwab & Co.
 
-Name: Charles Schwab & Co.
-Domain: schwab.com
-Home: https://www.schwab.com/
-Privacy_policy: https://www.schwab.com/public/schwab/nn/legal_compliance/privacy/online_privacy
+

@@ -1,8 +1,10 @@
+---
+company-name: Mobext
+domain: mobext.com
+home: http://www.mobext.com/en/
+privacy-policy: http://www.mobext.com/en/privacy-policy/
+email: phuc.truong@mobext.com
+---
 
-# Mobext
 
-Name: Mobext
-Domain: mobext.com
-Home: http://www.mobext.com/en/
-Privacy_policy: http://www.mobext.com/en/privacy-policy/
-Email: phuc.truong@mobext.com
+

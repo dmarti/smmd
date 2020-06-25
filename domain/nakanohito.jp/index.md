@@ -1,6 +1,8 @@
+---
+company-name: Nakanohito
+domain: nakanohito.jp
+home: http://nakanohito.jp/
+---
 
-# Nakanohito
 
-Name: Nakanohito
-Domain: nakanohito.jp
-Home: http://nakanohito.jp/
+

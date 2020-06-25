@@ -1,8 +1,10 @@
+---
+company-name: Survata
+domain: survata.com
+home: https://www.survata.com/
+privacy-policy: https://www.survata.com/respondent-privacy-policy/
+email: contact@survata.com
+---
 
-# Survata
 
-Name: Survata
-Domain: survata.com
-Home: https://www.survata.com/
-Privacy_policy: https://www.survata.com/respondent-privacy-policy/
-Email: contact@survata.com
+

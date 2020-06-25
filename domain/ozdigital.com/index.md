@@ -1,10 +1,12 @@
+---
+company-name: "Oz Digital"
+domain: ozdigital.com
+home: https://www.ozdigital.com
+privacy-policy: https://www.ozdigital.com/en/privacy-policy/
+email: "39 02 56567365"
+owned-by: Next14
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Oz Digital
 
-Name: Oz Digital
-Domain: ozdigital.com
-Home: https://www.ozdigital.com
-Privacy_policy: https://www.ozdigital.com/en/privacy-policy/
-Email: 39 02 56567365
-Owned_by: Next14
-Member_of: Interactive Advertising Bureau (IAB)
+

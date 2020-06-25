@@ -1,7 +1,9 @@
+---
+company-name: MSCI
+domain: msci.com
+home: http://www.msci.com/
+privacy-policy: https://www.msci.com/privacy-pledge
+---
 
-# MSCI
 
-Name: MSCI
-Domain: msci.com
-Home: http://www.msci.com/
-Privacy_policy: https://www.msci.com/privacy-pledge
+

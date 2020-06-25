@@ -1,7 +1,9 @@
+---
+company-name: A8
+domain: a8.net
+home: http://www.a8.net/
+privacy-policy: http://www.fancs.com/privacy
+---
 
-# A8
 
-Name: A8
-Domain: a8.net
-Home: http://www.a8.net/
-Privacy_policy: http://www.fancs.com/privacy
+

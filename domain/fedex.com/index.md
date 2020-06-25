@@ -1,9 +1,10 @@
+---
+company-name: FedEx
+domain: fedex.com
+home: http://www.fedex.com/us/
+privacy-policy: https://www.fedex.com/en-us/trust-center/privacy.html
+member-of: "Association of National Advertisers"
+---
 
-# FedEx
 
-Name: FedEx
-Domain: fedex.com
-Home: http://www.fedex.com/us/
-Privacy_policy: https://www.fedex.com/en-us/trust-center/privacy.html
-Member_of: American Advertising Federation
-Member_of: Association of National Advertisers
+

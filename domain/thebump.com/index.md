@@ -1,8 +1,10 @@
+---
+company-name: "The Bump"
+domain: thebump.com
+home: http://www.thebump.com/
+privacy-policy: https://www.thebump.com/privacy-policy
+email: support@thebump.com
+---
 
-# The Bump
 
-Name: The Bump
-Domain: thebump.com
-Home: http://www.thebump.com/
-Privacy_policy: https://www.thebump.com/privacy-policy
-Email: support@thebump.com
+

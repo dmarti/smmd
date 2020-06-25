@@ -1,9 +1,11 @@
+---
+company-name: Gigya
+domain: gigya.com
+home: https://www.gigya.com/
+privacy-policy: https://www.gigya.com/privacy-policy/
+email: privacy@gigya.com
+owned-by: "SAP Web Analytics"
+---
 
-# Gigya
 
-Name: Gigya
-Domain: gigya.com
-Home: https://www.gigya.com/
-Privacy_policy: https://www.gigya.com/privacy-policy/
-Email: privacy@gigya.com
-Owned_by: SAP Web Analytics
+

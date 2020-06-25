@@ -1,7 +1,9 @@
+---
+company-name: advmaker
+domain: advmaker.net
+home: https://advmaker.net/
+privacy-policy: https://advmaker.net/policy/
+---
 
-# advmaker
 
-Name: advmaker
-Domain: advmaker.net
-Home: https://advmaker.net/
-Privacy_policy: https://advmaker.net/policy/
+

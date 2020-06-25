@@ -1,6 +1,8 @@
+---
+company-name: Userneeds
+domain: userneeds.com
+home: http://www.userneeds.com/market-research
+---
 
-# Userneeds
 
-Name: Userneeds
-Domain: userneeds.com
-Home: http://www.userneeds.com/market-research
+

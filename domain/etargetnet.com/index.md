@@ -1,8 +1,10 @@
+---
+company-name: Etarget
+domain: etargetnet.com
+home: http://etargetnet.com/
+privacy-policy: https://www.etarget.sk/privacy.php
+email: obchod@etarget.sk
+---
 
-# Etarget
 
-Name: Etarget
-Domain: etargetnet.com
-Home: http://etargetnet.com/
-Privacy_policy: https://www.etarget.sk/privacy.php
-Email: obchod@etarget.sk
+

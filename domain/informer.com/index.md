@@ -1,6 +1,8 @@
+---
+company-name: "Informer Technologies"
+domain: informer.com
+home: http://www.informer.com/
+---
 
-# Informer Technologies
 
-Name: Informer Technologies
-Domain: informer.com
-Home: http://www.informer.com/
+

@@ -1,7 +1,9 @@
+---
+company-name: i-transact
+domain: i-transact.co.uk
+home: http://www.i-transact.co.uk
+email: info@i-transact.co.uk
+---
 
-# i-transact
 
-Name: i-transact
-Domain: i-transact.co.uk
-Home: http://www.i-transact.co.uk
-Email: info@i-transact.co.uk
+

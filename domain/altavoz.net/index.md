@@ -1,6 +1,8 @@
+---
+company-name: Altavoz
+domain: altavoz.net
+home: http://altavoz.net/
+---
 
-# Altavoz
 
-Name: Altavoz
-Domain: altavoz.net
-Home: http://altavoz.net/
+

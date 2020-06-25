@@ -1,8 +1,10 @@
+---
+company-name: Downstream.AI
+domain: downstream.ai
+home: http://www.downstream.ai/
+privacy-policy: http://www.downstream.ai/privacy.html
+email: yourprivacy@downstream.ai
+---
 
-# Downstream.AI
 
-Name: Downstream.AI
-Domain: downstream.ai
-Home: http://www.downstream.ai/
-Privacy_policy: http://www.downstream.ai/privacy.html
-Email: yourprivacy@downstream.ai
+

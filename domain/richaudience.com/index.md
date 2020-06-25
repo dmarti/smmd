@@ -1,9 +1,11 @@
+---
+company-name: "Rich Audience"
+domain: richaudience.com
+home: https://richaudience.com/
+privacy-policy: https://richaudience.com/legal/
+email: info@richaudience.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Rich Audience
 
-Name: Rich Audience
-Domain: richaudience.com
-Home: https://richaudience.com/
-Privacy_policy: https://richaudience.com/legal/
-Email: info@richaudience.com
-Member_of: Interactive Advertising Bureau (IAB)
+

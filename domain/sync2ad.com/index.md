@@ -1,8 +1,10 @@
+---
+company-name: SYNC
+domain: sync2ad.com
+home: https://www.sync2ad.com/
+privacy-policy: http://redirect.sync.tv/privacy/
+email: info@sync.tv
+---
 
-# SYNC
 
-Name: SYNC
-Domain: sync2ad.com
-Home: https://www.sync2ad.com/
-Privacy_policy: http://redirect.sync.tv/privacy/
-Email: info@sync.tv
+

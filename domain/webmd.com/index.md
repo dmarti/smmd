@@ -1,10 +1,11 @@
+---
+company-name: WebMD
+domain: webmd.com
+home: https://www.webmd.com/
+privacy-policy: https://www.webmd.com/about-webmd-policies/about-privacy-policy
+email: DPO@webmd.net
+member-of: TrustE_TrustArc
+---
 
-# WebMD
 
-Name: WebMD
-Domain: webmd.com
-Home: https://www.webmd.com/
-Privacy_policy: https://www.webmd.com/about-webmd-policies/about-privacy-policy
-Email: DPO@webmd.net
-Member_of: Digital Content Network(?)
-Member_of: TrustE_TrustArc
+

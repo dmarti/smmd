@@ -1,8 +1,10 @@
+---
+company-name: FlixMobility
+domain: flixbus.com
+home: https://www.flixbus.com
+privacy-policy: https://www.flixbus.com/privacy-policy
+email: info@flixbus.co.uk
+---
 
-# FlixMobility 
 
-Name: FlixMobility 
-Domain: flixbus.com
-Home: https://www.flixbus.com
-Privacy_policy: https://www.flixbus.com/privacy-policy
-Email: info@flixbus.co.uk
+

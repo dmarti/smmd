@@ -1,8 +1,10 @@
+---
+company-name: ITworld
+domain: itworld.com
+home: http://www.itworld.com/
+privacy-policy: http://www.itworld.com/about/privacy.html
+email: postmasterhelp@idgcommunications.com
+---
 
-# ITworld
 
-Name: ITworld
-Domain: itworld.com
-Home: http://www.itworld.com/
-Privacy_policy: http://www.itworld.com/about/privacy.html
-Email: postmasterhelp@idgcommunications.com
+

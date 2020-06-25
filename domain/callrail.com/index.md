@@ -1,8 +1,10 @@
+---
+company-name: CallRail
+domain: callrail.com
+home: http://www.callrail.com/
+privacy-policy: http://www.callrail.com/privacy/
+email: support@callrail.com
+---
 
-# CallRail
 
-Name: CallRail
-Domain: callrail.com
-Home: http://www.callrail.com/
-Privacy_policy: http://www.callrail.com/privacy/
-Email: support@callrail.com
+

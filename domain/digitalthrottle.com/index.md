@@ -1,10 +1,11 @@
+---
+company-name: "Digital Throttle"
+domain: digitalthrottle.com
+home: http://www.digitalthrottle.com/
+privacy-policy: http://www.digitalthrottle.com/privacy-policy/
+email: info@digitalthrottle.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Digital Throttle
 
-Name: Digital Throttle
-Domain: digitalthrottle.com
-Home: http://www.digitalthrottle.com/
-Privacy_policy: http://www.digitalthrottle.com/privacy-policy/
-Email: info@digitalthrottle.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

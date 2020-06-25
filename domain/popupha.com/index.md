@@ -1,6 +1,8 @@
+---
+company-name: Popupha
+domain: popupha.com
+home: http://popupha.com/
+---
 
-# Popupha
 
-Name: Popupha
-Domain: popupha.com
-Home: http://popupha.com/
+

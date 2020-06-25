@@ -1,8 +1,10 @@
+---
+company-name: "Affinity Answers"
+domain: affinityanswers.com
+home: http://www.affinityanswers.com/
+privacy-policy: http://www.affinityanswers.com/privacy-policy/
+email: contact@affinityanswers.com
+---
 
-# Affinity Answers
 
-Name: Affinity Answers
-Domain: affinityanswers.com
-Home: http://www.affinityanswers.com/
-Privacy_policy: http://www.affinityanswers.com/privacy-policy/
-Email: contact@affinityanswers.com
+

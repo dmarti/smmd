@@ -1,8 +1,10 @@
+---
+company-name: "The Hyperfactory"
+domain: thehyperfactory.com
+home: http://www.thehyperfactory.com/home.html
+email: info@thehyperfactory.com
+owned-by: "Meredith Corporation"
+---
 
-# The Hyperfactory
 
-Name: The Hyperfactory
-Domain: thehyperfactory.com
-Home: http://www.thehyperfactory.com/home.html
-Email: info@thehyperfactory.com
-Owned_by: Meredith Corporation
+

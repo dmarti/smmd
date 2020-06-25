@@ -1,8 +1,10 @@
+---
+company-name: "Duration Media"
+domain: durationmedia.net
+home: https://www.durationmedia.net/
+privacy-policy: https://www.durationmedia.net/privacy-policy
+email: privacy@durationmedia.net.
+---
 
-# Duration Media
 
-Name: Duration Media
-Domain: durationmedia.net
-Home: https://www.durationmedia.net/
-Privacy_policy: https://www.durationmedia.net/privacy-policy
-Email: privacy@durationmedia.net.
+

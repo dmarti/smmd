@@ -1,8 +1,10 @@
+---
+company-name: Contextly
+domain: contextly.com
+home: https://contextly.com/
+privacy-policy: https://contextly.com/privacy/
+email: privacy@contextly.com
+---
 
-# Contextly
 
-Name: Contextly
-Domain: contextly.com
-Home: https://contextly.com/
-Privacy_policy: https://contextly.com/privacy/
-Email: privacy@contextly.com
+

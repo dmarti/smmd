@@ -1,8 +1,10 @@
+---
+company-name: "Echo 226"
+domain: echo226.com
+home: https://www.echo226.com/
+privacy-policy: https://www.echo226.com/privacy-policy
+owned-by: "Edge 226"
+---
 
-# Echo 226
 
-Name: Echo 226
-Domain: echo226.com
-Home: https://www.echo226.com/
-Privacy_policy: https://www.echo226.com/privacy-policy
-Owned_by: Edge 226
+

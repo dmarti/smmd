@@ -1,8 +1,10 @@
+---
+company-name: "Alhambra Automoviles"
+domain: automovilesalhambra.es
+home: https://www.automovilesalhambra.es/
+privacy-policy: https://www.automovilesalhambra.es/politica-de-privacidad
+email: comercial@automovilesalhambra.es
+---
 
-# Alhambra Automoviles
 
-Name: Alhambra Automoviles
-Domain: automovilesalhambra.es
-Home: https://www.automovilesalhambra.es/
-Privacy_policy: https://www.automovilesalhambra.es/politica-de-privacidad
-Email: comercial@automovilesalhambra.es
+

@@ -1,8 +1,10 @@
+---
+company-name: Zoomd
+domain: zoomd.com
+home: http://zoomd.com/
+privacy-policy: http://www.zoomd.com/Privacy.html
+email: support@zoomd.com
+---
 
-# Zoomd
 
-Name: Zoomd
-Domain: zoomd.com
-Home: http://zoomd.com/
-Privacy_policy: http://www.zoomd.com/Privacy.html
-Email: support@zoomd.com
+

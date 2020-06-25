@@ -1,7 +1,9 @@
+---
+company-name: Adru.net
+domain: adru.net
+home: http://adru.net/
+email: support@234.adru.net
+---
 
-# Adru.net
 
-Name: Adru.net
-Domain: adru.net
-Home: http://adru.net/
-Email: support@234.adru.net
+

@@ -1,7 +1,9 @@
+---
+company-name: "Traffic Revenue"
+domain: trafficrevenue.net
+home: http://www.trafficrevenue.net/
+email: support@trafficrevenue.net
+---
 
-# Traffic Revenue
 
-Name: Traffic Revenue
-Domain: trafficrevenue.net
-Home: http://www.trafficrevenue.net/
-Email: support@trafficrevenue.net
+

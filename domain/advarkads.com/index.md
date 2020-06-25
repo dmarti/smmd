@@ -1,8 +1,10 @@
+---
+company-name: Advark
+domain: advarkads.com
+home: https://advarkads.com/
+privacy-policy: https://advarkads.com/confidential
+email: publishers@advarkads.com
+---
 
-# Advark
 
-Name: Advark
-Domain: advarkads.com
-Home: https://advarkads.com/
-Privacy_policy: https://advarkads.com/confidential
-Email: publishers@advarkads.com
+

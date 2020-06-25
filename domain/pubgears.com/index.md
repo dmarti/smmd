@@ -1,6 +1,8 @@
+---
+company-name: PubGears
+domain: pubgears.com
+home: http://pubgears.com/
+---
 
-# PubGears
 
-Name: PubGears
-Domain: pubgears.com
-Home: http://pubgears.com/
+

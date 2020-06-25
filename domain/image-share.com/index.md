@@ -1,7 +1,9 @@
+---
+company-name: Image-Share
+domain: image-share.com
+home: http://image-share.com/
+email: image.share.com@gmail.com
+---
 
-# Image-Share
 
-Name: Image-Share
-Domain: image-share.com
-Home: http://image-share.com/
-Email: image.share.com@gmail.com
+

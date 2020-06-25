@@ -1,8 +1,10 @@
+---
+company-name: Jeeng
+domain: jeeng.com
+home: https://jeeng.com/
+privacy-policy: https://jeeng.com/privacypolicy-he-2/
+email: support@jeeng.com
+---
 
-# Jeeng
 
-Name: Jeeng
-Domain: jeeng.com
-Home: https://jeeng.com/
-Privacy_policy: https://jeeng.com/privacypolicy-he-2/
-Email: support@jeeng.com
+

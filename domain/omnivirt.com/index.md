@@ -1,8 +1,10 @@
+---
+company-name: OmniVirt
+domain: omnivirt.com
+home: https://www.omnivirt.com/
+privacy-policy: https://www.omnivirt.com/tos/privacy/
+email: contact@omnivirt.com
+---
 
-# OmniVirt
 
-Name: OmniVirt
-Domain: omnivirt.com
-Home: https://www.omnivirt.com/
-Privacy_policy: https://www.omnivirt.com/tos/privacy/
-Email: contact@omnivirt.com
+

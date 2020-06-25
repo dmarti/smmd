@@ -1,8 +1,10 @@
+---
+company-name: Bilin
+domain: bilintechnology.com
+home: http://www.bilintechnology.com/
+privacy-policy: http://www.bilintechnology.com/privacy.html
+email: privacy@bilintechnology.com
+---
 
-# Bilin
 
-Name: Bilin
-Domain: bilintechnology.com
-Home: http://www.bilintechnology.com/
-Privacy_policy: http://www.bilintechnology.com/privacy.html
-Email: privacy@bilintechnology.com
+

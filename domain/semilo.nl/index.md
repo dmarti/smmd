@@ -1,9 +1,11 @@
+---
+company-name: Semilo
+domain: semilo.nl
+home: http://www.semilo.nl/
+privacy-policy: https://semilo.nl/cookieconsent/
+email: privacy@semilo.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Semilo
 
-Name: Semilo
-Domain: semilo.nl
-Home: http://www.semilo.nl/
-Privacy_policy: https://semilo.nl/cookieconsent/
-Email: privacy@semilo.com
-Member_of: European Data Interactive Alliance
+

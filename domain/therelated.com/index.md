@@ -1,6 +1,8 @@
+---
+company-name: "Related Digital"
+domain: therelated.com
+home: http://therelated.com/
+---
 
-# Related Digital
 
-Name: Related Digital
-Domain: therelated.com
-Home: http://therelated.com/
+

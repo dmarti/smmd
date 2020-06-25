@@ -1,8 +1,10 @@
+---
+company-name: "Panera Bread"
+domain: panerabread.com
+home: https://www.panerabread.com/en-us/home.html
+privacy-policy: https://www.panerabread.com/en-us/company-information/privacy-policy.html
+email: contactus@panerabread.com
+---
 
-# Panera Bread
 
-Name: Panera Bread
-Domain: panerabread.com
-Home: https://www.panerabread.com/en-us/home.html
-Privacy_policy: https://www.panerabread.com/en-us/company-information/privacy-policy.html
-Email: contactus@panerabread.com
+

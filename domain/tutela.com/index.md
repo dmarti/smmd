@@ -1,8 +1,10 @@
+---
+company-name: Tutela
+domain: tutela.com
+home: https://www.tutela.com
+privacy-policy: https://public.tutela.com/TutelaPrivacyCharter.pdf
+email: info@tutela.com
+---
 
-# Tutela
 
-Name: Tutela
-Domain: tutela.com
-Home: https://www.tutela.com
-Privacy_policy: https://public.tutela.com/TutelaPrivacyCharter.pdf
-Email: info@tutela.com
+

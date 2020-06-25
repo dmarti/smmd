@@ -1,8 +1,10 @@
+---
+company-name: "Ohana Advertising Network"
+domain: adohana.com
+home: http://adohana.com/
+privacy-policy: http://www.networkohana.com/privacy.php
+email: support@ohana-media.com
+---
 
-# Ohana Advertising Network
 
-Name: Ohana Advertising Network
-Domain: adohana.com
-Home: http://adohana.com/
-Privacy_policy: http://www.networkohana.com/privacy.php
-Email: support@ohana-media.com
+

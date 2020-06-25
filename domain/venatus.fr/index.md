@@ -1,8 +1,10 @@
+---
+company-name: "Venatus Media"
+domain: venatus.fr
+home: http://www.venatus.fr/
+privacy-policy: https://www.venatusmedia.com/privacy/
+email: privacy@venatusmedia.com
+---
 
-# Venatus Media
 
-Name: Venatus Media
-Domain: venatus.fr
-Home: http://www.venatus.fr/
-Privacy_policy: https://www.venatusmedia.com/privacy/
-Email: privacy@venatusmedia.com
+

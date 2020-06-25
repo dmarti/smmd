@@ -1,7 +1,9 @@
+---
+company-name: "PMP Limited"
+domain: pmplimited.com.au
+home: http://www.pmplimited.com.au/
+privacy-policy: http://www.pmplimited.com.au/legal-privacy-policy/
+---
 
-# PMP Limited
 
-Name: PMP Limited
-Domain: pmplimited.com.au
-Home: http://www.pmplimited.com.au/
-Privacy_policy: http://www.pmplimited.com.au/legal-privacy-policy/
+

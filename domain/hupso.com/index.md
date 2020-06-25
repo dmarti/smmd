@@ -1,8 +1,10 @@
+---
+company-name: Hupso
+domain: hupso.com
+home: http://www.hupso.com/
+privacy-policy: http://www.hupso.com/privacy
+email: contact@hupso.com
+---
 
-# Hupso
 
-Name: Hupso
-Domain: hupso.com
-Home: http://www.hupso.com/
-Privacy_policy: http://www.hupso.com/privacy
-Email: contact@hupso.com
+

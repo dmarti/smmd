@@ -1,7 +1,9 @@
+---
+company-name: "Mints App"
+domain: mintsapp.io
+home: https://mintsapp.io/
+privacy-policy: https://mintsapp.io/privacy
+---
 
-# Mints App
 
-Name: Mints App
-Domain: mintsapp.io
-Home: https://mintsapp.io/
-Privacy_policy: https://mintsapp.io/privacy
+

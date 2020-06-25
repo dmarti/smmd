@@ -1,9 +1,11 @@
+---
+company-name: Instagram
+domain: instagram.com
+home: http://instagram.com/
+privacy-policy: https://help.instagram.com/155833707900388
+email: support@instagram.com
+owned-by: Facebook
+---
 
-# Instagram
 
-Name: Instagram
-Domain: instagram.com
-Home: http://instagram.com/
-Privacy_policy: https://help.instagram.com/155833707900388
-Email: support@instagram.com
-Owned_by: Facebook
+

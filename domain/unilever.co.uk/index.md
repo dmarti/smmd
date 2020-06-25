@@ -1,9 +1,11 @@
+---
+company-name: "Unilever EU"
+domain: unilever.co.uk
+home: https://www.unilever.co.uk/
+privacy-policy: http://www.unileverprivacypolicy.com/en_gb/policy.aspx
+owned-by: Unilever
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Unilever EU
 
-Name: Unilever EU
-Domain: unilever.co.uk
-Home: https://www.unilever.co.uk/
-Privacy_policy: http://www.unileverprivacypolicy.com/en_gb/policy.aspx
-Owned_by: Unilever
-Member_of: Interactive Advertising Bureau (IAB)
+

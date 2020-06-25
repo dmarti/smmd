@@ -1,6 +1,8 @@
+---
+company-name: "Aditech Solutions"
+domain: aditechsolutions.com
+home: https://www.aditechsolutions.com
+---
 
-# Aditech Solutions
 
-Name: Aditech Solutions
-Domain: aditechsolutions.com
-Home: https://www.aditechsolutions.com
+

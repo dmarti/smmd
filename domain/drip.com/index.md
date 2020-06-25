@@ -1,9 +1,11 @@
+---
+company-name: Drip
+domain: drip.com
+home: https://www.drip.com
+privacy-policy: https://www.drip.com/privacy
+email: accounts@ave81.com
+owned-by: Leadpages
+---
 
-# Drip
 
-Name: Drip
-Domain: drip.com
-Home: https://www.drip.com
-Privacy_policy: https://www.drip.com/privacy
-Email: accounts@ave81.com
-Owned_by: Leadpages
+

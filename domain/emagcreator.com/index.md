@@ -1,8 +1,10 @@
+---
+company-name: eMagCreator
+domain: emagcreator.com
+home: http://www.emagcreator.com/
+privacy-policy: http://emagcreator.com/privacy-policy.html
+email: info@emagcreator.com
+---
 
-# eMagCreator
 
-Name: eMagCreator
-Domain: emagcreator.com
-Home: http://www.emagcreator.com/
-Privacy_policy: http://emagcreator.com/privacy-policy.html
-Email: info@emagcreator.com
+

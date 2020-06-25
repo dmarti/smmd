@@ -1,8 +1,10 @@
+---
+company-name: EngageSciences
+domain: engagesciences.com
+home: http://www.engagesciences.com/
+privacy-policy: https://www.wayin.com/privacy-policy/
+owned-by: Wayin
+---
 
-# EngageSciences
 
-Name: EngageSciences
-Domain: engagesciences.com
-Home: http://www.engagesciences.com/
-Privacy_policy: https://www.wayin.com/privacy-policy/
-Owned_by: Wayin
+

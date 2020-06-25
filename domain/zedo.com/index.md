@@ -1,10 +1,11 @@
+---
+company-name: Zedo
+domain: zedo.com
+home: https://www.zedo.com
+privacy-policy: https://www.zedo.com/about-zedo/privacy-policy/
+email: privacy@zedo.com
+member-of: "Network Advertising Initiative"
+---
 
-# Zedo
 
-Name: Zedo
-Domain: zedo.com
-Home: https://www.zedo.com
-Privacy_policy: https://www.zedo.com/about-zedo/privacy-policy/
-Email: privacy@zedo.com
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

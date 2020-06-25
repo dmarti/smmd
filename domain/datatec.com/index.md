@@ -1,7 +1,9 @@
+---
+company-name: Datatec
+domain: datatec.com
+home: https://www.datatec.com
+privacy-policy: https://www.datatec.com/terms-of-use.php
+---
 
-# Datatec
 
-Name: Datatec
-Domain: datatec.com
-Home: https://www.datatec.com
-Privacy_policy: https://www.datatec.com/terms-of-use.php
+

@@ -1,8 +1,10 @@
+---
+company-name: "Fidelity Media"
+domain: fidelity-media.com
+home: https://fidelity-media.com/
+privacy-policy: https://fidelity-media.com/privacy-policy/
+email: privacy@fidelity-media.com
+---
 
-# Fidelity Media
 
-Name: Fidelity Media
-Domain: fidelity-media.com
-Home: https://fidelity-media.com/
-Privacy_policy: https://fidelity-media.com/privacy-policy/
-Email: privacy@fidelity-media.com
+

@@ -1,9 +1,11 @@
+---
+company-name: "Carbon Ads"
+domain: carbonads.net
+home: https://www.carbonads.net/
+privacy-policy: https://www.buysellads.com/about/privacy
+email: support@buysellads.com
+owned-by: BuySellAds.com
+---
 
-# Carbon Ads
 
-Name: Carbon Ads
-Domain: carbonads.net
-Home: https://www.carbonads.net/
-Privacy_policy: https://www.buysellads.com/about/privacy
-Email: support@buysellads.com
-Owned_by: BuySellAds.com
+

@@ -1,9 +1,11 @@
+---
+company-name: UserZoom
+domain: userzoom.com
+home: http://www.userzoom.com
+privacy-policy: http://www.userzoom.com/privacy-policy/
+email: privacy@userzoom.com
+member-of: TrustE_TrustArc
+---
 
-# UserZoom
 
-Name: UserZoom
-Domain: userzoom.com
-Home: http://www.userzoom.com
-Privacy_policy: http://www.userzoom.com/privacy-policy/
-Email: privacy@userzoom.com
-Member_of: TrustE_TrustArc
+

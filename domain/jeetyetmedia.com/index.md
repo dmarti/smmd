@@ -1,6 +1,8 @@
+---
+company-name: "Jeetyet Media"
+domain: jeetyetmedia.com
+home: http://www.jeetyetmedia.com/
+---
 
-# Jeetyet Media
 
-Name: Jeetyet Media
-Domain: jeetyetmedia.com
-Home: http://www.jeetyetmedia.com/
+

@@ -1,8 +1,10 @@
+---
+company-name: dgMatix
+domain: dgm-india.com
+home: http://www.dgm-india.com/dgmatix/
+email: info@dgmatix.com
+owned-by: "SVG Media"
+---
 
-# dgMatix
 
-Name: dgMatix
-Domain: dgm-india.com
-Home: http://www.dgm-india.com/dgmatix/
-Email: info@dgmatix.com
-Owned_by: SVG Media
+

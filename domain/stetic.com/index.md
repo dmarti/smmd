@@ -1,8 +1,10 @@
+---
+company-name: "Stetic (FKA 4stats)"
+domain: stetic.com
+home: https://www.stetic.com/de/
+privacy-policy: https://www.stetic.com/de/privacy/
+email: hello@stetic.com
+---
 
-# Stetic (FKA 4stats)
 
-Name: Stetic (FKA 4stats)
-Domain: stetic.com
-Home: https://www.stetic.com/de/
-Privacy_policy: https://www.stetic.com/de/privacy/
-Email: hello@stetic.com
+

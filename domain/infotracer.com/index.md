@@ -1,21 +1,10 @@
-
-# infotracer.com
-
-Name: infotracer.com
-
-Domain: infotracer.com
-
-Home: https://www.infotracer.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: infotracer.com
+domain: infotracer.com
+home: https://www.infotracer.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

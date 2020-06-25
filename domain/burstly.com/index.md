@@ -1,8 +1,10 @@
+---
+company-name: Burstly
+domain: burstly.com
+home: http://www.burstly.com/
+privacy-policy: http://www.burstly.com/privacy
+email: privacy@Burstly.com
+---
 
-# Burstly
 
-Name: Burstly
-Domain: burstly.com
-Home: http://www.burstly.com/
-Privacy_policy: http://www.burstly.com/privacy
-Email: privacy@Burstly.com
+

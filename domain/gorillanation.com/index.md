@@ -1,9 +1,11 @@
+---
+company-name: "Gorilla Nation Media"
+domain: gorillanation.com
+home: http://www.gorillanation.com/home
+privacy-policy: http://www.gorillanation.com/privacy-policy
+email: info@gorillanation.com
+owned-by: "Evolve Media"
+---
 
-# Gorilla Nation Media
 
-Name: Gorilla Nation Media
-Domain: gorillanation.com
-Home: http://www.gorillanation.com/home
-Privacy_policy: http://www.gorillanation.com/privacy-policy
-Email: info@gorillanation.com
-Owned_by: Evolve Media
+

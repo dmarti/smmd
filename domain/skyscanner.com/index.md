@@ -1,7 +1,9 @@
+---
+company-name: skyscanner
+domain: skyscanner.com
+home: https://www.skyscanner.com/
+privacy-policy: https://www.skyscanner.com/media/privacy-policy
+---
 
-# skyscanner
 
-Name: skyscanner
-Domain: skyscanner.com
-Home: https://www.skyscanner.com/
-Privacy_policy: https://www.skyscanner.com/media/privacy-policy
+

@@ -1,11 +1,11 @@
+---
+company-name: "eyereturn marketing"
+domain: eyereturnmarketing.com
+home: https://eyereturnmarketing.com/
+privacy-policy: https://eyereturnmarketing.com/privacy/
+email: privacy@eyereturn.com
+member-of: "Network Advertising Initiative"
+---
 
-# eyereturn marketing
 
-Name: eyereturn marketing
-Domain: eyereturnmarketing.com
-Home: https://eyereturnmarketing.com/
-Privacy_policy: https://eyereturnmarketing.com/privacy/
-Email: privacy@eyereturn.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

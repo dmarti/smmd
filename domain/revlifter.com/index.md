@@ -1,8 +1,10 @@
+---
+company-name: RevLifter
+domain: revlifter.com
+home: https://www.revlifter.com
+privacy-policy: https://www.revlifter.com/privacy-policy
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# RevLifter
 
-Name: RevLifter
-Domain: revlifter.com
-Home: https://www.revlifter.com
-Privacy_policy: https://www.revlifter.com/privacy-policy
-Member_of: Interactive Advertising Bureau (IAB)
+

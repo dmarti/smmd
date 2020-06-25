@@ -1,9 +1,11 @@
+---
+company-name: "Pollster Research Institute (Accorp Sp. z o.o.)"
+domain: instytut-pollster.pl
+home: http://www.instytut-pollster.pl/
+privacy-policy: http://www.instytut-pollster.pl/privacy-policy/
+email: kontakt@pollster.pl
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Pollster Research Institute (Accorp Sp. z o.o.)
 
-Name: Pollster Research Institute (Accorp Sp. z o.o.)
-Domain: instytut-pollster.pl
-Home: http://www.instytut-pollster.pl/
-Privacy_policy: http://www.instytut-pollster.pl/privacy-policy/
-Email: kontakt@pollster.pl
-Member_of: Interactive Advertising Bureau (IAB)
+

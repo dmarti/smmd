@@ -1,9 +1,11 @@
+---
+company-name: NowSpots
+domain: nowspots.com
+home: http://nowspots.com/
+privacy-policy: http://files.nowspots.com/privacy1.html
+email: info@nowspots.com
+owned-by: "Perfect Audience"
+---
 
-# NowSpots
 
-Name: NowSpots
-Domain: nowspots.com
-Home: http://nowspots.com/
-Privacy_policy: http://files.nowspots.com/privacy1.html
-Email: info@nowspots.com
-Owned_by: Perfect Audience
+

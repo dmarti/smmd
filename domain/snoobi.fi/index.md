@@ -1,8 +1,10 @@
+---
+company-name: "Snoobi Oy"
+domain: snoobi.fi
+home: http://www.snoobi.fi/
+email: info@snoobi.com
+owned-by: Fonecta
+---
 
-# Snoobi Oy
 
-Name: Snoobi Oy
-Domain: snoobi.fi
-Home: http://www.snoobi.fi/
-Email: info@snoobi.com
-Owned_by: Fonecta
+

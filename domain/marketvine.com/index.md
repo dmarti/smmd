@@ -1,6 +1,8 @@
+---
+company-name: Marketvine
+domain: marketvine.com
+home: http://www.marketvine.com/
+---
 
-# Marketvine
 
-Name: Marketvine
-Domain: marketvine.com
-Home: http://www.marketvine.com/
+

@@ -1,9 +1,11 @@
+---
+company-name: "So-net Media Networks"
+domain: so-netmedia.jp
+home: http://www.so-netmedia.jp/
+privacy-policy: http://www.so-netmedia.jp/privacypolicy/
+email: info@so-netmedia.jp
+owned-by: "Sony Corporation"
+---
 
-# So-net Media Networks
 
-Name: So-net Media Networks
-Domain: so-netmedia.jp
-Home: http://www.so-netmedia.jp/
-Privacy_policy: http://www.so-netmedia.jp/privacypolicy/
-Email: info@so-netmedia.jp
-Owned_by: Sony Corporation
+

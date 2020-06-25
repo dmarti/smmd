@@ -1,6 +1,8 @@
+---
+company-name: LookSmart
+domain: looksmart.com
+home: http://www.looksmart.com/
+---
 
-# LookSmart
 
-Name: LookSmart
-Domain: looksmart.com
-Home: http://www.looksmart.com/
+

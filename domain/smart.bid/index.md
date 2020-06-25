@@ -1,8 +1,10 @@
+---
+company-name: Smart.Bid
+domain: smart.bid
+home: http://www.smart.bid/
+privacy-policy: http://www.smart.bid/privacy/
+email: privacy@smart.bid
+---
 
-# Smart.Bid
 
-Name: Smart.Bid
-Domain: smart.bid
-Home: http://www.smart.bid/
-Privacy_policy: http://www.smart.bid/privacy/
-Email: privacy@smart.bid
+

@@ -1,7 +1,9 @@
+---
+company-name: "Moet Hennessy Diageo"
+domain: mhdkk.com
+home: https://www.mhdkk.com/en/
+privacy-policy: https://www.mhdkk.com/en/privacy/
+---
 
-# Moet Hennessy Diageo
 
-Name: Moet Hennessy Diageo
-Domain: mhdkk.com
-Home: https://www.mhdkk.com/en/
-Privacy_policy: https://www.mhdkk.com/en/privacy/
+

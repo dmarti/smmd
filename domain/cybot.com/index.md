@@ -1,8 +1,10 @@
+---
+company-name: Cybot
+domain: cybot.com
+home: https://www.cybot.com/
+privacy-policy: https://www.cybot.com/privacy-policy/
+email: mail@cybot.com
+---
 
-# Cybot
 
-Name: Cybot
-Domain: cybot.com
-Home: https://www.cybot.com/
-Privacy_policy: https://www.cybot.com/privacy-policy/
-Email: mail@cybot.com
+

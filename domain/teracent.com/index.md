@@ -1,8 +1,10 @@
+---
+company-name: Teracent
+domain: teracent.com
+home: http://www.teracent.com/
+email: privacy@teracent.com
+owned-by: "Google Inc."
+---
 
-# Teracent
 
-Name: Teracent
-Domain: teracent.com
-Home: http://www.teracent.com/
-Email: privacy@teracent.com
-Owned_by: Google Inc.
+

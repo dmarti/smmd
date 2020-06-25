@@ -1,8 +1,10 @@
+---
+company-name: Yieldmo
+domain: yieldmo.com
+home: https://www.yieldmo.com
+privacy-policy: https://www.yieldmo.com/privacy/
+email: privacy@yieldmo.com
+---
 
-# Yieldmo
 
-Name: Yieldmo
-Domain: yieldmo.com
-Home: https://www.yieldmo.com
-Privacy_policy: https://www.yieldmo.com/privacy/
-Email: privacy@yieldmo.com
+

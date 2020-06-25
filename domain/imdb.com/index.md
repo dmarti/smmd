@@ -1,9 +1,11 @@
+---
+company-name: IMDB.com
+domain: imdb.com
+home: http://www.imdb.com/
+privacy-policy: http://www.imdb.com/privacy
+owned-by: Amazon
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# IMDB.com
 
-Name: IMDB.com
-Domain: imdb.com
-Home: http://www.imdb.com/
-Privacy_policy: http://www.imdb.com/privacy
-Owned_by: Amazon
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,8 +1,10 @@
+---
+company-name: Mindlytix
+domain: mindlytix.com
+home: http://mindlytix.com/
+privacy-policy: http://mindlytix.com/privacy/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Mindlytix
 
-Name: Mindlytix
-Domain: mindlytix.com
-Home: http://mindlytix.com/
-Privacy_policy: http://mindlytix.com/privacy/
-Member_of: Interactive Advertising Bureau (IAB)
+

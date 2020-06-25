@@ -1,7 +1,9 @@
+---
+company-name: FoxPush
+domain: foxpush.com
+home: https://www.foxpush.com/
+privacy-policy: https://www.foxpush.com/privacy_policy.html
+---
 
-# FoxPush
 
-Name: FoxPush
-Domain: foxpush.com
-Home: https://www.foxpush.com/
-Privacy_policy: https://www.foxpush.com/privacy_policy.html
+

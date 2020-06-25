@@ -1,8 +1,10 @@
+---
+company-name: Offertarget
+domain: offertarget.com
+home: http://offertarget.com/
+privacy-policy: http://www.offertarget.com/privacy/
+email: privacy@offertarget.com
+---
 
-# Offertarget
 
-Name: Offertarget
-Domain: offertarget.com
-Home: http://offertarget.com/
-Privacy_policy: http://www.offertarget.com/privacy/
-Email: privacy@offertarget.com
+

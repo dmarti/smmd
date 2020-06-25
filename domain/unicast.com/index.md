@@ -1,10 +1,12 @@
+---
+company-name: Unicast
+domain: unicast.com
+home: http://www.unicast.com/
+privacy-policy: http://www.unicast.com/privacy-policy.aspx
+email: privacy@Unicast.com
+owned-by: Sizmek
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Unicast
 
-Name: Unicast
-Domain: unicast.com
-Home: http://www.unicast.com/
-Privacy_policy: http://www.unicast.com/privacy-policy.aspx
-Email: privacy@Unicast.com
-Owned_by: Sizmek
-Member_of: Interactive Advertising Bureau (IAB)
+

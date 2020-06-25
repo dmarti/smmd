@@ -1,8 +1,10 @@
+---
+company-name: Vilynx
+domain: vilynx.com
+home: http://vilynx.com/
+privacy-policy: http://www.vilynx.com/privacy.html
+email: support@vilynx.com
+---
 
-# Vilynx
 
-Name: Vilynx
-Domain: vilynx.com
-Home: http://vilynx.com/
-Privacy_policy: http://www.vilynx.com/privacy.html
-Email: support@vilynx.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Crimson Hexagon"
+domain: crimsonhexagon.com
+home: https://www.crimsonhexagon.com
+privacy-policy: https://www.crimsonhexagon.com/privacy-policy/
+email: privacy@crimsonhexagon.com
+---
 
-# Crimson Hexagon
 
-Name: Crimson Hexagon
-Domain: crimsonhexagon.com
-Home: https://www.crimsonhexagon.com
-Privacy_policy: https://www.crimsonhexagon.com/privacy-policy/
-Email: privacy@crimsonhexagon.com
+

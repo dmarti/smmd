@@ -1,8 +1,10 @@
+---
+company-name: KontextR
+domain: kontextr.com
+home: https://www.kontextr.com/
+privacy-policy: http://www.kontextr.com/datenschutzerklaerung/
+email: info@kontextr.com
+---
 
-# KontextR
 
-Name: KontextR
-Domain: kontextr.com
-Home: https://www.kontextr.com/
-Privacy_policy: http://www.kontextr.com/datenschutzerklaerung/
-Email: info@kontextr.com
+

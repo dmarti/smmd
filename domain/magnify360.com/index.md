@@ -1,9 +1,11 @@
+---
+company-name: Magnify360
+domain: magnify360.com
+home: http://www.magnify360.com/
+privacy-policy: https://www.thesearchagency.com/privacy-policy/
+email: privacy@magnify360.com
+owned-by: "The Search Agency"
+---
 
-# Magnify360
 
-Name: Magnify360
-Domain: magnify360.com
-Home: http://www.magnify360.com/
-Privacy_policy: https://www.thesearchagency.com/privacy-policy/
-Email: privacy@magnify360.com
-Owned_by: The Search Agency
+

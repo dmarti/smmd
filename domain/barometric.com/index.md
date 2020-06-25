@@ -1,8 +1,10 @@
+---
+company-name: Barometric
+domain: barometric.com
+home: https://barometric.com/
+privacy-policy: https://barometric.com/privacy
+email: info@barometric.com
+---
 
-# Barometric
 
-Name: Barometric
-Domain: barometric.com
-Home: https://barometric.com/
-Privacy_policy: https://barometric.com/privacy
-Email: info@barometric.com
+

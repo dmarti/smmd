@@ -1,8 +1,10 @@
+---
+company-name: Visualtising
+domain: visualtising.com
+home: http://www.visualtising.com/
+privacy-policy: http://www.altitudedigital.com/privacy-policy/
+owned-by: "Altitude Digital"
+---
 
-# Visualtising
 
-Name: Visualtising
-Domain: visualtising.com
-Home: http://www.visualtising.com/
-Privacy_policy: http://www.altitudedigital.com/privacy-policy/
-Owned_by: Altitude Digital
+

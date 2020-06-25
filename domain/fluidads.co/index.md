@@ -1,8 +1,10 @@
+---
+company-name: FluidAds
+domain: fluidads.co
+home: http://www.fluidads.co/
+privacy-policy: http://www.fluidads.co/privacy
+email: support@fluidads.co
+---
 
-# FluidAds
 
-Name: FluidAds
-Domain: fluidads.co
-Home: http://www.fluidads.co/
-Privacy_policy: http://www.fluidads.co/privacy
-Email: support@fluidads.co
+

@@ -1,8 +1,10 @@
+---
+company-name: "Real Estate Digital"
+domain: realestatedigital.com
+home: http://www.realestatedigital.com/
+privacy-policy: http://realestatedigital.com/privacy-policy/
+email: red@realestatedigital.com
+---
 
-# Real Estate Digital
 
-Name: Real Estate Digital
-Domain: realestatedigital.com
-Home: http://www.realestatedigital.com/
-Privacy_policy: http://realestatedigital.com/privacy-policy/
-Email: red@realestatedigital.com
+

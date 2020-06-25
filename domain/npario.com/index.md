@@ -1,8 +1,10 @@
+---
+company-name: nPario
+domain: npario.com
+home: http://npario.com/
+privacy-policy: http://npario.com/privacy.php
+email: info@npario.com
+---
 
-# nPario
 
-Name: nPario
-Domain: npario.com
-Home: http://npario.com/
-Privacy_policy: http://npario.com/privacy.php
-Email: info@npario.com
+

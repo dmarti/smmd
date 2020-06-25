@@ -1,9 +1,11 @@
+---
+company-name: UpToLike
+domain: uptolike.com
+home: http://uptolike.com/
+privacy-policy: http://uptolike.com/privacy.html
+email: support@uptolike.ru
+owned-by: "SEOPult (PromoPult)"
+---
 
-# UpToLike
 
-Name: UpToLike
-Domain: uptolike.com
-Home: http://uptolike.com/
-Privacy_policy: http://uptolike.com/privacy.html
-Email: support@uptolike.ru
-Owned_by: SEOPult (PromoPult)
+

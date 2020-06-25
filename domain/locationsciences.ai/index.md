@@ -1,9 +1,11 @@
+---
+company-name: "Location Sciences"
+domain: locationsciences.ai
+home: https://www.locationsciences.ai/
+privacy-policy: https://www.locationsciences.ai/privacy-policy/
+email: dataprivacy@locationsciences.ai
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Location Sciences
 
-Name: Location Sciences
-Domain: locationsciences.ai
-Home: https://www.locationsciences.ai/
-Privacy_policy: https://www.locationsciences.ai/privacy-policy/
-Email: dataprivacy@locationsciences.ai
-Member_of: Interactive Advertising Bureau (IAB)
+

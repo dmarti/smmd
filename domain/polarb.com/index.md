@@ -1,9 +1,11 @@
+---
+company-name: Polar
+domain: polarb.com
+home: http://www.polarb.com/
+privacy-policy: http://www.polarb.com/privacy
+email: privacy@inputfactory.co
+owned-by: "Google Inc."
+---
 
-# Polar
 
-Name: Polar
-Domain: polarb.com
-Home: http://www.polarb.com/
-Privacy_policy: http://www.polarb.com/privacy
-Email: privacy@inputfactory.co
-Owned_by: Google Inc.
+

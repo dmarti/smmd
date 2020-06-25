@@ -1,8 +1,10 @@
+---
+company-name: "Piano (Previously Tinypass)"
+domain: piano.io
+home: http://piano.io/
+privacy-policy: https://piano.io/privacy-policy/
+email: jonas.rideout@piano.io
+---
 
-# Piano (Previously Tinypass)
 
-Name: Piano (Previously Tinypass)
-Domain: piano.io
-Home: http://piano.io/
-Privacy_policy: https://piano.io/privacy-policy/
-Email: jonas.rideout@piano.io
+

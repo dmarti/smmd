@@ -1,8 +1,10 @@
+---
+company-name: emarketeer
+domain: emarketeer.com
+home: http://www.emarketeer.com/
+privacy-policy: http://www.emarketeer.com/about/privacy-policy/
+email: info@emarketeer.com
+---
 
-# emarketeer
 
-Name: emarketeer
-Domain: emarketeer.com
-Home: http://www.emarketeer.com/
-Privacy_policy: http://www.emarketeer.com/about/privacy-policy/
-Email: info@emarketeer.com
+

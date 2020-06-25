@@ -1,8 +1,10 @@
+---
+company-name: Yusp
+domain: yusp.com
+home: https://www.yusp.com
+privacy-policy: https://www.yusp.com/privacy-policy/
+email: dpo@yusp.com
+---
 
-# Yusp
 
-Name: Yusp
-Domain: yusp.com
-Home: https://www.yusp.com
-Privacy_policy: https://www.yusp.com/privacy-policy/
-Email: dpo@yusp.com
+

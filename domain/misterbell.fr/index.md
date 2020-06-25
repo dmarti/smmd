@@ -1,9 +1,11 @@
+---
+company-name: "Mister Bell"
+domain: misterbell.fr
+home: http://misterbell.fr/
+privacy-policy: http://www.misterbell.fr/legal
+email: diffusion@misterbell.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Mister Bell
 
-Name: Mister Bell
-Domain: misterbell.fr
-Home: http://misterbell.fr/
-Privacy_policy: http://www.misterbell.fr/legal
-Email: diffusion@misterbell.com
-Member_of: Interactive Advertising Bureau (IAB)
+

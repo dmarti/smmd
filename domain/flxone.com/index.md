@@ -1,6 +1,8 @@
+---
+company-name: FlxOne
+domain: flxone.com
+home: http://www.flxone.com/
+---
 
-# FlxOne
 
-Name: FlxOne
-Domain: flxone.com
-Home: http://www.flxone.com/
+

@@ -1,8 +1,10 @@
+---
+company-name: "Silverstream TV"
+domain: silverstream.tv
+home: http://silverstream.tv/
+privacy-policy: http://silverstream.tv/privacy
+email: streamteam@silverstream.tv
+---
 
-# Silverstream TV
 
-Name: Silverstream TV
-Domain: silverstream.tv
-Home: http://silverstream.tv/
-Privacy_policy: http://silverstream.tv/privacy
-Email: streamteam@silverstream.tv
+

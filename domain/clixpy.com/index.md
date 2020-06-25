@@ -1,8 +1,10 @@
+---
+company-name: Clixpy
+domain: clixpy.com
+home: http://clixpy.com/
+privacy-policy: http://clixpy.com/privacy_policy.php
+email: information@clixpy.com
+---
 
-# Clixpy
 
-Name: Clixpy
-Domain: clixpy.com
-Home: http://clixpy.com/
-Privacy_policy: http://clixpy.com/privacy_policy.php
-Email: information@clixpy.com
+

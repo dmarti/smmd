@@ -1,8 +1,10 @@
+---
+company-name: "SkyGlue Technology"
+domain: skyglue.com
+home: http://www.skyglue.com/
+privacy-policy: http://www.skyglue.com/privacy-security-policy/
+email: info@skyglue.com
+---
 
-# SkyGlue Technology
 
-Name: SkyGlue Technology
-Domain: skyglue.com
-Home: http://www.skyglue.com/
-Privacy_policy: http://www.skyglue.com/privacy-security-policy/
-Email: info@skyglue.com
+

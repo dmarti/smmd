@@ -1,8 +1,10 @@
+---
+company-name: "Sales Feed"
+domain: salesfeed.com
+home: https://www.salesfeed.com/
+privacy-policy: https://www.salesfeed.com/privacy-verklaring/
+email: info@salesfeed.com
+---
 
-# Sales Feed 
 
-Name: Sales Feed 
-Domain: salesfeed.com
-Home: https://www.salesfeed.com/
-Privacy_policy: https://www.salesfeed.com/privacy-verklaring/
-Email: info@salesfeed.com
+

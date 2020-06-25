@@ -1,8 +1,10 @@
+---
+company-name: Reg.ru
+domain: reg.ru
+home: https://www.reg.ru/
+privacy-policy: https://www.reg.ru/company/privacy
+email: inf@reg.ru
+---
 
-# Reg.ru
 
-Name: Reg.ru
-Domain: reg.ru
-Home: https://www.reg.ru/
-Privacy_policy: https://www.reg.ru/company/privacy
-Email: inf@reg.ru
+

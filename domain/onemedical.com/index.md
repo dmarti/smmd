@@ -1,7 +1,9 @@
-# One Medical
+---
+company-name: "One Medical"
+domain: onemedical.com
+opt-out-url: https://www.onemedical.com/privacy/#section11
+---
 
-Name: One Medical
 
-Domain: onemedical.com
 
-Opt_out_url: https://www.onemedical.com/privacy/#section11
+

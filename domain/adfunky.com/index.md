@@ -1,6 +1,8 @@
+---
+company-name: Adfunky
+domain: adfunky.com
+home: http://adfunky.com/
+---
 
-# Adfunky
 
-Name: Adfunky
-Domain: adfunky.com
-Home: http://adfunky.com/
+

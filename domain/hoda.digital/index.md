@@ -1,6 +1,8 @@
+---
+company-name: "Hoda Digital"
+domain: hoda.digital
+home: https://www.hoda.digital/
+---
 
-# Hoda Digital
 
-Name: Hoda Digital
-Domain: hoda.digital
-Home: https://www.hoda.digital/
+

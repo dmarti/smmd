@@ -1,9 +1,11 @@
+---
+company-name: NASCAR
+domain: nascar.com
+home: https://www.nascar.com/
+privacy-policy: https://www.nascar.com/privacy-policy/
+email: privacy@nascar.com
+member-of: "Association of National Advertisers"
+---
 
-# NASCAR
 
-Name: NASCAR
-Domain: nascar.com
-Home: https://www.nascar.com/
-Privacy_policy: https://www.nascar.com/privacy-policy/
-Email: privacy@nascar.com
-Member_of: Association of National Advertisers
+

@@ -1,8 +1,10 @@
+---
+company-name: "GSI Media Network"
+domain: gsimedia.net
+home: http://gsimedia.net/privacy_policy.html
+privacy-policy: http://gsimedia.net/privacy_policy.html
+email: privacy@gsicommerce.com
+---
 
-# GSI Media Network
 
-Name: GSI Media Network
-Domain: gsimedia.net
-Home: http://gsimedia.net/privacy_policy.html
-Privacy_policy: http://gsimedia.net/privacy_policy.html
-Email: privacy@gsicommerce.com
+

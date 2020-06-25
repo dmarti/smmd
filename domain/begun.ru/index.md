@@ -1,8 +1,10 @@
+---
+company-name: Begun
+domain: begun.ru
+home: http://www.begun.ru/
+privacy-policy: http://www.begun.ru/begun/unsubscribe.php
+email: info@begun.ru
+---
 
-# Begun
 
-Name: Begun
-Domain: begun.ru
-Home: http://www.begun.ru/
-Privacy_policy: http://www.begun.ru/begun/unsubscribe.php
-Email: info@begun.ru
+

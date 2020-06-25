@@ -1,8 +1,10 @@
+---
+company-name: M0mentum
+domain: m0mentum.co.jp
+home: https://www.m0mentum.co.jp/
+privacy-policy: https://www.m0mentum.co.jp/privacy.html
+email: info@m0mentum.co.jp
+---
 
-# M0mentum 
 
-Name: M0mentum 
-Domain: m0mentum.co.jp
-Home: https://www.m0mentum.co.jp/
-Privacy_policy: https://www.m0mentum.co.jp/privacy.html
-Email: info@m0mentum.co.jp
+

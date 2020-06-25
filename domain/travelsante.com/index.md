@@ -1,8 +1,10 @@
+---
+company-name: TravelSante
+domain: travelsante.com
+home: https://www.travelsante.com
+privacy-policy: https://www.travelsante.com/en/data-protection
+email: contact@travelsante.com
+---
 
-# TravelSante
 
-Name: TravelSante
-Domain: travelsante.com
-Home: https://www.travelsante.com
-Privacy_policy: https://www.travelsante.com/en/data-protection
-Email: contact@travelsante.com
+

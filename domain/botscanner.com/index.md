@@ -1,6 +1,8 @@
+---
+company-name: BotScanner
+domain: botscanner.com
+home: http://botscanner.com
+---
 
-# BotScanner
 
-Name: BotScanner
-Domain: botscanner.com
-Home: http://botscanner.com
+

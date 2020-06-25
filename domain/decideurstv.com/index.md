@@ -1,6 +1,8 @@
+---
+company-name: "Decideurs TV"
+domain: decideurstv.com
+home: http://www.decideurstv.com/
+---
 
-# Decideurs TV
 
-Name: Decideurs TV
-Domain: decideurstv.com
-Home: http://www.decideurstv.com/
+

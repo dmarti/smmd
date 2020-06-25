@@ -1,8 +1,10 @@
+---
+company-name: "Field Fisher Waterhouse"
+domain: fieldfisher.com
+home: http://www.fieldfisher.com/
+privacy-policy: http://www.fieldfisher.com/data-protection-and-privacy-policy
+email: dataprotection@fieldfisher.com
+---
 
-# Field Fisher Waterhouse
 
-Name: Field Fisher Waterhouse
-Domain: fieldfisher.com
-Home: http://www.fieldfisher.com/
-Privacy_policy: http://www.fieldfisher.com/data-protection-and-privacy-policy
-Email: dataprotection@fieldfisher.com
+

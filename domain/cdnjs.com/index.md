@@ -1,6 +1,8 @@
+---
+company-name: CDNJS
+domain: cdnjs.com
+home: https://cdnjs.com/
+---
 
-# CDNJS
 
-Name: CDNJS
-Domain: cdnjs.com
-Home: https://cdnjs.com/
+

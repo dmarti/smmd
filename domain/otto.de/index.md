@@ -1,9 +1,11 @@
+---
+company-name: OTTO
+domain: otto.de
+home: https://www.otto.de/
+privacy-policy: https://www.otto.de/shoppages/service/datenschutz
+email: datenschutzauskunft@otto.de
+owned-by: "Otto Group"
+---
 
-# OTTO
 
-Name: OTTO
-Domain: otto.de
-Home: https://www.otto.de/
-Privacy_policy: https://www.otto.de/shoppages/service/datenschutz
-Email: datenschutzauskunft@otto.de
-Owned_by: Otto Group
+

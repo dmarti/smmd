@@ -1,7 +1,9 @@
+---
+company-name: vzaar
+domain: vzaar.com
+home: http://vzaar.com/
+privacy-policy: https://help.vzaar.com/article/132-privacy-policy
+---
 
-# vzaar
 
-Name: vzaar
-Domain: vzaar.com
-Home: http://vzaar.com/
-Privacy_policy: https://help.vzaar.com/article/132-privacy-policy
+

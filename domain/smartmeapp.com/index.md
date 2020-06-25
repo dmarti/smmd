@@ -1,7 +1,9 @@
+---
+company-name: "Smartme App"
+domain: smartmeapp.com
+home: http://smartmeapp.com
+privacy-policy: http://smartmeapp.com/info/smartme/aviso_legal.php
+---
 
-# Smartme App
 
-Name: Smartme App
-Domain: smartmeapp.com
-Home: http://smartmeapp.com
-Privacy_policy: http://smartmeapp.com/info/smartme/aviso_legal.php
+

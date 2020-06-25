@@ -1,7 +1,9 @@
+---
+company-name: "GM Delivery"
+domain: gmdelivery.com
+home: http://a.gmdelivery.com/
+privacy-policy: http://a.gmdelivery.com/privacy
+---
 
-# GM Delivery
 
-Name: GM Delivery
-Domain: gmdelivery.com
-Home: http://a.gmdelivery.com/
-Privacy_policy: http://a.gmdelivery.com/privacy
+

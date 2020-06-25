@@ -1,9 +1,11 @@
+---
+company-name: "SoLocal Group UK (ADhesive)"
+domain: solocalgroup.com
+home: http://uk.solocalgroup.com/
+privacy-policy: https://client.adhslx.com/privacy.html
+email: vosdonnees@adhslx.com
+owned-by: "Solocal Group"
+---
 
-# SoLocal Group UK (ADhesive)
 
-Name: SoLocal Group UK (ADhesive)
-Domain: solocalgroup.com
-Home: http://uk.solocalgroup.com/
-Privacy_policy: https://client.adhslx.com/privacy.html
-Email: vosdonnees@adhslx.com
-Owned_by: Solocal Group
+

@@ -1,8 +1,10 @@
+---
+company-name: "Refine Direct"
+domain: refine.direct
+home: https://www.refine.direct/
+privacy-policy: https://www.refine.direct/privacy-policy/
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Refine Direct
 
-Name: Refine Direct
-Domain: refine.direct
-Home: https://www.refine.direct/
-Privacy_policy: https://www.refine.direct/privacy-policy/
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,8 +1,10 @@
+---
+company-name: R.O.EYE
+domain: roeye.com
+home: https://roeye.com/
+privacy-policy: https://roeye.com/privacy/
+email: contact@roeye.com
+---
 
-# R.O.EYE
 
-Name: R.O.EYE
-Domain: roeye.com
-Home: https://roeye.com/
-Privacy_policy: https://roeye.com/privacy/
-Email: contact@roeye.com
+

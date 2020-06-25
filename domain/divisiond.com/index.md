@@ -1,8 +1,10 @@
+---
+company-name: "Divisiond (formerly 3 Interactive)"
+domain: divisiond.com
+home: http://www.divisiond.com/
+privacy-policy: http://www.divisiond.com/privacy
+email: privacy@divisiond.com
+---
 
-# Divisiond (formerly 3 Interactive)
 
-Name: Divisiond (formerly 3 Interactive)
-Domain: divisiond.com
-Home: http://www.divisiond.com/
-Privacy_policy: http://www.divisiond.com/privacy
-Email: privacy@divisiond.com
+

@@ -1,8 +1,10 @@
+---
+company-name: AdHands
+domain: adhands.ru
+home: http://promo.adhands.ru/
+privacy-policy: https://adhands.ru/auth/policies
+email: info@adhands.ru
+---
 
-# AdHands
 
-Name: AdHands
-Domain: adhands.ru
-Home: http://promo.adhands.ru/
-Privacy_policy: https://adhands.ru/auth/policies
-Email: info@adhands.ru
+

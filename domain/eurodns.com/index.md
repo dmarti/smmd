@@ -1,7 +1,9 @@
+---
+company-name: EuroDNS
+domain: eurodns.com
+home: https://www.eurodns.com/
+privacy-policy: https://www.eurodns.com/use-of-cookies
+---
 
-# EuroDNS
 
-Name: EuroDNS
-Domain: eurodns.com
-Home: https://www.eurodns.com/
-Privacy_policy: https://www.eurodns.com/use-of-cookies
+

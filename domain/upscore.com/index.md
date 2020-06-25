@@ -1,8 +1,10 @@
+---
+company-name: Upscore
+domain: upscore.com
+home: https://www.upscore.com
+privacy-policy: https://www.upscore.com/de/datenschutz.html
+email: datenschutz@upscore.com
+---
 
-# Upscore
 
-Name: Upscore
-Domain: upscore.com
-Home: https://www.upscore.com
-Privacy_policy: https://www.upscore.com/de/datenschutz.html
-Email: datenschutz@upscore.com
+

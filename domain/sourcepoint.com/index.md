@@ -1,8 +1,10 @@
+---
+company-name: SourcePoint
+domain: sourcepoint.com
+home: https://www.sourcepoint.com/
+privacy-policy: https://www.sourcepoint.com/privacy-policy
+email: legal@sourcepoint.com
+---
 
-# SourcePoint
 
-Name: SourcePoint
-Domain: sourcepoint.com
-Home: https://www.sourcepoint.com/
-Privacy_policy: https://www.sourcepoint.com/privacy-policy
-Email: legal@sourcepoint.com
+

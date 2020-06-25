@@ -1,8 +1,10 @@
+---
+company-name: Confiant
+domain: confiant.com
+home: https://www.confiant.com/
+privacy-policy: https://www.confiant.com/privacy
+email: privacy@confiant.com
+---
 
-# Confiant
 
-Name: Confiant
-Domain: confiant.com
-Home: https://www.confiant.com/
-Privacy_policy: https://www.confiant.com/privacy
-Email: privacy@confiant.com
+

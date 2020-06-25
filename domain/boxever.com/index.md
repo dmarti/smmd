@@ -1,8 +1,10 @@
+---
+company-name: Boxever
+domain: boxever.com
+home: http://www.boxever.com/
+privacy-policy: http://www.boxever.com/privacy-policy/
+email: privacy@boxever.com
+---
 
-# Boxever
 
-Name: Boxever
-Domain: boxever.com
-Home: http://www.boxever.com/
-Privacy_policy: http://www.boxever.com/privacy-policy/
-Email: privacy@boxever.com
+

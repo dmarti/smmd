@@ -1,9 +1,11 @@
+---
+company-name: Alephd
+domain: alephd.com
+home: https://www.alephd.com
+privacy-policy: https://www.alephd.com/legal-notice/
+email: support@alephd.com
+owned-by: AOL
+---
 
-# Alephd
 
-Name: Alephd
-Domain: alephd.com
-Home: https://www.alephd.com
-Privacy_policy: https://www.alephd.com/legal-notice/
-Email: support@alephd.com
-Owned_by: AOL
+

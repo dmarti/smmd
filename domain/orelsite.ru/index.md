@@ -1,8 +1,10 @@
+---
+company-name: "Orel Site"
+domain: orelsite.ru
+home: https://www.orelsite.ru/
+privacy-policy: https://www.orelsite.ru/politika-konfidenczialnosti-i-zashhityi-informaczi/
+email: mail@orelsite.ru
+---
 
-# Orel Site
 
-Name: Orel Site
-Domain: orelsite.ru
-Home: https://www.orelsite.ru/
-Privacy_policy: https://www.orelsite.ru/politika-konfidenczialnosti-i-zashhityi-informaczi/
-Email: mail@orelsite.ru
+

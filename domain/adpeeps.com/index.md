@@ -1,7 +1,9 @@
+---
+company-name: "Ad Peeps"
+domain: adpeeps.com
+home: http://www.adpeeps.com/
+member-of: "Better Business Bureau"
+---
 
-# Ad Peeps
 
-Name: Ad Peeps
-Domain: adpeeps.com
-Home: http://www.adpeeps.com/
-Member_of: Better Business Bureau
+

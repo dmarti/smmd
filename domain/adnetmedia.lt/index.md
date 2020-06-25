@@ -1,7 +1,9 @@
+---
+company-name: "Adnet Media"
+domain: adnetmedia.lt
+home: http://www.adnetmedia.lt/
+email: info@adnetmedia.lt
+---
 
-# Adnet Media
 
-Name: Adnet Media
-Domain: adnetmedia.lt
-Home: http://www.adnetmedia.lt/
-Email: info@adnetmedia.lt
+

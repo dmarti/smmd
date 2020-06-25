@@ -1,7 +1,9 @@
+---
+company-name: Quintelligence
+domain: quintelligence.com
+home: http://www.quintelligence.com/
+email: info@quintelligence.com
+---
 
-# Quintelligence
 
-Name: Quintelligence
-Domain: quintelligence.com
-Home: http://www.quintelligence.com/
-Email: info@quintelligence.com
+

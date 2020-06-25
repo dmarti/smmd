@@ -1,9 +1,11 @@
+---
+company-name: Faktor
+domain: faktor.io
+home: https://faktor.io/
+privacy-policy: https://faktor.io/privacy-policy/
+email: privacy@faktor.io
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Faktor
 
-Name: Faktor
-Domain: faktor.io
-Home: https://faktor.io/
-Privacy_policy: https://faktor.io/privacy-policy/
-Email: privacy@faktor.io
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,9 +1,11 @@
+---
+company-name: MediaLead
+domain: medialead.de
+home: https://www.medialead.de/
+privacy-policy: https://www.medialead.de/de/datenschutz.html
+email: privacy@reachgroup.com
+owned-by: "The Reach Group (formely redvertisment)"
+---
 
-# MediaLead
 
-Name: MediaLead
-Domain: medialead.de
-Home: https://www.medialead.de/
-Privacy_policy: https://www.medialead.de/de/datenschutz.html
-Email: privacy@reachgroup.com
-Owned_by: The Reach Group (formely redvertisment)
+

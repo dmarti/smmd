@@ -1,8 +1,10 @@
+---
+company-name: TrustX
+domain: trustx.org
+home: https://trustx.org/
+privacy-policy: https://trustx.org/rules/
+email: info@trustx.org
+---
 
-# TrustX
 
-Name: TrustX
-Domain: trustx.org
-Home: https://trustx.org/
-Privacy_policy: https://trustx.org/rules/
-Email: info@trustx.org
+

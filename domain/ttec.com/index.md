@@ -1,9 +1,11 @@
+---
+company-name: "Revana Digital (formerly WebMetro)"
+domain: ttec.com
+home: https://www.ttec.com
+privacy-policy: https://www.thesearchagency.com/privacy-policy/
+email: privacy@ttec.com
+member-of: "Better Business Bureau"
+---
 
-# Revana Digital (formerly WebMetro)
 
-Name: Revana Digital (formerly WebMetro)
-Domain: ttec.com
-Home: https://www.ttec.com
-Privacy_policy: https://www.thesearchagency.com/privacy-policy/
-Email: privacy@ttec.com
-Member_of: Better Business Bureau
+

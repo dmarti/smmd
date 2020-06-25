@@ -1,8 +1,10 @@
+---
+company-name: Live2Support
+domain: live2support.com
+home: http://www.live2support.com/
+privacy-policy: http://www.live2support.com/privacyls.php
+email: webmaster@live2support.com
+---
 
-# Live2Support
 
-Name: Live2Support
-Domain: live2support.com
-Home: http://www.live2support.com/
-Privacy_policy: http://www.live2support.com/privacyls.php 
-Email: webmaster@live2support.com
+

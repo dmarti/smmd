@@ -1,23 +1,12 @@
-
-# Economic Modeling, LLC
-
-Name: Economic Modeling, LLC
-
-Domain: economicmodeling.com
-
-Home: https://www.economicmodeling.com/
-
-Email: legal [at] economicmodeling.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/12/2020
-
-
-
+---
+company-name: "Economic Modeling, LLC"
+domain: economicmodeling.com
+home: https://www.economicmodeling.com/
+email: "legal [at] economicmodeling.com"
+california-date: 02/12/2020
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +14,23 @@ California_date: 02/12/2020
 
 
 
+
 ## Additional info
 
 
 
+
 409 S. Jackson St.Moscow, ID 83843United States
+
+
+
+
+
+
+
+
+
+
+
+
 

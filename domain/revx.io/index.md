@@ -1,8 +1,10 @@
+---
+company-name: "RevX (Formally Komli Media)"
+domain: revx.io
+home: http://revx.io/
+privacy-policy: http://revx.io/privacy-policy
+email: contactus@revx.io
+---
 
-# RevX (Formally Komli Media)
 
-Name: RevX (Formally Komli Media)
-Domain: revx.io
-Home: http://revx.io/
-Privacy_policy: http://revx.io/privacy-policy
-Email: contactus@revx.io
+

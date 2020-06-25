@@ -1,8 +1,10 @@
+---
+company-name: BabyCenter
+domain: babycenter.com
+home: https://www.babycenter.com/
+privacy-policy: https://www.babycenter.com/help-privacy
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# BabyCenter
 
-Name: BabyCenter
-Domain: babycenter.com
-Home: https://www.babycenter.com/
-Privacy_policy: https://www.babycenter.com/help-privacy
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,7 +1,9 @@
+---
+company-name: "Traffic Stars"
+domain: trafficstars.com
+home: https://trafficstars.com/
+privacy-policy: https://trafficstars.com/privacy-policy/
+---
 
-# Traffic Stars
 
-Name: Traffic Stars
-Domain: trafficstars.com
-Home: https://trafficstars.com/
-Privacy_policy: https://trafficstars.com/privacy-policy/
+

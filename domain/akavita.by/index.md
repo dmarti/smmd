@@ -1,6 +1,8 @@
+---
+company-name: Akavita
+domain: akavita.by
+home: http://www.akavita.by/en
+---
 
-# Akavita
 
-Name: Akavita
-Domain: akavita.by
-Home: http://www.akavita.by/en
+

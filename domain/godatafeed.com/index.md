@@ -1,8 +1,10 @@
+---
+company-name: GoDataFeed
+domain: godatafeed.com
+home: https://www.godatafeed.com/
+privacy-policy: https://www.godatafeed.com/privacy-policy
+email: contact@godatafeed.com
+---
 
-# GoDataFeed
 
-Name: GoDataFeed
-Domain: godatafeed.com
-Home: https://www.godatafeed.com/
-Privacy_policy: https://www.godatafeed.com/privacy-policy
-Email: contact@godatafeed.com
+

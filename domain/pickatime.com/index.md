@@ -1,7 +1,9 @@
+---
+company-name: "Pick A Time"
+domain: pickatime.com
+home: https://pickatime.com/
+privacy-policy: https://pickatime.com/client?page=privacy
+---
 
-# Pick A Time
 
-Name: Pick A Time
-Domain: pickatime.com
-Home: https://pickatime.com/
-Privacy_policy: https://pickatime.com/client?page=privacy
+

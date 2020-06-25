@@ -1,6 +1,8 @@
+---
+company-name: "Free PageRank"
+domain: free-pagerank.com
+home: http://www.free-pagerank.com/en/
+---
 
-# Free PageRank
 
-Name: Free PageRank
-Domain: free-pagerank.com
-Home: http://www.free-pagerank.com/en/
+

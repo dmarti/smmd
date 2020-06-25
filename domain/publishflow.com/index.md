@@ -1,6 +1,8 @@
+---
+company-name: PublishFlow
+domain: publishflow.com
+home: http://publishflow.com
+---
 
-# PublishFlow
 
-Name: PublishFlow
-Domain: publishflow.com
-Home: http://publishflow.com
+

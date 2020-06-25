@@ -1,7 +1,9 @@
+---
+company-name: "Zealat +"
+domain: zeerat.com
+home: https://www.zeerat.com
+email: info@zeerat.com
+---
 
-# Zealat +
 
-Name: Zealat +
-Domain: zeerat.com
-Home: https://www.zeerat.com
-Email: info@zeerat.com
+

@@ -1,7 +1,9 @@
+---
+company-name: Say.ac
+domain: say.ac
+home: http://say.ac
+privacy-policy: https://say.ac/kullanici-sozlesmesi
+---
 
-# Say.ac
 
-Name: Say.ac
-Domain: say.ac
-Home: http://say.ac
-Privacy_policy: https://say.ac/kullanici-sozlesmesi
+

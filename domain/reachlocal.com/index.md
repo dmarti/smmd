@@ -1,8 +1,10 @@
+---
+company-name: ReachLocal
+domain: reachlocal.com
+home: https://www.reachlocal.com/us/en
+privacy-policy: https://www.reachlocal.com/us/en/legal/privacy-policy
+email: privacy@reachlocal.com
+---
 
-# ReachLocal
 
-Name: ReachLocal
-Domain: reachlocal.com
-Home: https://www.reachlocal.com/us/en
-Privacy_policy: https://www.reachlocal.com/us/en/legal/privacy-policy
-Email: privacy@reachlocal.com
+

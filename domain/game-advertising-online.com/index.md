@@ -1,7 +1,9 @@
+---
+company-name: "Game Advertising Online"
+domain: game-advertising-online.com
+home: http://www.game-advertising-online.com/
+email: privacyrequests@ubm.com
+---
 
-# Game Advertising Online
 
-Name: Game Advertising Online
-Domain: game-advertising-online.com
-Home: http://www.game-advertising-online.com/
-Email: privacyrequests@ubm.com
+

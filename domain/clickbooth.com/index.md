@@ -1,9 +1,11 @@
+---
+company-name: Clickbooth
+domain: clickbooth.com
+home: https://www.clickbooth.com/
+privacy-policy: https://support.clickbooth.com/support/solutions/articles/4000020208-privacy
+email: compliance@integraclick.com
+member-of: DMA_ANA
+---
 
-# Clickbooth
 
-Name: Clickbooth
-Domain: clickbooth.com
-Home: https://www.clickbooth.com/
-Privacy_policy: https://support.clickbooth.com/support/solutions/articles/4000020208-privacy
-Email: compliance@integraclick.com
-Member_of: DMA_ANA
+

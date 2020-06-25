@@ -1,9 +1,11 @@
+---
+company-name: Densou
+domain: densou.dk
+home: https://densou.dk
+privacy-policy: https://densou.dk/Policy.html
+email: info@tradingdesk.dk
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Densou
 
-Name: Densou
-Domain: densou.dk
-Home: https://densou.dk
-Privacy_policy: https://densou.dk/Policy.html
-Email: info@tradingdesk.dk
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,7 +1,9 @@
+---
+company-name: Ants
+domain: ants.vn
+home: http://ants.vn/en/
+email: support@ants.vn
+---
 
-# Ants
 
-Name: Ants
-Domain: ants.vn
-Home: http://ants.vn/en/
-Email: support@ants.vn
+

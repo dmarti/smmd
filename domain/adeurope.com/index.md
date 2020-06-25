@@ -1,7 +1,9 @@
+---
+company-name: "AD Europe"
+domain: adeurope.com
+home: http://www.adeurope.com/
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# AD Europe
 
-Name: AD Europe
-Domain: adeurope.com
-Home: http://www.adeurope.com/
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

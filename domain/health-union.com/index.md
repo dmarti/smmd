@@ -1,6 +1,8 @@
+---
+company-name: "Health Union"
+domain: health-union.com
+home: https://health-union.com/
+---
 
-# Health Union
 
-Name: Health Union
-Domain: health-union.com
-Home: https://health-union.com/
+

@@ -1,8 +1,10 @@
+---
+company-name: AdVerit
+domain: adverit.com
+home: http://adverit.com/
+email: info@adverit.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# AdVerit
 
-Name: AdVerit
-Domain: adverit.com
-Home: http://adverit.com/
-Email: info@adverit.com
-Member_of: Interactive Advertising Bureau (IAB)
+

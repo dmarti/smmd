@@ -1,7 +1,9 @@
+---
+company-name: JiaThis
+domain: jiathis.com
+home: http://www.jiathis.com/
+privacy-policy: http://www.jiathis.com/privacy
+---
 
-# JiaThis
 
-Name: JiaThis
-Domain: jiathis.com
-Home: http://www.jiathis.com/
-Privacy_policy: http://www.jiathis.com/privacy
+

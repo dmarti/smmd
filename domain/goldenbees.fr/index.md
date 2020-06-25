@@ -1,9 +1,11 @@
+---
+company-name: "Golden Bees"
+domain: goldenbees.fr
+home: http://goldenbees.fr/
+privacy-policy: http://goldenbees.fr/notre-politique-de-confidentialite/
+email: dpo@goldenbees.fr
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Golden Bees
 
-Name: Golden Bees
-Domain: goldenbees.fr
-Home: http://goldenbees.fr/
-Privacy_policy: http://goldenbees.fr/notre-politique-de-confidentialite/
-Email: dpo@goldenbees.fr
-Member_of: Interactive Advertising Bureau (IAB)
+

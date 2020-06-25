@@ -1,10 +1,11 @@
+---
+company-name: SurveyMonkey
+domain: surveymonkey.com
+home: https://www.surveymonkey.com/
+privacy-policy: https://www.surveymonkey.com/mp/legal/privacy-policy/
+email: privacy@surveymonkey.com
+member-of: TrustE_TrustArc
+---
 
-# SurveyMonkey
 
-Name: SurveyMonkey
-Domain: surveymonkey.com
-Home: https://www.surveymonkey.com/
-Privacy_policy: https://www.surveymonkey.com/mp/legal/privacy-policy/
-Email: privacy@surveymonkey.com
-Member_of: Better Business Bureau
-Member_of: TrustE_TrustArc
+

@@ -1,7 +1,9 @@
+---
+company-name: timeanddate.com
+domain: timeanddate.com
+home: http://timeanddate.com/
+privacy-policy: http://timeanddate.com/information/privacy.html
+---
 
-# timeanddate.com
 
-Name: timeanddate.com
-Domain: timeanddate.com
-Home: http://timeanddate.com/
-Privacy_policy: http://timeanddate.com/information/privacy.html
+

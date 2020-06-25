@@ -1,8 +1,10 @@
+---
+company-name: Honeybadger
+domain: honeybadger.io
+home: https://www.honeybadger.io
+privacy-policy: https://www.honeybadger.io/pages/privacy.html
+email: support@honeybadger.io
+---
 
-# Honeybadger
 
-Name: Honeybadger
-Domain: honeybadger.io
-Home: https://www.honeybadger.io
-Privacy_policy: https://www.honeybadger.io/pages/privacy.html
-Email: support@honeybadger.io
+

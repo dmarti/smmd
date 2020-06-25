@@ -1,8 +1,10 @@
+---
+company-name: Pretzl
+domain: pretzl.me
+home: https://www.pretzl.me/
+privacy-policy: https://www.pretzl.me/privacy-policy
+email: contact@pretzl.me
+---
 
-# Pretzl
 
-Name: Pretzl
-Domain: pretzl.me
-Home: https://www.pretzl.me/
-Privacy_policy: https://www.pretzl.me/privacy-policy
-Email: contact@pretzl.me
+

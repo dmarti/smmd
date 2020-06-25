@@ -1,6 +1,8 @@
+---
+company-name: "Les Heros Quoi"
+domain: lesheroesquoi.com
+home: http://www.lesheroesquoi.com/
+---
 
-# Les Heros Quoi
 
-Name: Les Heros Quoi
-Domain: lesheroesquoi.com
-Home: http://www.lesheroesquoi.com/
+

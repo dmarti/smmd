@@ -1,6 +1,8 @@
+---
+company-name: Prostor
+domain: prostor-lite.ru
+home: http://prostor-lite.ru/
+---
 
-# Prostor
 
-Name: Prostor
-Domain: prostor-lite.ru
-Home: http://prostor-lite.ru/
+

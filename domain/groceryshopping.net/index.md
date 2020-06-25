@@ -1,8 +1,10 @@
+---
+company-name: "Grocery Shopping Network"
+domain: groceryshopping.net
+home: http://www.groceryshopping.net
+privacy-policy: http://groceryshopping.net/about/privacy-policy/
+email: sales@groceryshopping.net
+---
 
-# Grocery Shopping Network
 
-Name: Grocery Shopping Network
-Domain: groceryshopping.net
-Home: http://www.groceryshopping.net
-Privacy_policy: http://groceryshopping.net/about/privacy-policy/
-Email: sales@groceryshopping.net
+

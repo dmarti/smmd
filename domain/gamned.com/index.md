@@ -1,10 +1,11 @@
+---
+company-name: Gamned
+domain: gamned.com
+home: https://www.gamned.com/
+privacy-policy: https://www.gamned.com/privacy-policy/
+email: privacy@gamned.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Gamned
 
-Name: Gamned
-Domain: gamned.com
-Home: https://www.gamned.com/
-Privacy_policy: https://www.gamned.com/privacy-policy/
-Email: privacy@gamned.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

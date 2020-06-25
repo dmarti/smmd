@@ -1,8 +1,10 @@
+---
+company-name: Match.com
+domain: match.com
+home: http://www.match.com/index.aspx
+privacy-policy: https://www.match.com/LegalPolicy/PrivacyPolicy
+email: privacy@match.com
+---
 
-# Match.com
 
-Name: Match.com
-Domain: match.com
-Home: http://www.match.com/index.aspx
-Privacy_policy: https://www.match.com/LegalPolicy/PrivacyPolicy
-Email: privacy@match.com
+

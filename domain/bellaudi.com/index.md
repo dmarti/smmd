@@ -1,7 +1,9 @@
+---
+company-name: "Bell Audi"
+domain: bellaudi.com
+home: https://www.bellaudi.com/
+privacy-policy: https://www.bellaudi.com/privacy.htm
+---
 
-# Bell Audi
 
-Name: Bell Audi
-Domain: bellaudi.com
-Home: https://www.bellaudi.com/
-Privacy_policy: https://www.bellaudi.com/privacy.htm
+

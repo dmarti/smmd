@@ -1,7 +1,9 @@
+---
+company-name: "Boost Ad Network"
+domain: boostadnetwork.com
+home: http://www.boostadnetwork.com/
+email: webadmin@streamcompanies.com
+---
 
-# Boost Ad Network
 
-Name: Boost Ad Network
-Domain: boostadnetwork.com
-Home: http://www.boostadnetwork.com/
-Email: webadmin@streamcompanies.com
+

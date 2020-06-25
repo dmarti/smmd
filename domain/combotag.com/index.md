@@ -1,8 +1,10 @@
+---
+company-name: ComboTag
+domain: combotag.com
+home: http://www.combotag.com/
+privacy-policy: http://www.combotag.com/privacy%20policy/
+email: info@combotag.com
+---
 
-# ComboTag
 
-Name: ComboTag
-Domain: combotag.com
-Home: http://www.combotag.com/
-Privacy_policy: http://www.combotag.com/privacy%20policy/
-Email: info@combotag.com
+

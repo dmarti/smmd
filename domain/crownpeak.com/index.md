@@ -1,8 +1,10 @@
+---
+company-name: Crownpeak
+domain: crownpeak.com
+home: https://www.crownpeak.com/
+privacy-policy: https://www.crownpeak.com/privacy.aspx
+email: privacy@crownpeak.com
+---
 
-# Crownpeak
 
-Name: Crownpeak
-Domain: crownpeak.com
-Home: https://www.crownpeak.com/
-Privacy_policy: https://www.crownpeak.com/privacy.aspx
-Email: privacy@crownpeak.com
+

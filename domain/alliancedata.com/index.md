@@ -1,21 +1,10 @@
-
-# Alliance Data Systems, Inc.
-
-Name: Alliance Data Systems, Inc.
-
-Domain: alliancedata.com
-
-Home: alliancedata.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: "Alliance Data Systems, Inc."
+domain: alliancedata.com
+home: alliancedata.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

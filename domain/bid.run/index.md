@@ -1,6 +1,8 @@
+---
+company-name: "Bid Run"
+domain: bid.run
+home: http://bid.run/
+---
 
-# Bid Run
 
-Name: Bid Run
-Domain: bid.run
-Home: http://bid.run/
+

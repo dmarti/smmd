@@ -1,8 +1,10 @@
+---
+company-name: "AdCanopus Digital Media"
+domain: adcanopus.com
+home: http://adcanopus.com/
+privacy-policy: http://www.adcanopus.com/index.php/privacypolicy
+email: info@adcanopus.com
+---
 
-# AdCanopus Digital Media
 
-Name: AdCanopus Digital Media
-Domain: adcanopus.com
-Home: http://adcanopus.com/
-Privacy_policy: http://www.adcanopus.com/index.php/privacypolicy
-Email: info@adcanopus.com
+

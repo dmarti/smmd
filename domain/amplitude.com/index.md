@@ -1,8 +1,10 @@
+---
+company-name: Amplitude
+domain: amplitude.com
+home: https://amplitude.com/
+privacy-policy: https://amplitude.com/privacy
+email: contact@amplitude.com
+---
 
-# Amplitude
 
-Name: Amplitude
-Domain: amplitude.com
-Home: https://amplitude.com/
-Privacy_policy: https://amplitude.com/privacy
-Email: contact@amplitude.com
+

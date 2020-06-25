@@ -1,8 +1,10 @@
+---
+company-name: AdBoost
+domain: adboost.sk
+home: https://www.adboost.sk
+privacy-policy: https://www.adboost.sk/privacy-policy.html
+email: privacy@adboost.sk
+---
 
-# AdBoost
 
-Name: AdBoost
-Domain: adboost.sk
-Home: https://www.adboost.sk
-Privacy_policy: https://www.adboost.sk/privacy-policy.html
-Email: privacy@adboost.sk
+

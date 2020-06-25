@@ -1,7 +1,9 @@
+---
+company-name: Happyfication
+domain: happyfication.com
+home: https://happyfication.com/
+privacy-policy: https://happyfication.com/privacy-policy/
+---
 
-# Happyfication
 
-Name: Happyfication
-Domain: happyfication.com
-Home: https://happyfication.com/
-Privacy_policy: https://happyfication.com/privacy-policy/
+

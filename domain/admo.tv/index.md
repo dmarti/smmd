@@ -1,8 +1,10 @@
+---
+company-name: Admo.TV
+domain: admo.tv
+home: https://www.admo.tv/en/
+privacy-policy: https://admo.tv/en/privacy-policy
+email: contact@admo.tv
+---
 
-# Admo.TV
 
-Name: Admo.TV
-Domain: admo.tv
-Home: https://www.admo.tv/en/
-Privacy_policy: https://admo.tv/en/privacy-policy
-Email: contact@admo.tv
+

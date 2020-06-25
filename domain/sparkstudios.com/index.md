@@ -1,6 +1,8 @@
+---
+company-name: "Spark Studios"
+domain: sparkstudios.com
+home: http://www.sparkstudios.com/
+---
 
-# Spark Studios
 
-Name: Spark Studios
-Domain: sparkstudios.com
-Home: http://www.sparkstudios.com/
+

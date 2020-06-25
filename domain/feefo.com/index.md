@@ -1,8 +1,10 @@
+---
+company-name: Feefo
+domain: feefo.com
+home: https://www.feefo.com/
+privacy-policy: https://www.feefo.com/business/gb_en/privacy-policy
+email: support@feefo.com
+---
 
-# Feefo
 
-Name: Feefo
-Domain: feefo.com
-Home: https://www.feefo.com/
-Privacy_policy: https://www.feefo.com/business/gb_en/privacy-policy
-Email: support@feefo.com
+

@@ -1,10 +1,11 @@
+---
+company-name: "Dow Jones"
+domain: dowjones.com
+home: https://www.dowjones.com/
+privacy-policy: https://www.dowjones.com/privacy-policy/
+email: privacypolicy@dowjones.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Dow Jones
 
-Name: Dow Jones
-Domain: dowjones.com
-Home: https://www.dowjones.com/
-Privacy_policy: https://www.dowjones.com/privacy-policy/
-Email: privacypolicy@dowjones.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

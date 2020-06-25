@@ -1,9 +1,11 @@
+---
+company-name: Airpush
+domain: airpush.com
+home: http://www.airpush.com/
+privacy-policy: https://airpush.com/privacy-policy/
+email: privacy@airpush.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Airpush
 
-Name: Airpush
-Domain: airpush.com
-Home: http://www.airpush.com/
-Privacy_policy: https://airpush.com/privacy-policy/
-Email: privacy@airpush.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,7 +1,9 @@
+---
+company-name: "Unbound Technology"
+domain: unboundtechnology.com
+home: http://www.unboundtechnology.com
+privacy-policy: http://
+---
 
-# Unbound Technology
 
-Name: Unbound Technology
-Domain: unboundtechnology.com
-Home: http://www.unboundtechnology.com
-Privacy_policy: http://
+

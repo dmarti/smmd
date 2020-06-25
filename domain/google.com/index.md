@@ -1,7 +1,9 @@
+---
+company-name: Firebase-Cloud-Messaging
+domain: google.com
+home: https://firebase.google.com/docs/cloud-messaging/
+owned-by: "Google Inc."
+---
 
-# Firebase-Cloud-Messaging
 
-Name: Firebase-Cloud-Messaging
-Domain: google.com
-Home: https://firebase.google.com/docs/cloud-messaging/
-Owned_by: Google Inc.
+

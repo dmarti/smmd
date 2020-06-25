@@ -1,8 +1,10 @@
+---
+company-name: Kairion
+domain: kairion.de
+home: https://kairion.de/
+privacy-policy: https://kairion.de/datenschutz/
+email: datenschutz@kairion.de
+---
 
-# Kairion
 
-Name: Kairion
-Domain: kairion.de
-Home: https://kairion.de/
-Privacy_policy: https://kairion.de/datenschutz/
-Email: datenschutz@kairion.de
+

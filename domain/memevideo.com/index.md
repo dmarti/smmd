@@ -1,8 +1,10 @@
+---
+company-name: "Meme Video"
+domain: memevideo.com
+home: https://memevideo.com/
+privacy-policy: https://memevideo.com/privacy.php
+email: info@memevideo.com
+---
 
-# Meme Video 
 
-Name: Meme Video 
-Domain: memevideo.com
-Home: https://memevideo.com/
-Privacy_policy: https://memevideo.com/privacy.php
-Email: info@memevideo.com
+

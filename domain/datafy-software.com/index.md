@@ -1,8 +1,10 @@
+---
+company-name: Datafy
+domain: datafy-software.com
+home: http://www.datafy-software.com/
+privacy-policy: http://www.datafy-software.com/cookie-policy/
+email: privacy@datafy-software.com
+---
 
-# Datafy
 
-Name: Datafy
-Domain: datafy-software.com
-Home: http://www.datafy-software.com/
-Privacy_policy: http://www.datafy-software.com/cookie-policy/
-Email: privacy@datafy-software.com
+

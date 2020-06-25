@@ -1,8 +1,10 @@
+---
+company-name: Appsee
+domain: appsee.com
+home: https://www.appsee.com/
+privacy-policy: https://www.appsee.com/legal/privacypolicy
+email: privacy@appsee.com
+---
 
-# Appsee
 
-Name: Appsee
-Domain: appsee.com
-Home: https://www.appsee.com/
-Privacy_policy: https://www.appsee.com/legal/privacypolicy
-Email: privacy@appsee.com
+

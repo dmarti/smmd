@@ -1,8 +1,10 @@
+---
+company-name: Rollad
+domain: rollad.ru
+home: http://rollad.ru
+privacy-policy: http://rollad.ru/privacy
+email: ask.me@rollad.ru
+---
 
-# Rollad
 
-Name: Rollad
-Domain: rollad.ru
-Home: http://rollad.ru
-Privacy_policy: http://rollad.ru/privacy
-Email: ask.me@rollad.ru
+

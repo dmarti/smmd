@@ -1,7 +1,9 @@
+---
+company-name: Detikcom
+domain: detik.com
+home: https://www.detik.com/
+privacy-policy: https://www.detik.com/dapur/privacy-policy
+---
 
-# Detikcom
 
-Name: Detikcom
-Domain: detik.com
-Home: https://www.detik.com/
-Privacy_policy: https://www.detik.com/dapur/privacy-policy
+

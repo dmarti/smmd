@@ -1,6 +1,8 @@
+---
+company-name: Ocioso
+domain: ocioso.com.br
+home: http://ocioso.com.br/
+---
 
-# Ocioso
 
-Name: Ocioso
-Domain: ocioso.com.br
-Home: http://ocioso.com.br/
+

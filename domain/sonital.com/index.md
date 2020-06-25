@@ -1,8 +1,10 @@
+---
+company-name: "Sonital Digital Media"
+domain: sonital.com
+home: http://www.sonital.com/
+email: info@sonital.com
+owned-by: Soicos
+---
 
-# Sonital Digital Media
 
-Name: Sonital Digital Media
-Domain: sonital.com
-Home: http://www.sonital.com/
-Email: info@sonital.com
-Owned_by: Soicos
+

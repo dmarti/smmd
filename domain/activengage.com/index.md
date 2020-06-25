@@ -1,8 +1,10 @@
+---
+company-name: ActivEngage
+domain: activengage.com
+home: https://www.activengage.com/
+privacy-policy: https://www.activengage.com/privacy
+email: info@activengage.com
+---
 
-# ActivEngage
 
-Name: ActivEngage
-Domain: activengage.com
-Home: https://www.activengage.com/
-Privacy_policy: https://www.activengage.com/privacy
-Email: info@activengage.com
+

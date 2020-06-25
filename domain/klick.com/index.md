@@ -1,8 +1,10 @@
+---
+company-name: "Klick Health"
+domain: klick.com
+home: https://www.klick.com
+privacy-policy: https://www.klick.com/privacy/
+email: privacy@klick.com
+---
 
-# Klick Health
 
-Name: Klick Health
-Domain: klick.com
-Home: https://www.klick.com
-Privacy_policy: https://www.klick.com/privacy/
-Email: privacy@klick.com
+

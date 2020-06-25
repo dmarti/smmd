@@ -1,7 +1,9 @@
+---
+company-name: TEGNA
+domain: tegna.com
+home: http://www.tegna.com/
+privacy-policy: http://www.tegna.com/privacy-policy/
+---
 
-# TEGNA
 
-Name: TEGNA
-Domain: tegna.com
-Home: http://www.tegna.com/
-Privacy_policy: http://www.tegna.com/privacy-policy/
+

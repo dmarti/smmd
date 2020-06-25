@@ -1,7 +1,9 @@
-# Gilead
+---
+company-name: Gilead
+domain: gilead.com
+opt-out-url: https://www.gilead.com/privacy-statements
+---
 
-Name: Gilead
 
-Domain: gilead.com
 
-Opt_out_url: https://www.gilead.com/privacy-statements
+

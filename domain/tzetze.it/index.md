@@ -1,7 +1,9 @@
+---
+company-name: TzeTze
+domain: tzetze.it
+home: http://www.tzetze.it/
+privacy-policy: http://www.tzetze.it/privacy.html
+---
 
-# TzeTze
 
-Name: TzeTze
-Domain: tzetze.it
-Home: http://www.tzetze.it/
-Privacy_policy: http://www.tzetze.it/privacy.html
+

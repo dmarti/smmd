@@ -1,9 +1,11 @@
+---
+company-name: "Alliant Cooperative Data Solutions"
+domain: alliantdata.com
+home: http://www.alliantdata.com/
+privacy-policy: http://alliantinsight.com/alliant-privacy-policy/
+email: info@alliantdata.com
+member-of: DMA_ANA
+---
 
-# Alliant Cooperative Data Solutions
 
-Name: Alliant Cooperative Data Solutions
-Domain: alliantdata.com
-Home: http://www.alliantdata.com/
-Privacy_policy: http://alliantinsight.com/alliant-privacy-policy/
-Email: info@alliantdata.com
-Member_of: DMA_ANA
+

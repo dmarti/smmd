@@ -1,7 +1,9 @@
+---
+company-name: CartStack
+domain: cartstack.com
+home: http://cartstack.com/
+privacy-policy: https://www.cartstack.com/privacy-policy/
+---
 
-# CartStack
 
-Name: CartStack
-Domain: cartstack.com
-Home: http://cartstack.com/
-Privacy_policy: https://www.cartstack.com/privacy-policy/
+

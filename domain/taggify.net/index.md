@@ -1,8 +1,10 @@
+---
+company-name: Taggify
+domain: taggify.net
+home: http://taggify.net/
+email: support@taggify.net
+member-of: "Mobile Marketing Asc"
+---
 
-# Taggify
 
-Name: Taggify
-Domain: taggify.net
-Home: http://taggify.net/
-Email: support@taggify.net
-Member_of: Mobile Marketing Asc
+

@@ -1,6 +1,8 @@
+---
+company-name: "Slice Factory"
+domain: slicefactory.com
+home: http://www.slicefactory.com/
+---
 
-# Slice Factory
 
-Name: Slice Factory
-Domain: slicefactory.com
-Home: http://www.slicefactory.com/
+

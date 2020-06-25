@@ -1,9 +1,11 @@
+---
+company-name: "Mobile Journey"
+domain: mobilejourney.com
+home: https://mobilejourney.com/
+privacy-policy: https://mobilejourney.com/Privacy-Policy
+email: dataprotection@mobilejourney.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Mobile Journey
 
-Name: Mobile Journey
-Domain: mobilejourney.com
-Home: https://mobilejourney.com/
-Privacy_policy: https://mobilejourney.com/Privacy-Policy
-Email: dataprotection@mobilejourney.com
-Member_of: Interactive Advertising Bureau (IAB)
+

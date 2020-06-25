@@ -1,8 +1,10 @@
+---
+company-name: AdMaximizer
+domain: admaximizer.com
+home: http://admaximizer.com/index.php
+privacy-policy: http://admaximizer.com/privacy-policy/
+email: complaint@admaximizer.com
+---
 
-# AdMaximizer
 
-Name: AdMaximizer
-Domain: admaximizer.com
-Home: http://admaximizer.com/index.php
-Privacy_policy: http://admaximizer.com/privacy-policy/
-Email: complaint@admaximizer.com
+

@@ -1,8 +1,10 @@
+---
+company-name: MediaPass
+domain: mediapass.com
+home: http://www.mediapass.com/
+privacy-policy: http://www.mediapass.com/mp/privacy
+email: privacy@mediapass.com
+---
 
-# MediaPass
 
-Name: MediaPass
-Domain: mediapass.com
-Home: http://www.mediapass.com/
-Privacy_policy: http://www.mediapass.com/mp/privacy
-Email: privacy@mediapass.com
+

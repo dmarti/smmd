@@ -1,8 +1,10 @@
+---
+company-name: "Manchester United"
+domain: manutd.com
+home: http://www.manutd.com/
+privacy-policy: https://www.manutd.com/en/help/privacy-policy
+email: privacy@manutd.co.uk
+---
 
-# Manchester United
 
-Name: Manchester United
-Domain: manutd.com
-Home: http://www.manutd.com/
-Privacy_policy: https://www.manutd.com/en/help/privacy-policy
-Email: privacy@manutd.co.uk
+

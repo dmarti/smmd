@@ -1,6 +1,8 @@
+---
+company-name: "Hype Exchange"
+domain: hypeexchange.com
+home: http://www.hypeexchange.com/
+---
 
-# Hype Exchange
 
-Name: Hype Exchange
-Domain: hypeexchange.com
-Home: http://www.hypeexchange.com/
+

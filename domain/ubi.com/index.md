@@ -1,7 +1,9 @@
-# Ubisoft
+---
+company-name: Ubisoft
+domain: ubi.com
+opt-out-url: https://legal.ubi.com/privacypolicy/en-US
+---
 
-Name: Ubisoft
 
-Domain: ubi.com
 
-Opt_out_url: https://legal.ubi.com/privacypolicy/en-US
+

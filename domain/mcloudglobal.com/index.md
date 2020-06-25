@@ -1,7 +1,9 @@
+---
+company-name: mCabi
+domain: mcloudglobal.com
+home: https://mcabi.mcloudglobal.com/#
+email: info@knc.lv
+---
 
-# mCabi
 
-Name: mCabi
-Domain: mcloudglobal.com
-Home: https://mcabi.mcloudglobal.com/#
-Email: info@knc.lv
+

@@ -1,8 +1,10 @@
+---
+company-name: Viral-Loops
+domain: viral-loops.com
+home: https://viral-loops.com/
+privacy-policy: https://viral-loops.com/privacy
+email: support@viral-loops.com
+---
 
-# Viral-Loops
 
-Name: Viral-Loops
-Domain: viral-loops.com
-Home: https://viral-loops.com/
-Privacy_policy: https://viral-loops.com/privacy
-Email: support@viral-loops.com
+

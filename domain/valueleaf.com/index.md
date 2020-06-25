@@ -1,6 +1,8 @@
+---
+company-name: ValueLeaf
+domain: valueleaf.com
+home: http://www.valueleaf.com
+---
 
-# ValueLeaf
 
-Name: ValueLeaf
-Domain: valueleaf.com
-Home: http://www.valueleaf.com
+

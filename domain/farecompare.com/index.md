@@ -1,8 +1,10 @@
+---
+company-name: FareCompare
+domain: farecompare.com
+home: https://www.farecompare.com/
+privacy-policy: https://www.farecompare.com/about-farecompare/privacy-at-farecompare/
+email: customer.service@farecompare.com
+---
 
-# FareCompare
 
-Name: FareCompare
-Domain: farecompare.com
-Home: https://www.farecompare.com/
-Privacy_policy: https://www.farecompare.com/about-farecompare/privacy-at-farecompare/
-Email: customer.service@farecompare.com
+

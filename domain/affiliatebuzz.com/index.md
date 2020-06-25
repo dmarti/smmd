@@ -1,6 +1,8 @@
+---
+company-name: AffiliateBuzz
+domain: affiliatebuzz.com
+home: https://www2.affiliatebuzz.com/
+---
 
-# AffiliateBuzz
 
-Name: AffiliateBuzz
-Domain: affiliatebuzz.com
-Home: https://www2.affiliatebuzz.com/
+

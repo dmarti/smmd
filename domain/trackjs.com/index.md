@@ -1,8 +1,10 @@
+---
+company-name: TrackJS
+domain: trackjs.com
+home: https://www.trackjs.com/
+privacy-policy: https://trackjs.com/privacy/
+email: hello@trackjs.com
+---
 
-# TrackJS
 
-Name: TrackJS
-Domain: trackjs.com
-Home: https://www.trackjs.com/
-Privacy_policy: https://trackjs.com/privacy/
-Email: hello@trackjs.com
+

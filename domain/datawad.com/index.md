@@ -1,8 +1,10 @@
+---
+company-name: Datawad
+domain: datawad.com
+home: http://www.datawad.com
+privacy-policy: http://www.datawad.com/privacy/
+email: dpo@dw-agency.com
+---
 
-# Datawad
 
-Name: Datawad
-Domain: datawad.com
-Home: http://www.datawad.com
-Privacy_policy: http://www.datawad.com/privacy/
-Email: dpo@dw-agency.com
+

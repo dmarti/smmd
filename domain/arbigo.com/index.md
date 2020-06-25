@@ -1,8 +1,10 @@
+---
+company-name: Arbigo
+domain: arbigo.com
+home: http://www.arbigo.com/
+privacy-policy: http://www.arbigo.com/terms--policy.html
+email: privacy@arbigo.com
+---
 
-# Arbigo
 
-Name: Arbigo
-Domain: arbigo.com
-Home: http://www.arbigo.com/
-Privacy_policy: http://www.arbigo.com/terms--policy.html
-Email: privacy@arbigo.com
+

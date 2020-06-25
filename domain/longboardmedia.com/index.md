@@ -1,9 +1,11 @@
+---
+company-name: "Longboard Media"
+domain: longboardmedia.com
+home: http://longboardmedia.com/
+privacy-policy: http://www.bazaarvoice.com/privacy-policy/
+email: "(415) 402-0064"
+owned-by: Bazaarvoice
+---
 
-# Longboard Media
 
-Name: Longboard Media
-Domain: longboardmedia.com
-Home: http://longboardmedia.com/
-Privacy_policy: http://www.bazaarvoice.com/privacy-policy/
-Email: (415) 402-0064
-Owned_by: Bazaarvoice
+

@@ -1,6 +1,8 @@
+---
+company-name: Barometer
+domain: getbarometer.com
+home: http://getbarometer.com/
+---
 
-# Barometer
 
-Name: Barometer
-Domain: getbarometer.com
-Home: http://getbarometer.com/
+

@@ -1,9 +1,11 @@
+---
+company-name: Near
+domain: near.co
+home: https://near.co/
+privacy-policy: https://near.co/privacy/
+email: privacy@near.co
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Near
 
-Name: Near
-Domain: near.co
-Home: https://near.co/
-Privacy_policy: https://near.co/privacy/
-Email: privacy@near.co
-Member_of: Interactive Advertising Bureau (IAB)
+

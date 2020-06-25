@@ -1,8 +1,10 @@
+---
+company-name: Yengo
+domain: yengo.com
+home: http://www.yengo.com/
+privacy-policy: http://www.yengo.com/text/privacy_policy
+email: support@yengo.com
+---
 
-# Yengo
 
-Name: Yengo
-Domain: yengo.com
-Home: http://www.yengo.com/
-Privacy_policy: http://www.yengo.com/text/privacy_policy
-Email: support@yengo.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Topsy
+domain: topsy.com
+home: http://topsy.com/
+privacy-policy: http://about.topsy.com/privacy/
+email: support@topsy.com
+---
 
-# Topsy
 
-Name: Topsy
-Domain: topsy.com
-Home: http://topsy.com/
-Privacy_policy: http://about.topsy.com/privacy/
-Email: support@topsy.com
+

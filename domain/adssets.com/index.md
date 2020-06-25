@@ -1,9 +1,11 @@
+---
+company-name: Adssets
+domain: adssets.com
+home: http://adssets.com/
+privacy-policy: http://adssets.com/policy/
+email: privacy@adssets.com
+member-of: "Mobile Marketing Asc"
+---
 
-# Adssets
 
-Name: Adssets
-Domain: adssets.com
-Home: http://adssets.com/
-Privacy_policy: http://adssets.com/policy/
-Email: privacy@adssets.com
-Member_of: Mobile Marketing Asc
+

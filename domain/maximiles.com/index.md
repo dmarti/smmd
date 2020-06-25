@@ -1,8 +1,10 @@
+---
+company-name: Maximiles
+domain: maximiles.com
+home: https://www.maximiles.com/
+privacy-policy: https://www.maximiles.com/charte-de-confidentialite
+email: donneespersonnelles@maximiles.com
+---
 
-# Maximiles
 
-Name: Maximiles
-Domain: maximiles.com
-Home: https://www.maximiles.com/
-Privacy_policy: https://www.maximiles.com/charte-de-confidentialite
-Email: donneespersonnelles@maximiles.com
+

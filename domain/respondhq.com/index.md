@@ -1,6 +1,8 @@
+---
+company-name: Respond
+domain: respondhq.com
+home: http://respondhq.com/
+---
 
-# Respond
 
-Name: Respond
-Domain: respondhq.com
-Home: http://respondhq.com/
+

@@ -1,10 +1,12 @@
+---
+company-name: AdReady
+domain: digitalremedy.com
+home: http://www.digitalremedy.com/adready/
+privacy-policy: http://www.digitalremedy.com/privacy-policy/
+email: privacy@adready.com
+owned-by: "CPX Interactive"
+member-of: "Digital Advertising Alliance"
+---
 
-# AdReady
 
-Name: AdReady
-Domain: digitalremedy.com
-Home: http://www.digitalremedy.com/adready/
-Privacy_policy: http://www.digitalremedy.com/privacy-policy/
-Email: privacy@adready.com
-Owned_by: CPX Interactive
-Member_of: Digital Advertising Alliance
+

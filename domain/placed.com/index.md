@@ -1,9 +1,11 @@
+---
+company-name: Placed
+domain: placed.com
+home: https://www.placed.com/
+privacy-policy: https://www.placed.com/privacy-policy
+email: privacy@placed.com
+owned-by: "Snap Inc."
+---
 
-# Placed
 
-Name: Placed
-Domain: placed.com
-Home: https://www.placed.com/
-Privacy_policy: https://www.placed.com/privacy-policy
-Email: privacy@placed.com
-Owned_by: Snap Inc.
+

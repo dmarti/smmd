@@ -1,6 +1,8 @@
+---
+company-name: "A.S. Watson Group"
+domain: aswatson.com
+home: http://www.aswatson.com/
+---
 
-# A.S. Watson Group
 
-Name: A.S. Watson Group
-Domain: aswatson.com
-Home: http://www.aswatson.com/
+

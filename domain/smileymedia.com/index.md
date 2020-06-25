@@ -1,8 +1,10 @@
+---
+company-name: "Smiley Media"
+domain: smileymedia.com
+home: http://www.smileymedia.com/
+privacy-policy: http://www.smileymedia.com/privacy-policy.php
+email: privacy@smileymedia.com
+---
 
-# Smiley Media
 
-Name: Smiley Media
-Domain: smileymedia.com
-Home: http://www.smileymedia.com/
-Privacy_policy: http://www.smileymedia.com/privacy-policy.php
-Email: privacy@smileymedia.com
+

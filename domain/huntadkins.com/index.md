@@ -1,7 +1,9 @@
+---
+company-name: "Hunt Adkins"
+domain: huntadkins.com
+home: http://www.huntadkins.com/home.php
+privacy-policy: http://
+---
 
-# Hunt Adkins
 
-Name: Hunt Adkins
-Domain: huntadkins.com
-Home: http://www.huntadkins.com/home.php
-Privacy_policy: http://
+

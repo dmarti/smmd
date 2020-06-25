@@ -1,9 +1,11 @@
+---
+company-name: Datamyx
+domain: datamyx.com
+home: http://www.datamyx.com/
+privacy-policy: https://www.deluxe.com/policy
+email: privacy@datamyx.com
+owned-by: Deluxe
+---
 
-# Datamyx
 
-Name: Datamyx
-Domain: datamyx.com
-Home: http://www.datamyx.com/
-Privacy_policy: https://www.deluxe.com/policy
-Email: privacy@datamyx.com
-Owned_by: Deluxe
+

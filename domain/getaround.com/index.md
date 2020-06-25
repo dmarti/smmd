@@ -1,7 +1,9 @@
-# Getaround
+---
+company-name: Getaround
+domain: getaround.com
+opt-out-url: https://www.getaround.com/terms/privacy
+---
 
-Name: Getaround
 
-Domain: getaround.com
 
-Opt_out_url: https://www.getaround.com/terms/privacy
+

@@ -1,7 +1,9 @@
-# HSA Bank
+---
+company-name: "HSA Bank"
+domain: hsabank.com
+opt-out-url: http://www.hsabank.com/hsabank/about-us/privacy-and-opt-out-notice
+---
 
-Name: HSA Bank
 
-Domain: hsabank.com
 
-Opt_out_url: http://www.hsabank.com/hsabank/about-us/privacy-and-opt-out-notice
+

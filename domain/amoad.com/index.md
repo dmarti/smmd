@@ -1,7 +1,9 @@
+---
+company-name: AMoAd
+domain: amoad.com
+home: http://www.amoad.com/
+privacy-policy: http://www.amoad.com/privacy/
+---
 
-# AMoAd
 
-Name: AMoAd
-Domain: amoad.com
-Home: http://www.amoad.com/
-Privacy_policy: http://www.amoad.com/privacy/
+

@@ -1,8 +1,10 @@
+---
+company-name: "webleads Tracker"
+domain: webleads-tracker.fr
+home: https://www.webleads-tracker.fr/
+privacy-policy: https://www.webleads-tracker.fr/Mentions-legales_a541.html
+email: contact@webleads-tracker.fr
+---
 
-# webleads Tracker
 
-Name: webleads Tracker
-Domain: webleads-tracker.fr
-Home: https://www.webleads-tracker.fr/
-Privacy_policy: https://www.webleads-tracker.fr/Mentions-legales_a541.html
-Email: contact@webleads-tracker.fr
+

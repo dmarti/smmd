@@ -1,7 +1,9 @@
+---
+company-name: up-value
+domain: up-value.de
+home: http://www.up-value.de/index_en.php
+email: hello@up-value.de
+---
 
-# up-value
 
-Name: up-value
-Domain: up-value.de
-Home: http://www.up-value.de/index_en.php
-Email: hello@up-value.de
+

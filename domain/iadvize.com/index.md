@@ -1,8 +1,10 @@
+---
+company-name: iAdvize
+domain: iadvize.com
+home: http://www.iadvize.com/
+privacy-policy: http://www.iadvize.com/en/privacy/
+email: contact@iadvize.com
+---
 
-# iAdvize
 
-Name: iAdvize
-Domain: iadvize.com
-Home: http://www.iadvize.com/
-Privacy_policy: http://www.iadvize.com/en/privacy/
-Email: contact@iadvize.com
+

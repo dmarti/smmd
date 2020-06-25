@@ -1,8 +1,10 @@
+---
+company-name: Netbiscuits
+domain: netbiscuits.com
+home: https://www.netbiscuits.com/
+privacy-policy: https://www.netbiscuits.com/full-privacy-policy/
+email: info@netbiscuits.com
+---
 
-# Netbiscuits
 
-Name: Netbiscuits
-Domain: netbiscuits.com
-Home: https://www.netbiscuits.com/
-Privacy_policy: https://www.netbiscuits.com/full-privacy-policy/
-Email: info@netbiscuits.com
+

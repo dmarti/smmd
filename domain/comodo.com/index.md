@@ -1,8 +1,10 @@
+---
+company-name: Comodo
+domain: comodo.com
+home: http://www.comodo.com/
+privacy-policy: http://www.comodo.com/repository/privacy-policy.php?
+email: privacy@comodo.com
+---
 
-# Comodo
 
-Name: Comodo
-Domain: comodo.com
-Home: http://www.comodo.com/
-Privacy_policy: http://www.comodo.com/repository/privacy-policy.php?
-Email: privacy@comodo.com
+

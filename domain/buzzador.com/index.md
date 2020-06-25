@@ -1,8 +1,10 @@
+---
+company-name: Buzzador
+domain: buzzador.com
+home: http://www.buzzador.com
+privacy-policy: https://www.buzzador.com/membership-terms/
+email: info@buzzador.com
+---
 
-# Buzzador
 
-Name: Buzzador
-Domain: buzzador.com
-Home: http://www.buzzador.com
-Privacy_policy: https://www.buzzador.com/membership-terms/
-Email: info@buzzador.com
+

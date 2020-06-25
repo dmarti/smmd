@@ -1,9 +1,11 @@
+---
+company-name: "Playground XYZ"
+domain: playground.xyz
+home: https://playground.xyz
+privacy-policy: https://playground.xyz/privacy/privacy-policy.pdf
+email: privacy@playgroundxyz.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Playground XYZ
 
-Name: Playground XYZ
-Domain: playground.xyz
-Home: https://playground.xyz
-Privacy_policy: https://playground.xyz/privacy/privacy-policy.pdf
-Email: privacy@playgroundxyz.com
-Member_of: Interactive Advertising Bureau (IAB)
+

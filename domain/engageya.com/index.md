@@ -1,8 +1,10 @@
+---
+company-name: Engageya
+domain: engageya.com
+home: https://www.engageya.com/
+privacy-policy: https://www.engageya.com/privacy
+email: privacy@Engageya.com
+---
 
-# Engageya
 
-Name: Engageya
-Domain: engageya.com
-Home: https://www.engageya.com/
-Privacy_policy: https://www.engageya.com/privacy
-Email: privacy@Engageya.com
+

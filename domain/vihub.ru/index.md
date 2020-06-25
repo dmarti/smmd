@@ -1,8 +1,10 @@
+---
+company-name: Vihub
+domain: vihub.ru
+home: http://vihub.ru/
+email: contact@vihub.ru
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Vihub
 
-Name: Vihub
-Domain: vihub.ru
-Home: http://vihub.ru/
-Email: contact@vihub.ru
-Member_of: Interactive Advertising Bureau (IAB)
+

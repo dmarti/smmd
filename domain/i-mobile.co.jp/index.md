@@ -1,7 +1,9 @@
+---
+company-name: i-mobile
+domain: i-mobile.co.jp
+home: http://i-mobile.co.jp/
+privacy-policy: http://i-mobile.co.jp/privacy.aspx
+---
 
-# i-mobile
 
-Name: i-mobile
-Domain: i-mobile.co.jp
-Home: http://i-mobile.co.jp/
-Privacy_policy: http://i-mobile.co.jp/privacy.aspx
+

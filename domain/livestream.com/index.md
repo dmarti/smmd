@@ -1,8 +1,10 @@
+---
+company-name: Livestream
+domain: livestream.com
+home: http://new.livestream.com/
+privacy-policy: https://livestream.com/terms/privacy
+email: privacy@livestream.com
+---
 
-# Livestream
 
-Name: Livestream
-Domain: livestream.com
-Home: http://new.livestream.com/
-Privacy_policy: https://livestream.com/terms/privacy
-Email: privacy@livestream.com
+

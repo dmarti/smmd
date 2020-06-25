@@ -1,8 +1,10 @@
+---
+company-name: "Streak (Rewardly)"
+domain: streak.com
+home: http://www.streak.com/
+privacy-policy: http://www.streak.com/privacy
+email: support@streak.com
+---
 
-# Streak (Rewardly)
 
-Name: Streak (Rewardly)
-Domain: streak.com
-Home: http://www.streak.com/
-Privacy_policy: http://www.streak.com/privacy
-Email: support@streak.com
+

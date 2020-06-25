@@ -1,6 +1,8 @@
+---
+company-name: "Qatar Computing Research Institute"
+domain: qcri.org
+home: http://qcri.org/
+---
 
-# Qatar Computing Research Institute
 
-Name: Qatar Computing Research Institute
-Domain: qcri.org
-Home: http://qcri.org/
+

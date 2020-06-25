@@ -1,6 +1,8 @@
+---
+company-name: DataMind
+domain: datamind.ru
+home: http://datamind.ru/
+---
 
-# DataMind
 
-Name: DataMind
-Domain: datamind.ru
-Home: http://datamind.ru/
+

@@ -1,6 +1,8 @@
+---
+company-name: Youku
+domain: youku.com
+home: http://www.youku.com/
+---
 
-# Youku
 
-Name: Youku
-Domain: youku.com
-Home: http://www.youku.com/
+

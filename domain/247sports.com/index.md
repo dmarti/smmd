@@ -1,8 +1,10 @@
+---
+company-name: 247Sports
+domain: 247sports.com
+home: http://247sports.com/
+privacy-policy: https://www.cbsinteractive.com/legal/cbsi/privacy-policy
+owned-by: "CBS Interactive"
+---
 
-# 247Sports
 
-Name: 247Sports
-Domain: 247sports.com
-Home: http://247sports.com/
-Privacy_policy: https://www.cbsinteractive.com/legal/cbsi/privacy-policy
-Owned_by: CBS Interactive
+

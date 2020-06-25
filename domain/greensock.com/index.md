@@ -1,8 +1,10 @@
+---
+company-name: GreenSock
+domain: greensock.com
+home: https://greensock.com/
+privacy-policy: https://greensock.com/privacy/
+email: info@greensock.com
+---
 
-# GreenSock
 
-Name: GreenSock
-Domain: greensock.com
-Home: https://greensock.com/
-Privacy_policy: https://greensock.com/privacy/
-Email: info@greensock.com
+

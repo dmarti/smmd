@@ -1,8 +1,10 @@
+---
+company-name: SnapWidget
+domain: snapwidget.com
+home: http://snapwidget.com/
+privacy-policy: https://snapwidget.com/privacy
+email: info@snapwidget.com
+---
 
-# SnapWidget
 
-Name: SnapWidget
-Domain: snapwidget.com
-Home: http://snapwidget.com/
-Privacy_policy: https://snapwidget.com/privacy
-Email: info@snapwidget.com
+

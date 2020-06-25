@@ -1,8 +1,10 @@
+---
+company-name: Afftrack
+domain: afftrack.com
+home: http://www.afftrack.com/
+privacy-policy: http://
+email: support@afftrack.com
+---
 
-# Afftrack
 
-Name: Afftrack
-Domain: afftrack.com
-Home: http://www.afftrack.com/
-Privacy_policy: http://
-Email: support@afftrack.com
+

@@ -1,7 +1,9 @@
+---
+company-name: Hermes
+domain: myhermes.co.uk
+home: https://new.myhermes.co.uk/
+privacy-policy: http://
+---
 
-# Hermes
 
-Name: Hermes
-Domain: myhermes.co.uk
-Home: https://new.myhermes.co.uk/
-Privacy_policy: http://
+

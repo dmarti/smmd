@@ -1,7 +1,9 @@
+---
+company-name: ADSXtreme
+domain: ads-xtreme.com
+home: http://ads-xtreme.com/
+email: info@ads-xtreme.com
+---
 
-# ADSXtreme
 
-Name: ADSXtreme
-Domain: ads-xtreme.com
-Home: http://ads-xtreme.com/
-Email: info@ads-xtreme.com
+

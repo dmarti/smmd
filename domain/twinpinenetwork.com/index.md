@@ -1,8 +1,10 @@
+---
+company-name: TwinPine
+domain: twinpinenetwork.com
+home: http://twinpinenetwork.com
+privacy-policy: http://twinpinenetwork.com/privacy-policy/
+email: support@twinpine.com
+---
 
-# TwinPine
 
-Name: TwinPine
-Domain: twinpinenetwork.com
-Home: http://twinpinenetwork.com
-Privacy_policy: http://twinpinenetwork.com/privacy-policy/
-Email: support@twinpine.com
+

@@ -1,7 +1,9 @@
+---
+company-name: "LINCE Adserver"
+domain: adserver.cl
+home: http://www.adserver.cl/
+email: info@adserver.cl
+---
 
-# LINCE Adserver
 
-Name: LINCE Adserver
-Domain: adserver.cl
-Home: http://www.adserver.cl/
-Email: info@adserver.cl
+

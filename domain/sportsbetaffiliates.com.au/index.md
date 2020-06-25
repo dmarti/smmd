@@ -1,7 +1,9 @@
+---
+company-name: "Sportsbet Affiliates"
+domain: sportsbetaffiliates.com.au
+home: http://www.sportsbetaffiliates.com.au/
+email: affiliates@sportsbet.com.au
+---
 
-# Sportsbet Affiliates
 
-Name: Sportsbet Affiliates
-Domain: sportsbetaffiliates.com.au
-Home: http://www.sportsbetaffiliates.com.au/
-Email: affiliates@sportsbet.com.au
+

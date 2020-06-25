@@ -1,7 +1,9 @@
+---
+company-name: Echo
+domain: aboutecho.com
+home: http://aboutecho.com/
+email: privacy@aboutecho.com
+---
 
-# Echo
 
-Name: Echo
-Domain: aboutecho.com
-Home: http://aboutecho.com/
-Email: privacy@aboutecho.com
+

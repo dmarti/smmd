@@ -1,7 +1,9 @@
+---
+company-name: Mockito
+domain: mockito.org
+home: https://site.mockito.org/
+privacy-policy: http://
+---
 
-# Mockito
 
-Name: Mockito
-Domain: mockito.org
-Home: https://site.mockito.org/
-Privacy_policy: http://
+

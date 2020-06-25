@@ -1,8 +1,10 @@
+---
+company-name: Tencent
+domain: tencent.com
+home: http://www.tencent.com
+privacy-policy: http://www.qq.com/privacy.htm
+email: ir@tencent.com
+---
 
-# Tencent
 
-Name: Tencent
-Domain: tencent.com
-Home: http://www.tencent.com
-Privacy_policy: http://www.qq.com/privacy.htm
-Email: ir@tencent.com
+

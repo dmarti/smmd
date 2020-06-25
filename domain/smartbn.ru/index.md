@@ -1,6 +1,8 @@
+---
+company-name: SmartBN
+domain: smartbn.ru
+home: http://smartbn.ru/
+---
 
-# SmartBN
 
-Name: SmartBN
-Domain: smartbn.ru
-Home: http://smartbn.ru/
+

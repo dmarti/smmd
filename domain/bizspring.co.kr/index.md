@@ -1,8 +1,10 @@
+---
+company-name: BizSpring
+domain: bizspring.co.kr
+home: http://www.bizspring.co.kr/website/home/
+privacy-policy: http://www.bizspring.co.kr/website/privacy/index.php
+email: service@bizspring.co.kr
+---
 
-# BizSpring
 
-Name: BizSpring
-Domain: bizspring.co.kr
-Home: http://www.bizspring.co.kr/website/home/
-Privacy_policy: http://www.bizspring.co.kr/website/privacy/index.php
-Email: service@bizspring.co.kr
+

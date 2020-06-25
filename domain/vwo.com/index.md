@@ -1,8 +1,10 @@
+---
+company-name: "Visual Website Optimizer (Wingify)"
+domain: vwo.com
+home: https://vwo.com/
+privacy-policy: https://vwo.com/privacy-policy/
+email: info@wingify.com
+---
 
-# Visual Website Optimizer (Wingify)
 
-Name: Visual Website Optimizer (Wingify)
-Domain: vwo.com
-Home: https://vwo.com/
-Privacy_policy: https://vwo.com/privacy-policy/
-Email: info@wingify.com
+

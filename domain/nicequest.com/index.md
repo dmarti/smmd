@@ -1,8 +1,10 @@
+---
+company-name: "Nice Quest"
+domain: nicequest.com
+home: https://www.nicequest.com/
+privacy-policy: https://www.nicequest.com/us/privacy
+email: privacy@netquest.com
+---
 
-# Nice Quest
 
-Name: Nice Quest
-Domain: nicequest.com
-Home: https://www.nicequest.com/
-Privacy_policy: https://www.nicequest.com/us/privacy
-Email: privacy@netquest.com
+

@@ -1,9 +1,11 @@
+---
+company-name: "mainADV (MainAd)"
+domain: mainad.com
+home: http://www.mainad.com/
+privacy-policy: http://www.mainad.com/cookie-policy/
+email: privacy@mainad.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# mainADV (MainAd)
 
-Name: mainADV (MainAd)
-Domain: mainad.com
-Home: http://www.mainad.com/
-Privacy_policy: http://www.mainad.com/cookie-policy/
-Email: privacy@mainad.com
-Member_of: Interactive Advertising Bureau (IAB)
+

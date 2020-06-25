@@ -1,8 +1,10 @@
+---
+company-name: "Demand Side Science"
+domain: demand-side-science.jp
+home: http://demand-side-science.jp/
+privacy-policy: http://demand-side-science.jp/privacy
+email: service@demand-side-science.jp
+---
 
-# Demand Side Science 
 
-Name: Demand Side Science 
-Domain: demand-side-science.jp
-Home: http://demand-side-science.jp/
-Privacy_policy: http://demand-side-science.jp/privacy
-Email: service@demand-side-science.jp
+

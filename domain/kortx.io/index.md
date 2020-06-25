@@ -1,7 +1,9 @@
+---
+company-name: Kortx
+domain: kortx.io
+home: http://www.kortx.io/
+privacy-policy: http://kortx.io/privacy.html
+---
 
-# Kortx
 
-Name: Kortx
-Domain: kortx.io
-Home: http://www.kortx.io/
-Privacy_policy: http://kortx.io/privacy.html
+

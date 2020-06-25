@@ -1,9 +1,11 @@
+---
+company-name: Slingpic
+domain: slingpic.com
+home: http://slingpic.com/
+privacy-policy: http://slingpic.com/privacy/index.html
+email: info@slingpic.com
+owned-by: WordPress
+---
 
-# Slingpic
 
-Name: Slingpic
-Domain: slingpic.com
-Home: http://slingpic.com/
-Privacy_policy: http://slingpic.com/privacy/index.html
-Email: info@slingpic.com
-Owned_by: WordPress
+

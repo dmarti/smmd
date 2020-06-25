@@ -1,9 +1,11 @@
+---
+company-name: Virool
+domain: virool.com
+home: https://www.virool.com/
+privacy-policy: https://www.virool.com/help/article/214947518
+email: privacy@virool.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Virool
 
-Name: Virool
-Domain: virool.com
-Home: https://www.virool.com/
-Privacy_policy: https://www.virool.com/help/article/214947518
-Email: privacy@virool.com
-Member_of: Interactive Advertising Bureau (IAB)
+

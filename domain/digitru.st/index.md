@@ -1,8 +1,10 @@
+---
+company-name: DigiTrust
+domain: digitru.st
+home: http://www.digitru.st/
+privacy-policy: http://www.digitru.st/privacy-policy/
+email: privacy@digitru.st
+---
 
-# DigiTrust
 
-Name: DigiTrust
-Domain: digitru.st
-Home: http://www.digitru.st/
-Privacy_policy: http://www.digitru.st/privacy-policy/
-Email: privacy@digitru.st
+

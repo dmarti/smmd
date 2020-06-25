@@ -1,8 +1,10 @@
+---
+company-name: Fastly
+domain: fastly.com
+home: https://www.fastly.com/
+privacy-policy: https://www.fastly.com/privacy
+email: abuse@fastly.com
+---
 
-# Fastly
 
-Name: Fastly
-Domain: fastly.com
-Home: https://www.fastly.com/
-Privacy_policy: https://www.fastly.com/privacy
-Email: abuse@fastly.com
+

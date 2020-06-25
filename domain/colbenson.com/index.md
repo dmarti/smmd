@@ -1,7 +1,9 @@
+---
+company-name: Colbenson
+domain: colbenson.com
+home: http://www.colbenson.com
+email: info@colbenson.com
+---
 
-# Colbenson
 
-Name: Colbenson
-Domain: colbenson.com
-Home: http://www.colbenson.com
-Email: info@colbenson.com
+

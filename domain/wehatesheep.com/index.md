@@ -1,8 +1,10 @@
+---
+company-name: "Sullivan Higdon & Sink (SHS)"
+domain: wehatesheep.com
+home: http://wehatesheep.com/
+privacy-policy: https://wehatesheep.com/terms-conditions-privacy-statement/
+email: webmaster@shscom.com
+---
 
-# Sullivan Higdon & Sink (SHS)
 
-Name: Sullivan Higdon & Sink (SHS)
-Domain: wehatesheep.com
-Home: http://wehatesheep.com/
-Privacy_policy: https://wehatesheep.com/terms-conditions-privacy-statement/
-Email: webmaster@shscom.com
+

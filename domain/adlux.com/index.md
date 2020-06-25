@@ -1,7 +1,9 @@
+---
+company-name: Adlux
+domain: adlux.com
+home: https://adlux.com/
+email: info@adlux.com
+---
 
-# Adlux
 
-Name: Adlux
-Domain: adlux.com
-Home: https://adlux.com/
-Email: info@adlux.com
+

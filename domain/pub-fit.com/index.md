@@ -1,7 +1,9 @@
+---
+company-name: Pub-Fit
+domain: pub-fit.com
+home: http://www.pub-fit.com/
+email: publishers@pub-fit.com
+---
 
-# Pub-Fit
 
-Name: Pub-Fit
-Domain: pub-fit.com
-Home: http://www.pub-fit.com/
-Email: publishers@pub-fit.com
+

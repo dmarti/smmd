@@ -1,9 +1,11 @@
+---
+company-name: Podio
+domain: podio.com
+home: https://podio.com/
+privacy-policy: https://www.citrix.com/about/legal/privacy/
+email: support@podio.com
+owned-by: "Citrix Systems"
+---
 
-# Podio
 
-Name: Podio
-Domain: podio.com
-Home: https://podio.com/
-Privacy_policy: https://www.citrix.com/about/legal/privacy/
-Email: support@podio.com
-Owned_by: Citrix Systems
+

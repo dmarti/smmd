@@ -1,8 +1,10 @@
+---
+company-name: INFOnline
+domain: infonline.de
+home: https://www.infonline.de/
+privacy-policy: https://www.infonline.de/datenschutz/datenschutzerklaerung/
+email: datenschutz@infonline.de
+---
 
-# INFOnline
 
-Name: INFOnline
-Domain: infonline.de
-Home: https://www.infonline.de/
-Privacy_policy: https://www.infonline.de/datenschutz/datenschutzerklaerung/
-Email: datenschutz@infonline.de
+

@@ -1,7 +1,9 @@
+---
+company-name: Passionfruit
+domain: passionfruitads.com
+home: http://passionfruitads.com/
+email: hello@passionfruitads.com
+---
 
-# Passionfruit
 
-Name: Passionfruit
-Domain: passionfruitads.com
-Home: http://passionfruitads.com/
-Email: hello@passionfruitads.com
+

@@ -1,7 +1,9 @@
+---
+company-name: adnboost
+domain: adnboost.com
+home: http://www.adnboost.com/
+email: sales@adnboost.com
+---
 
-# adnboost
 
-Name: adnboost
-Domain: adnboost.com
-Home: http://www.adnboost.com/
-Email: sales@adnboost.com
+

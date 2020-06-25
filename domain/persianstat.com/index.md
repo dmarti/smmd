@@ -1,6 +1,8 @@
+---
+company-name: PersianStat
+domain: persianstat.com
+home: http://www.persianstat.com
+---
 
-# PersianStat
 
-Name: PersianStat
-Domain: persianstat.com
-Home: http://www.persianstat.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Vuukle
+domain: vuukle.com
+home: http://vuukle.com/
+privacy-policy: http://vuukle.com/terms.html
+email: support@vuukle.com
+---
 
-# Vuukle
 
-Name: Vuukle
-Domain: vuukle.com
-Home: http://vuukle.com/
-Privacy_policy: http://vuukle.com/terms.html
-Email: support@vuukle.com
+

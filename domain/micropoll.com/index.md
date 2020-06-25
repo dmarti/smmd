@@ -1,8 +1,10 @@
+---
+company-name: MicroPoll
+domain: micropoll.com
+home: http://www.micropoll.com/
+privacy-policy: http://support.micropoll.com/kb/account/privacy-policy
+member-of: TrustE_TrustArc
+---
 
-# MicroPoll
 
-Name: MicroPoll
-Domain: micropoll.com
-Home: http://www.micropoll.com/
-Privacy_policy: http://support.micropoll.com/kb/account/privacy-policy
-Member_of: TrustE_TrustArc
+

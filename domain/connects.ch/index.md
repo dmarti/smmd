@@ -1,8 +1,10 @@
+---
+company-name: Connects
+domain: connects.ch
+home: https://www.connects.ch/
+privacy-policy: https://cct.connects.ch/dataprotection
+email: info@connects.ch
+---
 
-# Connects
 
-Name: Connects
-Domain: connects.ch
-Home: https://www.connects.ch/
-Privacy_policy: https://cct.connects.ch/dataprotection
-Email: info@connects.ch
+

@@ -1,8 +1,10 @@
+---
+company-name: EverydayFamily
+domain: everydayfamily.com
+home: https://www.everydayfamily.com
+privacy-policy: https://www.everydayfamily.com/privacy-policy/
+email: memberservices@EverydayFamily.com
+---
 
-# EverydayFamily
 
-Name: EverydayFamily
-Domain: everydayfamily.com
-Home: https://www.everydayfamily.com
-Privacy_policy: https://www.everydayfamily.com/privacy-policy/
-Email: memberservices@EverydayFamily.com
+

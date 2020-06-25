@@ -1,9 +1,11 @@
+---
+company-name: "Mandatory (Formerly CraveOnline Media)"
+domain: mandatory.com
+home: https://www.mandatory.com/
+privacy-policy: https://www.mandatory.com/privacy
+email: legal@evolvemediallc.com
+owned-by: "Evolve Media"
+---
 
-# Mandatory (Formerly CraveOnline Media)
 
-Name: Mandatory (Formerly CraveOnline Media)
-Domain: mandatory.com
-Home: https://www.mandatory.com/
-Privacy_policy: https://www.mandatory.com/privacy
-Email: legal@evolvemediallc.com
-Owned_by: Evolve Media
+

@@ -1,7 +1,9 @@
+---
+company-name: "Symphony Capital"
+domain: symphonycapital.com
+home: http://www.symphonycapital.com/
+email: info@symphonycapital.com
+---
 
-# Symphony Capital
 
-Name: Symphony Capital
-Domain: symphonycapital.com
-Home: http://www.symphonycapital.com/
-Email: info@symphonycapital.com
+

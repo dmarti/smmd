@@ -1,8 +1,10 @@
+---
+company-name: Anvato
+domain: anvato.com
+home: http://www.anvato.com/
+privacy-policy: http://www.anvato.com/about/privacy-policy/
+email: info@anvato.com
+---
 
-# Anvato
 
-Name: Anvato
-Domain: anvato.com
-Home: http://www.anvato.com/
-Privacy_policy: http://www.anvato.com/about/privacy-policy/
-Email: info@anvato.com
+

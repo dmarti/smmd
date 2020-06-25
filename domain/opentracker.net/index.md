@@ -1,8 +1,10 @@
+---
+company-name: Opentracker
+domain: opentracker.net
+home: https://www.opentracker.net/
+privacy-policy: https://www.opentracker.net/privacy
+email: support@opentracker.net
+---
 
-# Opentracker
 
-Name: Opentracker
-Domain: opentracker.net
-Home: https://www.opentracker.net/
-Privacy_policy: https://www.opentracker.net/privacy
-Email: support@opentracker.net
+

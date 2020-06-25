@@ -1,7 +1,9 @@
-# Uber
+---
+company-name: Uber
+domain: uber.com
+opt-out-url: https://privacy.uber.com/privacy/california
+---
 
-Name: Uber
 
-Domain: uber.com
 
-Opt_out_url: https://privacy.uber.com/privacy/california
+

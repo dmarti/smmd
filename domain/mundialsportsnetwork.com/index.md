@@ -1,7 +1,9 @@
+---
+company-name: "Mundial Sports Network"
+domain: mundialsportsnetwork.com
+home: http://www.mundialsportsnetwork.com/
+email: info@mundialgroup.net
+---
 
-# Mundial Sports Network
 
-Name: Mundial Sports Network
-Domain: mundialsportsnetwork.com
-Home: http://www.mundialsportsnetwork.com/
-Email: info@mundialgroup.net
+

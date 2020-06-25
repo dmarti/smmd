@@ -1,8 +1,10 @@
+---
+company-name: Playwire
+domain: playwire.com
+home: https://www.playwire.com/
+privacy-policy: https://www.playwire.com/privacy-policy/
+email: support@playwiremedia.com
+---
 
-# Playwire
 
-Name: Playwire
-Domain: playwire.com
-Home: https://www.playwire.com/
-Privacy_policy: https://www.playwire.com/privacy-policy/
-Email: support@playwiremedia.com
+

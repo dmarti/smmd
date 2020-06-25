@@ -1,7 +1,9 @@
+---
+company-name: TweetMeme
+domain: tweetmeme.com
+home: http://tweetmeme.com/
+email: support@tweetmeme.com
+---
 
-# TweetMeme
 
-Name: TweetMeme
-Domain: tweetmeme.com
-Home: http://tweetmeme.com/
-Email: support@tweetmeme.com
+

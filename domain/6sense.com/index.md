@@ -1,8 +1,10 @@
+---
+company-name: "6Sense (formerly GrepData)"
+domain: 6sense.com
+home: https://6sense.com/
+privacy-policy: https://6sense.com/privacy-policy/
+email: privacymanager@6sense.com
+---
 
-# 6Sense (formerly GrepData)
 
-Name: 6Sense (formerly GrepData)
-Domain: 6sense.com
-Home: https://6sense.com/
-Privacy_policy: https://6sense.com/privacy-policy/
-Email: privacymanager@6sense.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Fit Ad"
+domain: fit-ad.jp
+home: https://fit-ad.jp/
+privacy-policy: https://fit-ad.jp/privacy.html
+email: mail@hitokuse.com
+---
 
-# Fit Ad
 
-Name: Fit Ad
-Domain: fit-ad.jp
-Home: https://fit-ad.jp/
-Privacy_policy: https://fit-ad.jp/privacy.html
-Email: mail@hitokuse.com
+

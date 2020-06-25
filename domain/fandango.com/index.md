@@ -1,7 +1,9 @@
-# Fandango
+---
+company-name: Fandango
+domain: fandango.com
+opt-out-url: https://www.fandango.com/donotsellmyinfo
+---
 
-Name: Fandango
 
-Domain: fandango.com
 
-Opt_out_url: https://www.fandango.com/donotsellmyinfo
+

@@ -1,8 +1,10 @@
+---
+company-name: BeezUP
+domain: beezup.co.uk
+home: http://www.beezup.co.uk/
+privacy-policy: http://www.beezup.com/Home/Terms
+email: contactus@BeezUP.co.uk
+---
 
-# BeezUP
 
-Name: BeezUP
-Domain: beezup.co.uk
-Home: http://www.beezup.co.uk/
-Privacy_policy: http://www.beezup.com/Home/Terms
-Email: contactus@BeezUP.co.uk
+

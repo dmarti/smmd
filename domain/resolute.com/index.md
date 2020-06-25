@@ -1,8 +1,10 @@
+---
+company-name: "Resolute Digital"
+domain: resolute.com
+home: http://resolute.com/
+privacy-policy: https://resolute.com/privacy
+email: privacy@resolute.com
+---
 
-# Resolute Digital
 
-Name: Resolute Digital
-Domain: resolute.com
-Home: http://resolute.com/
-Privacy_policy: https://resolute.com/privacy
-Email: privacy@resolute.com
+

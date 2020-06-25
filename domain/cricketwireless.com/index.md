@@ -1,7 +1,9 @@
-# Cricket
+---
+company-name: Cricket
+domain: cricketwireless.com
+opt-out-url: https://www.cricketwireless.com/privacy
+---
 
-Name: Cricket
 
-Domain: cricketwireless.com
 
-Opt_out_url: https://www.cricketwireless.com/privacy
+

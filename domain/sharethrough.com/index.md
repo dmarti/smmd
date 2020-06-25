@@ -1,10 +1,11 @@
+---
+company-name: Sharethrough
+domain: sharethrough.com
+home: http://sharethrough.com
+privacy-policy: https://platform-cdn.sharethrough.com/privacy-policy
+email: privacy@sharethrough.com
+member-of: "Mobile Marketing Asc"
+---
 
-# Sharethrough
 
-Name: Sharethrough
-Domain: sharethrough.com
-Home: http://sharethrough.com
-Privacy_policy: https://platform-cdn.sharethrough.com/privacy-policy
-Email: privacy@sharethrough.com
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Mobile Marketing Asc
+

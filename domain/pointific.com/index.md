@@ -1,7 +1,9 @@
+---
+company-name: "Pointific Digital"
+domain: pointific.com
+home: http://pointific.com
+email: info@pointific.com
+---
 
-# Pointific Digital
 
-Name: Pointific Digital
-Domain: pointific.com
-Home: http://pointific.com
-Email: info@pointific.com
+

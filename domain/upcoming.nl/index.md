@@ -1,7 +1,9 @@
+---
+company-name: Upcoming
+domain: upcoming.nl
+home: http://www.upcoming.nl/
+privacy-policy: http://www.upcoming.nl/privacy
+---
 
-# Upcoming
 
-Name: Upcoming
-Domain: upcoming.nl
-Home: http://www.upcoming.nl/
-Privacy_policy: http://www.upcoming.nl/privacy
+

@@ -1,6 +1,8 @@
+---
+company-name: PopOnClick
+domain: poponclick.com
+home: http://poponclick.com
+---
 
-# PopOnClick
 
-Name: PopOnClick
-Domain: poponclick.com
-Home: http://poponclick.com
+

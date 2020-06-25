@@ -1,9 +1,11 @@
+---
+company-name: Mediasmith
+domain: mediasmith.com
+home: https://www.mediasmith.com/
+privacy-policy: https://mediasmith.com/mediasmith-privacy-policy/
+email: jcate@mediasmith.com
+member-of: "American Association of Advertising Agencies"
+---
 
-# Mediasmith
 
-Name: Mediasmith
-Domain: mediasmith.com
-Home: https://www.mediasmith.com/
-Privacy_policy: https://mediasmith.com/mediasmith-privacy-policy/
-Email: jcate@mediasmith.com
-Member_of: American Association of Advertising Agencies
+

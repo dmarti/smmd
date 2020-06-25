@@ -1,8 +1,10 @@
+---
+company-name: FitnessKeeper
+domain: runkeeper.com
+home: https://runkeeper.com/index
+privacy-policy: https://runkeeper.com/privacypolicy
+email: info@runkeeper.com
+---
 
-# FitnessKeeper
 
-Name: FitnessKeeper
-Domain: runkeeper.com
-Home: https://runkeeper.com/index
-Privacy_policy: https://runkeeper.com/privacypolicy
-Email: info@runkeeper.com
+

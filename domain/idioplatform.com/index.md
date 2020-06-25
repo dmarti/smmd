@@ -1,8 +1,10 @@
+---
+company-name: "Idio Platform"
+domain: idioplatform.com
+home: http://www.idioplatform.com/
+privacy-policy: https://idio.ai/website-privacy-and-cookies-policy/
+email: info@idioplatform.com
+---
 
-# Idio Platform
 
-Name: Idio Platform
-Domain: idioplatform.com
-Home: http://www.idioplatform.com/
-Privacy_policy: https://idio.ai/website-privacy-and-cookies-policy/
-Email: info@idioplatform.com
+

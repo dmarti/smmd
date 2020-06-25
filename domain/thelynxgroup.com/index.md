@@ -1,8 +1,10 @@
+---
+company-name: "The Lynx Group"
+domain: thelynxgroup.com
+home: https://thelynxgroup.com/
+privacy-policy: https://thelynxgroup.com/privacy-policy
+email: csupport@the-lynx-group.com
+---
 
-# The Lynx Group
 
-Name: The Lynx Group
-Domain: thelynxgroup.com
-Home: https://thelynxgroup.com/
-Privacy_policy: https://thelynxgroup.com/privacy-policy
-Email: csupport@the-lynx-group.com
+

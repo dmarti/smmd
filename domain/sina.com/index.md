@@ -1,6 +1,8 @@
+---
+company-name: Sina
+domain: sina.com
+home: http://www.sina.com/
+---
 
-# Sina
 
-Name: Sina
-Domain: sina.com
-Home: http://www.sina.com/
+

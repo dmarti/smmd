@@ -1,10 +1,10 @@
+---
+company-name: HSBC
+domain: hsbc.com
+home: http://www.hsbc.com/
+privacy-policy: http://www.hsbc.com/utilities/terms-and-conditions/
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# HSBC
 
-Name: HSBC
-Domain: hsbc.com
-Home: http://www.hsbc.com/
-Privacy_policy: http://www.hsbc.com/utilities/terms-and-conditions/
-Member_of: Association of National Advertisers
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

@@ -1,7 +1,9 @@
+---
+company-name: "D4M (Download-for.me)"
+domain: download-for.me
+home: http://download-for.me/index.html
+privacy-policy: http://download-for.me/page/privacy.html
+---
 
-# D4M (Download-for.me)
 
-Name: D4M (Download-for.me)
-Domain: download-for.me
-Home: http://download-for.me/index.html
-Privacy_policy: http://download-for.me/page/privacy.html
+

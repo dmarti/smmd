@@ -1,7 +1,9 @@
+---
+company-name: LeadGENIC
+domain: leadgenic.ru
+home: https://leadgenic.ru/
+privacy-policy: https://static.leadgenic.com/oferta_ru/leadgenic_oferta.pdf
+---
 
-# LeadGENIC
 
-Name: LeadGENIC
-Domain: leadgenic.ru
-Home: https://leadgenic.ru/
-Privacy_policy: https://static.leadgenic.com/oferta_ru/leadgenic_oferta.pdf
+

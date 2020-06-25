@@ -1,6 +1,8 @@
+---
+company-name: "VGN Digital"
+domain: vgn.at
+home: https://www.vgn.at/
+---
 
-# VGN Digital
 
-Name: VGN Digital
-Domain: vgn.at
-Home: https://www.vgn.at/
+

@@ -1,9 +1,11 @@
+---
+company-name: Anonymousdmp
+domain: anonymousdmp.com
+home: http://static.anonymousdmp.com/
+privacy-policy: http://static.anonymousdmp.com/privacy.html
+email: contact@anonymousdmp.com
+owned-by: "ADThink Media"
+---
 
-# Anonymousdmp
 
-Name: Anonymousdmp
-Domain: anonymousdmp.com
-Home: http://static.anonymousdmp.com/
-Privacy_policy: http://static.anonymousdmp.com/privacy.html
-Email: contact@anonymousdmp.com
-Owned_by: ADThink Media
+

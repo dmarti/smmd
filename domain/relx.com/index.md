@@ -1,8 +1,10 @@
+---
+company-name: "RELX Group (Formerly Reed Elsevier)"
+domain: relx.com
+home: http://www.relx.com/
+privacy-policy: http://www.relx.com/site-services/privacy
+email: privacy.policy@relx.com
+---
 
-# RELX Group (Formerly Reed Elsevier)
 
-Name: RELX Group (Formerly Reed Elsevier)
-Domain: relx.com
-Home: http://www.relx.com/
-Privacy_policy: http://www.relx.com/site-services/privacy
-Email: privacy.policy@relx.com
+

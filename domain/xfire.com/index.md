@@ -1,9 +1,11 @@
+---
+company-name: Xfire
+domain: xfire.com
+home: http://beta.xfire.com/
+privacy-policy: http://beta.xfire.com/privacy
+email: privacy@Xfire.com
+owned-by: Viacom
+---
 
-# Xfire
 
-Name: Xfire
-Domain: xfire.com
-Home: http://beta.xfire.com/
-Privacy_policy: http://beta.xfire.com/privacy
-Email: privacy@Xfire.com
-Owned_by: Viacom
+

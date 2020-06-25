@@ -1,7 +1,9 @@
+---
+company-name: "ilawyer Marketing (FKA BLiNQ Media)"
+domain: ilawyermarketing.com
+home: https://www.ilawyermarketing.com/
+email: privacy@blinqmedia.com
+---
 
-# ilawyer Marketing (FKA BLiNQ Media)
 
-Name: ilawyer Marketing (FKA BLiNQ Media)
-Domain: ilawyermarketing.com
-Home: https://www.ilawyermarketing.com/
-Email: privacy@blinqmedia.com
+

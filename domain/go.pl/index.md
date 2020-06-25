@@ -1,8 +1,10 @@
+---
+company-name: GO.PL
+domain: go.pl
+home: https://go.pl/
+privacy-policy: https://go.pl/polityka-bezpieczenstwa-danych-osobowych/
+email: privacy@go.pl
+---
 
-# GO.PL
 
-Name: GO.PL
-Domain: go.pl
-Home: https://go.pl/
-Privacy_policy: https://go.pl/polityka-bezpieczenstwa-danych-osobowych/
-Email: privacy@go.pl
+

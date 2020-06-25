@@ -1,8 +1,10 @@
+---
+company-name: Zuuvi
+domain: zuuvi.com
+home: http://zuuvi.com/
+privacy-policy: http://zuuvi.com/privacy.php
+email: hello@zuuvi.com
+---
 
-# Zuuvi
 
-Name: Zuuvi
-Domain: zuuvi.com
-Home: http://zuuvi.com/
-Privacy_policy: http://zuuvi.com/privacy.php
-Email: hello@zuuvi.com
+

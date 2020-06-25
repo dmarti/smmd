@@ -1,8 +1,10 @@
+---
+company-name: "Alaska Airlines"
+domain: alaskaair.com
+home: http://www.alaskaair.com/
+privacy-policy: http://www.alaskaair.com/content/legal/privacy-policy.aspx?lid=footer:privacyPolicy
+member-of: "Association of National Advertisers"
+---
 
-# Alaska Airlines
 
-Name: Alaska Airlines
-Domain: alaskaair.com
-Home: http://www.alaskaair.com/
-Privacy_policy: http://www.alaskaair.com/content/legal/privacy-policy.aspx?lid=footer:privacyPolicy
-Member_of: Association of National Advertisers
+

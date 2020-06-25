@@ -1,8 +1,10 @@
+---
+company-name: "Anti AdBlock"
+domain: zfvklk.ru
+home: http://zfvklk.ru/
+privacy-policy: http://zfvklk.ru/agreement.html
+email: support@spacepush.ru
+---
 
-# Anti AdBlock
 
-Name: Anti AdBlock
-Domain: zfvklk.ru
-Home: http://zfvklk.ru/
-Privacy_policy: http://zfvklk.ru/agreement.html
-Email: support@spacepush.ru
+

@@ -1,8 +1,10 @@
+---
+company-name: BrightTALK
+domain: brighttalk.com
+home: https://www.brighttalk.com/
+privacy-policy: https://business.brighttalk.com/company/privacy-policy/
+email: support@brighttalk.com
+---
 
-# BrightTALK
 
-Name: BrightTALK
-Domain: brighttalk.com
-Home: https://www.brighttalk.com/
-Privacy_policy: https://business.brighttalk.com/company/privacy-policy/
-Email: support@brighttalk.com
+

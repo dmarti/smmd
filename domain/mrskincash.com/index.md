@@ -1,7 +1,9 @@
+---
+company-name: MrSkinCash.com
+domain: mrskincash.com
+home: http://mrskincash.com/
+email: affiliates@mrskin.com
+---
 
-# MrSkinCash.com
 
-Name: MrSkinCash.com
-Domain: mrskincash.com
-Home: http://mrskincash.com/
-Email: affiliates@mrskin.com
+

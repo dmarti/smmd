@@ -1,8 +1,10 @@
+---
+company-name: AffnAds
+domain: affnads.com
+home: http://www.affnads.com/
+privacy-policy: http://www.affnads.com/privacy.html
+email: adops@affnads.com
+---
 
-# AffnAds
 
-Name: AffnAds
-Domain: affnads.com
-Home: http://www.affnads.com/
-Privacy_policy: http://www.affnads.com/privacy.html
-Email: adops@affnads.com
+

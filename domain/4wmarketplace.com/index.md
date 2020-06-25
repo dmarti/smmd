@@ -1,8 +1,10 @@
+---
+company-name: "4w Marketplace"
+domain: 4wmarketplace.com
+home: http://www.4wmarketplace.com/
+privacy-policy: http://www.4wmarketplace.com/privacy/
+email: 4winfo@4wmarketplace.com
+---
 
-# 4w Marketplace
 
-Name: 4w Marketplace
-Domain: 4wmarketplace.com
-Home: http://www.4wmarketplace.com/
-Privacy_policy: http://www.4wmarketplace.com/privacy/
-Email: 4winfo@4wmarketplace.com
+

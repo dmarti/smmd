@@ -1,8 +1,10 @@
+---
+company-name: eZanga
+domain: ezanga.com
+home: http://www.ezanga.com/
+privacy-policy: http://www.ezanga.com/privacy
+email: support@ezanga.com
+---
 
-# eZanga
 
-Name: eZanga
-Domain: ezanga.com
-Home: http://www.ezanga.com/
-Privacy_policy: http://www.ezanga.com/privacy
-Email: support@ezanga.com
+

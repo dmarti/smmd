@@ -1,13 +1,15 @@
+---
+company-name: OneTrust
+domain: onetrust.com
+home: https://onetrust.com/products/cookies/
+privacy-policy: https://www.cookielaw.org/privacy-policy/
+email: info@cookielaw.org
+---
 
-# OneTrust
 
-Name: OneTrust
 
-Domain: onetrust.com
 
-Home: https://onetrust.com/products/cookies/
 
-Privacy_policy: https://www.cookielaw.org/privacy-policy/
 
-Email: info@cookielaw.org
+
 

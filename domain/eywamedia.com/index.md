@@ -1,8 +1,10 @@
+---
+company-name: "Eywa Media"
+domain: eywamedia.com
+home: http://www.eywamedia.com/
+privacy-policy: http://www.eywamedia.com/privacy-policy.html
+email: privacy@eywamedia.com
+---
 
-# Eywa Media
 
-Name: Eywa Media
-Domain: eywamedia.com
-Home: http://www.eywamedia.com/
-Privacy_policy: http://www.eywamedia.com/privacy-policy.html
-Email: privacy@eywamedia.com
+

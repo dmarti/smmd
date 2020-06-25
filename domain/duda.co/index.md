@@ -1,8 +1,10 @@
+---
+company-name: DudaMobile
+domain: duda.co
+home: https://www1.duda.co/
+privacy-policy: https://www.duda.co/legal/privacy
+email: legal@duda.co
+---
 
-# DudaMobile
 
-Name: DudaMobile
-Domain: duda.co
-Home: https://www1.duda.co/
-Privacy_policy: https://www.duda.co/legal/privacy
-Email: legal@duda.co
+

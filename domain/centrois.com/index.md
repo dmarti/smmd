@@ -1,7 +1,9 @@
+---
+company-name: Centrois
+domain: centrois.com
+home: http://www.centrois.com/
+privacy-policy: http://kortx.io/privacy.html
+---
 
-# Centrois
 
-Name: Centrois
-Domain: centrois.com
-Home: http://www.centrois.com/
-Privacy_policy: http://kortx.io/privacy.html
+

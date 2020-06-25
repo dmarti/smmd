@@ -1,7 +1,9 @@
+---
+company-name: GlobalTakeoff
+domain: globaltakeoff.net
+home: http://www.globaltakeoff.net/
+privacy-policy: http://www.globaltakeoff.net/PrivacyPolicy.aspx
+---
 
-# GlobalTakeoff
 
-Name: GlobalTakeoff
-Domain: globaltakeoff.net
-Home: http://www.globaltakeoff.net/
-Privacy_policy: http://www.globaltakeoff.net/PrivacyPolicy.aspx
+

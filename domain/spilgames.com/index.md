@@ -1,8 +1,10 @@
+---
+company-name: "Spil Games"
+domain: spilgames.com
+home: http://www.spilgames.com/
+privacy-policy: http://www.spilgames.com/privacy-policy/
+email: info@spilgames.com
+---
 
-# Spil Games
 
-Name: Spil Games
-Domain: spilgames.com
-Home: http://www.spilgames.com/
-Privacy_policy: http://www.spilgames.com/privacy-policy/
-Email: info@spilgames.com
+

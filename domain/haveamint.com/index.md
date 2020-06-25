@@ -1,6 +1,8 @@
+---
+company-name: Mint
+domain: haveamint.com
+home: http://haveamint.com/
+---
 
-# Mint
 
-Name: Mint
-Domain: haveamint.com
-Home: http://haveamint.com/
+

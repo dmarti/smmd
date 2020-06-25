@@ -1,9 +1,11 @@
+---
+company-name: Amadesa
+domain: amadesa.com
+home: http://www.amadesa.com/
+email: support@amadesa.com
+owned-by: LivePerson
+member-of: TrustE_TrustArc
+---
 
-# Amadesa
 
-Name: Amadesa
-Domain: amadesa.com
-Home: http://www.amadesa.com/
-Email: support@amadesa.com
-Owned_by: LivePerson
-Member_of: TrustE_TrustArc
+

@@ -1,8 +1,10 @@
+---
+company-name: Hootsuite
+domain: hootsuite.com
+home: https://hootsuite.com/
+privacy-policy: https://hootsuite.com/legal/privacy
+email: privacy@hootsuite.com
+---
 
-# Hootsuite
 
-Name: Hootsuite
-Domain: hootsuite.com
-Home: https://hootsuite.com/
-Privacy_policy: https://hootsuite.com/legal/privacy
-Email: privacy@hootsuite.com
+

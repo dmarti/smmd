@@ -1,8 +1,10 @@
+---
+company-name: Cocomore
+domain: cocomore.com
+home: http://www.cocomore.com/
+privacy-policy: http://www.cocomore.com/privacy
+email: info@cocomore.com
+---
 
-# Cocomore
 
-Name: Cocomore
-Domain: cocomore.com
-Home: http://www.cocomore.com/
-Privacy_policy: http://www.cocomore.com/privacy
-Email: info@cocomore.com
+

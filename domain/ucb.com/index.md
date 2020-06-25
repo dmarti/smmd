@@ -1,8 +1,10 @@
+---
+company-name: "UCB Pharma"
+domain: ucb.com
+home: https://www.ucb.com/
+privacy-policy: https://www.ucb.com/Privacy-Policy
+email: dataprivacy@ucb.com
+---
 
-# UCB Pharma
 
-Name: UCB Pharma
-Domain: ucb.com
-Home: https://www.ucb.com/
-Privacy_policy: https://www.ucb.com/Privacy-Policy
-Email: dataprivacy@ucb.com
+

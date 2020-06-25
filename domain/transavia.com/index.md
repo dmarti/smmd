@@ -1,7 +1,9 @@
+---
+company-name: Transavia
+domain: transavia.com
+home: http://www.transavia.com
+privacy-policy: https://corporate.transavia.com/en-NL/sitecore/content/nl/the-small-print/privacy/
+---
 
-# Transavia
 
-Name: Transavia
-Domain: transavia.com
-Home: http://www.transavia.com
-Privacy_policy: https://corporate.transavia.com/en-NL/sitecore/content/nl/the-small-print/privacy/
+

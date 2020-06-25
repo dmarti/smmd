@@ -1,8 +1,10 @@
+---
+company-name: "SFT Video Network"
+domain: brznetwork.com
+home: http://brznetwork.com/
+privacy-policy: http://
+email: info@sftgroup.it
+---
 
-# SFT Video Network
 
-Name: SFT Video Network
-Domain: brznetwork.com
-Home: http://brznetwork.com/
-Privacy_policy: http://
-Email: info@sftgroup.it
+

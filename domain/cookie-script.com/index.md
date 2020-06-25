@@ -1,7 +1,9 @@
+---
+company-name: "Cookie Script"
+domain: cookie-script.com
+home: https://cookie-script.com/
+privacy-policy: https://cookie-script.com/privacy-policy-and-disclaimer.html
+---
 
-# Cookie Script
 
-Name: Cookie Script
-Domain: cookie-script.com
-Home: https://cookie-script.com/
-Privacy_policy: https://cookie-script.com/privacy-policy-and-disclaimer.html
+

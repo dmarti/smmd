@@ -1,9 +1,11 @@
+---
+company-name: Cablato
+domain: cablato.com
+home: https://cablato.com/index.html
+privacy-policy: https://cablato.com/privacy
+email: privacy@cablato.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Cablato
 
-Name: Cablato
-Domain: cablato.com
-Home: https://cablato.com/index.html
-Privacy_policy: https://cablato.com/privacy
-Email: privacy@cablato.com
-Member_of: Interactive Advertising Bureau (IAB)
+

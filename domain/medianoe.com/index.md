@@ -1,7 +1,9 @@
+---
+company-name: medianoe
+domain: medianoe.com
+home: http://www.medianoe.com/
+email: contact@medianoe.com
+---
 
-# medianoe
 
-Name: medianoe
-Domain: medianoe.com
-Home: http://www.medianoe.com/
-Email: contact@medianoe.com
+

@@ -1,11 +1,12 @@
+---
+company-name: "Initiative Media"
+domain: initiative.com
+home: https://initiative.com/
+privacy-policy: https://initiative.com/privacy-policy/
+email: contact@mbww.com
+owned-by: "IPG Mediabrands"
+member-of: "American Advertising Federation"
+---
 
-# Initiative Media
 
-Name: Initiative Media
-Domain: initiative.com
-Home: https://initiative.com/
-Privacy_policy: https://initiative.com/privacy-policy/
-Email: contact@mbww.com
-Owned_by: IPG Mediabrands
-Member_of: American Association of Advertising Agencies
-Member_of: American Advertising Federation
+

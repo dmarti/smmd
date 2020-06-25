@@ -1,8 +1,10 @@
+---
+company-name: "Hooplo Media"
+domain: hooplomedia.com
+home: http://www.hooplomedia.com/
+privacy-policy: http://www.hooplomedia.com/privacy
+email: support@hooplomedia.com
+---
 
-# Hooplo Media
 
-Name: Hooplo Media
-Domain: hooplomedia.com
-Home: http://www.hooplomedia.com/
-Privacy_policy: http://www.hooplomedia.com/privacy
-Email: support@hooplomedia.com
+

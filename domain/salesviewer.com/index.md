@@ -1,8 +1,10 @@
+---
+company-name: SalesViewer
+domain: salesviewer.com
+home: https://www.salesviewer.com/
+privacy-policy: https://www.salesviewer.com/datenschutz
+email: info@salesviewer.com
+---
 
-# SalesViewer
 
-Name: SalesViewer
-Domain: salesviewer.com
-Home: https://www.salesviewer.com/
-Privacy_policy: https://www.salesviewer.com/datenschutz
-Email: info@salesviewer.com
+

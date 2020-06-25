@@ -1,6 +1,8 @@
+---
+company-name: Trafex
+domain: trafex.net
+home: http://trafex.net/
+---
 
-# Trafex
 
-Name: Trafex
-Domain: trafex.net
-Home: http://trafex.net/
+

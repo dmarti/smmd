@@ -1,7 +1,9 @@
-# CreditKarma
+---
+company-name: CreditKarma
+domain: creditkarma.com
+opt-out-url: https://www.creditkarma.com/about/privacy-ca-20200101
+---
 
-Name: CreditKarma
 
-Domain: creditkarma.com
 
-Opt_out_url: https://www.creditkarma.com/about/privacy-ca-20200101
+

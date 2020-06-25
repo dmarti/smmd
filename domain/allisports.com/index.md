@@ -1,9 +1,11 @@
+---
+company-name: "Alli Sports"
+domain: allisports.com
+home: http://www.allisports.com/
+privacy-policy: http://www.nbcuniversal.com/privacy/
+email: privacy@nbcuni.com
+owned-by: NBCUniversal
+---
 
-# Alli Sports
 
-Name: Alli Sports
-Domain: allisports.com
-Home: http://www.allisports.com/
-Privacy_policy: http://www.nbcuniversal.com/privacy/
-Email: privacy@nbcuni.com
-Owned_by: NBCUniversal
+

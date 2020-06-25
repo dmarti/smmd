@@ -1,7 +1,9 @@
+---
+company-name: DoublePimp
+domain: doublepimp.com
+home: http://doublepimp.com/
+owned-by: AdSupply
+---
 
-# DoublePimp
 
-Name: DoublePimp
-Domain: doublepimp.com
-Home: http://doublepimp.com/
-Owned_by: AdSupply
+

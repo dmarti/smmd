@@ -1,8 +1,10 @@
+---
+company-name: Neo@Ogilvy
+domain: neoogilvy.com
+home: https://www.neoogilvy.com/
+privacy-policy: https://www.ogilvy.com/Privacy-Policy.aspx
+email: webmaster@ogilvy.com
+---
 
-# Neo@Ogilvy
 
-Name: Neo@Ogilvy
-Domain: neoogilvy.com
-Home: https://www.neoogilvy.com/
-Privacy_policy: https://www.ogilvy.com/Privacy-Policy.aspx
-Email: webmaster@ogilvy.com
+

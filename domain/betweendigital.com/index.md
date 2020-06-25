@@ -1,9 +1,11 @@
+---
+company-name: "Between Digital"
+domain: betweendigital.com
+home: http://betweendigital.com/
+privacy-policy: http://betweendigital.ru/privacy-policy/
+email: info@betweendigital.ru
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Between Digital
 
-Name: Between Digital
-Domain: betweendigital.com
-Home: http://betweendigital.com/
-Privacy_policy: http://betweendigital.ru/privacy-policy/
-Email: info@betweendigital.ru
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

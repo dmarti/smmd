@@ -1,8 +1,10 @@
+---
+company-name: "Atlanta Journal-Constitution"
+domain: ajc.com
+home: https://www.ajc.com/
+privacy-policy: https://www.ajc.com/privacy_policy/
+email: privacy@coxinc.com
+---
 
-# Atlanta Journal-Constitution
 
-Name: Atlanta Journal-Constitution
-Domain: ajc.com
-Home: https://www.ajc.com/
-Privacy_policy: https://www.ajc.com/privacy_policy/
-Email: privacy@coxinc.com
+

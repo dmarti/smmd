@@ -1,23 +1,11 @@
-
-# Skipsmasher, Inc.
-
-Name: Skipsmasher, Inc.
-
-Domain: skipsmasher.com
-
-Home: skipsmasher.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 368025
-
-
-
+---
+company-name: "Skipsmasher, Inc."
+domain: skipsmasher.com
+home: skipsmasher.com
+vermont-id: 368025
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 368025
 
 
 
+
 ## Additional info
 
 
 
+
 PO Box 891329, Temecula, CA, 92589, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

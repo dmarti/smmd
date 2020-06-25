@@ -1,9 +1,11 @@
+---
+company-name: CRM4D
+domain: crm4d.com
+home: https://crm4d.com/
+privacy-policy: https://crm4d.com/privacy
+email: contact@graphinium.com
+owned-by: Graphinium
+---
 
-# CRM4D
 
-Name: CRM4D
-Domain: crm4d.com
-Home: https://crm4d.com/
-Privacy_policy: https://crm4d.com/privacy
-Email: contact@graphinium.com
-Owned_by: Graphinium
+

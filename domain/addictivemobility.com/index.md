@@ -1,10 +1,11 @@
+---
+company-name: "Addictive Mobility"
+domain: addictivemobility.com
+home: https://www.addictivemobility.com/
+privacy-policy: https://www.addictivemobility.com/privacy.html
+email: privacy@addictivemobility.com
+member-of: "Mobile Marketing Asc"
+---
 
-# Addictive Mobility
 
-Name: Addictive Mobility
-Domain: addictivemobility.com
-Home: https://www.addictivemobility.com/
-Privacy_policy: https://www.addictivemobility.com/privacy.html
-Email: privacy@addictivemobility.com
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Mobile Marketing Asc
+

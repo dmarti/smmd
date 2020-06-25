@@ -1,25 +1,13 @@
-
-# LexisNexis Risk Solutions
-
-Name: LexisNexis Risk Solutions
-
-Domain: lexisnexis.com
-
-Home: http://risk.lexisnexis.com
-
-Email: consumer.documents [at] lexisnexis.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 01/31/2020
-
-Vermont_id: 353281
-
-
-
+---
+company-name: "LexisNexis Risk Solutions"
+domain: lexisnexis.com
+home: http://risk.lexisnexis.com
+email: "consumer.documents [at] lexisnexis.com"
+california-date: 01/31/2020
+vermont-id: 353281
+---
 ## How to opt out
+
 
 California consumers may opt out or submit requests under the CCPA at:
 
@@ -34,6 +22,7 @@ Atlanta, GA 30348-5295
 
 ## How to delete
 
+
 Protected individuals can submit requests by phone at 1-888-217-1591 or at:
 
 LexisNexis Individual Requests for Information Suppression
@@ -43,9 +32,23 @@ Email: privacy.information.mgr@lexisnexis.com
 
 ## Additional info
 
+
 Addition information is available at: 
 
 https://consumer.risk.lexisnexis.com/california
 
 1000 Alderman DriveAlpharetta, GA 30005United States
+
+
+
+
+
+
+
+
+
+
+
+
+
 

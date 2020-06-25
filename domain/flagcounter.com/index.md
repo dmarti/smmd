@@ -1,7 +1,9 @@
+---
+company-name: "Flag Counter"
+domain: flagcounter.com
+home: http://flagcounter.com/
+privacy-policy: http://flagcounter.com/privacy.html
+---
 
-# Flag Counter
 
-Name: Flag Counter
-Domain: flagcounter.com
-Home: http://flagcounter.com/
-Privacy_policy: http://flagcounter.com/privacy.html
+

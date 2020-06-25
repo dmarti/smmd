@@ -1,8 +1,10 @@
+---
+company-name: Advrtas
+domain: advrtas.com
+home: https://advrtas.com/
+privacy-policy: https://advrtas.com/privacy-policy/
+email: privacy@advrtas.com
+---
 
-# Advrtas
 
-Name: Advrtas
-Domain: advrtas.com
-Home: https://advrtas.com/
-Privacy_policy: https://advrtas.com/privacy-policy/
-Email: privacy@advrtas.com
+

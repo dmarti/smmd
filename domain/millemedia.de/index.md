@@ -1,8 +1,10 @@
+---
+company-name: Millemedia
+domain: millemedia.de
+home: https://www.millemedia.de/
+privacy-policy: https://www.millemedia.de/datenschutz/
+email: info@millemedia.de
+---
 
-# Millemedia
 
-Name: Millemedia
-Domain: millemedia.de
-Home: https://www.millemedia.de/
-Privacy_policy: https://www.millemedia.de/datenschutz/
-Email: info@millemedia.de
+

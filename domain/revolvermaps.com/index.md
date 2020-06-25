@@ -1,8 +1,10 @@
+---
+company-name: "Revolver Maps"
+domain: revolvermaps.com
+home: http://www.revolvermaps.com/
+privacy-policy: http://www.revolvermaps.com/?target=legal#privacy
+email: contact@revolvermaps.com
+---
 
-# Revolver Maps
 
-Name: Revolver Maps
-Domain: revolvermaps.com
-Home: http://www.revolvermaps.com/
-Privacy_policy: http://www.revolvermaps.com/?target=legal#privacy
-Email: contact@revolvermaps.com
+

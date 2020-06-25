@@ -1,7 +1,9 @@
+---
+company-name: VideoAmp
+domain: videoamp.com
+home: https://www.videoamp.com/
+privacy-policy: https://secure.videoamp.com/privacy.html
+---
 
-# VideoAmp
 
-Name: VideoAmp
-Domain: videoamp.com
-Home: https://www.videoamp.com/
-Privacy_policy: https://secure.videoamp.com/privacy.html
+

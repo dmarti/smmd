@@ -1,8 +1,10 @@
+---
+company-name: "LCX Digital"
+domain: lcx.com
+home: http://www.lcx.com/
+privacy-policy: http://ads.lcxdigital.com/
+email: sales@lcx.com
+---
 
-# LCX Digital
 
-Name: LCX Digital
-Domain: lcx.com
-Home: http://www.lcx.com/
-Privacy_policy: http://ads.lcxdigital.com/
-Email: sales@lcx.com
+

@@ -1,8 +1,10 @@
-# BlueKai
+---
+company-name: BlueKai
+domain: bluekai.com
+owned-by: oracle.com
+---
 
-Name: BlueKai
 
-Domain: bluekai.com
 
-Owned_by: oracle.com
+
 

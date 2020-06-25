@@ -1,8 +1,10 @@
+---
+company-name: Silktide
+domain: silktide.com
+home: https://silktide.com/
+privacy-policy: https://silktide.com/privacy-policy/
+email: support@silktide.com
+---
 
-# Silktide
 
-Name: Silktide
-Domain: silktide.com
-Home: https://silktide.com/
-Privacy_policy: https://silktide.com/privacy-policy/
-Email: support@silktide.com
+

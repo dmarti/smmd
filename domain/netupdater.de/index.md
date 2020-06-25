@@ -1,8 +1,10 @@
+---
+company-name: NetUpdater
+domain: netupdater.de
+home: https://netupdater.de/
+privacy-policy: https://www.netupdater.de/datenschutz/
+email: info@onm.de
+---
 
-# NetUpdater
 
-Name: NetUpdater
-Domain: netupdater.de
-Home: https://netupdater.de/
-Privacy_policy: https://www.netupdater.de/datenschutz/
-Email: info@onm.de
+

@@ -1,10 +1,11 @@
+---
+company-name: "Online Advertising Network"
+domain: oan.pl
+home: https://www.oan.pl/pl
+privacy-policy: https://www.oan.pl/pl/polityka-prywatnosci
+email: privacy@oan.pl
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Online Advertising Network
 
-Name: Online Advertising Network
-Domain: oan.pl
-Home: https://www.oan.pl/pl
-Privacy_policy: https://www.oan.pl/pl/polityka-prywatnosci
-Email: privacy@oan.pl
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

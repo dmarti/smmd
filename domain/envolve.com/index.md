@@ -1,7 +1,9 @@
+---
+company-name: Envolve
+domain: envolve.com
+home: https://www.envolve.com/
+privacy-policy: https://www.envolve.com/privacy.html
+---
 
-# Envolve
 
-Name: Envolve
-Domain: envolve.com
-Home: https://www.envolve.com/
-Privacy_policy: https://www.envolve.com/privacy.html
+

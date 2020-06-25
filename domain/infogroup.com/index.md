@@ -1,9 +1,11 @@
+---
+company-name: Infogroup
+domain: infogroup.com
+home: http://www.infogroup.com/
+privacy-policy: http://www.infogroup.com/privacy-policy
+email: contentfeedback@infogroup.com
+member-of: DMA_ANA
+---
 
-# Infogroup
 
-Name: Infogroup
-Domain: infogroup.com
-Home: http://www.infogroup.com/
-Privacy_policy: http://www.infogroup.com/privacy-policy
-Email: contentfeedback@infogroup.com
-Member_of: DMA_ANA
+

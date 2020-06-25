@@ -1,8 +1,10 @@
+---
+company-name: SaleCycle
+domain: salecycle.com
+home: https://www.salecycle.com/
+privacy-policy: https://www.salecycle.com/service-privacy-notice/
+email: bonjour@salecycle.com
+---
 
-# SaleCycle
 
-Name: SaleCycle
-Domain: salecycle.com
-Home: https://www.salecycle.com/
-Privacy_policy: https://www.salecycle.com/service-privacy-notice/
-Email: bonjour@salecycle.com
+

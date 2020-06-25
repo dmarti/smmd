@@ -1,7 +1,9 @@
+---
+company-name: "NAF Digital"
+domain: nafdigital.com
+home: http://www.nafdigital.com/
+email: info@nafdigital.com
+---
 
-# NAF Digital
 
-Name: NAF Digital
-Domain: nafdigital.com
-Home: http://www.nafdigital.com/
-Email: info@nafdigital.com
+

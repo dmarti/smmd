@@ -1,6 +1,8 @@
+---
+company-name: Mamba
+domain: mamba.ru
+home: http://play.mamba.ru/
+---
 
-# Mamba
 
-Name: Mamba
-Domain: mamba.ru
-Home: http://play.mamba.ru/
+

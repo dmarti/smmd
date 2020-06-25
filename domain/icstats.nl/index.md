@@ -1,7 +1,9 @@
+---
+company-name: ICStats
+domain: icstats.nl
+home: http://www.icstats.nl/
+email: info@icstats.nl
+---
 
-# ICStats
 
-Name: ICStats
-Domain: icstats.nl
-Home: http://www.icstats.nl/
-Email: info@icstats.nl
+

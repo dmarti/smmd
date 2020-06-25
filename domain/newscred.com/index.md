@@ -1,8 +1,10 @@
+---
+company-name: NewsCred
+domain: newscred.com
+home: https://www.newscred.com/
+privacy-policy: https://www.newscred.com/privacypolicy/
+email: privacy@newscred.com
+---
 
-# NewsCred
 
-Name: NewsCred
-Domain: newscred.com
-Home: https://www.newscred.com/
-Privacy_policy: https://www.newscred.com/privacypolicy/
-Email: privacy@newscred.com
+

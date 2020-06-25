@@ -1,8 +1,10 @@
+---
+company-name: Inspectlet
+domain: inspectlet.com
+home: https://www.inspectlet.com/
+privacy-policy: https://www.inspectlet.com/legal#privacy
+email: terms@inspectlet.com
+---
 
-# Inspectlet
 
-Name: Inspectlet
-Domain: inspectlet.com
-Home: https://www.inspectlet.com/
-Privacy_policy: https://www.inspectlet.com/legal#privacy
-Email: terms@inspectlet.com
+

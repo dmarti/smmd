@@ -1,11 +1,11 @@
+---
+company-name: Undertone
+domain: undertone.com
+home: https://www.undertone.com/
+privacy-policy: https://www.undertone.com/privacy/
+email: privacy@undertone.com
+member-of: "Network Advertising Initiative"
+---
 
-# Undertone
 
-Name: Undertone
-Domain: undertone.com
-Home: https://www.undertone.com/
-Privacy_policy: https://www.undertone.com/privacy/
-Email: privacy@undertone.com
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Network Advertising Initiative
+

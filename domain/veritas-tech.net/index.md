@@ -1,6 +1,8 @@
+---
+company-name: "Veritas Technologies, LLC"
+domain: veritas-tech.net
+home: http://www.veritas-tech.net/
+---
 
-# Veritas Technologies, LLC
 
-Name: Veritas Technologies, LLC
-Domain: veritas-tech.net
-Home: http://www.veritas-tech.net/
+

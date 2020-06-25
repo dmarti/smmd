@@ -1,6 +1,8 @@
+---
+company-name: TrajetTrax
+domain: appattern.com
+home: http://appattern.com
+---
 
-# TrajetTrax
 
-Name: TrajetTrax
-Domain: appattern.com
-Home: http://appattern.com
+

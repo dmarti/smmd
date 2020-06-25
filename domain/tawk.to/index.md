@@ -1,8 +1,10 @@
+---
+company-name: Tawk
+domain: tawk.to
+home: https://www.tawk.to/
+privacy-policy: https://www.tawk.to/privacy-policy/
+email: support@tawk.to
+---
 
-# Tawk
 
-Name: Tawk
-Domain: tawk.to
-Home: https://www.tawk.to/
-Privacy_policy: https://www.tawk.to/privacy-policy/
-Email: support@tawk.to
+

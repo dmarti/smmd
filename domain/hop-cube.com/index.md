@@ -1,7 +1,9 @@
+---
+company-name: Hop-Cube
+domain: hop-cube.com
+home: http://www.hop-cube.com/
+email: contact@hop-cube.com
+---
 
-# Hop-Cube
 
-Name: Hop-Cube
-Domain: hop-cube.com
-Home: http://www.hop-cube.com/
-Email: contact@hop-cube.com
+

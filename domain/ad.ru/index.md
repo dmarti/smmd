@@ -1,7 +1,9 @@
+---
+company-name: AD.RU
+domain: ad.ru
+home: http://ad.ru/
+email: andrew@ad.ru
+---
 
-# AD.RU
 
-Name: AD.RU
-Domain: ad.ru
-Home: http://ad.ru/
-Email: andrew@ad.ru
+

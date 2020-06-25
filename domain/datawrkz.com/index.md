@@ -1,8 +1,10 @@
+---
+company-name: Datawrkz
+domain: datawrkz.com
+home: http://datawrkz.com/
+privacy-policy: http://datawrkz.com/privacy-policy/
+email: ops@datawrkz.com
+---
 
-# Datawrkz
 
-Name: Datawrkz
-Domain: datawrkz.com
-Home: http://datawrkz.com/
-Privacy_policy: http://datawrkz.com/privacy-policy/
-Email: ops@datawrkz.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "NetWise Data"
+domain: netwisedata.com
+home: https://www.netwisedata.com
+privacy-policy: https://www.netwisedata.com/privacy-policy
+email: privacy@NetWiseData.com
+---
 
-# NetWise Data
 
-Name: NetWise Data
-Domain: netwisedata.com
-Home: https://www.netwisedata.com
-Privacy_policy: https://www.netwisedata.com/privacy-policy
-Email: privacy@NetWiseData.com
+

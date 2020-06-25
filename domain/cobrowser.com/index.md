@@ -1,8 +1,10 @@
+---
+company-name: CoBrowser.net
+domain: cobrowser.com
+home: https://www.cobrowser.com/
+privacy-policy: https://www.cobrowser.net/voorwaarden/privacybeleid/
+email: info@cobrowser.net
+---
 
-# CoBrowser.net
 
-Name: CoBrowser.net
-Domain: cobrowser.com
-Home: https://www.cobrowser.com/
-Privacy_policy: https://www.cobrowser.net/voorwaarden/privacybeleid/
-Email: info@cobrowser.net
+

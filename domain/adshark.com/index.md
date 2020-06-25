@@ -1,6 +1,8 @@
+---
+company-name: ADshark
+domain: adshark.com
+home: http://adshark.com/
+---
 
-# ADshark
 
-Name: ADshark
-Domain: adshark.com
-Home: http://adshark.com/
+

@@ -1,8 +1,10 @@
+---
+company-name: Ulta
+domain: ulta.com
+home: http://www.ulta.com/
+privacy-policy: http://www.ulta.com/ulta/common/privacyPolicy.jsp
+email: service@ulta.com
+---
 
-# Ulta
 
-Name: Ulta
-Domain: ulta.com
-Home: http://www.ulta.com/
-Privacy_policy: http://www.ulta.com/ulta/common/privacyPolicy.jsp
-Email: service@ulta.com
+

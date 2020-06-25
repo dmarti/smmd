@@ -1,9 +1,11 @@
+---
+company-name: "Direct Interactive"
+domain: directinteractive.de
+home: https://www.directinteractive.de/
+privacy-policy: https://www.directinteractive.de/datenschutz/
+email: directinteractive@datenschutzanfrage.de
+owned-by: "Hubert Burda Media"
+---
 
-# Direct Interactive
 
-Name: Direct Interactive
-Domain: directinteractive.de
-Home: https://www.directinteractive.de/
-Privacy_policy: https://www.directinteractive.de/datenschutz/
-Email: directinteractive@datenschutzanfrage.de
-Owned_by: Hubert Burda Media
+

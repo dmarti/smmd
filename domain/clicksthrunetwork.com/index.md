@@ -1,6 +1,8 @@
+---
+company-name: ClicksThruNetwork
+domain: clicksthrunetwork.com
+home: http://www.clicksthrunetwork.com/
+---
 
-# ClicksThruNetwork
 
-Name: ClicksThruNetwork
-Domain: clicksthrunetwork.com
-Home: http://www.clicksthrunetwork.com/
+

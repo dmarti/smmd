@@ -1,8 +1,10 @@
+---
+company-name: "The Blaze"
+domain: theblaze.com
+home: http://www.theblaze.com/
+privacy-policy: https://www.theblaze.com/privacy
+email: privacy@theblaze.com
+---
 
-# The Blaze
 
-Name: The Blaze
-Domain: theblaze.com
-Home: http://www.theblaze.com/
-Privacy_policy: https://www.theblaze.com/privacy
-Email: privacy@theblaze.com
+

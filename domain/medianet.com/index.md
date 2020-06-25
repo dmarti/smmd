@@ -1,12 +1,11 @@
+---
+company-name: "MediaNet by Casale Media"
+domain: medianet.com
+home: https://www.medianet.com/
+privacy-policy: https://www.medianet.com/privacy/
+owned-by: "Index Exchange (Formerly Casale Media)"
+member-of: TrustE_TrustArc
+---
 
-# MediaNet by Casale Media
 
-Name: MediaNet by Casale Media
-Domain: medianet.com
-Home: https://www.medianet.com/
-Privacy_policy: https://www.medianet.com/privacy/
-Owned_by: Index Exchange (Formerly Casale Media)
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
-Member_of: TrustE_TrustArc
+

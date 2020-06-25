@@ -1,8 +1,10 @@
+---
+company-name: Loggly
+domain: loggly.com
+home: https://www.loggly.com/
+privacy-policy: https://www.loggly.com/about/privacy-policy/
+email: info@loggly.com
+---
 
-# Loggly
 
-Name: Loggly
-Domain: loggly.com
-Home: https://www.loggly.com/
-Privacy_policy: https://www.loggly.com/about/privacy-policy/
-Email: info@loggly.com
+

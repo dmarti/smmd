@@ -1,7 +1,9 @@
+---
+company-name: TrafficHaus
+domain: traffichaus.com
+home: https://www.traffichaus.com
+privacy-policy: https://www.traffichaus.com/privacy-policy.php
+---
 
-# TrafficHaus
 
-Name: TrafficHaus
-Domain: traffichaus.com
-Home: https://www.traffichaus.com
-Privacy_policy: https://www.traffichaus.com/privacy-policy.php
+

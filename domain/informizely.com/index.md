@@ -1,8 +1,10 @@
+---
+company-name: "Informizely (Formerly Insitez)"
+domain: informizely.com
+home: https://www.informizely.com/
+privacy-policy: https://www.informizely.com/PrivacyPolicy
+email: info@informizely.com
+---
 
-# Informizely (Formerly Insitez)
 
-Name: Informizely (Formerly Insitez)
-Domain: informizely.com
-Home: https://www.informizely.com/
-Privacy_policy: https://www.informizely.com/PrivacyPolicy
-Email: info@informizely.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Horyzon
+domain: horyzon.com
+home: https://www.horyzon.com/
+email: contact@horyzon.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Horyzon
 
-Name: Horyzon
-Domain: horyzon.com
-Home: https://www.horyzon.com/
-Email: contact@horyzon.com
-Member_of: European Data Interactive Alliance
+

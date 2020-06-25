@@ -1,7 +1,9 @@
+---
+company-name: AdClickZone
+domain: adclickzone.com
+home: http://www.adclickzone.com/
+email: info@adclickzone.com
+---
 
-# AdClickZone
 
-Name: AdClickZone
-Domain: adclickzone.com
-Home: http://www.adclickzone.com/
-Email: info@adclickzone.com
+

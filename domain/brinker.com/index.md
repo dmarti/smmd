@@ -1,7 +1,9 @@
-# Brinker International
+---
+company-name: "Brinker International"
+domain: brinker.com
+opt-out-url: https://www.brinker.com/privacypolicy.asp
+---
 
-Name: Brinker International
 
-Domain: brinker.com
 
-Opt_out_url: https://www.brinker.com/privacypolicy.asp
+

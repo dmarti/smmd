@@ -1,10 +1,12 @@
+---
+company-name: TUNE
+domain: hasoffers.com
+home: http://www.hasoffers.com/
+privacy-policy: https://www.hasoffers.com/privacy-policy/
+email: privacy@hasoffers.com
+owned-by: "Tune MobileAppTracking"
+member-of: TrustE_TrustArc
+---
 
-# TUNE
 
-Name: TUNE
-Domain: hasoffers.com
-Home: http://www.hasoffers.com/
-Privacy_policy: https://www.hasoffers.com/privacy-policy/
-Email: privacy@hasoffers.com
-Owned_by: Tune MobileAppTracking
-Member_of: TrustE_TrustArc
+

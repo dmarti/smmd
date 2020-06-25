@@ -1,9 +1,11 @@
+---
+company-name: "Bleacher Report"
+domain: bleacherreport.com
+home: http://bleacherreport.com/
+privacy-policy: http://bleacherreport.com/pages/privacy
+email: support@bleacherreport.com
+owned-by: "Turner Broadcasting System"
+---
 
-# Bleacher Report
 
-Name: Bleacher Report
-Domain: bleacherreport.com
-Home: http://bleacherreport.com/
-Privacy_policy: http://bleacherreport.com/pages/privacy
-Email: support@bleacherreport.com
-Owned_by: Turner Broadcasting System
+

@@ -1,8 +1,10 @@
+---
+company-name: "Verint Systems"
+domain: verint.com
+home: https://www.verint.com/index.html
+privacy-policy: https://www.verint.com/our-company/legal-documents/privacy-policy/index.html
+email: privacy@verint.com
+---
 
-# Verint Systems
 
-Name: Verint Systems
-Domain: verint.com
-Home: https://www.verint.com/index.html
-Privacy_policy: https://www.verint.com/our-company/legal-documents/privacy-policy/index.html
-Email: privacy@verint.com
+

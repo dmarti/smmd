@@ -1,8 +1,10 @@
+---
+company-name: "Moreover Technologies (formerly NewsRight)"
+domain: newsright.com
+home: http://www.newsright.com/
+privacy-policy: http://www.moreover.com/privacy-policy
+email: legal@moreover.com
+---
 
-# Moreover Technologies (formerly NewsRight)
 
-Name: Moreover Technologies (formerly NewsRight)
-Domain: newsright.com
-Home: http://www.newsright.com/
-Privacy_policy: http://www.moreover.com/privacy-policy
-Email: legal@moreover.com
+

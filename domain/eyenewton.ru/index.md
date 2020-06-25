@@ -1,8 +1,10 @@
+---
+company-name: EyeNewton
+domain: eyenewton.ru
+home: http://eyenewton.ru/
+privacy-policy: http://eyenewton.ru/docs/privacy_policy.pdf
+email: support@eyenewton.ru
+---
 
-# EyeNewton
 
-Name: EyeNewton
-Domain: eyenewton.ru
-Home: http://eyenewton.ru/
-Privacy_policy: http://eyenewton.ru/docs/privacy_policy.pdf
-Email: support@eyenewton.ru
+

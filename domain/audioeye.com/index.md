@@ -1,8 +1,10 @@
+---
+company-name: AudioEye
+domain: audioeye.com
+home: https://www.audioeye.com/
+privacy-policy: https://www.audioeye.com/privacy-policy/
+email: info@audioeye.com
+---
 
-# AudioEye
 
-Name: AudioEye
-Domain: audioeye.com
-Home: https://www.audioeye.com/
-Privacy_policy: https://www.audioeye.com/privacy-policy/
-Email: info@audioeye.com
+

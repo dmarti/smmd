@@ -1,9 +1,11 @@
+---
+company-name: "Adtelligent (Formerly Verta Media)"
+domain: adtelligent.com
+home: https://adtelligent.com/
+privacy-policy: https://adtelligent.com/privacy-policy/
+email: support@vertamedia.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Adtelligent (Formerly Verta Media)
 
-Name: Adtelligent (Formerly Verta Media)
-Domain: adtelligent.com
-Home: https://adtelligent.com/
-Privacy_policy: https://adtelligent.com/privacy-policy/
-Email: support@vertamedia.com
-Member_of: Interactive Advertising Bureau (IAB)
+

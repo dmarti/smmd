@@ -1,9 +1,11 @@
+---
+company-name: AdDefend
+domain: addefend.com
+home: https://www.addefend.com
+privacy-policy: https://www.addefend.com/en/privacy-policy/
+email: privacy@addefend.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# AdDefend
 
-Name: AdDefend
-Domain: addefend.com
-Home: https://www.addefend.com
-Privacy_policy: https://www.addefend.com/en/privacy-policy/
-Email: privacy@addefend.com
-Member_of: Interactive Advertising Bureau (IAB)
+

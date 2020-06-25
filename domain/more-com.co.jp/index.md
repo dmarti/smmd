@@ -1,8 +1,10 @@
+---
+company-name: "More Communication"
+domain: more-com.co.jp
+home: http://www.more-com.co.jp/
+privacy-policy: http://www.more-com.co.jp/privacy/
+email: privacy@more-com.co.jp
+---
 
-# More Communication
 
-Name: More Communication
-Domain: more-com.co.jp
-Home: http://www.more-com.co.jp/
-Privacy_policy: http://www.more-com.co.jp/privacy/
-Email: privacy@more-com.co.jp
+

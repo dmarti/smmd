@@ -1,9 +1,11 @@
+---
+company-name: Visilabs
+domain: visilabs.com
+home: http://visilabs.com/
+privacy-policy: http://visilabs.com/terms.html
+email: contact@visilabs.com
+owned-by: "Related Digital"
+---
 
-# Visilabs
 
-Name: Visilabs
-Domain: visilabs.com
-Home: http://visilabs.com/
-Privacy_policy: http://visilabs.com/terms.html
-Email: contact@visilabs.com
-Owned_by: Related Digital
+

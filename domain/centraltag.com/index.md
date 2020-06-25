@@ -1,7 +1,9 @@
+---
+company-name: CentralTag
+domain: centraltag.com
+home: http://www.centraltag.com/commercial/policy/index.action
+privacy-policy: http://www.centraltag.com/commercial/policy/index.action#contact
+---
 
-# CentralTag
 
-Name: CentralTag
-Domain: centraltag.com
-Home: http://www.centraltag.com/commercial/policy/index.action
-Privacy_policy: http://www.centraltag.com/commercial/policy/index.action#contact
+

@@ -1,21 +1,10 @@
-
-# Veriglif
-
-Name: Veriglif
-
-Domain: veriglif.com
-
-Home: veriglif.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: Veriglif
+domain: veriglif.com
+home: veriglif.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

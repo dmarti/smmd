@@ -1,23 +1,12 @@
-
-# Scryer, Inc. (dba Reonomy)
-
-Name: Scryer, Inc. (dba Reonomy)
-
-Domain: reonomy.com
-
-Home: http://www.reonomy.com
-
-Email: info [at] reonomy.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/27/2020
-
-
-
+---
+company-name: "Scryer, Inc. (dba Reonomy)"
+domain: reonomy.com
+home: http://www.reonomy.com
+email: "info [at] reonomy.com"
+california-date: 02/27/2020
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +14,23 @@ California_date: 02/27/2020
 
 
 
+
 ## Additional info
 
 
 
+
 767 Third AvenueNew York, NY 10017United States
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,7 +1,9 @@
+---
+company-name: MegaIndex
+domain: megaindex.ru
+home: http://www.megaindex.ru
+email: support@megaindex.ru
+---
 
-# MegaIndex
 
-Name: MegaIndex
-Domain: megaindex.ru
-Home: http://www.megaindex.ru
-Email: support@megaindex.ru
+

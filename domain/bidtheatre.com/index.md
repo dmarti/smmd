@@ -1,10 +1,11 @@
+---
+company-name: BidTheatre
+domain: bidtheatre.com
+home: http://www.bidtheatre.com/
+privacy-policy: https://www.bidtheatre.com/privacy-policy/
+email: privacy@bidtheatre.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# BidTheatre
 
-Name: BidTheatre
-Domain: bidtheatre.com
-Home: http://www.bidtheatre.com/
-Privacy_policy: https://www.bidtheatre.com/privacy-policy/
-Email: privacy@bidtheatre.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,7 +1,9 @@
+---
+company-name: Fanbase
+domain: fanbase.net
+home: https://fanbase.net
+privacy-policy: https://fanbase.net/privacy-policy/
+---
 
-# Fanbase
 
-Name: Fanbase
-Domain: fanbase.net
-Home: https://fanbase.net
-Privacy_policy: https://fanbase.net/privacy-policy/
+

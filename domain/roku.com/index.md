@@ -1,9 +1,11 @@
+---
+company-name: Roku
+domain: roku.com
+home: https://www.roku.com/
+privacy-policy: https://docs.roku.com/doc/userprivacypolicy/en-us
+email: privacy@roku.com
+member-of: "Better Business Bureau"
+---
 
-# Roku
 
-Name: Roku
-Domain: roku.com
-Home: https://www.roku.com/
-Privacy_policy: https://docs.roku.com/doc/userprivacypolicy/en-us
-Email: privacy@roku.com
-Member_of: Better Business Bureau
+

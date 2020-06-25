@@ -1,6 +1,8 @@
+---
+company-name: MyAffiliates
+domain: myaffiliates.com
+home: http://www.myaffiliates.com/
+---
 
-# MyAffiliates
 
-Name: MyAffiliates
-Domain: myaffiliates.com
-Home: http://www.myaffiliates.com/
+

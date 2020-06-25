@@ -1,7 +1,9 @@
+---
+company-name: Rockerbox
+domain: rockerbox.com
+home: http://www.rockerbox.com/
+privacy-policy: http://www.rockerbox.com/privacy
+---
 
-# Rockerbox
 
-Name: Rockerbox
-Domain: rockerbox.com
-Home: http://www.rockerbox.com/
-Privacy_policy: http://www.rockerbox.com/privacy
+

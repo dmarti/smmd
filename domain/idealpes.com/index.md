@@ -1,7 +1,9 @@
+---
+company-name: Idealpes
+domain: idealpes.com
+home: http://www.idealpes.com/index.php
+email: info@idealpes.com
+---
 
-# Idealpes
 
-Name: Idealpes
-Domain: idealpes.com
-Home: http://www.idealpes.com/index.php
-Email: info@idealpes.com
+

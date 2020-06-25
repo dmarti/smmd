@@ -1,8 +1,10 @@
+---
+company-name: Bridgevine
+domain: bridgevine.com
+home: https://bridgevine.com/
+privacy-policy: https://bridgevine.com/privacy-policy
+email: customercare@bridgevine.com
+---
 
-# Bridgevine
 
-Name: Bridgevine
-Domain: bridgevine.com
-Home: https://bridgevine.com/
-Privacy_policy: https://bridgevine.com/privacy-policy
-Email: customercare@bridgevine.com
+

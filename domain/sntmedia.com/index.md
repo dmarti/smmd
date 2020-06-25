@@ -1,7 +1,9 @@
+---
+company-name: "SNT media"
+domain: sntmedia.com
+home: http://sntmedia.com/
+email: hello@sntmedia.com
+---
 
-# SNT media
 
-Name: SNT media
-Domain: sntmedia.com
-Home: http://sntmedia.com/
-Email: hello@sntmedia.com
+

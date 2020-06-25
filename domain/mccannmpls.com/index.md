@@ -1,8 +1,10 @@
+---
+company-name: "McCann Minneapolis (formerly Campbell Mithun) (formerly Compass Point Media)"
+domain: mccannmpls.com
+home: http://www.mccannmpls.com/
+email: mpls@cmithun.com
+member-of: "American Association of Advertising Agencies"
+---
 
-# McCann Minneapolis (formerly Campbell Mithun) (formerly Compass Point Media)
 
-Name: McCann Minneapolis (formerly Campbell Mithun) (formerly Compass Point Media)
-Domain: mccannmpls.com
-Home: http://www.mccannmpls.com/
-Email: mpls@cmithun.com
-Member_of: American Association of Advertising Agencies
+

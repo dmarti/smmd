@@ -1,8 +1,10 @@
+---
+company-name: "AdExtent (formerly SemantiNet)"
+domain: adextent.com
+home: http://www.adextent.com/
+privacy-policy: http://www.adextent.com/privacy-policy/index.html
+email: privacy@adextent.com
+---
 
-# AdExtent (formerly SemantiNet)
 
-Name: AdExtent (formerly SemantiNet)
-Domain: adextent.com
-Home: http://www.adextent.com/
-Privacy_policy: http://www.adextent.com/privacy-policy/index.html
-Email: privacy@adextent.com
+

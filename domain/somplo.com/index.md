@@ -1,8 +1,10 @@
+---
+company-name: Somplo
+domain: somplo.com
+home: http://somplo.com/
+privacy-policy: http://somplo.com/privacy-policy/
+email: support@somplo.com
+---
 
-# Somplo
 
-Name: Somplo
-Domain: somplo.com
-Home: http://somplo.com/
-Privacy_policy: http://somplo.com/privacy-policy/
-Email: support@somplo.com
+

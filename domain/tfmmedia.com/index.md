@@ -1,6 +1,8 @@
+---
+company-name: "TFM Media"
+domain: tfmmedia.com
+home: http://www.tfmmedia.com/
+---
 
-# TFM Media
 
-Name: TFM Media
-Domain: tfmmedia.com
-Home: http://www.tfmmedia.com/
+

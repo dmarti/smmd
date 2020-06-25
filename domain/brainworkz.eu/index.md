@@ -1,8 +1,10 @@
+---
+company-name: Brainworkz
+domain: brainworkz.eu
+home: http://brainworkz.eu
+privacy-policy: https://brainworx.audio/privacy-policy.html
+email: info@brainworkz.eu
+---
 
-# Brainworkz
 
-Name: Brainworkz
-Domain: brainworkz.eu
-Home: http://brainworkz.eu
-Privacy_policy: https://brainworx.audio/privacy-policy.html
-Email: info@brainworkz.eu
+

@@ -1,9 +1,11 @@
+---
+company-name: Where
+domain: where.com
+home: http://site.where.com/
+privacy-policy: https://advertising.paypal.com/privacy-policy/
+email: support@where.com
+owned-by: PayPal
+---
 
-# Where
 
-Name: Where
-Domain: where.com
-Home: http://site.where.com/
-Privacy_policy: https://advertising.paypal.com/privacy-policy/
-Email: support@where.com
-Owned_by: PayPal
+

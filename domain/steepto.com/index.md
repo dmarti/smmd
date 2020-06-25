@@ -1,6 +1,8 @@
+---
+company-name: Steepto
+domain: steepto.com
+home: https://www.steepto.com/
+---
 
-# Steepto
 
-Name: Steepto
-Domain: steepto.com
-Home: https://www.steepto.com/
+

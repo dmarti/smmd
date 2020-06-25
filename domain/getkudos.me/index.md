@@ -1,8 +1,10 @@
+---
+company-name: GetKudos
+domain: getkudos.me
+home: https://www.getkudos.me/
+email: support@zopim.com
+owned-by: Zopim
+---
 
-# GetKudos
 
-Name: GetKudos
-Domain: getkudos.me
-Home: https://www.getkudos.me/
-Email: support@zopim.com
-Owned_by: Zopim
+

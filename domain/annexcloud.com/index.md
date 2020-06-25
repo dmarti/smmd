@@ -1,8 +1,10 @@
+---
+company-name: "Social Annex"
+domain: annexcloud.com
+home: http://www.annexcloud.com/
+privacy-policy: http://www.annexcloud.com/privacy-policy
+email: privacy@annexcloud.com
+---
 
-# Social Annex
 
-Name: Social Annex
-Domain: annexcloud.com
-Home: http://www.annexcloud.com/
-Privacy_policy: http://www.annexcloud.com/privacy-policy
-Email: privacy@annexcloud.com
+

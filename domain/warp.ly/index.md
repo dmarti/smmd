@@ -1,10 +1,12 @@
+---
+company-name: Warp.ly
+domain: warp.ly
+home: https://warp.ly/
+privacy-policy: http://
+email: info@warp.ly
+owned-by: Freshdesk
+member-of: TrustE_TrustArc
+---
 
-# Warp.ly
 
-Name: Warp.ly
-Domain: warp.ly
-Home: https://warp.ly/
-Privacy_policy: http://
-Email: info@warp.ly
-Owned_by: Freshdesk
-Member_of: TrustE_TrustArc
+

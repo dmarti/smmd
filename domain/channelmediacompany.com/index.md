@@ -1,8 +1,10 @@
+---
+company-name: "Channel Media"
+domain: channelmediacompany.com
+home: https://www.channelmediacompany.com/
+privacy-policy: https://www.channelmediacompany.com/privacy-policy.php
+email: privacy@channelmediacompany.com
+---
 
-# Channel Media
 
-Name: Channel Media
-Domain: channelmediacompany.com
-Home: https://www.channelmediacompany.com/
-Privacy_policy: https://www.channelmediacompany.com/privacy-policy.php
-Email: privacy@channelmediacompany.com
+

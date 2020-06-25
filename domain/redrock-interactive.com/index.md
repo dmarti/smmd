@@ -1,8 +1,10 @@
+---
+company-name: "Red Rock Interactive"
+domain: redrock-interactive.com
+home: http://www.redrock-interactive.com/
+privacy-policy: http://www.redrock-interactive.com/privacy-policy/
+email: privacy@redrock-interactive.com
+---
 
-# Red Rock Interactive
 
-Name: Red Rock Interactive
-Domain: redrock-interactive.com
-Home: http://www.redrock-interactive.com/
-Privacy_policy: http://www.redrock-interactive.com/privacy-policy/
-Email: privacy@redrock-interactive.com
+

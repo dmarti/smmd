@@ -1,8 +1,10 @@
+---
+company-name: "SoMo Audience"
+domain: somoaudience.com
+home: https://somoaudience.com/
+privacy-policy: https://somoaudience.com/legal
+email: info@somoaudience.com
+---
 
-# SoMo Audience
 
-Name: SoMo Audience
-Domain: somoaudience.com
-Home: https://somoaudience.com/
-Privacy_policy: https://somoaudience.com/legal
-Email: info@somoaudience.com
+

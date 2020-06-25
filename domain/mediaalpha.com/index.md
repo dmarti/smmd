@@ -1,8 +1,10 @@
+---
+company-name: MediaAlpha
+domain: mediaalpha.com
+home: http://mediaalpha.com/
+privacy-policy: http://mediaalpha.com/privacy-policy/
+email: info@mediaalpha.com
+---
 
-# MediaAlpha
 
-Name: MediaAlpha
-Domain: mediaalpha.com
-Home: http://mediaalpha.com/
-Privacy_policy: http://mediaalpha.com/privacy-policy/
-Email: info@mediaalpha.com
+

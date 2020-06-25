@@ -1,8 +1,10 @@
+---
+company-name: stat24
+domain: stat24.com
+home: http://www.stat24.com/en/
+privacy-policy: http://www.stat24.com/About_Us__Privacy_Policy,6662/index.html
+email: kontakt@stat24.com
+---
 
-# stat24
 
-Name: stat24
-Domain: stat24.com
-Home: http://www.stat24.com/en/
-Privacy_policy: http://www.stat24.com/About_Us__Privacy_Policy,6662/index.html
-Email: kontakt@stat24.com
+

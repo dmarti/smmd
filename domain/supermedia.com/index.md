@@ -1,8 +1,10 @@
+---
+company-name: "Dex Media Previously (SuperMedia)"
+domain: supermedia.com
+home: http://www.supermedia.com/
+privacy-policy: http://www.dexmedia.com/privacy/
+email: spinfo@SuperMedia.com
+---
 
-# Dex Media Previously (SuperMedia)
 
-Name: Dex Media Previously (SuperMedia)
-Domain: supermedia.com
-Home: http://www.supermedia.com/
-Privacy_policy: http://www.dexmedia.com/privacy/
-Email: spinfo@SuperMedia.com
+

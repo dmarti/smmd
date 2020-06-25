@@ -1,8 +1,10 @@
+---
+company-name: Dialogtech
+domain: dialogtech.com
+home: https://www.dialogtech.com/
+privacy-policy: https://www.dialogtech.com/about/privacy-policy
+email: custservice@DialogTech.com
+---
 
-# Dialogtech
 
-Name: Dialogtech
-Domain: dialogtech.com
-Home: https://www.dialogtech.com/
-Privacy_policy: https://www.dialogtech.com/about/privacy-policy
-Email: custservice@DialogTech.com
+

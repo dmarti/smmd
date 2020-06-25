@@ -1,6 +1,8 @@
+---
+company-name: Healix
+domain: healixglobal.com
+home: https://www.healixglobal.com/
+---
 
-# Healix
 
-Name: Healix
-Domain: healixglobal.com
-Home: https://www.healixglobal.com/
+

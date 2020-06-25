@@ -1,7 +1,9 @@
-# SCE Southern California Edison
+---
+company-name: "SCE Southern California Edison"
+domain: sce.com
+opt-out-url: https://www.sce.com/california-consumer-privacy-act-information-request
+---
 
-Name: SCE Southern California Edison
 
-Domain: sce.com
 
-Opt_out_url: https://www.sce.com/california-consumer-privacy-act-information-request
+

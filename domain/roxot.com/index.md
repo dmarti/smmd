@@ -1,6 +1,8 @@
+---
+company-name: Roxot
+domain: roxot.com
+home: http://roxot.com/
+---
 
-# Roxot
 
-Name: Roxot
-Domain: roxot.com
-Home: http://roxot.com/
+

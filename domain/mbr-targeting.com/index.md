@@ -1,8 +1,10 @@
+---
+company-name: "mbr targeting"
+domain: mbr-targeting.com
+home: http://mbr-targeting.com/
+privacy-policy: https://privacy.mbr-targeting.com/?optedIn=true
+email: info@mbr-targeting.com
+---
 
-# mbr targeting
 
-Name: mbr targeting
-Domain: mbr-targeting.com
-Home: http://mbr-targeting.com/
-Privacy_policy: https://privacy.mbr-targeting.com/?optedIn=true
-Email: info@mbr-targeting.com
+

@@ -1,6 +1,8 @@
+---
+company-name: MASTERLEAD
+domain: masterlead.ru
+home: http://masterlead.ru/
+---
 
-# MASTERLEAD
 
-Name: MASTERLEAD
-Domain: masterlead.ru
-Home: http://masterlead.ru/
+

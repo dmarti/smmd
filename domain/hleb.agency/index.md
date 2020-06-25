@@ -1,8 +1,10 @@
+---
+company-name: HLEB
+domain: hleb.agency
+home: https://hleb.agency/
+privacy-policy: https://hleb.agency/policy/rus/index.html
+email: info@hleb.agency
+---
 
-# HLEB
 
-Name: HLEB
-Domain: hleb.agency
-Home: https://hleb.agency/
-Privacy_policy: https://hleb.agency/policy/rus/index.html
-Email: info@hleb.agency
+

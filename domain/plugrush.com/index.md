@@ -1,8 +1,10 @@
+---
+company-name: PlugRush
+domain: plugrush.com
+home: http://www.plugrush.com/
+privacy-policy: https://www.plugrush.com/support/privacy-policy/
+email: support@plugrush.com
+---
 
-# PlugRush
 
-Name: PlugRush
-Domain: plugrush.com
-Home: http://www.plugrush.com/
-Privacy_policy: https://www.plugrush.com/support/privacy-policy/
-Email: support@plugrush.com
+

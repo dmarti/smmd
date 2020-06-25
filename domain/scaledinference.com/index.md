@@ -1,8 +1,10 @@
+---
+company-name: "Scaled Inference"
+domain: scaledinference.com
+home: https://scaledinference.com/
+privacy-policy: https://scaledinference.com/privacy-policy
+email: privacy@scaledinference.com
+---
 
-# Scaled Inference
 
-Name: Scaled Inference
-Domain: scaledinference.com
-Home: https://scaledinference.com/
-Privacy_policy: https://scaledinference.com/privacy-policy
-Email: privacy@scaledinference.com
+

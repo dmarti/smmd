@@ -1,7 +1,9 @@
+---
+company-name: LeadBullet
+domain: leadbullet.pl
+home: http://leadbullet.pl/
+email: kontakt@leadbullet.pl
+---
 
-# LeadBullet
 
-Name: LeadBullet
-Domain: leadbullet.pl
-Home: http://leadbullet.pl/
-Email: kontakt@leadbullet.pl
+

@@ -1,8 +1,10 @@
+---
+company-name: PeakadX
+domain: peakadx.com
+home: https://www.peakadx.com/
+privacy-policy: https://www.peakadx.com/privacy.php
+email: privacy@peakadx.com
+---
 
-# PeakadX
 
-Name: PeakadX
-Domain: peakadx.com
-Home: https://www.peakadx.com/
-Privacy_policy: https://www.peakadx.com/privacy.php
-Email: privacy@peakadx.com
+

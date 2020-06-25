@@ -1,6 +1,8 @@
+---
+company-name: CSCU
+domain: cscu.net
+home: https://www.cscu.net/
+---
 
-# CSCU
 
-Name: CSCU
-Domain: cscu.net
-Home: https://www.cscu.net/
+

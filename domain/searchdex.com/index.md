@@ -1,7 +1,9 @@
+---
+company-name: SearchDex
+domain: searchdex.com
+home: http://www.searchdex.com/
+privacy-policy: http://www.searchdex.com/privacy-statement/
+---
 
-# SearchDex
 
-Name: SearchDex
-Domain: searchdex.com
-Home: http://www.searchdex.com/
-Privacy_policy: http://www.searchdex.com/privacy-statement/
+

@@ -1,7 +1,9 @@
+---
+company-name: Netscaler
+domain: netscalers.com
+home: https://www.netscalers.com/
+email: info@netscalers.com
+---
 
-# Netscaler
 
-Name: Netscaler
-Domain: netscalers.com
-Home: https://www.netscalers.com/
-Email: info@netscalers.com
+

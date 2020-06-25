@@ -1,9 +1,11 @@
+---
+company-name: AdOnion
+domain: adonion.com
+home: http://www.adonion.com/
+privacy-policy: http://www.adonion.com/privacy_policy.php
+email: privacy@AdOnion.com
+owned-by: YesUp
+---
 
-# AdOnion
 
-Name: AdOnion
-Domain: adonion.com
-Home: http://www.adonion.com/
-Privacy_policy: http://www.adonion.com/privacy_policy.php
-Email: privacy@AdOnion.com
-Owned_by: YesUp
+

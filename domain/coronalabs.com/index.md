@@ -1,9 +1,11 @@
+---
+company-name: "Corona Labs"
+domain: coronalabs.com
+home: https://coronalabs.com/
+privacy-policy: https://coronalabs.com/privacy-policy/
+email: privacy@coronalabs.com
+owned-by: RythmOne
+---
 
-# Corona Labs
 
-Name: Corona Labs
-Domain: coronalabs.com
-Home: https://coronalabs.com/
-Privacy_policy: https://coronalabs.com/privacy-policy/
-Email: privacy@coronalabs.com
-Owned_by: RythmOne
+

@@ -1,8 +1,10 @@
+---
+company-name: Freshworks
+domain: freshworks.com
+home: https://www.freshworks.com/
+privacy-policy: https://www.freshworks.com/privacy/
+email: support@freshworks.com
+---
 
-# Freshworks
 
-Name: Freshworks
-Domain: freshworks.com
-Home: https://www.freshworks.com/
-Privacy_policy: https://www.freshworks.com/privacy/
-Email: support@freshworks.com
+

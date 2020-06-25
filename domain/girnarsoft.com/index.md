@@ -1,8 +1,10 @@
+---
+company-name: Girnarsoft
+domain: girnarsoft.com
+home: http://girnarsoft.com/
+privacy-policy: http://girnarsoft.com/privacy-policy-p13v
+email: contact@girnarsoft.com
+---
 
-# Girnarsoft
 
-Name: Girnarsoft
-Domain: girnarsoft.com
-Home: http://girnarsoft.com/
-Privacy_policy: http://girnarsoft.com/privacy-policy-p13v
-Email: contact@girnarsoft.com
+

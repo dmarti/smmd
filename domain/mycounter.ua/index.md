@@ -1,8 +1,10 @@
+---
+company-name: MyCounter.ua
+domain: mycounter.ua
+home: https://mycounter.ua/
+privacy-policy: https://mycounter.ua/privacy.php
+email: info@mycounter.ua
+---
 
-# MyCounter.ua
 
-Name: MyCounter.ua
-Domain: mycounter.ua
-Home: https://mycounter.ua/
-Privacy_policy: https://mycounter.ua/privacy.php
-Email: info@mycounter.ua
+

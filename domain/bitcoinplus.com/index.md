@@ -1,7 +1,9 @@
+---
+company-name: "Bitcoin Plus"
+domain: bitcoinplus.com
+home: http://www.bitcoinplus.com/
+email: donny@bitcoinplus.com
+---
 
-# Bitcoin Plus
 
-Name: Bitcoin Plus
-Domain: bitcoinplus.com
-Home: http://www.bitcoinplus.com/
-Email: donny@bitcoinplus.com
+

@@ -1,7 +1,9 @@
+---
+company-name: CrankyAds
+domain: crankyads.com
+home: http://www.crankyads.com
+email: support@crankyads.com
+---
 
-# CrankyAds
 
-Name: CrankyAds
-Domain: crankyads.com
-Home: http://www.crankyads.com
-Email: support@crankyads.com
+

@@ -1,7 +1,9 @@
+---
+company-name: webtrack
+domain: webtrack.biz
+home: http://www.webtrack.biz/
+email: info@webtrack.biz
+---
 
-# webtrack
 
-Name: webtrack
-Domain: webtrack.biz
-Home: http://www.webtrack.biz/
-Email: info@webtrack.biz
+

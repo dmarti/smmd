@@ -1,25 +1,13 @@
-
-# Venntel, Inc.
-
-Name: Venntel, Inc.
-
-Domain: Venntel.com
-
-Home: http://Venntel.com
-
-Email: legal [at] venntel.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 04/01/2020
-
-Vermont_id: 369842
-
-
-
+---
+company-name: "Venntel, Inc."
+domain: Venntel.com
+home: http://Venntel.com
+email: "legal [at] venntel.com"
+california-date: 04/01/2020
+vermont-id: 369842
+---
 ## How to opt out
+
 
 For any requests related to the CCPA, a protected individual may contact us by any of the following mechanisms:
 
@@ -31,6 +19,7 @@ A consumer may also visit our website to submit a right to know request under th
 
 ## How to delete
 
+
 A protected individual may submit a deletion request by:
 
 1) Emailing us at legal@venntel.com;
@@ -39,7 +28,21 @@ A protected individual may submit a deletion request by:
 
 ## Additional info
 
+
 Venntel takes consumers’ privacy seriously. Our third data providers are appropriately vetted, and are contractually bound to represent and warrant they have complied with all applicable laws as it relates to their collection, use, and transfer of consumer personal information. Please visit our Privacy Policy at https://www.venntel.com/privacy-policy for more information on our privacy practices and your rights.
 
 2201 Cooperative WaySuite 600Herndon, VA 20166United States
+
+
+
+
+
+
+
+
+
+
+
+
+
 

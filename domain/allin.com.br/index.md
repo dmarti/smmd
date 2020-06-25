@@ -1,8 +1,10 @@
+---
+company-name: AllIn
+domain: allin.com.br
+home: http://allin.com.br/
+privacy-policy: http://allin.com.br/politica-de-privacidade/
+email: contato@allin.com.br
+---
 
-# AllIn
 
-Name: AllIn
-Domain: allin.com.br
-Home: http://allin.com.br/
-Privacy_policy: http://allin.com.br/politica-de-privacidade/
-Email: contato@allin.com.br
+

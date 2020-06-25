@@ -1,7 +1,9 @@
+---
+company-name: "Hands Mobile"
+domain: hands.com.br
+home: http://hands.com.br/
+email: contato@hands.com.br
+---
 
-# Hands Mobile
 
-Name: Hands Mobile
-Domain: hands.com.br
-Home: http://hands.com.br/
-Email: contato@hands.com.br
+

@@ -1,8 +1,10 @@
+---
+company-name: CyberAgent
+domain: cyberagent.info
+home: http://www.cyberagent.info/
+privacy-policy: http://www.cyberagent.info/privacy/
+email: caprivacypolicy@cyberagent.co.jp
+---
 
-# CyberAgent
 
-Name: CyberAgent
-Domain: cyberagent.info
-Home: http://www.cyberagent.info/
-Privacy_policy: http://www.cyberagent.info/privacy/
-Email: caprivacypolicy@cyberagent.co.jp
+

@@ -1,8 +1,10 @@
+---
+company-name: Adinton
+domain: adinton.com
+home: https://www.adinton.com/
+privacy-policy: https://www.adinton.com/legal-notice-privacy-policy/
+email: hello@adinton.com
+---
 
-# Adinton
 
-Name: Adinton
-Domain: adinton.com
-Home: https://www.adinton.com/
-Privacy_policy: https://www.adinton.com/legal-notice-privacy-policy/
-Email: hello@adinton.com
+

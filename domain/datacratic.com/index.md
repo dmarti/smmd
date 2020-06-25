@@ -1,8 +1,10 @@
+---
+company-name: Datacratic
+domain: datacratic.com
+home: https://www.datacratic.com/
+privacy-policy: https://www.iperceptions.com/en/legal/privacy-policy
+email: info@iPerceptions.com
+---
 
-# Datacratic
 
-Name: Datacratic
-Domain: datacratic.com
-Home: https://www.datacratic.com/
-Privacy_policy: https://www.iperceptions.com/en/legal/privacy-policy
-Email: info@iPerceptions.com
+

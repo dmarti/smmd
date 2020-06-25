@@ -1,8 +1,10 @@
+---
+company-name: Ustream
+domain: ustream.tv
+home: http://www.ustream.tv/
+privacy-policy: http://www.ustream.tv/privacy-policy
+email: privacy@ustream.tv
+---
 
-# Ustream
 
-Name: Ustream
-Domain: ustream.tv
-Home: http://www.ustream.tv/
-Privacy_policy: http://www.ustream.tv/privacy-policy
-Email: privacy@ustream.tv
+

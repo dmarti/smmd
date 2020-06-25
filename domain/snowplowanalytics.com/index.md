@@ -1,8 +1,10 @@
+---
+company-name: Snowplow
+domain: snowplowanalytics.com
+home: https://snowplowanalytics.com/
+privacy-policy: https://snowplowanalytics.com/privacy-policy/
+email: contact@snowplowanalytics.com
+---
 
-# Snowplow
 
-Name: Snowplow
-Domain: snowplowanalytics.com
-Home: https://snowplowanalytics.com/
-Privacy_policy: https://snowplowanalytics.com/privacy-policy/
-Email: contact@snowplowanalytics.com
+

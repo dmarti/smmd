@@ -1,9 +1,11 @@
+---
+company-name: bitly
+domain: bitly.com
+home: https://bitly.com/
+privacy-policy: https://bitly.com/pages/privacy
+email: support@bitly.com
+owned-by: betaworks
+---
 
-# bitly
 
-Name: bitly
-Domain: bitly.com
-Home: https://bitly.com/
-Privacy_policy: https://bitly.com/pages/privacy
-Email: support@bitly.com
-Owned_by: betaworks
+

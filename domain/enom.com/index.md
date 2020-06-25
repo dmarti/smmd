@@ -1,8 +1,10 @@
+---
+company-name: Enom
+domain: enom.com
+home: https://www.enom.com/
+privacy-policy: https://www.enom.com/terms/privacy.aspx
+email: legal@enom.com
+---
 
-# Enom
 
-Name: Enom
-Domain: enom.com
-Home: https://www.enom.com/
-Privacy_policy: https://www.enom.com/terms/privacy.aspx
-Email: legal@enom.com
+

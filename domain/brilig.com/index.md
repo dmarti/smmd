@@ -1,10 +1,11 @@
+---
+company-name: Brilig
+domain: brilig.com
+home: http://www.brilig.com/
+email: privacy@brilig.com
+owned-by: Merkle
+member-of: "Network Advertising Initiative"
+---
 
-# Brilig
 
-Name: Brilig
-Domain: brilig.com
-Home: http://www.brilig.com/
-Email: privacy@brilig.com
-Owned_by: Merkle
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

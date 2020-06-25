@@ -1,8 +1,10 @@
+---
+company-name: SendtoNews
+domain: sendtonews.com
+home: http://www.sendtonews.com/
+privacy-policy: http://www.sendtonews.com/privacy/
+email: support@SendtoNews.com
+---
 
-# SendtoNews
 
-Name: SendtoNews
-Domain: sendtonews.com
-Home: http://www.sendtonews.com/
-Privacy_policy: http://www.sendtonews.com/privacy/
-Email: support@SendtoNews.com
+

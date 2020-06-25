@@ -1,8 +1,10 @@
+---
+company-name: Cavai
+domain: cav.ai
+home: https://cav.ai/
+privacy-policy: https://cav.ai/privacy-policy/
+email: hello@cav.ai.
+---
 
-# Cavai
 
-Name: Cavai
-Domain: cav.ai
-Home: https://cav.ai/
-Privacy_policy: https://cav.ai/privacy-policy/
-Email: hello@cav.ai.
+

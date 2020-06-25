@@ -1,7 +1,9 @@
+---
+company-name: TLDAdserv
+domain: tldadserv.com
+home: http://www.tldadserv.com/
+email: info@tldadserv.com
+---
 
-# TLDAdserv
 
-Name: TLDAdserv
-Domain: tldadserv.com
-Home: http://www.tldadserv.com/
-Email: info@tldadserv.com
+

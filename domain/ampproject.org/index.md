@@ -1,8 +1,10 @@
+---
+company-name: "AMP Project (Accelerated Mobile Pages)"
+domain: ampproject.org
+home: https://www.ampproject.org/
+privacy-policy: https://policies.google.com/privacy
+owned-by: "Google Inc."
+---
 
-# AMP Project (Accelerated Mobile Pages)
 
-Name: AMP Project (Accelerated Mobile Pages)
-Domain: ampproject.org
-Home: https://www.ampproject.org/
-Privacy_policy: https://policies.google.com/privacy
-Owned_by: Google Inc.
+

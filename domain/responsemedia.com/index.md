@@ -1,6 +1,8 @@
+---
+company-name: "Response Media"
+domain: responsemedia.com
+home: http://www.responsemedia.com/
+---
 
-# Response Media
 
-Name: Response Media
-Domain: responsemedia.com
-Home: http://www.responsemedia.com/
+

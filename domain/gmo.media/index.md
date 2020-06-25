@@ -1,8 +1,10 @@
+---
+company-name: "GMO Media"
+domain: gmo.media
+home: https://www.gmo.media/
+privacy-policy: https://www.gmo.media/privacypolicy/
+email: privacy@gmo.media
+---
 
-# GMO Media
 
-Name: GMO Media
-Domain: gmo.media
-Home: https://www.gmo.media/
-Privacy_policy: https://www.gmo.media/privacypolicy/
-Email: privacy@gmo.media
+

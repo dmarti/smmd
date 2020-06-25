@@ -1,9 +1,11 @@
+---
+company-name: DeskFive
+domain: desk-five.com
+home: http://desk-five.com/
+privacy-policy: http://desk-five.com/data-privacy/
+email: contact@desk-five.com
+owned-by: CoAdvertise
+---
 
-# DeskFive
 
-Name: DeskFive
-Domain: desk-five.com
-Home: http://desk-five.com/
-Privacy_policy: http://desk-five.com/data-privacy/
-Email: contact@desk-five.com
-Owned_by: CoAdvertise
+

@@ -1,9 +1,11 @@
+---
+company-name: "Mi9 (NINEMSN)"
+domain: mi9.com.au
+home: http://mi9.com.au/
+privacy-policy: http://mi9.com.au/article.aspx?id=8363165
+email: privacyofficer@mi9.com.au
+member-of: "European Data Interactive Alliance"
+---
 
-# Mi9 (NINEMSN)
 
-Name: Mi9 (NINEMSN)
-Domain: mi9.com.au
-Home: http://mi9.com.au/
-Privacy_policy: http://mi9.com.au/article.aspx?id=8363165
-Email: privacyofficer@mi9.com.au
-Member_of: European Data Interactive Alliance
+

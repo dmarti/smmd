@@ -1,10 +1,11 @@
+---
+company-name: "Vindico Group"
+domain: vindico.com
+home: https://vindico.com/
+privacy-policy: https://www.sizmek.com/privacy-policy/
+email: privacy@viantinc.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Vindico Group
 
-Name: Vindico Group
-Domain: vindico.com
-Home: https://vindico.com/
-Privacy_policy: https://www.sizmek.com/privacy-policy/
-Email: privacy@viantinc.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

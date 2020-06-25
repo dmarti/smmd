@@ -1,7 +1,9 @@
+---
+company-name: "FullSIX Group"
+domain: fullsix.com
+home: http://www.group.fullsix.com/
+email: communication@fullsix.com
+---
 
-# FullSIX Group
 
-Name: FullSIX Group
-Domain: fullsix.com
-Home: http://www.group.fullsix.com/
-Email: communication@fullsix.com
+

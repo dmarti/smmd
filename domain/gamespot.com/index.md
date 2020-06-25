@@ -1,8 +1,10 @@
+---
+company-name: Gamespot
+domain: gamespot.com
+home: http://www.gamespot.com/
+email: gamespotpr@cbsinteractive.com
+owned-by: "CBS Interactive"
+---
 
-# Gamespot
 
-Name: Gamespot
-Domain: gamespot.com
-Home: http://www.gamespot.com/
-Email: gamespotpr@cbsinteractive.com
-Owned_by: CBS Interactive
+

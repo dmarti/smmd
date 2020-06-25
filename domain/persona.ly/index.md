@@ -1,8 +1,10 @@
+---
+company-name: Persona.ly
+domain: persona.ly
+home: http://persona.ly/
+privacy-policy: http://persona.ly/privacy_policy
+email: support@persona.ly
+---
 
-# Persona.ly
 
-Name: Persona.ly
-Domain: persona.ly
-Home: http://persona.ly/
-Privacy_policy: http://persona.ly/privacy_policy
-Email: support@persona.ly
+

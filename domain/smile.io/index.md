@@ -1,8 +1,10 @@
+---
+company-name: "Smile.io (Formerly Sweet Tooth Rewards)"
+domain: smile.io
+home: https://smile.io/
+privacy-policy: https://smile.io/privacy-policy
+email: support@smile.io
+---
 
-# Smile.io (Formerly Sweet Tooth Rewards)
 
-Name: Smile.io (Formerly Sweet Tooth Rewards)
-Domain: smile.io
-Home: https://smile.io/
-Privacy_policy: https://smile.io/privacy-policy
-Email: support@smile.io
+

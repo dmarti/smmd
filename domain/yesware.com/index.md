@@ -1,9 +1,11 @@
+---
+company-name: Yesware
+domain: yesware.com
+home: https://www.yesware.com/
+privacy-policy: https://www.yesware.com/privacy/
+email: privacy@yesware.com
+member-of: TrustE_TrustArc
+---
 
-# Yesware
 
-Name: Yesware
-Domain: yesware.com
-Home: https://www.yesware.com/
-Privacy_policy: https://www.yesware.com/privacy/
-Email: privacy@yesware.com
-Member_of: TrustE_TrustArc
+

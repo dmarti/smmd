@@ -1,8 +1,10 @@
+---
+company-name: BrightEdge
+domain: brightedge.com
+home: https://www.brightedge.com/
+privacy-policy: https://www.brightedge.com/privacy
+email: privacy@brightedge.com
+---
 
-# BrightEdge
 
-Name: BrightEdge
-Domain: brightedge.com
-Home: https://www.brightedge.com/
-Privacy_policy: https://www.brightedge.com/privacy
-Email: privacy@brightedge.com
+

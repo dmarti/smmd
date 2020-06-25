@@ -1,8 +1,10 @@
+---
+company-name: Chameleon
+domain: chameleon-ad.com
+home: https://chameleon-ad.com/
+privacy-policy: https://chameleon-ad.com/ja/chameleon_privacy
+email: mail@hitokuse.com
+---
 
-# Chameleon
 
-Name: Chameleon
-Domain: chameleon-ad.com
-Home: https://chameleon-ad.com/
-Privacy_policy: https://chameleon-ad.com/ja/chameleon_privacy
-Email: mail@hitokuse.com
+

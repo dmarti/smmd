@@ -1,6 +1,8 @@
+---
+company-name: "Retail Rocket"
+domain: retailrocket.net
+home: https://retailrocket.net/
+---
 
-# Retail Rocket
 
-Name: Retail Rocket
-Domain: retailrocket.net
-Home: https://retailrocket.net/
+

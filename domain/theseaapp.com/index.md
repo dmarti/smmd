@@ -1,8 +1,10 @@
+---
+company-name: "The Sea App"
+domain: theseaapp.com
+home: http://www.theseaapp.com/
+email: "(636) 960-1177"
+member-of: "Digital Advertising Alliance"
+---
 
-# The Sea App
 
-Name: The Sea App
-Domain: theseaapp.com
-Home: http://www.theseaapp.com/
-Email: (636) 960-1177
-Member_of: Digital Advertising Alliance
+

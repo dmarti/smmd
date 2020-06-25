@@ -1,9 +1,11 @@
+---
+company-name: CoAdvertise
+domain: coadvertise.com
+home: http://www.coadvertise.com/
+privacy-policy: http://www.coadvertise.com/datenschutz/
+email: contact@coadvertise.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# CoAdvertise
 
-Name: CoAdvertise
-Domain: coadvertise.com
-Home: http://www.coadvertise.com/
-Privacy_policy: http://www.coadvertise.com/datenschutz/
-Email: contact@coadvertise.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

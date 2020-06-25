@@ -1,8 +1,10 @@
+---
+company-name: Strands
+domain: strands.com
+home: http://strands.com
+email: info@strands.com
+member-of: TrustE_TrustArc
+---
 
-# Strands
 
-Name: Strands
-Domain: strands.com
-Home: http://strands.com
-Email: info@strands.com
-Member_of: TrustE_TrustArc
+

@@ -1,7 +1,9 @@
+---
+company-name: Octavius
+domain: octavius.rocks
+home: http://octavius.rocks/
+email: info@octavius.rocks
+---
 
-# Octavius
 
-Name: Octavius
-Domain: octavius.rocks
-Home: http://octavius.rocks/
-Email: info@octavius.rocks
+

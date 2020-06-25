@@ -1,8 +1,10 @@
+---
+company-name: Belo
+domain: belo.com
+home: http://www.belo.com/
+privacy-policy: http://www.belo.com/privacy-policy
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Belo
 
-Name: Belo
-Domain: belo.com
-Home: http://www.belo.com/
-Privacy_policy: http://www.belo.com/privacy-policy
-Member_of: Interactive Advertising Bureau (IAB)
+

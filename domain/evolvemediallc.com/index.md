@@ -1,10 +1,11 @@
+---
+company-name: "Evolve Media"
+domain: evolvemediallc.com
+home: http://www.evolvemediallc.com/
+privacy-policy: http://www.evolvemediallc.com/privacy-policy
+email: legal@evolvemediacorrp.com
+member-of: "Network Advertising Initiative"
+---
 
-# Evolve Media
 
-Name: Evolve Media
-Domain: evolvemediallc.com
-Home: http://www.evolvemediallc.com/
-Privacy_policy: http://www.evolvemediallc.com/privacy-policy
-Email: legal@evolvemediacorrp.com
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

@@ -1,7 +1,9 @@
+---
+company-name: "Olive Media"
+domain: olivemedia.ca
+home: http://www.olivemedia.ca
+privacy-policy: http://
+---
 
-# Olive Media
 
-Name: Olive Media
-Domain: olivemedia.ca
-Home: http://www.olivemedia.ca
-Privacy_policy: http://
+

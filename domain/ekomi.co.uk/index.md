@@ -1,8 +1,10 @@
+---
+company-name: eKomi
+domain: ekomi.co.uk
+home: http://www.ekomi.co.uk
+privacy-policy: http://www.ekomi.co.uk/uk/privacy
+email: dataprotection@ekomi.co.uk
+---
 
-# eKomi
 
-Name: eKomi
-Domain: ekomi.co.uk
-Home: http://www.ekomi.co.uk
-Privacy_policy: http://www.ekomi.co.uk/uk/privacy
-Email: dataprotection@ekomi.co.uk
+

@@ -1,7 +1,9 @@
+---
+company-name: Supership
+domain: supership.jp
+home: https://supership.jp/
+privacy-policy: https://supership.jp/privacy/
+---
 
-# Supership
 
-Name: Supership
-Domain: supership.jp
-Home: https://supership.jp/
-Privacy_policy: https://supership.jp/privacy/
+

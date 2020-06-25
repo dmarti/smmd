@@ -1,8 +1,10 @@
+---
+company-name: "Kelkoo Group"
+domain: kelkoogroup.com
+home: https://www.kelkoogroup.com/
+privacy-policy: https://www.kelkoogroup.com/privacy-policy/
+email: dpo@kelkoogroup.com
+---
 
-# Kelkoo Group
 
-Name: Kelkoo Group
-Domain: kelkoogroup.com
-Home: https://www.kelkoogroup.com/
-Privacy_policy: https://www.kelkoogroup.com/privacy-policy/
-Email: dpo@kelkoogroup.com
+

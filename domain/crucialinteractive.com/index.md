@@ -1,8 +1,10 @@
+---
+company-name: "Crucial Interactive"
+domain: crucialinteractive.com
+home: https://www.crucialinteractive.com/
+privacy-policy: https://www.crucialinteractive.com/privacy-policy/
+email: privacy@crucialinterractive.com
+---
 
-# Crucial Interactive 
 
-Name: Crucial Interactive 
-Domain: crucialinteractive.com
-Home: https://www.crucialinteractive.com/
-Privacy_policy: https://www.crucialinteractive.com/privacy-policy/
-Email: privacy@crucialinterractive.com
+

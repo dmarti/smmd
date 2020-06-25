@@ -1,7 +1,9 @@
+---
+company-name: AdF.ly
+domain: adf.ly
+home: https://adf.ly/
+privacy-policy: https://adf.ly/privacy
+---
 
-# AdF.ly
 
-Name: AdF.ly
-Domain: adf.ly
-Home: https://adf.ly/
-Privacy_policy: https://adf.ly/privacy 
+

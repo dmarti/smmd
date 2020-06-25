@@ -1,8 +1,10 @@
+---
+company-name: Mobify
+domain: mobify.com
+home: http://www.mobify.com/
+privacy-policy: http://downloads.mobify.com/legal/mobify-privacy.pdf
+email: contact@mobify.com.
+---
 
-# Mobify
 
-Name: Mobify
-Domain: mobify.com
-Home: http://www.mobify.com/
-Privacy_policy: http://downloads.mobify.com/legal/mobify-privacy.pdf
-Email: contact@mobify.com.
+

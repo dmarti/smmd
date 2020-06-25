@@ -1,8 +1,10 @@
+---
+company-name: "Polar Mobile Group"
+domain: polar.me
+home: https://polar.me/
+privacy-policy: https://polar.me/privacy-policy/
+email: marketing@polar.me
+---
 
-# Polar Mobile Group
 
-Name: Polar Mobile Group
-Domain: polar.me
-Home: https://polar.me/
-Privacy_policy: https://polar.me/privacy-policy/
-Email: marketing@polar.me
+

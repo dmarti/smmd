@@ -1,8 +1,10 @@
+---
+company-name: "Keypath Education"
+domain: keypathedu.com
+home: http://keypathedu.com/
+privacy-policy: http://keypathedu.com/privacy-policy
+email: info@keypathedu.com
+---
 
-# Keypath Education
 
-Name: Keypath Education
-Domain: keypathedu.com
-Home: http://keypathedu.com/
-Privacy_policy: http://keypathedu.com/privacy-policy
-Email: info@keypathedu.com
+

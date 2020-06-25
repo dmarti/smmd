@@ -1,8 +1,10 @@
+---
+company-name: ClustrMaps
+domain: clustrmaps.com
+home: http://www.clustrmaps.com/
+privacy-policy: http://clustrmaps.com/legal
+email: theteam@clustrmaps.com
+---
 
-# ClustrMaps
 
-Name: ClustrMaps
-Domain: clustrmaps.com
-Home: http://www.clustrmaps.com/
-Privacy_policy: http://clustrmaps.com/legal
-Email: theteam@clustrmaps.com
+

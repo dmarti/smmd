@@ -1,7 +1,9 @@
+---
+company-name: Enrise
+domain: enrise.com
+home: http://www.enrise.com/
+email: welcome@enrise.com
+---
 
-# Enrise
 
-Name: Enrise
-Domain: enrise.com
-Home: http://www.enrise.com/
-Email: welcome@enrise.com
+

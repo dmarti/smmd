@@ -1,8 +1,10 @@
+---
+company-name: "CrossChanel (formely MdotM)"
+domain: crosschannel.com
+home: http://www.crosschannel.com/
+privacy-policy: http://www.crosschannel.com/app/page/privacy/
+email: support@crosschannel.com
+---
 
-# CrossChanel (formely MdotM)
 
-Name: CrossChanel (formely MdotM)
-Domain: crosschannel.com
-Home: http://www.crosschannel.com/
-Privacy_policy: http://www.crosschannel.com/app/page/privacy/
-Email: support@crosschannel.com
+

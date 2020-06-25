@@ -1,7 +1,9 @@
+---
+company-name: ToTheTech
+domain: tothetech.com
+home: http://www.tothetech.com/
+privacy-policy: http://www.tothetech.com/privacy-policy
+---
 
-# ToTheTech
 
-Name: ToTheTech
-Domain: tothetech.com
-Home: http://www.tothetech.com/
-Privacy_policy: http://www.tothetech.com/privacy-policy
+

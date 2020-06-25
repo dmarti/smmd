@@ -1,6 +1,8 @@
+---
+company-name: Experimently
+domain: experiment.ly
+home: http://experiment.ly/
+---
 
-# Experimently
 
-Name: Experimently
-Domain: experiment.ly
-Home: http://experiment.ly/
+

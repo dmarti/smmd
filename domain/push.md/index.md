@@ -1,6 +1,8 @@
+---
+company-name: Push.MD
+domain: push.md
+home: https://push.md/
+---
 
-# Push.MD
 
-Name: Push.MD
-Domain: push.md
-Home: https://push.md/
+

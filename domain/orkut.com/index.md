@@ -1,7 +1,9 @@
+---
+company-name: orkut
+domain: orkut.com
+home: http://www.orkut.com
+owned-by: "Google Inc."
+---
 
-# orkut
 
-Name: orkut
-Domain: orkut.com
-Home: http://www.orkut.com
-Owned_by: Google Inc.
+

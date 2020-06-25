@@ -1,6 +1,8 @@
+---
+company-name: AdSpyglass
+domain: adspyglass.com
+home: https://www.adspyglass.com/
+---
 
-# AdSpyglass
 
-Name: AdSpyglass
-Domain: adspyglass.com
-Home: https://www.adspyglass.com/
+

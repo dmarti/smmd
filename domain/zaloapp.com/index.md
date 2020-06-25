@@ -1,6 +1,8 @@
+---
+company-name: Zalo
+domain: zaloapp.com
+home: https://zaloapp.com/
+---
 
-# Zalo
 
-Name: Zalo
-Domain: zaloapp.com
-Home: https://zaloapp.com/
+

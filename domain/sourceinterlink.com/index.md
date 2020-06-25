@@ -1,9 +1,11 @@
+---
+company-name: "Source Interlink Media"
+domain: sourceinterlink.com
+home: http://www.sourceinterlink.com/
+privacy-policy: http://www.sourceinterlink.com/privacy-policy/
+email: privacypolicy@sorc.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Source Interlink Media
 
-Name: Source Interlink Media
-Domain: sourceinterlink.com
-Home: http://www.sourceinterlink.com/
-Privacy_policy: http://www.sourceinterlink.com/privacy-policy/
-Email: privacypolicy@sorc.com
-Member_of: Interactive Advertising Bureau (IAB)
+

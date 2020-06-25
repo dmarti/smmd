@@ -1,8 +1,10 @@
+---
+company-name: Seesmic
+domain: seesmic.com
+home: http://seesmic.com/
+email: privacy@seesmic.com
+owned-by: Hootsuite
+---
 
-# Seesmic
 
-Name: Seesmic
-Domain: seesmic.com
-Home: http://seesmic.com/
-Email: privacy@seesmic.com
-Owned_by: Hootsuite
+

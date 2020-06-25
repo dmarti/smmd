@@ -1,21 +1,11 @@
-
-# Adobe
-
-Name: Adobe
-
-Domain: adobe.com
-
-Home: adobe.com
-
-Email: 
-
-Privacy_policy: https://www.adobe.com/privacy.html
-
-Opt_out_url: 
-
-
-
+---
+company-name: Adobe
+domain: adobe.com
+home: adobe.com
+privacy-policy: https://www.adobe.com/privacy.html
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +13,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,8 +1,10 @@
+---
+company-name: Invodo
+domain: invodo.com
+home: http://www.invodo.com/
+privacy-policy: http://www.invodo.com/privacy-policy/
+email: info@invodo.com
+---
 
-# Invodo
 
-Name: Invodo
-Domain: invodo.com
-Home: http://www.invodo.com/
-Privacy_policy: http://www.invodo.com/privacy-policy/
-Email: info@invodo.com
+

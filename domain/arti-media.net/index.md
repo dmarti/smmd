@@ -1,8 +1,10 @@
+---
+company-name: Artimedia
+domain: arti-media.net
+home: http://arti-media.net/en/
+privacy-policy: http://arti-media.net/en/privacy-policy/
+email: info@arti-media.net
+---
 
-# Artimedia
 
-Name: Artimedia
-Domain: arti-media.net
-Home: http://arti-media.net/en/
-Privacy_policy: http://arti-media.net/en/privacy-policy/
-Email: info@arti-media.net
+

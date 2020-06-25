@@ -1,8 +1,10 @@
+---
+company-name: Euclid
+domain: euclidanalytics.com
+home: http://euclidanalytics.com/
+privacy-policy: http://euclidanalytics.com/privacy/statement/
+email: privacy@euclidanalytics.com
+---
 
-# Euclid
 
-Name: Euclid
-Domain: euclidanalytics.com
-Home: http://euclidanalytics.com/
-Privacy_policy: http://euclidanalytics.com/privacy/statement/
-Email: privacy@euclidanalytics.com
+

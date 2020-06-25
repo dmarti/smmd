@@ -1,6 +1,8 @@
+---
+company-name: PolyAd
+domain: polyad.net
+home: http://polyad.net/Polyad/Trang-chu.htm
+---
 
-# PolyAd
 
-Name: PolyAd
-Domain: polyad.net
-Home: http://polyad.net/Polyad/Trang-chu.htm
+

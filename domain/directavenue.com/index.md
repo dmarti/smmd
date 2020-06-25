@@ -1,6 +1,8 @@
+---
+company-name: DirectAvenue
+domain: directavenue.com
+home: http://www.directavenue.com
+---
 
-# DirectAvenue
 
-Name: DirectAvenue
-Domain: directavenue.com
-Home: http://www.directavenue.com
+

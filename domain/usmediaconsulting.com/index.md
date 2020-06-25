@@ -1,9 +1,11 @@
+---
+company-name: "US Media Consulting"
+domain: usmediaconsulting.com
+home: http://www.usmediaconsulting.com/
+privacy-policy: http://usmediaconsulting.com/en/rs/privacy-policy.html
+email: info@usmediaconsulting.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# US Media Consulting
 
-Name: US Media Consulting
-Domain: usmediaconsulting.com
-Home: http://www.usmediaconsulting.com/
-Privacy_policy: http://usmediaconsulting.com/en/rs/privacy-policy.html
-Email: info@usmediaconsulting.com
-Member_of: Interactive Advertising Bureau (IAB)
+

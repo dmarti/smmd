@@ -1,8 +1,10 @@
+---
+company-name: CrossEngage
+domain: crossengage.io
+home: https://www.crossengage.io/
+privacy-policy: https://www.crossengage.io/privacy/
+email: info@crossengage.io
+---
 
-# CrossEngage
 
-Name: CrossEngage
-Domain: crossengage.io
-Home: https://www.crossengage.io/
-Privacy_policy: https://www.crossengage.io/privacy/
-Email: info@crossengage.io
+

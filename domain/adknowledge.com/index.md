@@ -1,8 +1,10 @@
+---
+company-name: Adknowledge
+domain: adknowledge.com
+home: http://www.adknowledge.com
+privacy-policy: http://privacy.adknowledge.com/usa/privacy.php
+email: privacy@adknowledge.com
+---
 
-# Adknowledge
 
-Name: Adknowledge
-Domain: adknowledge.com
-Home: http://www.adknowledge.com
-Privacy_policy: http://privacy.adknowledge.com/usa/privacy.php
-Email: privacy@adknowledge.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Dumarca Gaming"
+domain: verajohn.com
+home: https://www.verajohn.com/
+privacy-policy: https://www.verajohn.com/about/privacy-policy
+email: dumarcadataprotection@jpj.com
+---
 
-# Dumarca Gaming
 
-Name: Dumarca Gaming
-Domain: verajohn.com
-Home: https://www.verajohn.com/
-Privacy_policy: https://www.verajohn.com/about/privacy-policy
-Email: dumarcadataprotection@jpj.com
+

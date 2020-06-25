@@ -1,9 +1,11 @@
+---
+company-name: Webgains
+domain: webgains.com
+home: https://www.webgains.com/public/en/
+privacy-policy: http://www.webgains.com/public/en/privacy/
+email: data-privacy@webgains.com
+owned-by: "ad pepper media"
+---
 
-# Webgains
 
-Name: Webgains
-Domain: webgains.com
-Home: https://www.webgains.com/public/en/
-Privacy_policy: http://www.webgains.com/public/en/privacy/
-Email: data-privacy@webgains.com
-Owned_by: ad pepper media
+

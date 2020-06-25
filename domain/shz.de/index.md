@@ -1,7 +1,9 @@
+---
+company-name: SHZ
+domain: shz.de
+home: http://www.shz.de/
+privacy-policy: https://www.shz.de/legals/sicherheit-und-datenschutz-id100207.html
+---
 
-# SHZ
 
-Name: SHZ
-Domain: shz.de
-Home: http://www.shz.de/
-Privacy_policy: https://www.shz.de/legals/sicherheit-und-datenschutz-id100207.html
+

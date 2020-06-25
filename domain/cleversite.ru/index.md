@@ -1,6 +1,8 @@
+---
+company-name: Cleversite
+domain: cleversite.ru
+home: http://cleversite.ru/
+---
 
-# Cleversite
 
-Name: Cleversite
-Domain: cleversite.ru
-Home: http://cleversite.ru/
+

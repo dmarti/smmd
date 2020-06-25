@@ -1,8 +1,10 @@
+---
+company-name: Azerion
+domain: azerion.com
+home: https://azerion.com/
+privacy-policy: https://azerion.com/business/privacy.html
+email: privacy@azerion.com
+---
 
-# Azerion
 
-Name: Azerion
-Domain: azerion.com
-Home: https://azerion.com/
-Privacy_policy: https://azerion.com/business/privacy.html
-Email: privacy@azerion.com
+

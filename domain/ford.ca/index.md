@@ -1,7 +1,9 @@
+---
+company-name: "Ford Motor Canada"
+domain: ford.ca
+home: http://www.ford.ca/
+privacy-policy: https://www.ford.ca/help/privacy/
+---
 
-# Ford Motor Canada
 
-Name: Ford Motor Canada
-Domain: ford.ca
-Home: http://www.ford.ca/
-Privacy_policy: https://www.ford.ca/help/privacy/
+

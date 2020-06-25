@@ -1,8 +1,10 @@
+---
+company-name: Webtrekk
+domain: webtrekk.com
+home: https://www.webtrekk.com/en/home/
+privacy-policy: https://www.webtrekk.com/en/legal/opt-out-webtrekk/
+email: alexander.krull@webtrekk@com
+---
 
-# Webtrekk
 
-Name: Webtrekk
-Domain: webtrekk.com
-Home: https://www.webtrekk.com/en/home/
-Privacy_policy: https://www.webtrekk.com/en/legal/opt-out-webtrekk/
-Email: alexander.krull@webtrekk@com
+

@@ -1,6 +1,8 @@
+---
+company-name: "Zubi Advertising"
+domain: zubiad.com
+home: http://www.zubiad.com/
+---
 
-# Zubi Advertising
 
-Name: Zubi Advertising
-Domain: zubiad.com
-Home: http://www.zubiad.com/
+

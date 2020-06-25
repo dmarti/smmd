@@ -1,8 +1,10 @@
+---
+company-name: ZergNet
+domain: zergnet.com
+home: http://www.zergnet.com/info
+privacy-policy: https://zergnet.com/privacy
+email: support@zergnet.com
+---
 
-# ZergNet
 
-Name: ZergNet
-Domain: zergnet.com
-Home: http://www.zergnet.com/info
-Privacy_policy: https://zergnet.com/privacy
-Email: support@zergnet.com
+

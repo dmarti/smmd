@@ -1,9 +1,11 @@
+---
+company-name: "FinanceAds GmbH & Co. KG"
+domain: financeads.net
+home: https://www.financeads.net/
+privacy-policy: https://www.financeads.com/uk-en/aboutus/dataprotection/
+email: international@financeads.com
+owned-by: "VerticalAds Group"
+---
 
-# FinanceAds GmbH & Co. KG
 
-Name: FinanceAds GmbH & Co. KG
-Domain: financeads.net
-Home: https://www.financeads.net/
-Privacy_policy: https://www.financeads.com/uk-en/aboutus/dataprotection/
-Email: international@financeads.com
-Owned_by: VerticalAds Group
+

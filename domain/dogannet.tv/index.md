@@ -1,6 +1,8 @@
+---
+company-name: Dogannet
+domain: dogannet.tv
+home: http://s.dogannet.tv/
+---
 
-# Dogannet
 
-Name: Dogannet
-Domain: dogannet.tv
-Home: http://s.dogannet.tv/
+

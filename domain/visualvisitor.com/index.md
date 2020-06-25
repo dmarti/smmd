@@ -1,8 +1,10 @@
+---
+company-name: VisualVisitor
+domain: visualvisitor.com
+home: http://www.visualvisitor.com/
+privacy-policy: http://www.visualvisitor.com/legal/privacy-policy/
+email: support@VisualVisitor.com
+---
 
-# VisualVisitor
 
-Name: VisualVisitor
-Domain: visualvisitor.com
-Home: http://www.visualvisitor.com/
-Privacy_policy: http://www.visualvisitor.com/legal/privacy-policy/
-Email: support@VisualVisitor.com
+

@@ -1,7 +1,9 @@
+---
+company-name: RetargetApp
+domain: retargetapp.com
+home: https://retargetapp.com/
+privacy-policy: http://help.retargetapp.com/learn-about-pricing-privacy-policy-and-terms/privacy-policy
+---
 
-# RetargetApp
 
-Name: RetargetApp
-Domain: retargetapp.com
-Home: https://retargetapp.com/
-Privacy_policy: http://help.retargetapp.com/learn-about-pricing-privacy-policy-and-terms/privacy-policy
+

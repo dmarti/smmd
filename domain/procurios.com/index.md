@@ -1,8 +1,10 @@
+---
+company-name: Procurios
+domain: procurios.com
+home: http://www.procurios.com/
+privacy-policy: https://www.procurios.com/privacybeleid
+email: info@procurios.com
+---
 
-# Procurios
 
-Name: Procurios
-Domain: procurios.com
-Home: http://www.procurios.com/
-Privacy_policy: https://www.procurios.com/privacybeleid
-Email: info@procurios.com
+

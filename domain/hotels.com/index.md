@@ -1,7 +1,9 @@
+---
+company-name: Hotels.com
+domain: hotels.com
+home: http://www.hotels.com
+privacy-policy: http://www.hotels.com/customer_care/privacy.html
+---
 
-# Hotels.com
 
-Name: Hotels.com
-Domain: hotels.com
-Home: http://www.hotels.com
-Privacy_policy: http://www.hotels.com/customer_care/privacy.html
+

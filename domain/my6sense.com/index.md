@@ -1,9 +1,11 @@
+---
+company-name: My6Sense
+domain: my6sense.com
+home: https://my6sense.com
+privacy-policy: https://my6sense.com/privacy-policy/
+email: support@my6sense.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# My6Sense
 
-Name: My6Sense
-Domain: my6sense.com
-Home: https://my6sense.com
-Privacy_policy: https://my6sense.com/privacy-policy/
-Email: support@my6sense.com
-Member_of: Interactive Advertising Bureau (IAB)
+

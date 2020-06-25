@@ -1,9 +1,11 @@
+---
+company-name: LeadBolt
+domain: leadbolt.com
+home: http://www.leadbolt.com/
+privacy-policy: https://www.leadbolt.com/privacy/
+email: mobile.privacy@leadbolt.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# LeadBolt
 
-Name: LeadBolt
-Domain: leadbolt.com
-Home: http://www.leadbolt.com/
-Privacy_policy: https://www.leadbolt.com/privacy/
-Email: mobile.privacy@leadbolt.com
-Member_of: Interactive Advertising Bureau (IAB)
+

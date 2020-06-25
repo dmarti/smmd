@@ -1,8 +1,10 @@
+---
+company-name: Muscula
+domain: appspot.com
+home: http://musculahq.appspot.com/
+privacy-policy: http://musculahq.appspot.com/privacy
+email: support@muscula.com
+---
 
-# Muscula
 
-Name: Muscula
-Domain: appspot.com
-Home: http://musculahq.appspot.com/
-Privacy_policy: http://musculahq.appspot.com/privacy
-Email: support@muscula.com
+

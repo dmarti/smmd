@@ -1,8 +1,10 @@
+---
+company-name: AuDigent
+domain: audigent.com
+home: https://audigent.com/
+privacy-policy: https://audigent.com/privacypolicy
+email: privacy@audigent.com
+---
 
-# AuDigent
 
-Name: AuDigent
-Domain: audigent.com
-Home: https://audigent.com/
-Privacy_policy: https://audigent.com/privacypolicy
-Email: privacy@audigent.com
+

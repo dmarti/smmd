@@ -1,7 +1,9 @@
+---
+company-name: FleetData
+domain: fleetdata.com
+home: https://www.fleetdata.com
+email: info@fleetdata.com
+---
 
-# FleetData
 
-Name: FleetData
-Domain: fleetdata.com
-Home: https://www.fleetdata.com
-Email: info@fleetdata.com
+

@@ -1,6 +1,8 @@
+---
+company-name: Livecounter
+domain: livecounter.dk
+home: https://www.livecounter.dk/
+---
 
-# Livecounter
 
-Name: Livecounter
-Domain: livecounter.dk
-Home: https://www.livecounter.dk/
+

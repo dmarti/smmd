@@ -1,6 +1,8 @@
+---
+company-name: Chaordic
+domain: chaordic.com.br
+home: http://www.chaordic.com.br/
+---
 
-# Chaordic
 
-Name: Chaordic
-Domain: chaordic.com.br
-Home: http://www.chaordic.com.br/
+

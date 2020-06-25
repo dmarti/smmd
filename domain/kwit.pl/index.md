@@ -1,8 +1,10 @@
+---
+company-name: Kwit
+domain: kwit.pl
+home: https://kwit.pl/
+privacy-policy: https://kwit.pl/polityka_prywatnosci
+email: contact@savingcloud.pl
+---
 
-# Kwit
 
-Name: Kwit
-Domain: kwit.pl
-Home: https://kwit.pl/
-Privacy_policy: https://kwit.pl/polityka_prywatnosci
-Email: contact@savingcloud.pl
+

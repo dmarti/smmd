@@ -1,9 +1,11 @@
+---
+company-name: "MairDumont Netletix"
+domain: mairdumont-netletix.com
+home: https://www.mairdumont-netletix.com/
+privacy-policy: https://www.mairdumont-netletix.com/wer-wir-sind/datenschutzerklaerung/
+email: info@mairdumont-netletix.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# MairDumont Netletix
 
-Name: MairDumont Netletix
-Domain: mairdumont-netletix.com
-Home: https://www.mairdumont-netletix.com/
-Privacy_policy: https://www.mairdumont-netletix.com/wer-wir-sind/datenschutzerklaerung/
-Email: info@mairdumont-netletix.com
-Member_of: Interactive Advertising Bureau (IAB)
+

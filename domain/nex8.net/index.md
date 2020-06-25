@@ -1,8 +1,10 @@
+---
+company-name: nex8
+domain: nex8.net
+home: https://www.nex8.net
+privacy-policy: https://www.fancs.com/privacy
+owned-by: "FAN Communications (F@N Communications)"
+---
 
-# nex8
 
-Name: nex8
-Domain: nex8.net
-Home: https://www.nex8.net
-Privacy_policy: https://www.fancs.com/privacy
-Owned_by: FAN Communications (F@N Communications)
+

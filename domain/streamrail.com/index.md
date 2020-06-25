@@ -1,8 +1,10 @@
+---
+company-name: Steamrail
+domain: streamrail.com
+home: https://www.streamrail.com/
+privacy-policy: https://www.streamrail.com/privacy
+email: legal@ironsrc.com
+---
 
-# Steamrail
 
-Name: Steamrail
-Domain: streamrail.com
-Home: https://www.streamrail.com/
-Privacy_policy: https://www.streamrail.com/privacy
-Email: legal@ironsrc.com
+

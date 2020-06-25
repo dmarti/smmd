@@ -1,7 +1,9 @@
+---
+company-name: MADNET
+domain: madnetex.com
+home: http://madnetex.com/
+privacy-policy: https://madnetex.com/privacy-ru/
+---
 
-# MADNET
 
-Name: MADNET
-Domain: madnetex.com
-Home: http://madnetex.com/
-Privacy_policy: https://madnetex.com/privacy-ru/
+

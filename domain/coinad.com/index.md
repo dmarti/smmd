@@ -1,8 +1,10 @@
+---
+company-name: CoinAd
+domain: coinad.com
+home: http://coinad.com
+privacy-policy: https://coinad.com/?a=Privacy
+email: bitcoin@bitcoinaliens.com
+---
 
-# CoinAd
 
-Name: CoinAd
-Domain: coinad.com
-Home: http://coinad.com
-Privacy_policy: https://coinad.com/?a=Privacy
-Email: bitcoin@bitcoinaliens.com
+

@@ -1,9 +1,11 @@
+---
+company-name: Rtoaster
+domain: rtoaster.com
+home: http://www.rtoaster.com
+privacy-policy: http://www.brainpad.co.jp/utility/privacypolicy.html
+email: privacy@brainpad.co.jp
+owned-by: BrainPad
+---
 
-# Rtoaster
 
-Name: Rtoaster
-Domain: rtoaster.com
-Home: http://www.rtoaster.com
-Privacy_policy: http://www.brainpad.co.jp/utility/privacypolicy.html
-Email: privacy@brainpad.co.jp
-Owned_by: BrainPad
+

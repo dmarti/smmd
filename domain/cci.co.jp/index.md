@@ -1,9 +1,11 @@
+---
+company-name: "Cyber Communications"
+domain: cci.co.jp
+home: http://www.cci.co.jp/en/index.html
+privacy-policy: http://www.cci.co.jp/en/privacypolicy/index.html
+email: pr-inq@cci.co.jp
+owned-by: "Dentsu Inc."
+---
 
-# Cyber Communications
 
-Name: Cyber Communications
-Domain: cci.co.jp
-Home: http://www.cci.co.jp/en/index.html 
-Privacy_policy: http://www.cci.co.jp/en/privacypolicy/index.html
-Email: pr-inq@cci.co.jp
-Owned_by: Dentsu Inc.
+

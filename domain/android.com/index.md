@@ -1,7 +1,9 @@
+---
+company-name: Espresso
+domain: android.com
+home: https://developer.android.com/training/testing/espresso
+privacy-policy: http://
+---
 
-# Espresso
 
-Name: Espresso
-Domain: android.com
-Home: https://developer.android.com/training/testing/espresso
-Privacy_policy: http://
+

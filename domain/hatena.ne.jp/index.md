@@ -1,9 +1,11 @@
+---
+company-name: Hatena
+domain: hatena.ne.jp
+home: http://www.hatena.ne.jp/
+privacy-policy: http://www.hatena.ne.jp/rule/privacypolicy
+email: info@hatena.com
+member-of: TrustE_TrustArc
+---
 
-# Hatena
 
-Name: Hatena
-Domain: hatena.ne.jp
-Home: http://www.hatena.ne.jp/
-Privacy_policy: http://www.hatena.ne.jp/rule/privacypolicy
-Email: info@hatena.com
-Member_of: TrustE_TrustArc
+

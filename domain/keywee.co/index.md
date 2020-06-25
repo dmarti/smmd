@@ -1,8 +1,10 @@
+---
+company-name: Keywee
+domain: keywee.co
+home: https://keywee.co/
+privacy-policy: https://keywee.co/privacy-policy/
+email: info@keywee.co
+---
 
-# Keywee
 
-Name: Keywee
-Domain: keywee.co
-Home: https://keywee.co/
-Privacy_policy: https://keywee.co/privacy-policy/
-Email: info@keywee.co
+

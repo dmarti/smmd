@@ -1,9 +1,11 @@
+---
+company-name: Ad-Center
+domain: ad-center.com
+home: http://www.ad-center.com
+privacy-policy: http://www.ad-center.com/front/privacy
+email: support@ad-center.com
+member-of: TrustE_TrustArc
+---
 
-# Ad-Center
 
-Name: Ad-Center
-Domain: ad-center.com
-Home: http://www.ad-center.com
-Privacy_policy: http://www.ad-center.com/front/privacy
-Email: support@ad-center.com
-Member_of: TrustE_TrustArc
+

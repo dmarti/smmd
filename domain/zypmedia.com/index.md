@@ -1,8 +1,10 @@
+---
+company-name: Zypmedia
+domain: zypmedia.com
+home: http://www.zypmedia.com/
+privacy-policy: http://www.zypmedia.com/privacy-policy
+email: privacy@zypmedia.com
+---
 
-# Zypmedia
 
-Name: Zypmedia
-Domain: zypmedia.com
-Home: http://www.zypmedia.com/
-Privacy_policy: http://www.zypmedia.com/privacy-policy
-Email: privacy@zypmedia.com
+

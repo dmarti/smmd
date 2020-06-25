@@ -1,8 +1,10 @@
+---
+company-name: SimilarWeb
+domain: similarweb.com
+home: https://www.similarweb.com/
+privacy-policy: https://www.similarweb.com/corp/legal/privacy-policy/
+email: support@similarweb.com
+---
 
-# SimilarWeb
 
-Name: SimilarWeb
-Domain: similarweb.com
-Home: https://www.similarweb.com/
-Privacy_policy: https://www.similarweb.com/corp/legal/privacy-policy/
-Email: support@similarweb.com
+

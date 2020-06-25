@@ -1,21 +1,10 @@
-
-# Exactis
-
-Name: Exactis
-
-Domain: exactis.com
-
-Home: exactis.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: Exactis
+domain: exactis.com
+home: exactis.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

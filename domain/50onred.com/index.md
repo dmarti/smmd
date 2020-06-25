@@ -1,6 +1,8 @@
+---
+company-name: 50onRed
+domain: 50onred.com
+home: http://www.50onred.com/
+---
 
-# 50onRed
 
-Name: 50onRed
-Domain: 50onred.com
-Home: http://www.50onred.com/
+

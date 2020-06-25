@@ -1,9 +1,11 @@
+---
+company-name: VideMob
+domain: videmob.com
+home: http://www.videmob.com/
+privacy-policy: http://www.videmob.com/privacy.html
+email: privacy@videmob.com
+owned-by: Cydersoft
+---
 
-# VideMob
 
-Name: VideMob
-Domain: videmob.com
-Home: http://www.videmob.com/
-Privacy_policy: http://www.videmob.com/privacy.html
-Email: privacy@videmob.com
-Owned_by: Cydersoft
+

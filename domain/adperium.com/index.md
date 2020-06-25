@@ -1,9 +1,11 @@
+---
+company-name: Adperium
+domain: adperium.com
+home: http://www.adperium.com/
+privacy-policy: http://www.adperium.com/privacy
+email: infor@imperium.com
+member-of: DMA_ANA
+---
 
-# Adperium
 
-Name: Adperium
-Domain: adperium.com
-Home: http://www.adperium.com/
-Privacy_policy: http://www.adperium.com/privacy
-Email: infor@imperium.com
-Member_of: DMA_ANA
+

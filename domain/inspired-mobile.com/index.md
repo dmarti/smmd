@@ -1,8 +1,10 @@
+---
+company-name: "Inspired Mobile"
+domain: inspired-mobile.com
+home: https://inspired-mobile.com/
+privacy-policy: https://inspired-mobile.com/privacypolicy.pdf
+email: privacy@inspired-mobile.com
+---
 
-# Inspired Mobile
 
-Name: Inspired Mobile
-Domain: inspired-mobile.com
-Home: https://inspired-mobile.com/
-Privacy_policy: https://inspired-mobile.com/privacypolicy.pdf
-Email: privacy@inspired-mobile.com
+

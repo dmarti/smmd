@@ -1,8 +1,10 @@
+---
+company-name: Freemius
+domain: freemius.com
+home: https://freemius.com/
+privacy-policy: https://freemius.com/privacy/
+email: privacy@freemius.com
+---
 
-# Freemius
 
-Name: Freemius
-Domain: freemius.com
-Home: https://freemius.com/
-Privacy_policy: https://freemius.com/privacy/
-Email: privacy@freemius.com
+

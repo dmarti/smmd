@@ -1,9 +1,11 @@
+---
+company-name: AdSide
+domain: adside.com
+home: http://www.adside.com
+privacy-policy: http://www.adside.com/privacy.html
+email: privacy@adside.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# AdSide
 
-Name: AdSide
-Domain: adside.com
-Home: http://www.adside.com
-Privacy_policy: http://www.adside.com/privacy.html
-Email: privacy@adside.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,7 +1,9 @@
+---
+company-name: ADGoto
+domain: adgoto.com
+home: http://adgoto.com/
+email: contact@adgoto.com
+---
 
-# ADGoto
 
-Name: ADGoto
-Domain: adgoto.com
-Home: http://adgoto.com/
-Email: contact@adgoto.com
+

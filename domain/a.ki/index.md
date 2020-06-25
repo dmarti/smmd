@@ -1,7 +1,9 @@
+---
+company-name: Aki
+domain: a.ki
+home: https://a.ki/
+email: info@a.ki
+---
 
-# Aki
 
-Name: Aki
-Domain: a.ki
-Home: https://a.ki/
-Email: info@a.ki
+

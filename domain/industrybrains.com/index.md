@@ -1,9 +1,11 @@
+---
+company-name: IndustryBrains
+domain: industrybrains.com
+home: http://www.industrybrains.com/
+privacy-policy: http://www.industrybrains.com/doc/privacy
+email: privacy@industrybrains.com
+member-of: "Network Advertising Initiative"
+---
 
-# IndustryBrains
 
-Name: IndustryBrains
-Domain: industrybrains.com
-Home: http://www.industrybrains.com/
-Privacy_policy: http://www.industrybrains.com/doc/privacy
-Email: privacy@industrybrains.com
-Member_of: Network Advertising Initiative
+

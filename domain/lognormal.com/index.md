@@ -1,8 +1,10 @@
+---
+company-name: Log-Normal
+domain: lognormal.com
+home: http://www.lognormal.com/
+privacy-policy: http://www.lognormal.com/legal/privacy
+email: contact@lognormal.com
+---
 
-# Log-Normal
 
-Name: Log-Normal
-Domain: lognormal.com
-Home: http://www.lognormal.com/
-Privacy_policy: http://www.lognormal.com/legal/privacy
-Email: contact@lognormal.com
+

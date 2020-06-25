@@ -1,8 +1,10 @@
+---
+company-name: "Impact Radius"
+domain: impactradius.com
+home: https://www.impactradius.com/
+privacy-policy: http://www.impactradius.com/privacy
+email: privacy@impactradius.com
+---
 
-# Impact Radius
 
-Name: Impact Radius
-Domain: impactradius.com
-Home: https://www.impactradius.com/
-Privacy_policy: http://www.impactradius.com/privacy
-Email: privacy@impactradius.com
+

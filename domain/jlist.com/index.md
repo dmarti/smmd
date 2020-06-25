@@ -1,7 +1,9 @@
+---
+company-name: J-List
+domain: jlist.com
+home: http://www.jlist.com/page/affiliates.html
+email: support.jlist.com
+---
 
-# J-List
 
-Name: J-List
-Domain: jlist.com
-Home: http://www.jlist.com/page/affiliates.html
-Email: support.jlist.com
+

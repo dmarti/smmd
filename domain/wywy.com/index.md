@@ -1,9 +1,11 @@
+---
+company-name: WyWy
+domain: wywy.com
+home: http://wywy.com/
+privacy-policy: http://wywy.com/legal/privacy-policy/
+email: privacy@wywy.com
+owned-by: "TV Squared"
+---
 
-# WyWy
 
-Name: WyWy
-Domain: wywy.com
-Home: http://wywy.com/
-Privacy_policy: http://wywy.com/legal/privacy-policy/
-Email: privacy@wywy.com
-Owned_by: TV Squared
+

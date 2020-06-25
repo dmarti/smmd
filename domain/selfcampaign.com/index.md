@@ -1,9 +1,11 @@
+---
+company-name: "B2B Media Group EMEA GmbH"
+domain: selfcampaign.com
+home: https://v3.selfcampaign.com
+privacy-policy: https://v3.selfcampaign.com/static/privacy
+email: datenschutz@b2bmg.de
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# B2B Media Group EMEA GmbH
 
-Name: B2B Media Group EMEA GmbH
-Domain: selfcampaign.com
-Home: https://v3.selfcampaign.com
-Privacy_policy: https://v3.selfcampaign.com/static/privacy
-Email: datenschutz@b2bmg.de
-Member_of: Interactive Advertising Bureau (IAB)
+

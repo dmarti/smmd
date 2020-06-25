@@ -1,8 +1,10 @@
+---
+company-name: Feedify
+domain: feedify.net
+home: https://feedify.net/
+privacy-policy: https://feedify.net/privacy
+email: support@feedify.net
+---
 
-# Feedify
 
-Name: Feedify
-Domain: feedify.net
-Home: https://feedify.net/
-Privacy_policy: https://feedify.net/privacy
-Email: support@feedify.net
+

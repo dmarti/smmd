@@ -1,8 +1,10 @@
+---
+company-name: "Phunware (formerly TapIt!)"
+domain: phunware.com
+home: http://www.phunware.com/
+privacy-policy: http://www.phunware.com/privacy/
+email: privacy@phunware.com
+---
 
-# Phunware (formerly TapIt!)
 
-Name: Phunware (formerly TapIt!)
-Domain: phunware.com
-Home: http://www.phunware.com/
-Privacy_policy: http://www.phunware.com/privacy/
-Email: privacy@phunware.com
+

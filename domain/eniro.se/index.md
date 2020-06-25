@@ -1,8 +1,10 @@
+---
+company-name: Eniro
+domain: eniro.se
+home: http://www.eniro.se/
+privacy-policy: https://www.eniro.se/hjalp/integritetspolicy/
+email: personuppgiftsombud@eniro.com
+---
 
-# Eniro
 
-Name: Eniro
-Domain: eniro.se
-Home: http://www.eniro.se/
-Privacy_policy: https://www.eniro.se/hjalp/integritetspolicy/
-Email: personuppgiftsombud@eniro.com
+

@@ -1,6 +1,8 @@
+---
+company-name: "Ante Grup"
+domain: antegrup.com.tr
+home: http://www.antegrup.com.tr/
+---
 
-# Ante Grup
 
-Name: Ante Grup
-Domain: antegrup.com.tr
-Home: http://www.antegrup.com.tr/
+

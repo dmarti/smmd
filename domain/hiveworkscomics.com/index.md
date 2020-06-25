@@ -1,7 +1,9 @@
+---
+company-name: "Hive Works"
+domain: hiveworkscomics.com
+home: https://hiveworkscomics.com
+email: hello@thehiveworks.com
+---
 
-# Hive Works
 
-Name: Hive Works
-Domain: hiveworkscomics.com
-Home: https://hiveworkscomics.com
-Email: hello@thehiveworks.com
+

@@ -1,7 +1,9 @@
-# Fidelity
+---
+company-name: Fidelity
+domain: fidelity.com
+opt-out-url: https://communications.fidelity.com/consumer-privacy/california/
+---
 
-Name: Fidelity
 
-Domain: fidelity.com
 
-Opt_out_url: https://communications.fidelity.com/consumer-privacy/california/
+

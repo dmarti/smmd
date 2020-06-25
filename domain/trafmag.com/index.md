@@ -1,7 +1,9 @@
+---
+company-name: TrafMag
+domain: trafmag.com
+home: http://trafmag.com/
+privacy-policy: http://trafmag.com/policy
+---
 
-# TrafMag
 
-Name: TrafMag
-Domain: trafmag.com
-Home: http://trafmag.com/
-Privacy_policy: http://trafmag.com/policy
+

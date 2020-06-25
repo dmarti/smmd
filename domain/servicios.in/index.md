@@ -1,8 +1,10 @@
+---
+company-name: Servicios.in
+domain: servicios.in
+home: http://agenciadigital.servicios.in/
+privacy-policy: https://agenciadigital.servicios.in/politicas-privacidad-uso/
+email: coordinacion@servicios.in
+---
 
-# Servicios.in
 
-Name: Servicios.in
-Domain: servicios.in
-Home: http://agenciadigital.servicios.in/
-Privacy_policy: https://agenciadigital.servicios.in/politicas-privacidad-uso/
-Email: coordinacion@servicios.in
+

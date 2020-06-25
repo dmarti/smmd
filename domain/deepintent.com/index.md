@@ -1,10 +1,11 @@
+---
+company-name: "Deep Intent"
+domain: deepintent.com
+home: https://www.deepintent.com/
+privacy-policy: https://www.deepintent.com/privacy-policy/
+email: contact@deepintent.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Deep Intent
 
-Name: Deep Intent
-Domain: deepintent.com
-Home: https://www.deepintent.com/
-Privacy_policy: https://www.deepintent.com/privacy-policy/
-Email: contact@deepintent.com
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
+

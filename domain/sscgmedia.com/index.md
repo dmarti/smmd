@@ -1,6 +1,8 @@
+---
+company-name: "SSCG Media Group"
+domain: sscgmedia.com
+home: http://www.sscgmedia.com/
+---
 
-# SSCG Media Group
 
-Name: SSCG Media Group
-Domain: sscgmedia.com
-Home: http://www.sscgmedia.com/
+

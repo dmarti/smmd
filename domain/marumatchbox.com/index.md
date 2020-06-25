@@ -1,8 +1,10 @@
+---
+company-name: MaruMatchbox
+domain: marumatchbox.com
+home: https://marumatchbox.com/
+privacy-policy: https://marumatchbox.com/privacy-policy.pdf
+email: privacy@marumatchbox.com
+---
 
-# MaruMatchbox
 
-Name: MaruMatchbox
-Domain: marumatchbox.com
-Home: https://marumatchbox.com/
-Privacy_policy: https://marumatchbox.com/privacy-policy.pdf
-Email: privacy@marumatchbox.com
+

@@ -1,6 +1,8 @@
+---
+company-name: bluTonic
+domain: blutonic.com
+home: http://www.blutonic.com/
+---
 
-# bluTonic
 
-Name: bluTonic
-Domain: blutonic.com
-Home: http://www.blutonic.com/
+

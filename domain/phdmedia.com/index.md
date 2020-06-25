@@ -1,10 +1,12 @@
+---
+company-name: "PHD Worldwide"
+domain: phdmedia.com
+home: http://www.phdmedia.com/
+privacy-policy: http://www.phdmedia.com/privacy-policy/
+email: privacy@omnicommediagroup.com
+owned-by: "Omnicom Group"
+member-of: "American Association of Advertising Agencies"
+---
 
-# PHD Worldwide
 
-Name: PHD Worldwide
-Domain: phdmedia.com
-Home: http://www.phdmedia.com/
-Privacy_policy: http://www.phdmedia.com/privacy-policy/
-Email: privacy@omnicommediagroup.com
-Owned_by: Omnicom Group
-Member_of: American Association of Advertising Agencies
+

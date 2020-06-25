@@ -1,8 +1,10 @@
+---
+company-name: ClickInText
+domain: clickintext.com
+home: https://www.clickintext.com/
+privacy-policy: https://www.clickintext.com/about/confidentialite-retargeting.php
+email: contact@clickintext.com
+---
 
-# ClickInText
 
-Name: ClickInText
-Domain: clickintext.com
-Home: https://www.clickintext.com/
-Privacy_policy: https://www.clickintext.com/about/confidentialite-retargeting.php
-Email: contact@clickintext.com
+

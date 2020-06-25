@@ -1,8 +1,10 @@
+---
+company-name: "The Goal Inc."
+domain: thegoal.jp
+home: http://www.thegoal.jp
+privacy-policy: http://www.thegoal.jp/privacy/
+owned-by: "Dentsu Inc."
+---
 
-# The Goal Inc.
 
-Name: The Goal Inc.
-Domain: thegoal.jp
-Home: http://www.thegoal.jp
-Privacy_policy: http://www.thegoal.jp/privacy/
-Owned_by: Dentsu Inc.
+

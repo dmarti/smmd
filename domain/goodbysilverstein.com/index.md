@@ -1,6 +1,8 @@
+---
+company-name: "Goodby, Silverstein & Partners."
+domain: goodbysilverstein.com
+home: https://www.goodbysilverstein.com/
+---
 
-# Goodby, Silverstein & Partners.
 
-Name: Goodby, Silverstein & Partners.
-Domain: goodbysilverstein.com
-Home: https://www.goodbysilverstein.com/
+

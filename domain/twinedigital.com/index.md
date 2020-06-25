@@ -1,7 +1,9 @@
+---
+company-name: "Twine Digital"
+domain: twinedigital.com
+home: http://twinedigital.com/
+email: info@twinedigital.com
+---
 
-# Twine Digital 
 
-Name: Twine Digital 
-Domain: twinedigital.com
-Home: http://twinedigital.com/
-Email: info@twinedigital.com
+

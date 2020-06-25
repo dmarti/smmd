@@ -1,9 +1,11 @@
+---
+company-name: Optify
+domain: optify.net
+home: http://www.optify.net/
+privacy-policy: http://www.optify.net/about-our-b2b-inbound-marketing-solutions/privacy
+email: support@optify.net
+member-of: TrustE_TrustArc
+---
 
-# Optify
 
-Name: Optify
-Domain: optify.net
-Home: http://www.optify.net/
-Privacy_policy: http://www.optify.net/about-our-b2b-inbound-marketing-solutions/privacy
-Email: support@optify.net
-Member_of: TrustE_TrustArc
+

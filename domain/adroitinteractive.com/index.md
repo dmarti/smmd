@@ -1,9 +1,11 @@
+---
+company-name: "Adroit Interactive"
+domain: adroitinteractive.com
+home: http://www.adroitinteractive.com/
+privacy-policy: https://www.hugedomains.com/privacy_policy.cfm
+email: info@adroitinterative.com
+owned-by: MediaMath
+---
 
-# Adroit Interactive
 
-Name: Adroit Interactive
-Domain: adroitinteractive.com
-Home: http://www.adroitinteractive.com/
-Privacy_policy: https://www.hugedomains.com/privacy_policy.cfm
-Email: info@adroitinterative.com
-Owned_by: MediaMath
+

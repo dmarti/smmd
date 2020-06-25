@@ -1,9 +1,11 @@
+---
+company-name: Kenshoo
+domain: kenshoo.com
+home: http://www.kenshoo.com/
+privacy-policy: http://kenshoo.com/privacy-policy/
+email: privacy@kenshoo.com
+member-of: "Digital Advertising Alliance"
+---
 
-# Kenshoo
 
-Name: Kenshoo
-Domain: kenshoo.com
-Home: http://www.kenshoo.com/
-Privacy_policy: http://kenshoo.com/privacy-policy/
-Email: privacy@kenshoo.com
-Member_of: Digital Advertising Alliance
+

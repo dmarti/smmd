@@ -1,8 +1,10 @@
+---
+company-name: 4Finance
+domain: 4finance.com
+home: https://4finance.com/
+privacy-policy: https://4finance.com/footer/privacy-policy/
+email: privacy@4finance.com
+---
 
-# 4Finance
 
-Name: 4Finance
-Domain: 4finance.com
-Home: https://4finance.com/
-Privacy_policy: https://4finance.com/footer/privacy-policy/
-Email: privacy@4finance.com
+

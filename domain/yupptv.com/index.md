@@ -1,8 +1,10 @@
+---
+company-name: YuppTV
+domain: yupptv.com
+home: https://www.yupptv.com/
+privacy-policy: https://www.yupptv.com/help/privacy-terms
+email: info@YuppTV.com
+---
 
-# YuppTV
 
-Name: YuppTV
-Domain: yupptv.com
-Home: https://www.yupptv.com/
-Privacy_policy: https://www.yupptv.com/help/privacy-terms
-Email: info@YuppTV.com
+

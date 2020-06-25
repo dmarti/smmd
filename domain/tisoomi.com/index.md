@@ -1,8 +1,10 @@
+---
+company-name: Tisoomi
+domain: tisoomi.com
+home: http://www.tisoomi.com/
+privacy-policy: http://www.tisoomi.com/datasecurity.html
+email: info@tisoomi.com
+---
 
-# Tisoomi
 
-Name: Tisoomi
-Domain: tisoomi.com
-Home: http://www.tisoomi.com/
-Privacy_policy: http://www.tisoomi.com/datasecurity.html
-Email: info@tisoomi.com
+

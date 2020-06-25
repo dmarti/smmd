@@ -1,8 +1,10 @@
+---
+company-name: "Vistar Media"
+domain: vistarmedia.com
+home: http://www.vistarmedia.com/
+privacy-policy: https://www.vistarmedia.com/privacy
+email: info@vistarmedia.com
+---
 
-# Vistar Media
 
-Name: Vistar Media
-Domain: vistarmedia.com
-Home: http://www.vistarmedia.com/
-Privacy_policy: https://www.vistarmedia.com/privacy
-Email: info@vistarmedia.com
+

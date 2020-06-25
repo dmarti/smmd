@@ -1,8 +1,10 @@
+---
+company-name: VideoStep
+domain: videostep.com
+home: https://www.videostep.com/
+email: us@videostep.com
+owned-by: Invibes
+---
 
-# VideoStep
 
-Name: VideoStep
-Domain: videostep.com
-Home: https://www.videostep.com/
-Email: us@videostep.com
-Owned_by: Invibes
+

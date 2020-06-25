@@ -1,7 +1,9 @@
+---
+company-name: Reachability
+domain: github.com
+home: https://github.com/tonymillion/Reachability
+privacy-policy: http://
+---
 
-# Reachability
 
-Name: Reachability
-Domain: github.com
-Home: https://github.com/tonymillion/Reachability
-Privacy_policy: http://
+

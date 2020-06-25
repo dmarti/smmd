@@ -1,8 +1,10 @@
+---
+company-name: Hsoub
+domain: hsoub.com
+home: https://www.hsoub.com/
+privacy-policy: https://ads.hsoub.com/privacy
+email: info@hsoub.com
+---
 
-# Hsoub
 
-Name: Hsoub
-Domain: hsoub.com
-Home: https://www.hsoub.com/
-Privacy_policy: https://ads.hsoub.com/privacy
-Email: info@hsoub.com
+

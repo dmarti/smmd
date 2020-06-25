@@ -1,9 +1,11 @@
+---
+company-name: ZighZag
+domain: zighzag.com
+home: https://zighzag.com
+privacy-policy: https://zighzag.com/privacy
+email: info@zighzag.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# ZighZag
 
-Name: ZighZag
-Domain: zighzag.com
-Home: https://zighzag.com
-Privacy_policy: https://zighzag.com/privacy
-Email: info@zighzag.com
-Member_of: Interactive Advertising Bureau (IAB)
+

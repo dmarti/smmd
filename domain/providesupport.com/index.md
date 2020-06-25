@@ -1,7 +1,9 @@
+---
+company-name: "Provide Support"
+domain: providesupport.com
+home: http://www.providesupport.com/
+email: support@providesupport.com
+---
 
-# Provide Support
 
-Name: Provide Support
-Domain: providesupport.com
-Home: http://www.providesupport.com/
-Email: support@providesupport.com
+

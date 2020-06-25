@@ -1,11 +1,11 @@
+---
+company-name: Webtrends
+domain: webtrends.com
+home: https://www.webtrends.com/
+privacy-policy: https://www.webtrends.com/legal/privacy-statement/
+email: privacy@webtrends.com
+member-of: TrustE_TrustArc
+---
 
-# Webtrends
 
-Name: Webtrends
-Domain: webtrends.com
-Home: https://www.webtrends.com/
-Privacy_policy: https://www.webtrends.com/legal/privacy-statement/
-Email: privacy@webtrends.com
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
-Member_of: TrustE_TrustArc
+

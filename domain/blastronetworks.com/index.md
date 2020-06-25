@@ -1,8 +1,10 @@
+---
+company-name: "Blastro Networks"
+domain: blastronetworks.com
+home: http://www.blastronetworks.com/
+privacy-policy: http://www.blastro.com/policy.html
+email: info@blastro.com
+---
 
-# Blastro Networks
 
-Name: Blastro Networks
-Domain: blastronetworks.com
-Home: http://www.blastronetworks.com/
-Privacy_policy: http://www.blastro.com/policy.html
-Email: info@blastro.com
+

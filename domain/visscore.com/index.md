@@ -1,8 +1,10 @@
+---
+company-name: VisScore
+domain: visscore.com
+home: https://www.visscore.com/
+email: contact@visscore.com
+owned-by: Cubed
+---
 
-# VisScore
 
-Name: VisScore
-Domain: visscore.com
-Home: https://www.visscore.com/
-Email: contact@visscore.com
-Owned_by: Cubed
+

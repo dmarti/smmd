@@ -1,6 +1,8 @@
+---
+company-name: LiveInternet
+domain: liveinternet.ru
+home: https://www.liveinternet.ru/
+---
 
-# LiveInternet
 
-Name: LiveInternet
-Domain: liveinternet.ru
-Home: https://www.liveinternet.ru/
+

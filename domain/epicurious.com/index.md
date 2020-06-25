@@ -1,9 +1,11 @@
+---
+company-name: Epicurious
+domain: epicurious.com
+home: http://www.epicurious.com/
+privacy-policy: http://www.condenast.com/privacy-policy/#privacypolicy
+email: Privacy_administration@condenast.com
+owned-by: "Conde Nast"
+---
 
-# Epicurious
 
-Name: Epicurious
-Domain: epicurious.com
-Home: http://www.epicurious.com/
-Privacy_policy: http://www.condenast.com/privacy-policy/#privacypolicy
-Email: Privacy_administration@condenast.com
-Owned_by: Conde Nast
+

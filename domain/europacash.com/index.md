@@ -1,6 +1,8 @@
+---
+company-name: Europacash
+domain: europacash.com
+home: https://www.europacash.com/
+---
 
-# Europacash
 
-Name: Europacash
-Domain: europacash.com
-Home: https://www.europacash.com/
+

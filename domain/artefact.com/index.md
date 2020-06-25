@@ -1,8 +1,10 @@
+---
+company-name: "Artefact (Formerly NetBooster Group)"
+domain: artefact.com
+home: https://artefact.com/
+privacy-policy: https://artefact.com/privacy-policy/
+email: hello@artefact.com
+---
 
-# Artefact (Formerly NetBooster Group)
 
-Name: Artefact (Formerly NetBooster Group)
-Domain: artefact.com
-Home: https://artefact.com/
-Privacy_policy: https://artefact.com/privacy-policy/
-Email: hello@artefact.com
+

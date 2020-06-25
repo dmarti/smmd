@@ -1,6 +1,8 @@
+---
+company-name: MashLogic
+domain: mashlogic.com
+home: http://www.mashlogic.com/
+---
 
-# MashLogic
 
-Name: MashLogic
-Domain: mashlogic.com
-Home: http://www.mashlogic.com/
+

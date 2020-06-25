@@ -1,7 +1,9 @@
+---
+company-name: "SmarterTools (SmarterTrack)"
+domain: smartertools.com
+home: https://www.smartertools.com
+privacy-policy: https://www.smartertools.com/company/privacy-policy
+---
 
-# SmarterTools (SmarterTrack)
 
-Name: SmarterTools (SmarterTrack)
-Domain: smartertools.com
-Home: https://www.smartertools.com
-Privacy_policy: https://www.smartertools.com/company/privacy-policy
+

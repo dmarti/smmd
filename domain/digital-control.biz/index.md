@@ -1,9 +1,11 @@
+---
+company-name: "Digital Control"
+domain: digital-control.biz
+home: https://digital-control.biz/
+privacy-policy: https://digital-control.biz/datenschutz.html
+email: datenschutz@digital.control.biz
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Digital Control
 
-Name: Digital Control
-Domain: digital-control.biz
-Home: https://digital-control.biz/
-Privacy_policy: https://digital-control.biz/datenschutz.html
-Email: datenschutz@digital.control.biz
-Member_of: Interactive Advertising Bureau (IAB)
+

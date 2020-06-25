@@ -1,8 +1,10 @@
+---
+company-name: AdLand
+domain: adlandil.com
+home: https://www.adlandil.com/
+privacy-policy: https://www.adlandil.com/terms
+email: admin@adland.co.il
+---
 
-# AdLand
 
-Name: AdLand
-Domain: adlandil.com
-Home: https://www.adlandil.com/
-Privacy_policy: https://www.adlandil.com/terms
-Email: admin@adland.co.il
+

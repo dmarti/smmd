@@ -1,7 +1,9 @@
+---
+company-name: "Blue Seed"
+domain: blueseed.tv
+home: http://blueseed.tv/
+email: contact@blueseed.vn
+---
 
-# Blue Seed
 
-Name: Blue Seed
-Domain: blueseed.tv
-Home: http://blueseed.tv/
-Email: contact@blueseed.vn
+

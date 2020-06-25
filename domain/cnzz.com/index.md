@@ -1,7 +1,9 @@
+---
+company-name: CNZZ
+domain: cnzz.com
+home: http://cnzz.com/
+email: service@cnzz.com
+---
 
-# CNZZ
 
-Name: CNZZ
-Domain: cnzz.com
-Home: http://cnzz.com/
-Email: service@cnzz.com
+

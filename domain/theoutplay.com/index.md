@@ -1,7 +1,9 @@
+---
+company-name: "The Outplay"
+domain: theoutplay.com
+home: http://theoutplay.com
+privacy-policy: http://www.theoutplay.com/cookies/
+---
 
-# The Outplay
 
-Name: The Outplay
-Domain: theoutplay.com
-Home: http://theoutplay.com
-Privacy_policy: http://www.theoutplay.com/cookies/
+

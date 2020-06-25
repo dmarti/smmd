@@ -1,7 +1,9 @@
+---
+company-name: Genoo
+domain: genoo.com
+home: http://www.genoo.com/
+privacy-policy: http://www.genoo.com/privacy-policy
+---
 
-# Genoo
 
-Name: Genoo
-Domain: genoo.com
-Home: http://www.genoo.com/
-Privacy_policy: http://www.genoo.com/privacy-policy
+

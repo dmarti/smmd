@@ -1,8 +1,10 @@
+---
+company-name: 12DigitMedia
+domain: 12digitmarketing.com
+home: http://www.12digitmarketing.com/
+privacy-policy: http://www.12digitmarketing.com/privacy-policy/
+owned-by: "OneMarket (Formerly 12 Digit Marketing)"
+---
 
-# 12DigitMedia
 
-Name: 12DigitMedia
-Domain: 12digitmarketing.com
-Home: http://www.12digitmarketing.com/
-Privacy_policy: http://www.12digitmarketing.com/privacy-policy/
-Owned_by: OneMarket (Formerly 12 Digit Marketing)
+

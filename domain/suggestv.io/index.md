@@ -1,6 +1,8 @@
+---
+company-name: SuggesTV
+domain: suggestv.io
+home: https://suggestv.io/
+---
 
-# SuggesTV
 
-Name: SuggesTV
-Domain: suggestv.io
-Home: https://suggestv.io/
+

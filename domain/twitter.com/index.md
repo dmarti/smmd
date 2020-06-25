@@ -1,9 +1,11 @@
+---
+company-name: Twitter
+domain: twitter.com
+home: https://twitter.com/
+privacy-policy: https://twitter.com/en/privacy
+email: privacy@twitter.com
+member-of: "Network Advertising Initiative"
+---
 
-# Twitter
 
-Name: Twitter
-Domain: twitter.com
-Home: https://twitter.com/
-Privacy_policy: https://twitter.com/en/privacy
-Email: privacy@twitter.com
-Member_of: Network Advertising Initiative
+

@@ -1,7 +1,9 @@
+---
+company-name: ShopBack
+domain: shopback.co
+home: https://www.shopback.co/
+privacy-policy: https://www.shopback.co/privacy-policy.html
+---
 
-# ShopBack
 
-Name: ShopBack
-Domain: shopback.co
-Home: https://www.shopback.co/
-Privacy_policy: https://www.shopback.co/privacy-policy.html
+

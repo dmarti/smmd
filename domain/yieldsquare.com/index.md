@@ -1,6 +1,8 @@
+---
+company-name: YieldSquare
+domain: yieldsquare.com
+home: http://www.yieldsquare.com/
+---
 
-# YieldSquare
 
-Name: YieldSquare
-Domain: yieldsquare.com
-Home: http://www.yieldsquare.com/
+

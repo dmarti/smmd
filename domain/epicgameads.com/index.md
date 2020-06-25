@@ -1,8 +1,10 @@
+---
+company-name: "Epic Game Ads"
+domain: epicgameads.com
+home: http://www.epicgameads.com/
+privacy-policy: http://www.epicgameads.com/privacy.htm
+email: support@epicgameads.com
+---
 
-# Epic Game Ads
 
-Name: Epic Game Ads
-Domain: epicgameads.com
-Home: http://www.epicgameads.com/
-Privacy_policy: http://www.epicgameads.com/privacy.htm
-Email: support@epicgameads.com
+

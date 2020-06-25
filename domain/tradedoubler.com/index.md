@@ -1,9 +1,11 @@
+---
+company-name: TradeDoubler
+domain: tradedoubler.com
+home: https://www.tradedoubler.com/
+privacy-policy: https://www.tradedoubler.com/en/privacy-policy/
+email: privacy@tradedoubler.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# TradeDoubler
 
-Name: TradeDoubler
-Domain: tradedoubler.com
-Home: https://www.tradedoubler.com/
-Privacy_policy: https://www.tradedoubler.com/en/privacy-policy/
-Email: privacy@tradedoubler.com
-Member_of: Interactive Advertising Bureau (IAB)
+

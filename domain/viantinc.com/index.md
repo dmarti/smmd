@@ -1,9 +1,11 @@
+---
+company-name: Viant
+domain: viantinc.com
+home: https://www.viantinc.com/
+privacy-policy: https://www.viantinc.com/privacy-policy/
+email: privacy@viantinc.com
+owned-by: "Meredith Corporation"
+---
 
-# Viant
 
-Name: Viant
-Domain: viantinc.com
-Home: https://www.viantinc.com/
-Privacy_policy: https://www.viantinc.com/privacy-policy/
-Email: privacy@viantinc.com
-Owned_by: Meredith Corporation
+

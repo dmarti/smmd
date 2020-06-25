@@ -1,6 +1,8 @@
+---
+company-name: VideoPotok
+domain: videopotok.pro
+home: http://videopotok.pro/
+---
 
-# VideoPotok
 
-Name: VideoPotok
-Domain: videopotok.pro
-Home: http://videopotok.pro/
+

@@ -1,7 +1,9 @@
-# Reed Exhibitions
+---
+company-name: "Reed Exhibitions"
+domain: reedexpo.com
+opt-out-url: https://privacy.reedexpo.com/en-us/ccpa.html
+---
 
-Name: Reed Exhibitions
 
-Domain: reedexpo.com
 
-Opt_out_url: https://privacy.reedexpo.com/en-us/ccpa.html
+

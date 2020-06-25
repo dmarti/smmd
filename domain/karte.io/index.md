@@ -1,7 +1,9 @@
+---
+company-name: Karte
+domain: karte.io
+home: https://karte.io/
+privacy-policy: https://plaid.co.jp/privacy-policy.html
+---
 
-# Karte
 
-Name: Karte
-Domain: karte.io
-Home: https://karte.io/
-Privacy_policy: https://plaid.co.jp/privacy-policy.html
+

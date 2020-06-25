@@ -1,6 +1,8 @@
+---
+company-name: Crossroads
+domain: crossroadswow.com
+home: http://www.crossroadswow.com/
+---
 
-# Crossroads
 
-Name: Crossroads
-Domain: crossroadswow.com
-Home: http://www.crossroadswow.com/
+

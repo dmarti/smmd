@@ -1,6 +1,8 @@
+---
+company-name: XYZtraffic
+domain: xyztraffic.com
+home: http://www.xyztraffic.com/
+---
 
-# XYZtraffic
 
-Name: XYZtraffic
-Domain: xyztraffic.com
-Home: http://www.xyztraffic.com/
+

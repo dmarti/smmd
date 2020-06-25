@@ -1,8 +1,10 @@
+---
+company-name: Proficientz
+domain: proficientz.com
+home: https://www.proficientz.com/
+privacy-policy: https://www.proficientz.com/privacy/
+email: inquiry@proficientz.com
+---
 
-# Proficientz
 
-Name: Proficientz
-Domain: proficientz.com
-Home: https://www.proficientz.com/
-Privacy_policy: https://www.proficientz.com/privacy/
-Email: inquiry@proficientz.com
+

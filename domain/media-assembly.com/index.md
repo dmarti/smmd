@@ -1,9 +1,11 @@
+---
+company-name: "Assembly (formerly TargetCast)"
+domain: media-assembly.com
+home: http://www.media-assembly.com/
+privacy-policy: http://media-assembly.com/privacy-policy/
+email: get-in-touch@media-assembly.com
+owned-by: "MDC Partners"
+---
 
-# Assembly (formerly TargetCast)
 
-Name: Assembly (formerly TargetCast)
-Domain: media-assembly.com
-Home: http://www.media-assembly.com/
-Privacy_policy: http://media-assembly.com/privacy-policy/
-Email: get-in-touch@media-assembly.com
-Owned_by: MDC Partners
+

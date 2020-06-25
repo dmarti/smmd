@@ -1,9 +1,11 @@
+---
+company-name: Bmind
+domain: bmind.es
+home: https://www.bmind.es/
+privacy-policy: https://www.bmind.es/legal-notice/
+email: info@businessmind.es
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Bmind
 
-Name: Bmind
-Domain: bmind.es
-Home: https://www.bmind.es/
-Privacy_policy: https://www.bmind.es/legal-notice/
-Email: info@businessmind.es
-Member_of: Interactive Advertising Bureau (IAB)
+

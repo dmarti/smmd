@@ -1,7 +1,9 @@
+---
+company-name: Adverteerdirect
+domain: adverteerdirect.nl
+home: http://www.adverteerdirect.nl/
+privacy-policy: http://www.adverteerdirect.nl/privacy/
+---
 
-# Adverteerdirect
 
-Name: Adverteerdirect
-Domain: adverteerdirect.nl
-Home: http://www.adverteerdirect.nl/
-Privacy_policy: http://www.adverteerdirect.nl/privacy/
+

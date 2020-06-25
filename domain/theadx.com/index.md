@@ -1,8 +1,10 @@
+---
+company-name: theAdx
+domain: theadx.com
+home: https://theadx.com/
+privacy-policy: https://theadx.com/en/privacy.php
+email: bulten@theadx.com
+---
 
-# theAdx
 
-Name: theAdx
-Domain: theadx.com
-Home: https://theadx.com/
-Privacy_policy: https://theadx.com/en/privacy.php
-Email: bulten@theadx.com
+

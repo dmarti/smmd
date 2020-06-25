@@ -1,8 +1,10 @@
+---
+company-name: ManyContacts
+domain: manycontacts.com
+home: https://www.manycontacts.com/
+privacy-policy: https://www.manycontacts.com/en/page/privacy
+email: support@manycontacts.com
+---
 
-# ManyContacts
 
-Name: ManyContacts
-Domain: manycontacts.com
-Home: https://www.manycontacts.com/
-Privacy_policy: https://www.manycontacts.com/en/page/privacy
-Email: support@manycontacts.com
+

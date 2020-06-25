@@ -1,8 +1,10 @@
+---
+company-name: ToneFuse
+domain: tonefuse.com
+home: https://cp.tonefuse.com/
+email: general@tonefuse.com
+owned-by: ToneMedia
+---
 
-# ToneFuse
 
-Name: ToneFuse
-Domain: tonefuse.com
-Home: https://cp.tonefuse.com/
-Email: general@tonefuse.com
-Owned_by: ToneMedia
+

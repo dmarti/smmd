@@ -1,7 +1,9 @@
+---
+company-name: AccessAnalyzer
+domain: xrea.com
+home: http://ax.xrea.com/
+privacy-policy: http://ax.xrea.com/rules.php
+---
 
-# AccessAnalyzer
 
-Name: AccessAnalyzer
-Domain: xrea.com
-Home: http://ax.xrea.com/
-Privacy_policy: http://ax.xrea.com/rules.php
+

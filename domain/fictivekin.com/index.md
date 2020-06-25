@@ -1,7 +1,9 @@
+---
+company-name: "Fictive Kin"
+domain: fictivekin.com
+home: http://fictivekin.com/
+email: hello@fictivekin.com
+---
 
-# Fictive Kin
 
-Name: Fictive Kin
-Domain: fictivekin.com
-Home: http://fictivekin.com/
-Email: hello@fictivekin.com
+

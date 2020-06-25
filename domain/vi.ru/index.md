@@ -1,9 +1,11 @@
+---
+company-name: Vi
+domain: vi.ru
+home: http://www.vi.ru/
+privacy-policy: http://www.vi.ru/confedent.aspx
+email: pr@vi.ru
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Vi
 
-Name: Vi
-Domain: vi.ru
-Home: http://www.vi.ru/
-Privacy_policy: http://www.vi.ru/confedent.aspx
-Email: pr@vi.ru
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

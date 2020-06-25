@@ -1,8 +1,10 @@
+---
+company-name: QualityUnit
+domain: qualityunit.com
+home: http://www.qualityunit.com/
+privacy-policy: https://www.qualityunit.com/privacy-policy-quality-unit/
+email: support@qualityunit.com
+---
 
-# QualityUnit
 
-Name: QualityUnit
-Domain: qualityunit.com
-Home: http://www.qualityunit.com/
-Privacy_policy: https://www.qualityunit.com/privacy-policy-quality-unit/
-Email: support@qualityunit.com
+

@@ -1,7 +1,9 @@
+---
+company-name: ReachJunction
+domain: reachjunction.com
+home: http://www.reachjunction.com/
+email: support@reachjunction.com
+---
 
-# ReachJunction
 
-Name: ReachJunction
-Domain: reachjunction.com
-Home: http://www.reachjunction.com/
-Email: support@reachjunction.com
+

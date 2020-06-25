@@ -1,7 +1,9 @@
+---
+company-name: Influads
+domain: influads.com
+home: http://www.influads.com/
+email: info@influads.com
+---
 
-# Influads
 
-Name: Influads
-Domain: influads.com
-Home: http://www.influads.com/
-Email: info@influads.com
+

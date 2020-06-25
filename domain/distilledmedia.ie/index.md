@@ -1,8 +1,10 @@
+---
+company-name: "Distilled Media"
+domain: distilledmedia.ie
+home: http://www.distilledmedia.ie/
+email: info@distilledmedia.ie
+member-of: "European Data Interactive Alliance"
+---
 
-# Distilled Media
 
-Name: Distilled Media
-Domain: distilledmedia.ie
-Home: http://www.distilledmedia.ie/
-Email: info@distilledmedia.ie
-Member_of: European Data Interactive Alliance
+

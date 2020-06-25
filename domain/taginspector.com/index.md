@@ -1,8 +1,10 @@
+---
+company-name: "Tag Inspector"
+domain: taginspector.com
+home: https://taginspector.com/
+privacy-policy: https://app.taginspector.com/privacy_policy
+email: info@infotrust.com
+---
 
-# Tag Inspector
 
-Name: Tag Inspector
-Domain: taginspector.com
-Home: https://taginspector.com/
-Privacy_policy: https://app.taginspector.com/privacy_policy
-Email: info@infotrust.com
+

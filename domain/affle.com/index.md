@@ -1,6 +1,8 @@
+---
+company-name: Affle
+domain: affle.com
+home: http://affle.com/
+---
 
-# Affle
 
-Name: Affle
-Domain: affle.com
-Home: http://affle.com/
+

@@ -1,8 +1,10 @@
+---
+company-name: shopkick
+domain: shopkick.com
+home: https://www.shopkick.com/
+privacy-policy: https://www.shopkick.com/privacy-policy
+email: myprivacy@shopkick.com
+---
 
-# shopkick
 
-Name: shopkick
-Domain: shopkick.com
-Home: https://www.shopkick.com/
-Privacy_policy: https://www.shopkick.com/privacy-policy
-Email: myprivacy@shopkick.com
+

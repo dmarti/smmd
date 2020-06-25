@@ -1,7 +1,9 @@
-# Coinbase
+---
+company-name: Coinbase
+domain: coinbase.com
+opt-out-url: https://www.coinbase.com/legal/privacy
+---
 
-Name: Coinbase
 
-Domain: coinbase.com
 
-Opt_out_url: https://www.coinbase.com/legal/privacy
+

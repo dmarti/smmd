@@ -1,7 +1,9 @@
+---
+company-name: Tapstream
+domain: tapstream.com
+home: https://tapstream.com/
+privacy-policy: https://tapstream.com/legal/privacy-policy/
+---
 
-# Tapstream
 
-Name: Tapstream
-Domain: tapstream.com
-Home: https://tapstream.com/
-Privacy_policy: https://tapstream.com/legal/privacy-policy/
+

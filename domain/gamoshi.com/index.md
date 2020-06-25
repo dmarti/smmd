@@ -1,8 +1,10 @@
+---
+company-name: Gamoshi
+domain: gamoshi.com
+home: https://www.gamoshi.com/
+privacy-policy: https://www.gamoshi.com/privacy-policy
+email: info@gamoshi.com
+---
 
-# Gamoshi
 
-Name: Gamoshi
-Domain: gamoshi.com
-Home: https://www.gamoshi.com/
-Privacy_policy: https://www.gamoshi.com/privacy-policy
-Email: info@gamoshi.com
+

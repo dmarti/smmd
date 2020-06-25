@@ -1,9 +1,11 @@
+---
+company-name: BackType
+domain: backtype.com
+home: http://www.backtype.com/
+privacy-policy: http://www.backtype.com/privacy
+email: support@backtype.com
+owned-by: Twitter
+---
 
-# BackType
 
-Name: BackType
-Domain: backtype.com
-Home: http://www.backtype.com/
-Privacy_policy: http://www.backtype.com/privacy
-Email: support@backtype.com
-Owned_by: Twitter
+

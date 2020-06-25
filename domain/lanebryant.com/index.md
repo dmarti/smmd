@@ -1,8 +1,10 @@
+---
+company-name: "Lane Bryant"
+domain: lanebryant.com
+home: https://www.lanebryant.com/
+privacy-policy: https://www.lanebryant.com/help/privacy-policy
+email: https://www.lanebryant.com/custserv/custserv.jsp
+---
 
-# Lane Bryant
 
-Name: Lane Bryant
-Domain: lanebryant.com
-Home: https://www.lanebryant.com/
-Privacy_policy: https://www.lanebryant.com/help/privacy-policy
-Email: https://www.lanebryant.com/custserv/custserv.jsp
+

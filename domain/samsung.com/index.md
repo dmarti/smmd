@@ -1,7 +1,9 @@
-# Samsung
+---
+company-name: Samsung
+domain: samsung.com
+opt-out-url: https://www.samsung.com/us/privacy/ccpa/
+---
 
-Name: Samsung
 
-Domain: samsung.com
 
-Opt_out_url: https://www.samsung.com/us/privacy/ccpa/
+

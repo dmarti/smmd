@@ -1,8 +1,10 @@
+---
+company-name: ThingLink
+domain: thinglink.com
+home: https://www.thinglink.com/
+privacy-policy: https://www.thinglink.com/terms
+email: info@thinglink.com
+---
 
-# ThingLink
 
-Name: ThingLink
-Domain: thinglink.com
-Home: https://www.thinglink.com/
-Privacy_policy: https://www.thinglink.com/terms
-Email: info@thinglink.com
+

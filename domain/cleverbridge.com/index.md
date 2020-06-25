@@ -1,8 +1,10 @@
+---
+company-name: cleverbridge
+domain: cleverbridge.com
+home: https://www.cleverbridge.com/corporate/
+privacy-policy: https://www.cleverbridge.com/corporate/privacy-policy/
+email: privacy@cleverbridge.com
+---
 
-# cleverbridge
 
-Name: cleverbridge
-Domain: cleverbridge.com
-Home: https://www.cleverbridge.com/corporate/
-Privacy_policy: https://www.cleverbridge.com/corporate/privacy-policy/
-Email: privacy@cleverbridge.com
+

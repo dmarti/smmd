@@ -1,8 +1,10 @@
+---
+company-name: BPMonline
+domain: bpmonline.com
+home: https://www.bpmonline.com
+privacy-policy: https://www.bpmonline.com/privacy-policy
+email: dpo@bpmonline.com
+---
 
-# BPMonline
 
-Name: BPMonline
-Domain: bpmonline.com
-Home: https://www.bpmonline.com
-Privacy_policy: https://www.bpmonline.com/privacy-policy
-Email: dpo@bpmonline.com
+

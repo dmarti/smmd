@@ -1,6 +1,8 @@
+---
+company-name: MerchantAdvantage
+domain: merchantadvantage.com
+home: http://www.merchantadvantage.com/
+---
 
-# MerchantAdvantage
 
-Name: MerchantAdvantage
-Domain: merchantadvantage.com
-Home: http://www.merchantadvantage.com/
+

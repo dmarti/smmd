@@ -1,8 +1,10 @@
+---
+company-name: "Net Applications"
+domain: netapplications.com
+home: http://www.netapplications.com/
+privacy-policy: http://www.netapplications.com/#privacy-policy-modal
+email: privacy@netapplications.com
+---
 
-# Net Applications
 
-Name: Net Applications
-Domain: netapplications.com
-Home: http://www.netapplications.com/
-Privacy_policy: http://www.netapplications.com/#privacy-policy-modal
-Email: privacy@netapplications.com
+

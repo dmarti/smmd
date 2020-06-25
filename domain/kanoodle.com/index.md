@@ -1,8 +1,10 @@
+---
+company-name: Kanoodle
+domain: kanoodle.com
+home: http://www.kanoodle.com
+privacy-policy: http://kanoodle.com/privacy-policy/
+email: clientservices@corp.kanoodle.com
+---
 
-# Kanoodle
 
-Name: Kanoodle
-Domain: kanoodle.com
-Home: http://www.kanoodle.com
-Privacy_policy: http://kanoodle.com/privacy-policy/
-Email: clientservices@corp.kanoodle.com
+

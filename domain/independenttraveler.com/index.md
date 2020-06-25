@@ -1,7 +1,9 @@
+---
+company-name: "Independent Traveler"
+domain: independenttraveler.com
+home: http://www.independenttraveler.com/
+privacy-policy: http://www.independenttraveler.com/privacy
+---
 
-# Independent Traveler
 
-Name: Independent Traveler
-Domain: independenttraveler.com
-Home: http://www.independenttraveler.com/
-Privacy_policy: http://www.independenttraveler.com/privacy
+

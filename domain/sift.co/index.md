@@ -1,8 +1,10 @@
+---
+company-name: "Sift Media"
+domain: sift.co
+home: https://www.sift.co/
+privacy-policy: https://www.sift.co/privacy
+email: privacy@sift.co
+---
 
-# Sift Media
 
-Name: Sift Media
-Domain: sift.co
-Home: https://www.sift.co/
-Privacy_policy: https://www.sift.co/privacy
-Email: privacy@sift.co
+

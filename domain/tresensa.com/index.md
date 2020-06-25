@@ -1,8 +1,10 @@
+---
+company-name: TreSensa
+domain: tresensa.com
+home: http://www.tresensa.com/
+privacy-policy: http://tresensa.com/privacy/index.html
+email: privacy@tresensa.com
+---
 
-# TreSensa
 
-Name: TreSensa
-Domain: tresensa.com
-Home: http://www.tresensa.com/
-Privacy_policy: http://tresensa.com/privacy/index.html
-Email: privacy@tresensa.com
+

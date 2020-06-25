@@ -1,10 +1,11 @@
+---
+company-name: Spotible
+domain: spotible.com
+home: http://spotible.com/
+privacy-policy: http://spotible.com/#privacy
+email: hello@spotible.com
+member-of: "Network Advertising Initiative"
+---
 
-# Spotible
 
-Name: Spotible
-Domain: spotible.com
-Home: http://spotible.com/
-Privacy_policy: http://spotible.com/#privacy
-Email: hello@spotible.com
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

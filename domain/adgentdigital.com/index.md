@@ -1,9 +1,11 @@
+---
+company-name: "AdGent Digital"
+domain: adgentdigital.com
+home: http://adgentdigital.com/
+privacy-policy: http://adgentdigital.com/privacy-policy/
+email: privacy@adgentdigital.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# AdGent Digital
 
-Name: AdGent Digital
-Domain: adgentdigital.com
-Home: http://adgentdigital.com/
-Privacy_policy: http://adgentdigital.com/privacy-policy/
-Email: privacy@adgentdigital.com
-Member_of: Interactive Advertising Bureau (IAB)
+

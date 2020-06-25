@@ -1,10 +1,10 @@
+---
+company-name: Walmart
+domain: walmart.com
+home: https://www.walmart.com/
+privacy-policy: https://corporate.walmart.com/privacy-security/walmart-privacy-policy
+member-of: DMA_ANA
+---
 
-# Walmart
 
-Name: Walmart
-Domain: walmart.com
-Home: https://www.walmart.com/
-Privacy_policy: https://corporate.walmart.com/privacy-security/walmart-privacy-policy
-Member_of: Association of National Advertisers
-Member_of: Digital Advertising Alliance
-Member_of: DMA_ANA
+

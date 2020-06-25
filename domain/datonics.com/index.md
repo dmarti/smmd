@@ -1,11 +1,12 @@
+---
+company-name: Datonics
+domain: datonics.com
+home: http://datonics.com/
+privacy-policy: http://datonics.com/technology-privacy-policy/
+email: privacy@datonics.com
+owned-by: "AlmondNet Group"
+member-of: "Network Advertising Initiative"
+---
 
-# Datonics
 
-Name: Datonics
-Domain: datonics.com
-Home: http://datonics.com/
-Privacy_policy: http://datonics.com/technology-privacy-policy/
-Email: privacy@datonics.com
-Owned_by: AlmondNet Group
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

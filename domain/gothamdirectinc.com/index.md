@@ -1,7 +1,9 @@
+---
+company-name: "Generator Media + Analytics (formerly Gotham Direct)"
+domain: gothamdirectinc.com
+home: http://www.gothamdirectinc.com/
+privacy-policy: http://
+---
 
-# Generator Media + Analytics (formerly Gotham Direct)
 
-Name: Generator Media + Analytics (formerly Gotham Direct)
-Domain: gothamdirectinc.com
-Home: http://www.gothamdirectinc.com/
-Privacy_policy: http://
+

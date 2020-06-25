@@ -1,6 +1,8 @@
+---
+company-name: AdBridg
+domain: adbridg.com
+home: http://adbridg.com/
+---
 
-# AdBridg
 
-Name: AdBridg
-Domain: adbridg.com
-Home: http://adbridg.com/
+

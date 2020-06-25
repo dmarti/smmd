@@ -1,9 +1,11 @@
+---
+company-name: Fluidware
+domain: fluidsurveys.com
+home: http://fluidsurveys.com/
+privacy-policy: http://fluidsurveys.com/about/privacy
+email: support@FluidSurveys.com
+member-of: TrustE_TrustArc
+---
 
-# Fluidware
 
-Name: Fluidware
-Domain: fluidsurveys.com
-Home: http://fluidsurveys.com/
-Privacy_policy: http://fluidsurveys.com/about/privacy
-Email: support@FluidSurveys.com
-Member_of: TrustE_TrustArc
+

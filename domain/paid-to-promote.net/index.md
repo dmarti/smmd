@@ -1,7 +1,9 @@
+---
+company-name: Paid-to-Promote
+domain: paid-to-promote.net
+home: http://www.paid-to-promote.net/
+email: ptp@paid-to-promote.net
+---
 
-# Paid-to-Promote
 
-Name: Paid-to-Promote
-Domain: paid-to-promote.net
-Home: http://www.paid-to-promote.net/
-Email: ptp@paid-to-promote.net
+

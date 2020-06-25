@@ -1,9 +1,11 @@
+---
+company-name: JOIN
+domain: teamjoin.fr
+home: https://www.teamjoin.fr/index.html
+privacy-policy: https://www.teamjoin.fr/privacy.html
+email: privacy@teamjoin.fr
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# JOIN
 
-Name: JOIN
-Domain: teamjoin.fr
-Home: https://www.teamjoin.fr/index.html
-Privacy_policy: https://www.teamjoin.fr/privacy.html
-Email: privacy@teamjoin.fr
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,8 +1,10 @@
+---
+company-name: "Advance Local"
+domain: advancelocal.com
+home: https://www.advancelocal.com/
+privacy-policy: https://www.advance.com/advancelocalUserAgreement/privacy-policy.html
+email: privacy_inquiry@advancelocal.com
+---
 
-# Advance Local
 
-Name: Advance Local
-Domain: advancelocal.com
-Home: https://www.advancelocal.com/
-Privacy_policy: https://www.advance.com/advancelocalUserAgreement/privacy-policy.html
-Email: privacy_inquiry@advancelocal.com
+

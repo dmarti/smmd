@@ -1,9 +1,11 @@
+---
+company-name: "Mobile Professionals"
+domain: mobpro.com
+home: https://mobpro.com/
+privacy-policy: https://mobpro.com/privacy.html
+email: legal@mobpro.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Mobile Professionals 
 
-Name: Mobile Professionals 
-Domain: mobpro.com
-Home: https://mobpro.com/
-Privacy_policy: https://mobpro.com/privacy.html
-Email: legal@mobpro.com
-Member_of: Interactive Advertising Bureau (IAB)
+

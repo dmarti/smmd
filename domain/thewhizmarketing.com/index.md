@@ -1,7 +1,9 @@
+---
+company-name: "Whiz Marketing"
+domain: thewhizmarketing.com
+home: http://www.thewhizmarketing.com/
+email: info@marketingwiz.co
+---
 
-# Whiz Marketing
 
-Name: Whiz Marketing
-Domain: thewhizmarketing.com
-Home: http://www.thewhizmarketing.com/
-Email: info@marketingwiz.co
+

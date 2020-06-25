@@ -1,8 +1,10 @@
+---
+company-name: "ThomasNet WebSolutions"
+domain: thomasnet.com
+home: https://www.thomasnet.com/
+privacy-policy: https://www.thomasnet.com/privacy.html
+email: privacy@thomasnet.com
+---
 
-# ThomasNet WebSolutions
 
-Name: ThomasNet WebSolutions
-Domain: thomasnet.com
-Home: https://www.thomasnet.com/
-Privacy_policy: https://www.thomasnet.com/privacy.html
-Email: privacy@thomasnet.com
+

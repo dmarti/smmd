@@ -1,8 +1,10 @@
+---
+company-name: "3Q Digital"
+domain: 3qdigital.com
+home: https://3qdigital.com/
+privacy-policy: https://3qdigital.com/privacy-policy
+email: info@3QDigital.com
+---
 
-# 3Q Digital
 
-Name: 3Q Digital
-Domain: 3qdigital.com
-Home: https://3qdigital.com/
-Privacy_policy: https://3qdigital.com/privacy-policy
-Email: info@3QDigital.com
+

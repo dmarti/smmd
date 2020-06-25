@@ -1,10 +1,11 @@
+---
+company-name: Sanoma
+domain: sanoma.com
+home: http://www.sanoma.com/
+privacy-policy: https://sanoma.fi/tietoa-meista/tietosuoja/tietosuojalauseke/
+email: communications@sanoma.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Sanoma
 
-Name: Sanoma
-Domain: sanoma.com
-Home: http://www.sanoma.com/
-Privacy_policy: https://sanoma.fi/tietoa-meista/tietosuoja/tietosuojalauseke/
-Email: communications@sanoma.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

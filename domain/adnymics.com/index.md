@@ -1,7 +1,9 @@
+---
+company-name: Adnymics
+domain: adnymics.com
+home: https://adnymics.com/en/
+email: info@adnymics.com
+---
 
-# Adnymics
 
-Name: Adnymics
-Domain: adnymics.com
-Home: https://adnymics.com/en/
-Email: info@adnymics.com
+

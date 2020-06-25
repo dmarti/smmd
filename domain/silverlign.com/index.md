@@ -1,7 +1,9 @@
+---
+company-name: Silverlign
+domain: silverlign.com
+home: http://www.silverlign.com/
+email: randy@silverlign.com
+---
 
-# Silverlign
 
-Name: Silverlign
-Domain: silverlign.com
-Home: http://www.silverlign.com/
-Email: randy@silverlign.com
+

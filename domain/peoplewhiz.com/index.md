@@ -1,21 +1,11 @@
-
-# PeopleWhiz
-
-Name: PeopleWhiz
-
-Domain: peoplewhiz.com
-
-Home: peoplewhiz.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: https://www.peoplewhiz.com/remove-my-info
-
-
-
+---
+company-name: PeopleWhiz
+domain: peoplewhiz.com
+home: peoplewhiz.com
+opt-out-url: https://www.peoplewhiz.com/remove-my-info
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +13,20 @@ Opt_out_url: https://www.peoplewhiz.com/remove-my-info
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

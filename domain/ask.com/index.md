@@ -1,9 +1,11 @@
+---
+company-name: Ask.com
+domain: ask.com
+home: https://www.ask.com/
+privacy-policy: https://www.ask.com/privacy
+email: privacy@iacpublishing.com
+owned-by: "IAC Applications"
+---
 
-# Ask.com
 
-Name: Ask.com
-Domain: ask.com
-Home: https://www.ask.com/
-Privacy_policy: https://www.ask.com/privacy
-Email: privacy@iacpublishing.com
-Owned_by: IAC Applications
+

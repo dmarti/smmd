@@ -1,7 +1,9 @@
+---
+company-name: "XtendAdvert Media"
+domain: xtendadvert.com
+home: http://www.xtendadvert.com/
+privacy-policy: http://www.xtendadvert.com/Conditions-Generales-Utilisation
+---
 
-# XtendAdvert Media
 
-Name: XtendAdvert Media
-Domain: xtendadvert.com
-Home: http://www.xtendadvert.com/
-Privacy_policy: http://www.xtendadvert.com/Conditions-Generales-Utilisation
+

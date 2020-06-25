@@ -1,6 +1,8 @@
+---
+company-name: SexAdNetwork
+domain: sexadnetwork.com
+home: http://www.sexadnetwork.com/
+---
 
-# SexAdNetwork
 
-Name: SexAdNetwork
-Domain: sexadnetwork.com
-Home: http://www.sexadnetwork.com/
+

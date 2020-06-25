@@ -1,6 +1,8 @@
+---
+company-name: "Pro Bono Net"
+domain: probono.net
+home: http://www.probono.net/
+---
 
-# Pro Bono Net
 
-Name: Pro Bono Net
-Domain: probono.net
-Home: http://www.probono.net/
+

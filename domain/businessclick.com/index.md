@@ -1,9 +1,11 @@
+---
+company-name: Businessclick
+domain: businessclick.com
+home: https://www.businessclick.com/
+privacy-policy: https://www.businessclick.com/documents/RegulaminProgramuBusinessClick-2019.pdf
+email: reklama@businessclick.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Businessclick
 
-Name: Businessclick
-Domain: businessclick.com
-Home: https://www.businessclick.com/
-Privacy_policy: https://www.businessclick.com/documents/RegulaminProgramuBusinessClick-2019.pdf
-Email: reklama@businessclick.com
-Member_of: Interactive Advertising Bureau (IAB)
+

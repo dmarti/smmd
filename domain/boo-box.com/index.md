@@ -1,8 +1,10 @@
+---
+company-name: boo-box
+domain: boo-box.com
+home: http://boo-box.com/
+email: privacy@boo-box.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# boo-box
 
-Name: boo-box
-Domain: boo-box.com
-Home: http://boo-box.com/
-Email: privacy@boo-box.com
-Member_of: Interactive Advertising Bureau (IAB)
+

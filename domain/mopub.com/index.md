@@ -1,8 +1,10 @@
+---
+company-name: MoPub
+domain: mopub.com
+home: http://www.mopub.com/
+email: mopubprivacy@twitter.com
+owned-by: Twitter
+---
 
-# MoPub
 
-Name: MoPub
-Domain: mopub.com
-Home: http://www.mopub.com/
-Email: mopubprivacy@twitter.com
-Owned_by: Twitter
+

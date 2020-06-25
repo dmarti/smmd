@@ -1,10 +1,11 @@
+---
+company-name: Zynga
+domain: zynga.com
+home: https://zynga.com/
+privacy-policy: https://www.zynga.com/privacy/policy
+email: privacy@zynga.com
+member-of: TrustE_TrustArc
+---
 
-# Zynga
 
-Name: Zynga
-Domain: zynga.com
-Home: https://zynga.com/
-Privacy_policy: https://www.zynga.com/privacy/policy
-Email: privacy@zynga.com
-Member_of: Online Trust Alliance
-Member_of: TrustE_TrustArc
+

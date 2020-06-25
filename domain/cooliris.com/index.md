@@ -1,8 +1,10 @@
+---
+company-name: Cooliris
+domain: cooliris.com
+home: http://www.cooliris.com
+privacy-policy: http://www.cooliris.com/legal/privacy/
+email: privacy@cooliris.com
+---
 
-# Cooliris
 
-Name: Cooliris
-Domain: cooliris.com
-Home: http://www.cooliris.com
-Privacy_policy: http://www.cooliris.com/legal/privacy/
-Email: privacy@cooliris.com
+

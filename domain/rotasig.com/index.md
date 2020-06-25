@@ -1,6 +1,8 @@
+---
+company-name: Rotasig
+domain: rotasig.com
+home: http://rotasig.com/rotasig30/
+---
 
-# Rotasig
 
-Name: Rotasig
-Domain: rotasig.com
-Home: http://rotasig.com/rotasig30/
+

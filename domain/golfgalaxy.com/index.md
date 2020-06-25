@@ -1,7 +1,9 @@
+---
+company-name: "GolfGalaxy (FKA Golfsmith)"
+domain: golfgalaxy.com
+home: https://www.golfgalaxy.com/?acq=Golfsmith
+privacy-policy: https://www.golfgalaxy.com/s/privacy-policy
+---
 
-# GolfGalaxy (FKA Golfsmith)
 
-Name: GolfGalaxy (FKA Golfsmith)
-Domain: golfgalaxy.com
-Home: https://www.golfgalaxy.com/?acq=Golfsmith
-Privacy_policy: https://www.golfgalaxy.com/s/privacy-policy
+

@@ -1,8 +1,10 @@
+---
+company-name: "EMD Serono"
+domain: emdserono.com
+home: https://www.emdserono.com/us-en
+privacy-policy: https://www.emdserono.com/us-en/privacy-policy.html
+email: compliance.us@emdserono.com
+---
 
-# EMD Serono
 
-Name: EMD Serono
-Domain: emdserono.com
-Home: https://www.emdserono.com/us-en
-Privacy_policy: https://www.emdserono.com/us-en/privacy-policy.html
-Email: compliance.us@emdserono.com
+

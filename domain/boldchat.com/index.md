@@ -1,7 +1,9 @@
+---
+company-name: Boldchat
+domain: boldchat.com
+home: http://www.boldchat.com/
+email: legal@LogMeIn.com
+---
 
-# Boldchat
 
-Name: Boldchat
-Domain: boldchat.com
-Home: http://www.boldchat.com/
-Email: legal@LogMeIn.com
+

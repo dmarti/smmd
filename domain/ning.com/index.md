@@ -1,10 +1,12 @@
+---
+company-name: Ning
+domain: ning.com
+home: http://www.ning.com/
+privacy-policy: http://www.ning.com/privacy/
+email: privacyinfo@ning.com
+owned-by: "Mode Media (formerly Glam Media)"
+member-of: TrustE_TrustArc
+---
 
-# Ning
 
-Name: Ning
-Domain: ning.com
-Home: http://www.ning.com/
-Privacy_policy: http://www.ning.com/privacy/
-Email: privacyinfo@ning.com
-Owned_by: Mode Media (formerly Glam Media)
-Member_of: TrustE_TrustArc
+

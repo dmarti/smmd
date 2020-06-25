@@ -1,8 +1,10 @@
+---
+company-name: "IQM Corp"
+domain: iqm.com
+home: https://iqm.com/
+privacy-policy: https://iqm.com/privacy-policy
+email: Privacy@iqm.com
+---
 
-# IQM Corp
 
-Name: IQM Corp
-Domain: iqm.com
-Home: https://iqm.com/
-Privacy_policy: https://iqm.com/privacy-policy
-Email: Privacy@iqm.com
+

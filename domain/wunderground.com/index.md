@@ -1,9 +1,11 @@
+---
+company-name: "Weather Underground"
+domain: wunderground.com
+home: https://www.wunderground.com/
+privacy-policy: https://www.wunderground.com/company/privacy-policy
+email: privacy@weather.com
+member-of: "Digital Advertising Alliance"
+---
 
-# Weather Underground
 
-Name: Weather Underground
-Domain: wunderground.com
-Home: https://www.wunderground.com/
-Privacy_policy: https://www.wunderground.com/company/privacy-policy
-Email: privacy@weather.com
-Member_of: Digital Advertising Alliance
+

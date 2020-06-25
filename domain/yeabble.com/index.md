@@ -1,8 +1,10 @@
+---
+company-name: Yeabble
+domain: yeabble.com
+home: http://www.yeabble.com/
+privacy-policy: http://www.yeabble.com/#!/page_privacy
+email: info@yeabble.com
+---
 
-# Yeabble
 
-Name: Yeabble
-Domain: yeabble.com
-Home: http://www.yeabble.com/
-Privacy_policy: http://www.yeabble.com/#!/page_privacy
-Email: info@yeabble.com
+

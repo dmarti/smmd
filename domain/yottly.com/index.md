@@ -1,7 +1,9 @@
+---
+company-name: Yottly
+domain: yottly.com
+home: https://yottly.com/
+email: info@yottly.com
+---
 
-# Yottly
 
-Name: Yottly
-Domain: yottly.com
-Home: https://yottly.com/
-Email: info@yottly.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "VG Wort"
+domain: vgwort.de
+home: https://www.vgwort.de/startseite.html
+privacy-policy: https://www.vgwort.de/datenschutz.html
+email: vgw@vgwort.com
+---
 
-# VG Wort
 
-Name: VG Wort
-Domain: vgwort.de
-Home: https://www.vgwort.de/startseite.html
-Privacy_policy: https://www.vgwort.de/datenschutz.html
-Email: vgw@vgwort.com
+

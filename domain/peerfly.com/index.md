@@ -1,8 +1,10 @@
+---
+company-name: PeerFly
+domain: peerfly.com
+home: http://peerfly.com/
+privacy-policy: https://peerfly.com/about/privacy
+email: privacy@peerfly.com
+---
 
-# PeerFly
 
-Name: PeerFly
-Domain: peerfly.com
-Home: http://peerfly.com/
-Privacy_policy: https://peerfly.com/about/privacy
-Email: privacy@peerfly.com
+

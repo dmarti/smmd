@@ -1,7 +1,9 @@
+---
+company-name: "Cruise Critic"
+domain: cruisecritic.com
+home: http://www.cruisecritic.com/
+owned-by: "Independent Traveler"
+---
 
-# Cruise Critic
 
-Name: Cruise Critic
-Domain: cruisecritic.com
-Home: http://www.cruisecritic.com/
-Owned_by: Independent Traveler
+

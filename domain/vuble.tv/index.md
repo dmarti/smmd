@@ -1,7 +1,9 @@
+---
+company-name: Vuble
+domain: vuble.tv
+home: http://vuble.tv
+privacy-policy: http://vuble.tv/privacy
+---
 
-# Vuble
 
-Name: Vuble
-Domain: vuble.tv
-Home: http://vuble.tv
-Privacy_policy: http://vuble.tv/privacy
+

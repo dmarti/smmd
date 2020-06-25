@@ -1,9 +1,11 @@
+---
+company-name: "Rio SEO (formerly Meteor Solutions)"
+domain: rioseo.com
+home: https://www.rioseo.com
+privacy-policy: https://www.rioseo.com/privacy-policy
+email: support@rioseo.com
+member-of: "Digital Advertising Alliance"
+---
 
-# Rio SEO (formerly Meteor Solutions)
 
-Name: Rio SEO (formerly Meteor Solutions)
-Domain: rioseo.com
-Home: https://www.rioseo.com
-Privacy_policy: https://www.rioseo.com/privacy-policy
-Email: support@rioseo.com
-Member_of: Digital Advertising Alliance
+

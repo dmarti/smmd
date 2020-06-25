@@ -1,8 +1,10 @@
+---
+company-name: Pubstack.io
+domain: pubstack.io
+home: https://pubstack.io/
+privacy-policy: https://pubstack.io/legal-mentions.html
+email: hello@pubstack.io
+---
 
-# Pubstack.io
 
-Name: Pubstack.io
-Domain: pubstack.io
-Home: https://pubstack.io/
-Privacy_policy: https://pubstack.io/legal-mentions.html
-Email: hello@pubstack.io
+

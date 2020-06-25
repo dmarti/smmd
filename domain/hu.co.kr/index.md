@@ -1,7 +1,9 @@
+---
+company-name: Outbanner
+domain: hu.co.kr
+home: http://outbanner.hu.co.kr
+privacy-policy: http://
+---
 
-# Outbanner
 
-Name: Outbanner
-Domain: hu.co.kr
-Home: http://outbanner.hu.co.kr
-Privacy_policy: http://
+

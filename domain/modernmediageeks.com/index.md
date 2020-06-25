@@ -1,7 +1,9 @@
+---
+company-name: "Modern Media Geeks"
+domain: modernmediageeks.com
+home: https://www.modernmediageeks.com/
+privacy-policy: https://www.modernmediageeks.com/contact-us
+---
 
-# Modern Media Geeks
 
-Name: Modern Media Geeks
-Domain: modernmediageeks.com
-Home: https://www.modernmediageeks.com/
-Privacy_policy: https://www.modernmediageeks.com/contact-us
+

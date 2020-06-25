@@ -1,7 +1,9 @@
+---
+company-name: ShareCompany
+domain: biqh.nl
+home: https://www.biqh.nl/
+email: info@biqh.nl
+---
 
-# ShareCompany
 
-Name: ShareCompany
-Domain: biqh.nl
-Home: https://www.biqh.nl/
-Email: info@biqh.nl
+

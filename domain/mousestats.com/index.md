@@ -1,8 +1,10 @@
+---
+company-name: MouseStats
+domain: mousestats.com
+home: https://www.mousestats.com/
+privacy-policy: https://www.mousestats.com/sales/privacy
+email: privacy@mousestats.com
+---
 
-# MouseStats
 
-Name: MouseStats
-Domain: mousestats.com
-Home: https://www.mousestats.com/
-Privacy_policy: https://www.mousestats.com/sales/privacy
-Email: privacy@mousestats.com
+

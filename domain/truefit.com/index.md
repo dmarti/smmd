@@ -1,8 +1,10 @@
+---
+company-name: "True Fit"
+domain: truefit.com
+home: https://www.truefit.com/
+privacy-policy: https://www.truefit.com/en/Privacy-Policy
+email: privacy@truefit.com
+---
 
-# True Fit
 
-Name: True Fit
-Domain: truefit.com
-Home: https://www.truefit.com/
-Privacy_policy: https://www.truefit.com/en/Privacy-Policy
-Email: privacy@truefit.com
+

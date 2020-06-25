@@ -1,8 +1,10 @@
+---
+company-name: iQuanti
+domain: iquanti.com
+home: https://www.iquanti.com/
+privacy-policy: https://www.iquanti.com/privacy-policy/
+email: info@iquanti.com
+---
 
-# iQuanti
 
-Name: iQuanti
-Domain: iquanti.com
-Home: https://www.iquanti.com/
-Privacy_policy: https://www.iquanti.com/privacy-policy/
-Email: info@iquanti.com
+

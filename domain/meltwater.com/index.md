@@ -1,8 +1,10 @@
+---
+company-name: "Meltwater IceRocket"
+domain: meltwater.com
+home: https://www.meltwater.com/
+privacy-policy: https://www.meltwater.com/privacy/services/
+email: privacy@meltwater.com
+---
 
-# Meltwater IceRocket
 
-Name: Meltwater IceRocket
-Domain: meltwater.com
-Home: https://www.meltwater.com/
-Privacy_policy: https://www.meltwater.com/privacy/services/
-Email: privacy@meltwater.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Remerge
+domain: remerge.io
+home: https://www.remerge.io/
+privacy-policy: https://www.remerge.io/privacy-policy.html
+email: privacy@remerge.io
+---
 
-# Remerge
 
-Name: Remerge
-Domain: remerge.io
-Home: https://www.remerge.io/
-Privacy_policy: https://www.remerge.io/privacy-policy.html
-Email: privacy@remerge.io
+

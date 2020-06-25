@@ -1,9 +1,11 @@
+---
+company-name: Zemanta
+domain: zemanta.com
+home: http://www.zemanta.com/
+privacy-policy: http://www.zemanta.com/legal/privacy
+email: info+privacy@zemanta.com
+owned-by: Outbrain
+---
 
-# Zemanta
 
-Name: Zemanta
-Domain: zemanta.com
-Home: http://www.zemanta.com/
-Privacy_policy: http://www.zemanta.com/legal/privacy
-Email: info+privacy@zemanta.com
-Owned_by: Outbrain
+

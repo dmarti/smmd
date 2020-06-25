@@ -1,8 +1,10 @@
+---
+company-name: OPT
+domain: opt.ne.jp
+home: http://www.opt.ne.jp/
+privacy-policy: http://www.opt.ne.jp/privacy/
+email: privacy@opt.ne.jp
+---
 
-# OPT
 
-Name: OPT
-Domain: opt.ne.jp
-Home: http://www.opt.ne.jp/
-Privacy_policy: http://www.opt.ne.jp/privacy/
-Email: privacy@opt.ne.jp
+

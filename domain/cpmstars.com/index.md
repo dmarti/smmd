@@ -1,6 +1,8 @@
+---
+company-name: "CPM Stars"
+domain: cpmstars.com
+home: http://cpmstars.com/
+---
 
-# CPM Stars
 
-Name: CPM Stars
-Domain: cpmstars.com
-Home: http://cpmstars.com/
+

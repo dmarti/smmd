@@ -1,8 +1,10 @@
+---
+company-name: "The Atlantic Monthly Group (The Atlantic)"
+domain: theatlantic.com
+home: http://www.theatlantic.com/
+privacy-policy: http://www.theatlantic.com/privacy-policy/
+email: techtrouble@theatlantic.com
+---
 
-# The Atlantic Monthly Group (The Atlantic)
 
-Name: The Atlantic Monthly Group (The Atlantic)
-Domain: theatlantic.com
-Home: http://www.theatlantic.com/
-Privacy_policy: http://www.theatlantic.com/privacy-policy/
-Email: techtrouble@theatlantic.com
+

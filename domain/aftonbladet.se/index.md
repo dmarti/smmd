@@ -1,7 +1,9 @@
+---
+company-name: Aftonbladet
+domain: aftonbladet.se
+home: http://annonswebb.aftonbladet.se/
+privacy-policy: http://annonswebb.aftonbladet.se/policy.html
+---
 
-# Aftonbladet
 
-Name: Aftonbladet
-Domain: aftonbladet.se
-Home: http://annonswebb.aftonbladet.se/
-Privacy_policy: http://annonswebb.aftonbladet.se/policy.html
+

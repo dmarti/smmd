@@ -1,8 +1,10 @@
+---
+company-name: "Unity Media"
+domain: unitymedia.de
+home: https://www5.unitymedia.de
+privacy-policy: https://www.unitymedia.de/privatkunden/datenschutz/
+email: datenschutz@unitymedia.de
+---
 
-# Unity Media
 
-Name: Unity Media
-Domain: unitymedia.de
-Home: https://www5.unitymedia.de
-Privacy_policy: https://www.unitymedia.de/privatkunden/datenschutz/
-Email: datenschutz@unitymedia.de
+

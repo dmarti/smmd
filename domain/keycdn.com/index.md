@@ -1,8 +1,10 @@
+---
+company-name: Keycdn.com
+domain: keycdn.com
+home: https://www.keycdn.com/
+privacy-policy: https://www.keycdn.com/privacy
+email: hello@keycdn.com
+---
 
-# Keycdn.com
 
-Name: Keycdn.com
-Domain: keycdn.com
-Home: https://www.keycdn.com/
-Privacy_policy: https://www.keycdn.com/privacy
-Email: hello@keycdn.com
+

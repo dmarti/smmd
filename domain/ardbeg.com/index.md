@@ -1,9 +1,11 @@
+---
+company-name: Ardbeg
+domain: ardbeg.com
+home: http://www.ardbeg.com/ardbeg/
+privacy-policy: https://www.ardbeg.com/privacy-and-cookies-policy
+email: contactdpo@moethennessy.com
+owned-by: LVMH
+---
 
-# Ardbeg
 
-Name: Ardbeg
-Domain: ardbeg.com
-Home: http://www.ardbeg.com/ardbeg/
-Privacy_policy: https://www.ardbeg.com/privacy-and-cookies-policy
-Email: contactdpo@moethennessy.com
-Owned_by: LVMH
+

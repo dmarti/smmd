@@ -1,8 +1,10 @@
+---
+company-name: "Zumby Media"
+domain: zumby.io
+home: https://www.zumby.io/
+privacy-policy: http://zumby.news/aviso-de-privacidad/
+email: privacy@zumby.news
+---
 
-# Zumby Media
 
-Name: Zumby Media
-Domain: zumby.io
-Home: https://www.zumby.io/
-Privacy_policy: http://zumby.news/aviso-de-privacidad/
-Email: privacy@zumby.news
+

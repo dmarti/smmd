@@ -1,21 +1,10 @@
-
-# People Finders
-
-Name: People Finders
-
-Domain: people-finders.ws
-
-Home: http://www.people-finders.ws/privacy.aspx?popup=true
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: "People Finders"
+domain: people-finders.ws
+home: http://www.people-finders.ws/privacy.aspx?popup=true
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +12,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

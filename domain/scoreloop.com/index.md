@@ -1,8 +1,10 @@
+---
+company-name: Scoreloop
+domain: scoreloop.com
+home: http://www.scoreloop.com/
+privacy-policy: https://laptopverge.com/privacy-policy/
+email: privacy@scoreloop.com
+---
 
-# Scoreloop
 
-Name: Scoreloop
-Domain: scoreloop.com
-Home: http://www.scoreloop.com/
-Privacy_policy: https://laptopverge.com/privacy-policy/
-Email: privacy@scoreloop.com
+

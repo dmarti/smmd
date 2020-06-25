@@ -1,8 +1,10 @@
+---
+company-name: "MARKETING ADJAL"
+domain: adjal.com
+home: http://adjal.com/
+privacy-policy: http://adjal.com/web/es/privacy.html
+email: info@adjal.com
+---
 
-# MARKETING ADJAL
 
-Name: MARKETING ADJAL
-Domain: adjal.com
-Home: http://adjal.com/
-Privacy_policy: http://adjal.com/web/es/privacy.html
-Email: info@adjal.com
+

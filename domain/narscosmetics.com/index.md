@@ -1,8 +1,10 @@
+---
+company-name: "Nars Cosmetics"
+domain: narscosmetics.com
+home: https://www.narscosmetics.com/
+privacy-policy: https://www.narscosmetics.com/USA/privacy.html
+email: customerservice@NARScosmetics.com
+---
 
-# Nars Cosmetics
 
-Name: Nars Cosmetics
-Domain: narscosmetics.com
-Home: https://www.narscosmetics.com/
-Privacy_policy: https://www.narscosmetics.com/USA/privacy.html
-Email: customerservice@NARScosmetics.com
+

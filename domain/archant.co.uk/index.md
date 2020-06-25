@@ -1,8 +1,10 @@
+---
+company-name: Archant
+domain: archant.co.uk
+home: https://www.archant.co.uk/
+privacy-policy: https://www.archant.co.uk/articles/privacy-policy/
+email: DPO@archant.co.uk
+---
 
-# Archant
 
-Name: Archant
-Domain: archant.co.uk
-Home: https://www.archant.co.uk/
-Privacy_policy: https://www.archant.co.uk/articles/privacy-policy/
-Email: DPO@archant.co.uk
+

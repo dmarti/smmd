@@ -1,8 +1,10 @@
+---
+company-name: Mediego
+domain: mediego.com
+home: https://www.mediego.com/en/
+privacy-policy: https://www.mediego.com/en/legal-notices/
+email: support@mediego.com
+---
 
-# Mediego
 
-Name: Mediego
-Domain: mediego.com
-Home: https://www.mediego.com/en/
-Privacy_policy: https://www.mediego.com/en/legal-notices/
-Email: support@mediego.com
+

@@ -1,9 +1,11 @@
+---
+company-name: Interbrand
+domain: interbrand.com
+home: http://interbrand.com/
+privacy-policy: http://interbrand.com/privacy/
+email: inquiries@interbrand.com
+owned-by: GroupM
+---
 
-# Interbrand
 
-Name: Interbrand
-Domain: interbrand.com
-Home: http://interbrand.com/
-Privacy_policy: http://interbrand.com/privacy/
-Email: inquiries@interbrand.com
-Owned_by: GroupM
+

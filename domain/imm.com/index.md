@@ -1,8 +1,10 @@
+---
+company-name: IMM
+domain: imm.com
+home: http://imm.com/
+privacy-policy: https://imm.com/privacy/
+email: "(303) 867-8800"
+---
 
-# IMM
 
-Name: IMM
-Domain: imm.com
-Home: http://imm.com/
-Privacy_policy: https://imm.com/privacy/
-Email: (303) 867-8800
+

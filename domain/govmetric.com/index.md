@@ -1,7 +1,9 @@
+---
+company-name: GovMetric
+domain: govmetric.com
+home: http://www.govmetric.com/
+email: info@govmetric.com
+---
 
-# GovMetric
 
-Name: GovMetric
-Domain: govmetric.com
-Home: http://www.govmetric.com/
-Email: info@govmetric.com
+

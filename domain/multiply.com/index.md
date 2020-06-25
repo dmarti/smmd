@@ -1,6 +1,8 @@
+---
+company-name: Multiply
+domain: multiply.com
+home: http://multiply.com/
+---
 
-# Multiply
 
-Name: Multiply
-Domain: multiply.com
-Home: http://multiply.com/
+

@@ -1,7 +1,9 @@
+---
+company-name: "Global Digital Markets"
+domain: gdmdigital.com
+home: http://www.gdmdigital.com/en/
+email: info@globaldigitalmarkets.com
+---
 
-# Global Digital Markets
 
-Name: Global Digital Markets
-Domain: gdmdigital.com
-Home: http://www.gdmdigital.com/en/
-Email: info@globaldigitalmarkets.com
+

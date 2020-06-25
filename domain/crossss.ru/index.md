@@ -1,8 +1,10 @@
+---
+company-name: Crossss
+domain: crossss.ru
+home: http://crossss.ru/
+email: info@crossss.com
+owned-by: LeadHit
+---
 
-# Crossss
 
-Name: Crossss
-Domain: crossss.ru
-Home: http://crossss.ru/
-Email: info@crossss.com
-Owned_by: LeadHit
+

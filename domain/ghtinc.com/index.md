@@ -1,7 +1,9 @@
+---
+company-name: Groundhog
+domain: ghtinc.com
+home: https://www.ghtinc.com
+privacy-policy: http://www.ghtinc.com/mi-dsp/privacy-policies/
+---
 
-# Groundhog
 
-Name: Groundhog
-Domain: ghtinc.com
-Home: https://www.ghtinc.com
-Privacy_policy: http://www.ghtinc.com/mi-dsp/privacy-policies/
+

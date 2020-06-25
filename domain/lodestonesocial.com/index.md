@@ -1,6 +1,8 @@
+---
+company-name: "Lodestone Social"
+domain: lodestonesocial.com
+home: http://lodestonesocial.com/
+---
 
-# Lodestone Social
 
-Name: Lodestone Social
-Domain: lodestonesocial.com
-Home: http://lodestonesocial.com/
+

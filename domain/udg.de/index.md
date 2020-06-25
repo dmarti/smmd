@@ -1,8 +1,10 @@
+---
+company-name: "United Digital Group (FKA nonstopConsulting)"
+domain: udg.de
+home: https://www.udg.de/en
+privacy-policy: https://www.udg.de/en/privacy-policy/
+email: info@nonstopconsulting.co.uk
+---
 
-# United Digital Group (FKA nonstopConsulting)
 
-Name: United Digital Group (FKA nonstopConsulting)
-Domain: udg.de
-Home: https://www.udg.de/en
-Privacy_policy: https://www.udg.de/en/privacy-policy/
-Email: info@nonstopconsulting.co.uk
+

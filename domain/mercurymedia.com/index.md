@@ -1,6 +1,8 @@
+---
+company-name: "Mercury Media (formerly TrackingSoft)"
+domain: mercurymedia.com
+home: http://www.mercurymedia.com/
+---
 
-# Mercury Media (formerly TrackingSoft)
 
-Name: Mercury Media (formerly TrackingSoft)
-Domain: mercurymedia.com
-Home: http://www.mercurymedia.com/
+

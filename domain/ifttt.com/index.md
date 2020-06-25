@@ -1,7 +1,9 @@
-# IFTTT
+---
+company-name: IFTTT
+domain: ifttt.com
+opt-out-url: https://ifttt.com/terms
+---
 
-Name: IFTTT
 
-Domain: ifttt.com
 
-Opt_out_url: https://ifttt.com/terms
+

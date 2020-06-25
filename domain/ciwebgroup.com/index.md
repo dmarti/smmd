@@ -1,7 +1,9 @@
+---
+company-name: CIWebGroup
+domain: ciwebgroup.com
+home: http://www.ciwebgroup.com/
+email: help@ciwebgroup.com
+---
 
-# CIWebGroup
 
-Name: CIWebGroup
-Domain: ciwebgroup.com
-Home: http://www.ciwebgroup.com/
-Email: help@ciwebgroup.com
+

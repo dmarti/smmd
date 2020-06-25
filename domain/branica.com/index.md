@@ -1,8 +1,10 @@
+---
+company-name: Branica
+domain: branica.com
+home: http://www.branica.com/
+privacy-policy: http://www.branica.com/privacy-policy/
+email: webmaster@branica.com
+---
 
-# Branica
 
-Name: Branica
-Domain: branica.com
-Home: http://www.branica.com/
-Privacy_policy: http://www.branica.com/privacy-policy/
-Email: webmaster@branica.com
+

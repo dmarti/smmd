@@ -1,8 +1,10 @@
+---
+company-name: UserEcho
+domain: userecho.com
+home: http://userecho.com
+privacy-policy: http://userecho.com/privacy-policy/
+email: support@UserEcho.com
+---
 
-# UserEcho
 
-Name: UserEcho
-Domain: userecho.com
-Home: http://userecho.com
-Privacy_policy: http://userecho.com/privacy-policy/
-Email: support@UserEcho.com
+

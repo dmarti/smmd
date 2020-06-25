@@ -1,8 +1,10 @@
+---
+company-name: Pushbullet
+domain: pushbullet.com
+home: https://www.pushbullet.com/
+privacy-policy: https://www.pushbullet.com/privacy
+email: privacy@pushbullet.com
+---
 
-# Pushbullet
 
-Name: Pushbullet
-Domain: pushbullet.com
-Home: https://www.pushbullet.com/
-Privacy_policy: https://www.pushbullet.com/privacy
-Email: privacy@pushbullet.com
+

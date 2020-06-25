@@ -1,7 +1,9 @@
+---
+company-name: Infocube
+domain: infocube.co.jp
+home: http://www.infocube.co.jp/
+email: contaactus@infocube..co.jp
+---
 
-# Infocube
 
-Name: Infocube
-Domain: infocube.co.jp
-Home: http://www.infocube.co.jp/
-Email: contaactus@infocube..co.jp
+

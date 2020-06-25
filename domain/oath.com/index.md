@@ -1,7 +1,9 @@
-# Aol
+---
+company-name: Aol
+domain: oath.com
+opt-out-url: https://aol.mydashboard.oath.com/lite
+---
 
-Name: Aol
 
-Domain: oath.com
 
-Opt_out_url: https://aol.mydashboard.oath.com/lite
+

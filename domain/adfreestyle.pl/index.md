@@ -1,8 +1,10 @@
+---
+company-name: adFreestyle
+domain: adfreestyle.pl
+home: http://www.adfreestyle.pl/
+privacy-policy: http://www.adfreestyle.pl/privacy
+email: team@adfreestyle.pl
+---
 
-# adFreestyle
 
-Name: adFreestyle
-Domain: adfreestyle.pl
-Home: http://www.adfreestyle.pl/
-Privacy_policy: http://www.adfreestyle.pl/privacy
-Email: team@adfreestyle.pl
+

@@ -1,23 +1,12 @@
-
-# NextRoll, Inc.
-
-Name: NextRoll, Inc.
-
-Domain: nextroll.com
-
-Home: https://www.nextroll.com/
-
-Email: legal [at] nextroll.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/12/2020
-
-
-
+---
+company-name: "NextRoll, Inc."
+domain: nextroll.com
+home: https://www.nextroll.com/
+email: "legal [at] nextroll.com"
+california-date: 02/12/2020
+---
 ## How to opt out
+
 
 A consumer can opt out of sale of personal information by visiting this webpage https://app.adroll.com/optout/email. This page can be navigated to by clicking on “Do not sell my personal information” link which is located on the bottom of our NextRoll webpages and is also in the NextRoll Privacy Notice.
 
@@ -29,11 +18,25 @@ A consumer can submit requests under the CCPA by:
 
 ## How to delete
 
+
 NextRoll does not display or permit the display of such information, or operate a website that involves user generated content.
 
 ## Additional info
 
+
 For more information about our data collection practices, please see the NextRoll Privacy Notice (https://www.nextroll.com/privacy).
 
 2300 Harrison StreetSan Francisco, CA 94110United States
+
+
+
+
+
+
+
+
+
+
+
+
 

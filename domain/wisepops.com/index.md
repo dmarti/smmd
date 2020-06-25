@@ -1,7 +1,9 @@
+---
+company-name: WisePops
+domain: wisepops.com
+home: http://wisepops.com/
+email: "social @wisepops.com"
+---
 
-# WisePops
 
-Name: WisePops
-Domain: wisepops.com
-Home: http://wisepops.com/
-Email: social @wisepops.com
+

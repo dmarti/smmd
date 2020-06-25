@@ -1,8 +1,10 @@
+---
+company-name: "Fresh Relevance"
+domain: freshrelevance.com
+home: https://www.freshrelevance.com/
+privacy-policy: https://www.freshrelevance.com/misc/privacy
+email: hello@freshrelevance.com
+---
 
-# Fresh Relevance
 
-Name: Fresh Relevance
-Domain: freshrelevance.com
-Home: https://www.freshrelevance.com/
-Privacy_policy: https://www.freshrelevance.com/misc/privacy
-Email: hello@freshrelevance.com
+

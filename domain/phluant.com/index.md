@@ -1,9 +1,11 @@
+---
+company-name: Phluant
+domain: phluant.com
+home: http://phluant.com/
+privacy-policy: http://phluant.com/privacy/
+email: privacy@phluant.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Phluant
 
-Name: Phluant
-Domain: phluant.com
-Home: http://phluant.com/
-Privacy_policy: http://phluant.com/privacy/
-Email: privacy@phluant.com
-Member_of: Interactive Advertising Bureau (IAB)
+

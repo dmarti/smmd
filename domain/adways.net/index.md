@@ -1,8 +1,10 @@
+---
+company-name: "Adways (adways-interactive)"
+domain: adways.net
+home: https://www.adways.net
+privacy-policy: http://adways-interactive.com/privacy.html
+email: hello@adways.it
+---
 
-# Adways (adways-interactive)
 
-Name: Adways (adways-interactive)
-Domain: adways.net
-Home: https://www.adways.net
-Privacy_policy: http://adways-interactive.com/privacy.html
-Email: hello@adways.it
+

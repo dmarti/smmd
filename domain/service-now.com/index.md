@@ -1,7 +1,9 @@
-# Pacific Gas & Electric
+---
+company-name: "Pacific Gas & Electric"
+domain: service-now.com
+opt-out-url: https://pgeipaprod.service-now.com/privacy_consumer
+---
 
-Name: Pacific Gas & Electric
 
-Domain: service-now.com
 
-Opt_out_url: https://pgeipaprod.service-now.com/privacy_consumer
+

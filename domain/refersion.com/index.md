@@ -1,8 +1,10 @@
+---
+company-name: Refersion
+domain: refersion.com
+home: https://www.refersion.com/
+privacy-policy: https://www.refersion.com/privacy
+email: admin@refersion.com
+---
 
-# Refersion
 
-Name: Refersion
-Domain: refersion.com
-Home: https://www.refersion.com/
-Privacy_policy: https://www.refersion.com/privacy
-Email: admin@refersion.com
+

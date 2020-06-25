@@ -1,8 +1,10 @@
+---
+company-name: LiveRe
+domain: livere.com
+home: https://livere.com/
+privacy-policy: https://livere.com/policy/privacy
+email: help@cizion.com
+---
 
-# LiveRe
 
-Name: LiveRe
-Domain: livere.com
-Home: https://livere.com/
-Privacy_policy: https://livere.com/policy/privacy
-Email: help@cizion.com
+

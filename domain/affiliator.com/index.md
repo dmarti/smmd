@@ -1,6 +1,8 @@
+---
+company-name: Affiliator
+domain: affiliator.com
+home: http://www.affiliator.com/
+---
 
-# Affiliator
 
-Name: Affiliator
-Domain: affiliator.com
-Home: http://www.affiliator.com/
+

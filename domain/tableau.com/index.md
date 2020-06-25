@@ -1,8 +1,10 @@
+---
+company-name: "Tableau Software"
+domain: tableau.com
+home: https://www.tableau.com/
+privacy-policy: https://www.tableau.com/privacy
+email: privacy@tableau.com
+---
 
-# Tableau Software
 
-Name: Tableau Software
-Domain: tableau.com
-Home: https://www.tableau.com/
-Privacy_policy: https://www.tableau.com/privacy
-Email: privacy@tableau.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Q Division"
+domain: q-division.de
+home: https://q-division.de
+privacy-policy: https://q-division.de/dsgvo/datenschutz/
+email: datenschutz@q-division.de
+---
 
-# Q Division
 
-Name: Q Division
-Domain: q-division.de
-Home: https://q-division.de
-Privacy_policy: https://q-division.de/dsgvo/datenschutz/
-Email: datenschutz@q-division.de
+

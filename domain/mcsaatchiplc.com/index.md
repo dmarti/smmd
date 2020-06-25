@@ -1,8 +1,10 @@
+---
+company-name: "Alive & Kicking Global Limited"
+domain: mcsaatchiplc.com
+home: https://www.mcsaatchiplc.com
+privacy-policy: https://www.mcsaatchiplc.com/legal/privacy-cookies
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Alive & Kicking Global Limited
 
-Name: Alive & Kicking Global Limited
-Domain: mcsaatchiplc.com
-Home: https://www.mcsaatchiplc.com
-Privacy_policy: https://www.mcsaatchiplc.com/legal/privacy-cookies
-Member_of: Interactive Advertising Bureau (IAB)
+

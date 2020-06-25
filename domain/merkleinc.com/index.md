@@ -1,25 +1,14 @@
-
-# Merkle Inc.
-
-Name: Merkle Inc.
-
-Domain: merkleinc.com
-
-Home: https://www.merkleinc.com/
-
-Email: dpous [at] merkleinc.com
-
-Privacy_policy: 
-
-Opt_out_url: http://www.merkleinc.com/privacy
-
-California_date: 01/31/2020
-
-Vermont_id: 366588
-
-
-
+---
+company-name: "Merkle Inc."
+domain: merkleinc.com
+home: https://www.merkleinc.com/
+email: "dpous [at] merkleinc.com"
+opt-out-url: http://www.merkleinc.com/privacy
+california-date: 01/31/2020
+vermont-id: 366588
+---
 ## How to opt out
+
 
 Consumers may request to exercise their rights by:
 
@@ -35,6 +24,7 @@ https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/request-to-del
 
 ## How to delete
 
+
 California consumers and/or elected or appointed officials may submit a request by:
 Complete online form https://www.merkleinc.com/getting-know-your-privacy-rights/control-your-data
 Email dpous@merkleinc.com 
@@ -46,6 +36,7 @@ https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/request-to-del
 
 ## Additional info
 
+
 Please see our Privacy Notice on our website for additional information about Merkle’s data collection practices. 
 https://www.merkleinc.com/getting-know-your-privacy-rights/privacy-notice 
 
@@ -54,4 +45,17 @@ https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/right-to-know/
 https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/request-to-delete/
 
 7001 Columbia Gateway DrColumbia, MD 21046United States
+
+
+
+
+
+
+
+
+
+
+
+
+
 

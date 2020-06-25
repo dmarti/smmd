@@ -1,7 +1,9 @@
+---
+company-name: Admatic
+domain: admatic.com.tr
+home: http://www.admatic.com.tr/
+email: info@admatic.com.tr
+---
 
-# Admatic
 
-Name: Admatic
-Domain: admatic.com.tr
-Home: http://www.admatic.com.tr/
-Email: info@admatic.com.tr
+

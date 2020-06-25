@@ -1,7 +1,9 @@
+---
+company-name: LVMH
+domain: lvmh.com
+home: http://www.lvmh.com/
+privacy-policy: https://www.lvmh.com/personal-data/
+---
 
-# LVMH
 
-Name: LVMH
-Domain: lvmh.com
-Home: http://www.lvmh.com/
-Privacy_policy: https://www.lvmh.com/personal-data/
+

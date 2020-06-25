@@ -1,8 +1,10 @@
+---
+company-name: DSPolitical
+domain: dspolitical.com
+home: http://www.dspolitical.com/
+privacy-policy: http://dspolitical.com/privacy-policy/
+email: info@dspolitical.com
+---
 
-# DSPolitical
 
-Name: DSPolitical
-Domain: dspolitical.com
-Home: http://www.dspolitical.com/
-Privacy_policy: http://dspolitical.com/privacy-policy/
-Email: info@dspolitical.com
+

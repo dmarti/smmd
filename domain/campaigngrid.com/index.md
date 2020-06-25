@@ -1,11 +1,12 @@
+---
+company-name: CampaignGrid
+domain: campaigngrid.com
+home: http://www.campaigngrid.com/
+privacy-policy: http://www.audiencepartners.com/privacy-policy/
+email: privacy@campaigngrid.com
+owned-by: "Audience Partners"
+member-of: "Network Advertising Initiative"
+---
 
-# CampaignGrid
 
-Name: CampaignGrid
-Domain: campaigngrid.com
-Home: http://www.campaigngrid.com/
-Privacy_policy: http://www.audiencepartners.com/privacy-policy/
-Email: privacy@campaigngrid.com
-Owned_by: Audience Partners
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

@@ -1,8 +1,10 @@
+---
+company-name: Sleeknote
+domain: sleeknote.com
+home: https://sleeknote.com/
+privacy-policy: https://sleeknote.com/privacy-policy
+email: support@sleeknote.com
+---
 
-# Sleeknote
 
-Name: Sleeknote
-Domain: sleeknote.com
-Home: https://sleeknote.com/
-Privacy_policy: https://sleeknote.com/privacy-policy
-Email: support@sleeknote.com
+

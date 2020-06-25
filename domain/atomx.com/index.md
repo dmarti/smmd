@@ -1,8 +1,10 @@
+---
+company-name: "Atomx Media Exchange"
+domain: atomx.com
+home: https://www.atomx.com/
+privacy-policy: https://www.atomx.com/privacy
+email: info@atomx.com
+---
 
-# Atomx Media Exchange
 
-Name: Atomx Media Exchange
-Domain: atomx.com
-Home: https://www.atomx.com/
-Privacy_policy: https://www.atomx.com/privacy
-Email: info@atomx.com
+

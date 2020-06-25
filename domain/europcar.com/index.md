@@ -1,7 +1,9 @@
+---
+company-name: Europcar
+domain: europcar.com
+home: http://www.europcar.com/
+email: customerservicesuk@europcar.com
+---
 
-# Europcar
 
-Name: Europcar
-Domain: europcar.com
-Home: http://www.europcar.com/
-Email: customerservicesuk@europcar.com
+

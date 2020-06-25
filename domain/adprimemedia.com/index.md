@@ -1,7 +1,9 @@
+---
+company-name: "Adprime Media"
+domain: adprimemedia.com
+home: http://www.adprimemedia.com/
+privacy-policy: http://www.adprimemedia.com/privacy/
+---
 
-# Adprime Media
 
-Name: Adprime Media
-Domain: adprimemedia.com
-Home: http://www.adprimemedia.com/
-Privacy_policy: http://www.adprimemedia.com/privacy/
+

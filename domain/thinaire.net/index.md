@@ -1,9 +1,11 @@
+---
+company-name: Thinaire
+domain: thinaire.net
+home: http://www.thinaire.net/
+privacy-policy: http://www.thinaire.net/privacy/
+email: privacy@thinaire.com
+member-of: TrustE_TrustArc
+---
 
-# Thinaire
 
-Name: Thinaire
-Domain: thinaire.net
-Home: http://www.thinaire.net/
-Privacy_policy: http://www.thinaire.net/privacy/
-Email: privacy@thinaire.com
-Member_of: TrustE_TrustArc
+

@@ -1,8 +1,10 @@
+---
+company-name: Unidesq
+domain: unidesq.com
+home: https://www.unidesq.com/
+privacy-policy: https://www.unidesq.com/datenschutz/
+email: legal@unidesq.com
+---
 
-# Unidesq
 
-Name: Unidesq
-Domain: unidesq.com
-Home: https://www.unidesq.com/
-Privacy_policy: https://www.unidesq.com/datenschutz/
-Email: legal@unidesq.com
+

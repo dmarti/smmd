@@ -1,7 +1,9 @@
-# Electronic Arts
+---
+company-name: "Electronic Arts"
+domain: ea.com
+opt-out-url: https://tos.ea.com/legalapp/WEBPRIVACYCA/US/en/PC/
+---
 
-Name: Electronic Arts
 
-Domain: ea.com
 
-Opt_out_url: https://tos.ea.com/legalapp/WEBPRIVACYCA/US/en/PC/
+

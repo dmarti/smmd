@@ -1,8 +1,10 @@
+---
+company-name: SnapEngage
+domain: snapengage.com
+home: https://snapengage.com/
+privacy-policy: https://new.snapengage.com/privacy-policy/
+email: support@snapengage.com
+---
 
-# SnapEngage
 
-Name: SnapEngage
-Domain: snapengage.com
-Home: https://snapengage.com/
-Privacy_policy: https://new.snapengage.com/privacy-policy/
-Email: support@snapengage.com
+

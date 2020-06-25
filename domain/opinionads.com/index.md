@@ -1,7 +1,9 @@
+---
+company-name: OpinionAds
+domain: opinionads.com
+home: https://opinionads.com
+privacy-policy: https://opinionads.com/privacy
+---
 
-# OpinionAds
 
-Name: OpinionAds
-Domain: opinionads.com
-Home: https://opinionads.com
-Privacy_policy: https://opinionads.com/privacy
+

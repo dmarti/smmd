@@ -1,6 +1,8 @@
+---
+company-name: Techipedia
+domain: techipedia.com
+home: http://www.techipedia.com/
+---
 
-# Techipedia
 
-Name: Techipedia
-Domain: techipedia.com
-Home: http://www.techipedia.com/
+

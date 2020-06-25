@@ -1,7 +1,9 @@
+---
+company-name: YieldAds
+domain: yieldads.com
+home: http://www.yieldads.com/
+email: info@yieldads.com
+---
 
-# YieldAds
 
-Name: YieldAds
-Domain: yieldads.com
-Home: http://www.yieldads.com/
-Email: info@yieldads.com
+

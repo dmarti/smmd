@@ -1,9 +1,11 @@
+---
+company-name: AdParlor
+domain: adparlor.com
+home: https://www.adparlor.com/
+privacy-policy: https://adparlor.com/privacy-policy/
+email: privacy@adparlor.com
+owned-by: Adknowledge
+---
 
-# AdParlor
 
-Name: AdParlor
-Domain: adparlor.com
-Home: https://www.adparlor.com/
-Privacy_policy: https://adparlor.com/privacy-policy/
-Email: privacy@adparlor.com
-Owned_by: Adknowledge
+

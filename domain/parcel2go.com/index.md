@@ -1,7 +1,9 @@
+---
+company-name: parcel2go
+domain: parcel2go.com
+home: https://www.parcel2go.com/
+privacy-policy: https://www.parcel2go.com/content/privacy-policy.aspx
+---
 
-# parcel2go
 
-Name: parcel2go
-Domain: parcel2go.com
-Home: https://www.parcel2go.com/
-Privacy_policy: https://www.parcel2go.com/content/privacy-policy.aspx
+

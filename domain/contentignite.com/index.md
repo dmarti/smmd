@@ -1,8 +1,10 @@
+---
+company-name: "Content Ignite"
+domain: contentignite.com
+home: https://www.contentignite.com/
+privacy-policy: https://www.contentignite.com/privacy-policy/
+email: contact@thinkclevermedia.com
+---
 
-# Content Ignite
 
-Name: Content Ignite
-Domain: contentignite.com
-Home: https://www.contentignite.com/
-Privacy_policy: https://www.contentignite.com/privacy-policy/
-Email: contact@thinkclevermedia.com
+

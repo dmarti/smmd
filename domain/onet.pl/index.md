@@ -1,8 +1,10 @@
+---
+company-name: Onet
+domain: onet.pl
+home: http://www.onet.pl/
+privacy-policy: https://polityka-prywatnosci.onet.pl/
+member-of: "European Data Interactive Alliance"
+---
 
-# Onet
 
-Name: Onet
-Domain: onet.pl
-Home: http://www.onet.pl/
-Privacy_policy: https://polityka-prywatnosci.onet.pl/
-Member_of: European Data Interactive Alliance
+

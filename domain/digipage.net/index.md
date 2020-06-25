@@ -1,6 +1,8 @@
+---
+company-name: Digipage
+domain: digipage.net
+home: http://www.digipage.net/
+---
 
-# Digipage
 
-Name: Digipage
-Domain: digipage.net
-Home: http://www.digipage.net/
+

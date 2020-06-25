@@ -1,7 +1,9 @@
+---
+company-name: AdTouch
+domain: adtouch.co.in
+home: http://www.adtouch.co.in/
+email: info@adtouch.com
+---
 
-# AdTouch
 
-Name: AdTouch
-Domain: adtouch.co.in
-Home: http://www.adtouch.co.in/
-Email: info@adtouch.com
+

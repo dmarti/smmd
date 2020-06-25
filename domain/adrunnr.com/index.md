@@ -1,6 +1,8 @@
+---
+company-name: AdRunnr
+domain: adrunnr.com
+home: https://adrunnr.com/
+---
 
-# AdRunnr
 
-Name: AdRunnr
-Domain: adrunnr.com
-Home: https://adrunnr.com/
+

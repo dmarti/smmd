@@ -1,10 +1,11 @@
+---
+company-name: Httpool
+domain: httpool.com
+home: http://www.httpool.com/
+privacy-policy: http://www.httpool.com/privacy
+email: gdpr@httpool.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Httpool
 
-Name: Httpool
-Domain: httpool.com
-Home: http://www.httpool.com/
-Privacy_policy: http://www.httpool.com/privacy
-Email: gdpr@httpool.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

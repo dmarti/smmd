@@ -1,11 +1,11 @@
+---
+company-name: 33Across
+domain: 33across.com
+home: http://33across.com/
+privacy-policy: http://33across.com/privacy-policy/
+email: privacy@33across.com
+member-of: "Network Advertising Initiative"
+---
 
-# 33Across
 
-Name: 33Across
-Domain: 33across.com
-Home: http://33across.com/
-Privacy_policy: http://33across.com/privacy-policy/
-Email: privacy@33across.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

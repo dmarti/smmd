@@ -1,8 +1,10 @@
+---
+company-name: AvantLink
+domain: avantlink.com
+home: http://www.avantlink.com/
+privacy-policy: http://www.avantlink.com/privacy
+email: support@avantlink.com
+---
 
-# AvantLink
 
-Name: AvantLink
-Domain: avantlink.com
-Home: http://www.avantlink.com/
-Privacy_policy: http://www.avantlink.com/privacy
-Email: support@avantlink.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Stroer (formerly adscale)"
+domain: stroeer.de
+home: https://www.stroeer.de/
+privacy-policy: https://www.stroeer.de/service/datenschutz.html
+email: datenschutzbeauftragter@stroeer.de
+---
 
-# Stroer (formerly adscale)
 
-Name: Stroer (formerly adscale)
-Domain: stroeer.de
-Home: https://www.stroeer.de/
-Privacy_policy: https://www.stroeer.de/service/datenschutz.html
-Email: datenschutzbeauftragter@stroeer.de
+

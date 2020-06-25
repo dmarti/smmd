@@ -1,12 +1,11 @@
+---
+company-name: AppNexus
+domain: appnexus.com
+home: https://www.appnexus.com/en
+privacy-policy: https://www.appnexus.com/en/company/platform-privacy-policy
+email: privacy@appnexus.com
+member-of: "Network Advertising Initiative"
+---
 
-# AppNexus
 
-Name: AppNexus
-Domain: appnexus.com
-Home: https://www.appnexus.com/en
-Privacy_policy: https://www.appnexus.com/en/company/platform-privacy-policy
-Email: privacy@appnexus.com
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

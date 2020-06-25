@@ -1,8 +1,10 @@
+---
+company-name: iCumulus
+domain: icumulus.com.au
+home: https://www.icumulus.com.au/
+privacy-policy: https://www.icumulus.com.au/privacy-policy/
+email: privacy@icumulus.com.au
+---
 
-# iCumulus
 
-Name: iCumulus
-Domain: icumulus.com.au
-Home: https://www.icumulus.com.au/
-Privacy_policy: https://www.icumulus.com.au/privacy-policy/
-Email: privacy@icumulus.com.au
+

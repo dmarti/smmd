@@ -1,10 +1,11 @@
+---
+company-name: "SpringServe (fka PubSquared)"
+domain: springserve.com
+home: https://springserve.com/
+privacy-policy: https://springserve.com/privacy-policy/
+email: info@springserve.com
+member-of: "Network Advertising Initiative"
+---
 
-# SpringServe (fka PubSquared)
 
-Name: SpringServe (fka PubSquared)
-Domain: springserve.com
-Home: https://springserve.com/
-Privacy_policy: https://springserve.com/privacy-policy/
-Email: info@springserve.com
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

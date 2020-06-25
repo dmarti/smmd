@@ -1,9 +1,11 @@
+---
+company-name: MediaShift
+domain: mediashift.com
+home: http://www.mediashift.com/
+privacy-policy: http://www.mediashift.com/privacy-policy/
+email: privacy@mediashift.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# MediaShift
 
-Name: MediaShift
-Domain: mediashift.com
-Home: http://www.mediashift.com/
-Privacy_policy: http://www.mediashift.com/privacy-policy/
-Email: privacy@mediashift.com
-Member_of: Interactive Advertising Bureau (IAB)
+

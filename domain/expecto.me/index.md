@@ -1,7 +1,9 @@
+---
+company-name: Expecto
+domain: expecto.me
+home: https://expecto.me/
+privacy-policy: https://expecto.me/expecto_oferta.pdf
+---
 
-# Expecto
 
-Name: Expecto
-Domain: expecto.me
-Home: https://expecto.me/
-Privacy_policy: https://expecto.me/expecto_oferta.pdf
+

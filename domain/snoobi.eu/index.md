@@ -1,8 +1,10 @@
+---
+company-name: Snoobi
+domain: snoobi.eu
+home: http://www.snoobi.eu/
+privacy-policy: https://snoobi.eu/privacy-beleid/
+email: info@snoobi.nl
+---
 
-# Snoobi
 
-Name: Snoobi
-Domain: snoobi.eu
-Home: http://www.snoobi.eu/
-Privacy_policy: https://snoobi.eu/privacy-beleid/
-Email: info@snoobi.nl
+

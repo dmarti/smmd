@@ -1,8 +1,10 @@
+---
+company-name: Charter
+domain: charter.com
+home: http://charter.com/
+email: privacy@charter.com
+member-of: "Better Business Bureau"
+---
 
-# Charter
 
-Name: Charter
-Domain: charter.com
-Home: http://charter.com/
-Email: privacy@charter.com
-Member_of: Better Business Bureau
+

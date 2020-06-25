@@ -1,9 +1,11 @@
+---
+company-name: Parrable
+domain: parrable.com
+home: https://www.parrable.com/
+privacy-policy: https://www.parrable.com/privacy/
+email: info@parrable.com
+member-of: "Network Advertising Initiative"
+---
 
-# Parrable
 
-Name: Parrable
-Domain: parrable.com
-Home: https://www.parrable.com/
-Privacy_policy: https://www.parrable.com/privacy/
-Email: info@parrable.com
-Member_of: Network Advertising Initiative
+

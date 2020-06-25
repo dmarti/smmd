@@ -1,8 +1,10 @@
+---
+company-name: "Moët Chandon"
+domain: moet.com
+home: http://us.moet.com
+privacy-policy: http://us.moet.com/Privacy-policy
+owned-by: "Moet Hennessy SNC"
+---
 
-# Moët Chandon
 
-Name: Moët Chandon
-Domain: moet.com
-Home: http://us.moet.com
-Privacy_policy: http://us.moet.com/Privacy-policy
-Owned_by: Moet Hennessy SNC
+

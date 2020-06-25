@@ -1,7 +1,9 @@
+---
+company-name: BlogAD
+domain: blogad.com.tw
+home: http://www.blogad.com.tw/
+privacy-policy: http://www.blogad.com.tw/Member/Personal.aspx
+---
 
-# BlogAD
 
-Name: BlogAD
-Domain: blogad.com.tw
-Home: http://www.blogad.com.tw/
-Privacy_policy: http://www.blogad.com.tw/Member/Personal.aspx
+

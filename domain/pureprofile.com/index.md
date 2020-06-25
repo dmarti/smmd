@@ -1,7 +1,9 @@
+---
+company-name: Pureprofile
+domain: pureprofile.com
+home: https://www.pureprofile.com/int/
+privacy-policy: https://www.pureprofile.com/int/privacy/
+---
 
-# Pureprofile
 
-Name: Pureprofile
-Domain: pureprofile.com
-Home: https://www.pureprofile.com/int/
-Privacy_policy: https://www.pureprofile.com/int/privacy/
+

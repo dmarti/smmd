@@ -1,8 +1,10 @@
+---
+company-name: "Harte Hanks"
+domain: hartehanks.com
+home: http://www.hartehanks.com/
+privacy-policy: http://www.hartehanks.com/privacy
+email: privacy@hartehanks.com
+---
 
-# Harte Hanks
 
-Name: Harte Hanks
-Domain: hartehanks.com
-Home: http://www.hartehanks.com/
-Privacy_policy: http://www.hartehanks.com/privacy
-Email: privacy@hartehanks.com
+

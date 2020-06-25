@@ -1,21 +1,11 @@
-
-# Oxydata
-
-Name: Oxydata
-
-Domain: oxydata.io
-
-Home: https://www.oxydata.io/
-
-Email: privacy@oxydata.io
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: Oxydata
+domain: oxydata.io
+home: https://www.oxydata.io/
+email: privacy@oxydata.io
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +13,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,10 +1,12 @@
+---
+company-name: OrangeSoda
+domain: orangesoda.com
+home: http://www.orangesoda.com/
+privacy-policy: https://www.deluxe.com/policy
+email: cs@orangesoda.com
+owned-by: Deluxe
+member-of: "Better Business Bureau"
+---
 
-# OrangeSoda
 
-Name: OrangeSoda
-Domain: orangesoda.com
-Home: http://www.orangesoda.com/
-Privacy_policy: https://www.deluxe.com/policy
-Email: cs@orangesoda.com
-Owned_by: Deluxe
-Member_of: Better Business Bureau
+

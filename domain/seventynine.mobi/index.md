@@ -1,9 +1,11 @@
+---
+company-name: Seventynine
+domain: seventynine.mobi
+home: http://www.seventynine.mobi/
+privacy-policy: http://www.seventynine.mobi/privacy_policy.htm
+email: ashwani.m@svgmedia.in
+owned-by: "SVG Media"
+---
 
-# Seventynine
 
-Name: Seventynine
-Domain: seventynine.mobi
-Home: http://www.seventynine.mobi/
-Privacy_policy: http://www.seventynine.mobi/privacy_policy.htm
-Email: ashwani.m@svgmedia.in
-Owned_by: SVG Media
+

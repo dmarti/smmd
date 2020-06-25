@@ -1,12 +1,12 @@
+---
+company-name: "EMX Digital"
+domain: emxdigital.com
+home: https://emxdigital.com
+privacy-policy: https://emxdigital.com/privacy/
+email: privacy@enginegroup.com
+owned-by: "Engine Media"
+member-of: "Network Advertising Initiative"
+---
 
-# EMX Digital
 
-Name: EMX Digital
-Domain: emxdigital.com
-Home: https://emxdigital.com
-Privacy_policy: https://emxdigital.com/privacy/
-Email: privacy@enginegroup.com
-Owned_by: Engine Media
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

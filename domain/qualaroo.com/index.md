@@ -1,8 +1,10 @@
+---
+company-name: Qualaroo
+domain: qualaroo.com
+home: https://qualaroo.com
+privacy-policy: https://qualaroo.com/privacy-policy/
+email: info@qualaroo.com
+---
 
-# Qualaroo
 
-Name: Qualaroo
-Domain: qualaroo.com
-Home: https://qualaroo.com
-Privacy_policy: https://qualaroo.com/privacy-policy/
-Email: info@qualaroo.com
+

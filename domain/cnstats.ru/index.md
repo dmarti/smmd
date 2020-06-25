@@ -1,8 +1,10 @@
+---
+company-name: CNStats
+domain: cnstats.ru
+home: http://cnstats.ru/
+privacy-policy: http://www.cn-software.com/en/privacy/
+email: support@cn-software.com
+---
 
-# CNStats
 
-Name: CNStats
-Domain: cnstats.ru
-Home: http://cnstats.ru/
-Privacy_policy: http://www.cn-software.com/en/privacy/
-Email: support@cn-software.com
+

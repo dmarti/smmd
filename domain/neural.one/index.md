@@ -1,8 +1,10 @@
+---
+company-name: neuralone
+domain: neural.one
+home: https://web.neural.one
+privacy-policy: https://web.neural.one/privacy-policy/
+email: info@neural.one
+---
 
-# neuralone
 
-Name: neuralone
-Domain: neural.one
-Home: https://web.neural.one
-Privacy_policy: https://web.neural.one/privacy-policy/
-Email: info@neural.one
+

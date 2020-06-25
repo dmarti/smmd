@@ -1,8 +1,10 @@
+---
+company-name: "Audience Trust"
+domain: audiencetrust.com
+home: http://www.audiencetrust.com/
+privacy-policy: https://audiencetrust.com/privacy.html
+email: privacy@audiencetrust.com
+---
 
-# Audience Trust
 
-Name: Audience Trust
-Domain: audiencetrust.com
-Home: http://www.audiencetrust.com/
-Privacy_policy: https://audiencetrust.com/privacy.html
-Email: privacy@audiencetrust.com
+

@@ -1,6 +1,8 @@
+---
+company-name: "Open Web Analytics"
+domain: openwebanalytics.com
+home: http://www.openwebanalytics.com/
+---
 
-# Open Web Analytics
 
-Name: Open Web Analytics
-Domain: openwebanalytics.com
-Home: http://www.openwebanalytics.com/
+

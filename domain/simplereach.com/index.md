@@ -1,8 +1,10 @@
+---
+company-name: "Simple Reach"
+domain: simplereach.com
+home: http://simplereach.com/
+privacy-policy: https://simplereach.com/privacy
+email: info@simplereach.com
+---
 
-# Simple Reach
 
-Name: Simple Reach
-Domain: simplereach.com
-Home: http://simplereach.com/
-Privacy_policy: https://simplereach.com/privacy
-Email: info@simplereach.com
+

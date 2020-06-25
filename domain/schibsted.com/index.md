@@ -1,8 +1,10 @@
+---
+company-name: "Schibsted Media Group (Formally Webtraffic)"
+domain: schibsted.com
+home: https://www.schibsted.com/en/
+privacy-policy: https://howwecare.schibsted.com/how-we-act/privacy/
+email: info@webtraffic.se
+---
 
-# Schibsted Media Group (Formally Webtraffic)
 
-Name: Schibsted Media Group (Formally Webtraffic)
-Domain: schibsted.com
-Home: https://www.schibsted.com/en/
-Privacy_policy: https://howwecare.schibsted.com/how-we-act/privacy/
-Email: info@webtraffic.se
+

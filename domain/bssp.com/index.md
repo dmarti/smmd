@@ -1,7 +1,9 @@
+---
+company-name: "Butler, Shine, Stern & Partners"
+domain: bssp.com
+home: http://bssp.com/
+privacy-policy: http://
+---
 
-# Butler, Shine, Stern & Partners
 
-Name: Butler, Shine, Stern & Partners
-Domain: bssp.com
-Home: http://bssp.com/
-Privacy_policy: http://
+

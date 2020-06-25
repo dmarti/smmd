@@ -1,9 +1,11 @@
+---
+company-name: Ad-Juster
+domain: ad-juster.com
+home: https://www.ad-juster.com/welcome/
+privacy-policy: https://www.ad-juster.com/privacy-policy
+email: mike@adjuster.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Ad-Juster
 
-Name: Ad-Juster
-Domain: ad-juster.com
-Home: https://www.ad-juster.com/welcome/
-Privacy_policy: https://www.ad-juster.com/privacy-policy
-Email: mike@adjuster.com
-Member_of: Interactive Advertising Bureau (IAB)
+

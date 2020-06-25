@@ -1,6 +1,8 @@
+---
+company-name: NGDATA
+domain: ngdata.com
+home: http://www.ngdata.com/
+---
 
-# NGDATA
 
-Name: NGDATA
-Domain: ngdata.com
-Home: http://www.ngdata.com/
+

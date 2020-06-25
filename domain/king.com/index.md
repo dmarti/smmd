@@ -1,8 +1,10 @@
+---
+company-name: King.com
+domain: king.com
+home: http://www.king.com/
+privacy-policy: http://about.king.com/consumer-terms/terms/en#privacy
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# King.com
 
-Name: King.com
-Domain: king.com
-Home: http://www.king.com/
-Privacy_policy: http://about.king.com/consumer-terms/terms/en#privacy
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

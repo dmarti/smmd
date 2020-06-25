@@ -1,11 +1,12 @@
+---
+company-name: "Hyfn (Federated Media)"
+domain: hyfn.com
+home: https://hyfn.com/federated/
+privacy-policy: https://hyfn.com/corporate-privacy-policy/
+email: privacy@hyfn.com
+owned-by: "Nexstar Media Group"
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Hyfn (Federated Media)
 
-Name: Hyfn (Federated Media)
-Domain: hyfn.com
-Home: https://hyfn.com/federated/
-Privacy_policy: https://hyfn.com/corporate-privacy-policy/
-Email: privacy@hyfn.com
-Owned_by: Nexstar Media Group
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

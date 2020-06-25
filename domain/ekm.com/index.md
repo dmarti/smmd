@@ -1,8 +1,10 @@
+---
+company-name: ekmPinpoint
+domain: ekm.com
+home: https://www.ekm.com/
+privacy-policy: https://www.ekm.com/privacy.asp
+email: abuse@ekm.com
+---
 
-# ekmPinpoint
 
-Name: ekmPinpoint
-Domain: ekm.com
-Home: https://www.ekm.com/
-Privacy_policy: https://www.ekm.com/privacy.asp
-Email: abuse@ekm.com
+

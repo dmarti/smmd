@@ -1,7 +1,9 @@
+---
+company-name: WideOrbit
+domain: wideorbit.com
+home: https://www.wideorbit.com/
+privacy-policy: https://www.wideorbit.com/privacy/
+---
 
-# WideOrbit
 
-Name: WideOrbit
-Domain: wideorbit.com
-Home: https://www.wideorbit.com/
-Privacy_policy: https://www.wideorbit.com/privacy/
+

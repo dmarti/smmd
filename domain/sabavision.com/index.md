@@ -1,7 +1,9 @@
+---
+company-name: SabaVision
+domain: sabavision.com
+home: https://www.sabavision.com/en/
+email: info@sabavision.com
+---
 
-# SabaVision
 
-Name: SabaVision
-Domain: sabavision.com
-Home: https://www.sabavision.com/en/
-Email: info@sabavision.com
+

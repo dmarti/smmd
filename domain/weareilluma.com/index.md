@@ -1,9 +1,11 @@
+---
+company-name: illuma
+domain: weareilluma.com
+home: https://www.weareilluma.com
+privacy-policy: https://www.weareilluma.com/privacy-and-terms
+email: privacy@weareilluma.com
+member-of: "International Advertising Association (IAA)"
+---
 
-# illuma
 
-Name: illuma
-Domain: weareilluma.com
-Home: https://www.weareilluma.com
-Privacy_policy: https://www.weareilluma.com/privacy-and-terms
-Email: privacy@weareilluma.com
-Member_of: International Advertising Association (IAA)
+

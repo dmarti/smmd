@@ -1,8 +1,10 @@
+---
+company-name: "true[X] media (formerly SV Network (SocialVibe))"
+domain: truex.com
+home: http://www.truex.com/
+privacy-policy: http://www.truex.com/privacy.html
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# true[X] media (formerly SV Network (SocialVibe))
 
-Name: true[X] media (formerly SV Network (SocialVibe))
-Domain: truex.com
-Home: http://www.truex.com/
-Privacy_policy: http://www.truex.com/privacy.html
-Member_of: Interactive Advertising Bureau (IAB)
+

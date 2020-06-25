@@ -1,6 +1,8 @@
+---
+company-name: "iAvatarZ Digital"
+domain: iavatarz.com
+home: http://www.iavatarz.com/
+---
 
-# iAvatarZ Digital
 
-Name: iAvatarZ Digital
-Domain: iavatarz.com
-Home: http://www.iavatarz.com/
+

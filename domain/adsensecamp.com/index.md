@@ -1,6 +1,8 @@
+---
+company-name: AdsenseCamp
+domain: adsensecamp.com
+home: http://adsensecamp.com
+---
 
-# AdsenseCamp
 
-Name: AdsenseCamp
-Domain: adsensecamp.com
-Home: http://adsensecamp.com
+

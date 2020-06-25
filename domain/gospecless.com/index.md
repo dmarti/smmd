@@ -1,8 +1,10 @@
+---
+company-name: Specless
+domain: gospecless.com
+home: https://gospecless.com
+privacy-policy: https://gospecless.com/privacy-policy/
+email: hello@gospecless.com
+---
 
-# Specless
 
-Name: Specless
-Domain: gospecless.com
-Home: https://gospecless.com
-Privacy_policy: https://gospecless.com/privacy-policy/
-Email: hello@gospecless.com
+

@@ -1,9 +1,11 @@
+---
+company-name: Myspace
+domain: myspace.com
+home: https://myspace.com/
+privacy-policy: https://myspace.com/pages/privacy
+owned-by: Viant
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Myspace
 
-Name: Myspace
-Domain: myspace.com
-Home: https://myspace.com/
-Privacy_policy: https://myspace.com/pages/privacy
-Owned_by: Viant
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,10 +1,11 @@
+---
+company-name: LifeSight
+domain: lifesight.io
+home: https://www.lifesight.io/
+privacy-policy: https://www.lifesight.io/privacy
+email: privacy@lifesight.io
+member-of: "Mobile Marketing Asc"
+---
 
-# LifeSight
 
-Name: LifeSight
-Domain: lifesight.io
-Home: https://www.lifesight.io/
-Privacy_policy: https://www.lifesight.io/privacy
-Email: privacy@lifesight.io
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Mobile Marketing Asc
+

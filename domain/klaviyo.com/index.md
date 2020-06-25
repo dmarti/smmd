@@ -1,8 +1,10 @@
+---
+company-name: Klaviyo
+domain: klaviyo.com
+home: https://www.klaviyo.com/
+privacy-policy: https://www.klaviyo.com/privacy
+email: success@klaviyo.com
+---
 
-# Klaviyo
 
-Name: Klaviyo
-Domain: klaviyo.com
-Home: https://www.klaviyo.com/
-Privacy_policy: https://www.klaviyo.com/privacy
-Email: success@klaviyo.com
+

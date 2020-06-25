@@ -1,9 +1,11 @@
+---
+company-name: Marfeel
+domain: marfeel.com
+home: https://www.marfeel.com/
+privacy-policy: https://www.marfeel.com/privacy-policy/
+email: dpo@marfeel.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Marfeel
 
-Name: Marfeel
-Domain: marfeel.com
-Home: https://www.marfeel.com/
-Privacy_policy: https://www.marfeel.com/privacy-policy/
-Email: dpo@marfeel.com
-Member_of: Interactive Advertising Bureau (IAB)
+

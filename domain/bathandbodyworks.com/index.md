@@ -1,7 +1,9 @@
-# Bath & Body Works
+---
+company-name: "Bath & Body Works"
+domain: bathandbodyworks.com
+opt-out-url: https://www.bathandbodyworks.com/customer-care/california-privacy-rights.html
+---
 
-Name: Bath & Body Works
 
-Domain: bathandbodyworks.com
 
-Opt_out_url: https://www.bathandbodyworks.com/customer-care/california-privacy-rights.html
+

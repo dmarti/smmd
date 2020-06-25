@@ -1,9 +1,11 @@
+---
+company-name: "Dr. Banner"
+domain: drbanner.com
+home: https://drbanner.com
+privacy-policy: https://drbanner.com/privacypolicy_en/
+email: privacy@drbanner.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Dr. Banner
 
-Name: Dr. Banner
-Domain: drbanner.com
-Home: https://drbanner.com
-Privacy_policy: https://drbanner.com/privacypolicy_en/
-Email: privacy@drbanner.com
-Member_of: Interactive Advertising Bureau (IAB)
+

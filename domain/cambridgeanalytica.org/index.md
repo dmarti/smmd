@@ -1,7 +1,9 @@
+---
+company-name: "Cambridge Analytica"
+domain: cambridgeanalytica.org
+home: https://cambridgeanalytica.org/
+privacy-policy: https://ca-commercial.com/privacypolicy
+---
 
-# Cambridge Analytica
 
-Name: Cambridge Analytica
-Domain: cambridgeanalytica.org
-Home: https://cambridgeanalytica.org/
-Privacy_policy: https://ca-commercial.com/privacypolicy
+

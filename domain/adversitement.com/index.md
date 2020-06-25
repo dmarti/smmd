@@ -1,8 +1,10 @@
+---
+company-name: "Advertisement BV  (Insite Innovations and Properties BV)"
+domain: adversitement.com
+home: https://www.adversitement.com
+privacy-policy: https://www.adversitement.com/privacystatement/
+email: dpo@adversitement.com
+---
 
-# Advertisement BV  (Insite Innovations and Properties BV)
 
-Name: Advertisement BV  (Insite Innovations and Properties BV)
-Domain: adversitement.com
-Home: https://www.adversitement.com
-Privacy_policy: https://www.adversitement.com/privacystatement/
-Email: dpo@adversitement.com
+

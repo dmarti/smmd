@@ -1,9 +1,11 @@
+---
+company-name: "Adiant  (Formally Congoo)"
+domain: adiant.com
+home: https://www.adiant.com/
+privacy-policy: https://adblade.com/doc/privacy
+email: privacy@adblade.com
+owned-by: Adblade
+---
 
-# Adiant  (Formally Congoo)
 
-Name: Adiant  (Formally Congoo)
-Domain: adiant.com
-Home: https://www.adiant.com/
-Privacy_policy: https://adblade.com/doc/privacy
-Email: privacy@adblade.com
-Owned_by: Adblade
+

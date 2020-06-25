@@ -1,7 +1,9 @@
+---
+company-name: "Brandify (Where 2 Get It)"
+domain: brandify.com
+home: http://www.brandify.com/
+email: contact@brandify.com
+---
 
-# Brandify (Where 2 Get It)
 
-Name: Brandify (Where 2 Get It)
-Domain: brandify.com
-Home: http://www.brandify.com/
-Email: contact@brandify.com
+

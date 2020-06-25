@@ -1,8 +1,10 @@
+---
+company-name: MyFonts
+domain: myfonts.com
+home: http://www.myfonts.com/
+privacy-policy: https://www.monotype.com/legal/terms-of-use/
+email: help@myfonts.com
+---
 
-# MyFonts
 
-Name: MyFonts
-Domain: myfonts.com
-Home: http://www.myfonts.com/
-Privacy_policy: https://www.monotype.com/legal/terms-of-use/
-Email: help@myfonts.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Tag Commander"
+domain: tagcommander.com
+home: http://www.tagcommander.com/en/
+privacy-policy: https://www.commandersact.com/en/privacy/
+email: contact@tagcommander.com
+---
 
-# Tag Commander
 
-Name: Tag Commander
-Domain: tagcommander.com
-Home: http://www.tagcommander.com/en/
-Privacy_policy: https://www.commandersact.com/en/privacy/
-Email: contact@tagcommander.com
+

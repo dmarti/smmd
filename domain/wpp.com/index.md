@@ -1,8 +1,10 @@
+---
+company-name: WPP
+domain: wpp.com
+home: https://www.wpp.com/
+privacy-policy: https://www.wpp.com/privacy-policy
+email: enquiries@wpp.com
+---
 
-# WPP
 
-Name: WPP
-Domain: wpp.com
-Home: https://www.wpp.com/
-Privacy_policy: https://www.wpp.com/privacy-policy
-Email: enquiries@wpp.com
+

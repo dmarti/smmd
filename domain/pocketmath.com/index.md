@@ -1,9 +1,11 @@
+---
+company-name: Pocketmath
+domain: pocketmath.com
+home: https://www.pocketmath.com/
+privacy-policy: https://www.pocketmath.com/privacy-policy
+email: legal@pocketmath.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Pocketmath
 
-Name: Pocketmath
-Domain: pocketmath.com
-Home: https://www.pocketmath.com/
-Privacy_policy: https://www.pocketmath.com/privacy-policy
-Email: legal@pocketmath.com
-Member_of: Interactive Advertising Bureau (IAB)
+

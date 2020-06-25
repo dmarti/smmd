@@ -1,8 +1,10 @@
+---
+company-name: Eurosoftware
+domain: eurosw.it
+home: https://www.eurosw.it/
+privacy-policy: https://www.eurosw.it/web-policy-privacy/
+email: info@eurosw.it
+---
 
-# Eurosoftware
 
-Name: Eurosoftware
-Domain: eurosw.it
-Home: https://www.eurosw.it/
-Privacy_policy: https://www.eurosw.it/web-policy-privacy/
-Email: info@eurosw.it
+

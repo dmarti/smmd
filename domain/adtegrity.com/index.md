@@ -1,10 +1,11 @@
+---
+company-name: Adtegrity
+domain: adtegrity.com
+home: https://www.adtegrity.com/
+privacy-policy: https://www.adtegrity.com/privacy-policy/
+email: advertising@adtegrity.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Adtegrity
 
-Name: Adtegrity
-Domain: adtegrity.com
-Home: https://www.adtegrity.com/
-Privacy_policy: https://www.adtegrity.com/privacy-policy/
-Email: advertising@adtegrity.com
-Member_of: Better Business Bureau
-Member_of: Interactive Advertising Bureau (IAB)
+

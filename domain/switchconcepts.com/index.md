@@ -1,9 +1,11 @@
+---
+company-name: "Switch Concepts"
+domain: switchconcepts.com
+home: http://www.switchconcepts.com
+privacy-policy: http://www.switchconcepts.com/privacy
+email: info@switchconcepts.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Switch Concepts
 
-Name: Switch Concepts
-Domain: switchconcepts.com
-Home: http://www.switchconcepts.com
-Privacy_policy: http://www.switchconcepts.com/privacy
-Email: info@switchconcepts.com
-Member_of: European Data Interactive Alliance
+

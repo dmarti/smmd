@@ -1,7 +1,9 @@
+---
+company-name: "ADThink Media"
+domain: adthink-media.com
+home: http://www.adthink-media.com/
+privacy-policy: https://adthink.com/fr/terms/
+---
 
-# ADThink Media
 
-Name: ADThink Media
-Domain: adthink-media.com
-Home: http://www.adthink-media.com/
-Privacy_policy: https://adthink.com/fr/terms/
+

@@ -1,10 +1,11 @@
+---
+company-name: "The ADEX"
+domain: theadex.com
+home: https://www.theadex.com/
+privacy-policy: https://www.theadex.com/privacy-opt-out/
+email: mail@theadex.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# The ADEX
 
-Name: The ADEX
-Domain: theadex.com
-Home: https://www.theadex.com/
-Privacy_policy: https://www.theadex.com/privacy-opt-out/
-Email: mail@theadex.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

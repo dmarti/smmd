@@ -1,7 +1,9 @@
-# Sempra Energy
+---
+company-name: "Sempra Energy"
+domain: sempra.com
+opt-out-url: https://www.sempra.com/privacy#tab-2262
+---
 
-Name: Sempra Energy
 
-Domain: sempra.com
 
-Opt_out_url: https://www.sempra.com/privacy#tab-2262
+

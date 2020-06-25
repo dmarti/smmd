@@ -1,8 +1,10 @@
+---
+company-name: Aunica
+domain: aunica.com
+home: http://aunica.com/
+privacy-policy: http://aunica.com/privacy/privacy.html
+email: site@aunica.com
+---
 
-# Aunica
 
-Name: Aunica
-Domain: aunica.com
-Home: http://aunica.com/
-Privacy_policy: http://aunica.com/privacy/privacy.html
-Email: site@aunica.com
+

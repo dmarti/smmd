@@ -1,8 +1,10 @@
+---
+company-name: RAWR
+domain: rawr.at
+home: https://newsroom.rawr.at/
+privacy-policy: https://newsroom.rawr.at/legal/
+email: contact@rawr.at
+---
 
-# RAWR
 
-Name: RAWR
-Domain: rawr.at
-Home: https://newsroom.rawr.at/
-Privacy_policy: https://newsroom.rawr.at/legal/
-Email: contact@rawr.at
+

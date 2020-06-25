@@ -1,9 +1,11 @@
+---
+company-name: SocialFlow
+domain: socialflow.com
+home: http://www.socialflow.com/
+privacy-policy: http://www.socialflow.com/privacy-policy
+email: info@socialflow.com
+owned-by: betaworks
+---
 
-# SocialFlow
 
-Name: SocialFlow
-Domain: socialflow.com
-Home: http://www.socialflow.com/
-Privacy_policy: http://www.socialflow.com/privacy-policy
-Email: info@socialflow.com
-Owned_by: betaworks
+

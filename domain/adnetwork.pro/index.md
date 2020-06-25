@@ -1,6 +1,8 @@
+---
+company-name: ADNETWORK.PRO
+domain: adnetwork.pro
+home: http://adnetwork.pro/
+---
 
-# ADNETWORK.PRO
 
-Name: ADNETWORK.PRO
-Domain: adnetwork.pro
-Home: http://adnetwork.pro/
+

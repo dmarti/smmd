@@ -1,8 +1,10 @@
+---
+company-name: Kayak
+domain: kayak.com
+home: https://www.kayak.com/
+privacy-policy: https://www.kayak.com/privacy
+email: privacy@kayak.com
+---
 
-# Kayak
 
-Name: Kayak
-Domain: kayak.com
-Home: https://www.kayak.com/
-Privacy_policy: https://www.kayak.com/privacy
-Email: privacy@kayak.com
+

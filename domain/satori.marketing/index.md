@@ -1,8 +1,10 @@
+---
+company-name: Satori
+domain: satori.marketing
+home: https://satori.marketing/
+privacy-policy: https://satori.marketing/privacypolicy/
+email: info@satori.team
+---
 
-# Satori
 
-Name: Satori
-Domain: satori.marketing
-Home: https://satori.marketing/
-Privacy_policy: https://satori.marketing/privacypolicy/
-Email: info@satori.team
+

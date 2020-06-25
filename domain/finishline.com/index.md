@@ -1,8 +1,10 @@
+---
+company-name: "Finish Line"
+domain: finishline.com
+home: http://www.finishline.com/
+privacy-policy: http://www.finishline.com/store/corporate/privacyPolicy.jsp
+email: generalcounsel@finishline.com
+---
 
-# Finish Line
 
-Name: Finish Line
-Domain: finishline.com
-Home: http://www.finishline.com/
-Privacy_policy: http://www.finishline.com/store/corporate/privacyPolicy.jsp
-Email: generalcounsel@finishline.com
+

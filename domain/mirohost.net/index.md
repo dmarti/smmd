@@ -1,7 +1,9 @@
+---
+company-name: "Miro Host"
+domain: mirohost.net
+home: https://mirohost.net/
+email: info@mirohost.net
+---
 
-# Miro Host
 
-Name: Miro Host
-Domain: mirohost.net
-Home: https://mirohost.net/
-Email: info@mirohost.net
+

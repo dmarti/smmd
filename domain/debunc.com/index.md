@@ -1,7 +1,9 @@
+---
+company-name: "Debunc (Formally Greensky)"
+domain: debunc.com
+home: http://debunc.com/
+privacy-policy: http://debunc.com/privacy/
+---
 
-# Debunc (Formally Greensky)
 
-Name: Debunc (Formally Greensky)
-Domain: debunc.com
-Home: http://debunc.com/
-Privacy_policy: http://debunc.com/privacy/
+

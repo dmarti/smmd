@@ -1,10 +1,11 @@
+---
+company-name: "AlmondNet Group"
+domain: almondnet.com
+home: http://almondnet.com/
+privacy-policy: https://www.almondnet.com/privacy-center
+email: info@almondnet.com
+member-of: "Network Advertising Initiative"
+---
 
-# AlmondNet Group
 
-Name: AlmondNet Group
-Domain: almondnet.com
-Home: http://almondnet.com/
-Privacy_policy: https://www.almondnet.com/privacy-center
-Email: info@almondnet.com
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

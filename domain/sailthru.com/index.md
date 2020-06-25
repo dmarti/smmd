@@ -1,9 +1,11 @@
+---
+company-name: Sailthru
+domain: sailthru.com
+home: https://www.sailthru.com
+privacy-policy: http://www.sailthru.com/legal/privacy-statement/
+email: privacy@sailthru.com
+member-of: TrustE_TrustArc
+---
 
-# Sailthru
 
-Name: Sailthru
-Domain: sailthru.com
-Home: https://www.sailthru.com
-Privacy_policy: http://www.sailthru.com/legal/privacy-statement/
-Email: privacy@sailthru.com
-Member_of: TrustE_TrustArc
+

@@ -1,10 +1,11 @@
+---
+company-name: "Mediata (formerly Valued Interactive Media)"
+domain: mediataplatform.com
+home: http://www.mediataplatform.com/
+privacy-policy: http://www.mediataplatform.com/company/privacy-policy/
+email: privacy@mediata.co
+member-of: "Internet Advertising Sales Houses Council"
+---
 
-# Mediata (formerly Valued Interactive Media)
 
-Name: Mediata (formerly Valued Interactive Media)
-Domain: mediataplatform.com
-Home: http://www.mediataplatform.com/
-Privacy_policy: http://www.mediataplatform.com/company/privacy-policy/
-Email: privacy@mediata.co
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Internet Advertising Sales Houses Council
+

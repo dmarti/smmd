@@ -1,8 +1,10 @@
+---
+company-name: Segmint
+domain: segmint.com
+home: http://segmint.com/
+privacy-policy: https://segmint.com/Privacy-Policy
+email: info@segmint.com
+---
 
-# Segmint
 
-Name: Segmint
-Domain: segmint.com
-Home: http://segmint.com/
-Privacy_policy: https://segmint.com/Privacy-Policy
-Email: info@segmint.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Traffective
+domain: traffective.com
+home: http://www.traffective.com/
+privacy-policy: https://traffective.com/impressum/f
+email: datenschutz@adition.com
+---
 
-# Traffective
 
-Name: Traffective
-Domain: traffective.com
-Home: http://www.traffective.com/
-Privacy_policy: https://traffective.com/impressum/f
-Email: datenschutz@adition.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Neory (formerly Target Performance)"
+domain: neory.com
+home: http://www.neory.com/
+privacy-policy: https://www.neory.com/privacy.html
+email: privacy@neory.com
+---
 
-# Neory (formerly Target Performance)
 
-Name: Neory (formerly Target Performance)
-Domain: neory.com
-Home: http://www.neory.com/
-Privacy_policy: https://www.neory.com/privacy.html
-Email: privacy@neory.com
+

@@ -1,23 +1,11 @@
-
-# Refinitiv US LLC
-
-Name: Refinitiv US LLC
-
-Domain: refinitiv.com
-
-Home: refinitiv.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 367080
-
-
-
+---
+company-name: "Refinitiv US LLC"
+domain: refinitiv.com
+home: refinitiv.com
+vermont-id: 367080
+---
 ## How to opt out
+
 
 
 
@@ -25,7 +13,21 @@ Vermont_id: 367080
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

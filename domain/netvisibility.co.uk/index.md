@@ -1,6 +1,8 @@
+---
+company-name: "Net Visibility"
+domain: netvisibility.co.uk
+home: http://www.netvisibility.co.uk
+---
 
-# Net Visibility
 
-Name: Net Visibility
-Domain: netvisibility.co.uk
-Home: http://www.netvisibility.co.uk
+

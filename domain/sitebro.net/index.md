@@ -1,6 +1,8 @@
+---
+company-name: SiteBro
+domain: sitebro.net
+home: http://www.sitebro.net/
+---
 
-# SiteBro
 
-Name: SiteBro
-Domain: sitebro.net
-Home: http://www.sitebro.net/
+

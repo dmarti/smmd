@@ -1,8 +1,10 @@
+---
+company-name: SocialCode
+domain: socialcode.com
+home: http://socialcode.com/
+privacy-policy: http://socialcode.com/privacy-policy/
+email: legal@socialcode.com
+---
 
-# SocialCode
 
-Name: SocialCode
-Domain: socialcode.com
-Home: http://socialcode.com/
-Privacy_policy: http://socialcode.com/privacy-policy/
-Email: legal@socialcode.com
+

@@ -1,8 +1,10 @@
+---
+company-name: "Third Catalyst"
+domain: thirdcatalyst.com
+home: http://www.thirdcatalyst.com/
+privacy-policy: http://www.thirdcatalyst.com/privacy.html
+email: hello@thirdcatalyst.com
+---
 
-# Third Catalyst
 
-Name: Third Catalyst
-Domain: thirdcatalyst.com
-Home: http://www.thirdcatalyst.com/
-Privacy_policy: http://www.thirdcatalyst.com/privacy.html
-Email: hello@thirdcatalyst.com
+

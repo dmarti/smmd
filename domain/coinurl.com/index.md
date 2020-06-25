@@ -1,6 +1,8 @@
+---
+company-name: CoinURL
+domain: coinurl.com
+home: https://coinurl.com/
+---
 
-# CoinURL
 
-Name: CoinURL
-Domain: coinurl.com
-Home: https://coinurl.com/
+

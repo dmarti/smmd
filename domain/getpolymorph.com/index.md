@@ -1,11 +1,11 @@
+---
+company-name: "Polymorph (formerly AdsNative)"
+domain: getpolymorph.com
+home: https://getpolymorph.com/
+privacy-policy: https://getpolymorph.com/privacy-policy/
+email: support@polymorph.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Polymorph (formerly AdsNative)
 
-Name: Polymorph (formerly AdsNative)
-Domain: getpolymorph.com
-Home: https://getpolymorph.com/
-Privacy_policy: https://getpolymorph.com/privacy-policy/
-Email: support@polymorph.com
-Member_of: Digital Advertising Alliance
-Member_of: Digital Content Network(?)
-Member_of: Interactive Advertising Bureau (IAB)
+

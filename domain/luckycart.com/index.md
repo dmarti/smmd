@@ -1,7 +1,9 @@
+---
+company-name: "Lucky Cart"
+domain: luckycart.com
+home: http://www.luckycart.com/
+privacy-policy: http://www.luckycart.com/legal-notices/
+---
 
-# Lucky Cart
 
-Name: Lucky Cart
-Domain: luckycart.com
-Home: http://www.luckycart.com/
-Privacy_policy: http://www.luckycart.com/legal-notices/
+

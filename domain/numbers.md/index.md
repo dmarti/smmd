@@ -1,7 +1,9 @@
+---
+company-name: Numbers.md
+domain: numbers.md
+home: https://numbers.md/
+email: info@numbers.md
+---
 
-# Numbers.md
 
-Name: Numbers.md
-Domain: numbers.md
-Home: https://numbers.md/
-Email: info@numbers.md
+

@@ -1,23 +1,11 @@
-
-# DATAX LTD
-
-Name: DATAX LTD
-
-Domain: dataxltd.com
-
-Home: www.dataxltd.com
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 353289
-
-
-
+---
+company-name: "DATAX LTD"
+domain: dataxltd.com
+home: www.dataxltd.com
+vermont-id: 353289
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 353289
 
 
 
+
 ## Additional info
 
 
 
+
 7582 Las Vegas Boulevard, Suite 693, Las Vegas, NV, 89123 - 1009, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

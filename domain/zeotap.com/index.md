@@ -1,23 +1,12 @@
-
-# zeotap GmbH
-
-Name: zeotap GmbH
-
-Domain: zeotap.com
-
-Home: https://zeotap.com/
-
-Email: privacy [at] zeotap.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 02/12/2020
-
-
-
+---
+company-name: "zeotap GmbH"
+domain: zeotap.com
+home: https://zeotap.com/
+email: "privacy [at] zeotap.com"
+california-date: 02/12/2020
+---
 ## How to opt out
+
 
 California consumers may opt opt-out as follows:
 - For Personal Information stored against our Cookie ID by clicking the following link: https://privacy.zeotap.com/optout/authentication;
@@ -27,11 +16,25 @@ Detailed information and instructions on how to submit opt-out and other request
 
 ## How to delete
 
+
 Consumers (or elected or appointed officials) may submit such request to privacy@zeotap.com or may contact us via post: zeotap GmbH, Mehringdamm 32-34, 10961 Berlin, Germany.
 
 ## Additional info
 
+
 Our data partners (that collect and share data with us) are mobile application providers, media and technology platform providers and others that have access to certain customer information. An in-depth description of zeotap's data collection practices can be found at: https://zeotap.com/privacy_policy.
 
 Mehringdamm 3410961 BerlinGermany
+
+
+
+
+
+
+
+
+
+
+
+
 

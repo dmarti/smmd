@@ -1,8 +1,10 @@
+---
+company-name: Distroscale
+domain: distroscale.com
+home: http://www.distroscale.com/
+privacy-policy: http://www.distroscale.com/about/privacy-policy/
+email: privacy@distroscale.com
+---
 
-# Distroscale
 
-Name: Distroscale
-Domain: distroscale.com
-Home: http://www.distroscale.com/
-Privacy_policy: http://www.distroscale.com/about/privacy-policy/
-Email: privacy@distroscale.com
+

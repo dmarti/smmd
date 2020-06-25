@@ -1,8 +1,10 @@
+---
+company-name: "Intelligent Reach"
+domain: intelligentreach.com
+home: http://www.intelligentreach.com/
+privacy-policy: http://intelligentreach.com/privacy-policy/
+email: team@intelligentreach.com
+---
 
-# Intelligent Reach
 
-Name: Intelligent Reach
-Domain: intelligentreach.com
-Home: http://www.intelligentreach.com/
-Privacy_policy: http://intelligentreach.com/privacy-policy/
-Email: team@intelligentreach.com
+

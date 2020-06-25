@@ -1,7 +1,9 @@
+---
+company-name: "Al Bawaba"
+domain: albawaba.com
+home: https://www.albawaba.com/
+privacy-policy: https://www.albawaba.com/abstatic/terms-use-509516
+---
 
-# Al Bawaba
 
-Name: Al Bawaba
-Domain: albawaba.com
-Home: https://www.albawaba.com/
-Privacy_policy: https://www.albawaba.com/abstatic/terms-use-509516
+

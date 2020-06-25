@@ -1,6 +1,8 @@
+---
+company-name: "Mizkan (Formerly R&B Foods)"
+domain: rbfood.com
+home: http://www.rbfood.com/en/
+---
 
-# Mizkan (Formerly R&B Foods)
 
-Name: Mizkan (Formerly R&B Foods)
-Domain: rbfood.com
-Home: http://www.rbfood.com/en/
+

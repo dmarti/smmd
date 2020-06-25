@@ -1,23 +1,11 @@
-
-# Project Applecart LLC
-
-Name: Project Applecart LLC
-
-Domain: applecart.co
-
-Home: applecart.co
-
-Email: 
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-Vermont_id: 367874
-
-
-
+---
+company-name: "Project Applecart LLC"
+domain: applecart.co
+home: applecart.co
+vermont-id: 367874
+---
 ## How to opt out
+
 
 
 
@@ -25,9 +13,23 @@ Vermont_id: 367874
 
 
 
+
 ## Additional info
 
 
 
+
 234 W 39th Street, 5th Floor, New York, NY, 10018, USA
+
+
+
+
+
+
+
+
+
+
+
+
 

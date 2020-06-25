@@ -1,8 +1,10 @@
+---
+company-name: dotSUB
+domain: dotsub.com
+home: https://dotsub.com/
+privacy-policy: https://dotsub.com/privacyPolicy/
+email: privacy@dotSUB.com
+---
 
-# dotSUB
 
-Name: dotSUB
-Domain: dotsub.com
-Home: https://dotsub.com/
-Privacy_policy: https://dotsub.com/privacyPolicy/
-Email: privacy@dotSUB.com
+

@@ -1,6 +1,8 @@
+---
+company-name: OptAim
+domain: optaim.com
+home: http://optaim.com/
+---
 
-# OptAim
 
-Name: OptAim
-Domain: optaim.com
-Home: http://optaim.com/
+

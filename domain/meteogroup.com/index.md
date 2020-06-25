@@ -1,8 +1,10 @@
+---
+company-name: MeteoGroup
+domain: meteogroup.com
+home: https://www.meteogroup.com/de
+privacy-policy: https://www.meteogroup.com/de/datenschutzrichtlinie
+email: belgium@meteogroup.com
+---
 
-# MeteoGroup
 
-Name: MeteoGroup
-Domain: meteogroup.com
-Home: https://www.meteogroup.com/de
-Privacy_policy: https://www.meteogroup.com/de/datenschutzrichtlinie
-Email: belgium@meteogroup.com
+

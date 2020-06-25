@@ -1,8 +1,10 @@
+---
+company-name: Adinch
+domain: adinch.com
+home: https://adinch.com/
+privacy-policy: https://adinch.com/termsandpolicies/policy/
+email: support@adinch.com
+---
 
-# Adinch
 
-Name: Adinch
-Domain: adinch.com
-Home: https://adinch.com/
-Privacy_policy: https://adinch.com/termsandpolicies/policy/
-Email: support@adinch.com
+

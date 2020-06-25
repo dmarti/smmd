@@ -1,8 +1,10 @@
+---
+company-name: CPVAdvertise
+domain: cpvadvertise.com
+home: http://www.cpvadvertise.com
+privacy-policy: http://www.cpvadvertise.com/privacy.php
+email: admin@cpvadvertise.com
+---
 
-# CPVAdvertise
 
-Name: CPVAdvertise
-Domain: cpvadvertise.com
-Home: http://www.cpvadvertise.com
-Privacy_policy: http://www.cpvadvertise.com/privacy.php
-Email: admin@cpvadvertise.com
+

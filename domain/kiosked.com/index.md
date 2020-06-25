@@ -1,9 +1,11 @@
+---
+company-name: Kiosked
+domain: kiosked.com
+home: http://www.kiosked.com/
+privacy-policy: http://www.kiosked.com/privacy-policy.html
+email: privacy@kiosked.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Kiosked
 
-Name: Kiosked
-Domain: kiosked.com
-Home: http://www.kiosked.com/
-Privacy_policy: http://www.kiosked.com/privacy-policy.html
-Email: privacy@kiosked.com
-Member_of: Interactive Advertising Bureau (IAB)
+

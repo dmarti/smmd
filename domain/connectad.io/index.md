@@ -1,8 +1,10 @@
+---
+company-name: ConnectAd
+domain: connectad.io
+home: https://connectad.io/
+privacy-policy: http://connectadrealtime.com/privacy/
+email: connect@connectad.io
+---
 
-# ConnectAd
 
-Name: ConnectAd
-Domain: connectad.io
-Home: https://connectad.io/
-Privacy_policy: http://connectadrealtime.com/privacy/
-Email: connect@connectad.io
+

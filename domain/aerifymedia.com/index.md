@@ -1,7 +1,9 @@
+---
+company-name: "Aerify Media"
+domain: aerifymedia.com
+home: http://aerifymedia.com/
+email: privacy@aerifymedia.com
+---
 
-# Aerify Media
 
-Name: Aerify Media
-Domain: aerifymedia.com
-Home: http://aerifymedia.com/
-Email: privacy@aerifymedia.com
+

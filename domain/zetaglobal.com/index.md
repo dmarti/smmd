@@ -1,9 +1,11 @@
+---
+company-name: "Zeta Global"
+domain: zetaglobal.com
+home: https://zetaglobal.com
+privacy-policy: https://zetaglobal.com/privacy-policy/
+email: privacy@zetaglobal.com
+member-of: DMA_ANA
+---
 
-# Zeta Global
 
-Name: Zeta Global
-Domain: zetaglobal.com
-Home: https://zetaglobal.com
-Privacy_policy: https://zetaglobal.com/privacy-policy/
-Email: privacy@zetaglobal.com
-Member_of: DMA_ANA
+

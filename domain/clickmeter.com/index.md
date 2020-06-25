@@ -1,8 +1,10 @@
+---
+company-name: ClickMeter
+domain: clickmeter.com
+home: http://www.clickmeter.com
+privacy-policy: http://www.clickmeter.com/privacy-policy
+email: privacy@clickmeter.com
+---
 
-# ClickMeter
 
-Name: ClickMeter
-Domain: clickmeter.com
-Home: http://www.clickmeter.com
-Privacy_policy: http://www.clickmeter.com/privacy-policy
-Email: privacy@clickmeter.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Yotpo
+domain: yotpo.com
+home: https://www.yotpo.com/
+privacy-policy: https://www.yotpo.com/privacy-policy/
+email: info@yotpo.com
+---
 
-# Yotpo
 
-Name: Yotpo
-Domain: yotpo.com
-Home: https://www.yotpo.com/
-Privacy_policy: https://www.yotpo.com/privacy-policy/
-Email: info@yotpo.com
+

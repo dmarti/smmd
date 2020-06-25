@@ -1,7 +1,9 @@
+---
+company-name: "Epic Mobile Ads"
+domain: epicmobileads.com
+home: http://www.epicmobileads.com/
+email: pr@theepicmediagroup.com
+---
 
-# Epic Mobile Ads
 
-Name: Epic Mobile Ads
-Domain: epicmobileads.com
-Home: http://www.epicmobileads.com/
-Email: pr@theepicmediagroup.com
+

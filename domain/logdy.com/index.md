@@ -1,8 +1,10 @@
+---
+company-name: Logdy
+domain: logdy.com
+home: http://www.logdy.com/
+privacy-policy: http://www.logdy.com/privacy.html
+email: support@logdy.com
+---
 
-# Logdy
 
-Name: Logdy
-Domain: logdy.com
-Home: http://www.logdy.com/
-Privacy_policy: http://www.logdy.com/privacy.html
-Email: support@logdy.com
+

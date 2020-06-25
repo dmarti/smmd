@@ -1,8 +1,10 @@
+---
+company-name: Cheq
+domain: cheq.ai
+home: https://www.cheq.ai/
+privacy-policy: https://www.cheq.ai/privacy
+email: info@combotag.com
+---
 
-# Cheq
 
-Name: Cheq
-Domain: cheq.ai
-Home: https://www.cheq.ai/
-Privacy_policy: https://www.cheq.ai/privacy
-Email: info@combotag.com
+

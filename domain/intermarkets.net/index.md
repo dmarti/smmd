@@ -1,7 +1,9 @@
+---
+company-name: Intermarkets
+domain: intermarkets.net
+home: https://intermarkets.net/
+privacy-policy: http://intermarkets.net/privacy/
+---
 
-# Intermarkets
 
-Name: Intermarkets
-Domain: intermarkets.net
-Home: https://intermarkets.net/
-Privacy_policy: http://intermarkets.net/privacy/
+

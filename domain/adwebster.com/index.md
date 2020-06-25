@@ -1,9 +1,11 @@
+---
+company-name: adwebster
+domain: adwebster.com
+home: http://adwebster.com
+privacy-policy: http://adwebster.com/Pages/about/Data-Protection-Policy.aspx
+email: info@adwebster.com
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# adwebster
 
-Name: adwebster
-Domain: adwebster.com
-Home: http://adwebster.com
-Privacy_policy: http://adwebster.com/Pages/about/Data-Protection-Policy.aspx
-Email: info@adwebster.com
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

@@ -1,8 +1,10 @@
+---
+company-name: eTracker
+domain: etracker.com
+home: https://www.etracker.com/
+privacy-policy: https://www.etracker.com/datenschutz/
+email: privacy@etracker.com
+---
 
-# eTracker
 
-Name: eTracker
-Domain: etracker.com
-Home: https://www.etracker.com/
-Privacy_policy: https://www.etracker.com/datenschutz/
-Email: privacy@etracker.com
+

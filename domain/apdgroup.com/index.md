@@ -1,8 +1,10 @@
+---
+company-name: "APD (dgm)"
+domain: apdgroup.com
+home: https://www.apdgroup.com/
+privacy-policy: https://www.apdgroup.com/privacy-policy/
+email: privacy@apdgroup.com
+---
 
-# APD (dgm)
 
-Name: APD (dgm)
-Domain: apdgroup.com
-Home: https://www.apdgroup.com/
-Privacy_policy: https://www.apdgroup.com/privacy-policy/
-Email: privacy@apdgroup.com
+

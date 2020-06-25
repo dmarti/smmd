@@ -1,8 +1,10 @@
+---
+company-name: Slashdot
+domain: slashdot.org
+home: https://slashdot.org/
+privacy-policy: https://slashdotmedia.com/privacy-statement/
+email: legal@geek.net
+---
 
-# Slashdot
 
-Name: Slashdot
-Domain: slashdot.org
-Home: https://slashdot.org/
-Privacy_policy: https://slashdotmedia.com/privacy-statement/
-Email: legal@geek.net
+

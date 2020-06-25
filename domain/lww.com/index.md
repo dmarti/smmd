@@ -1,7 +1,9 @@
+---
+company-name: "Wolters Kluwer Health - Lippincott, Williams & Wilkins"
+domain: lww.com
+home: https://shop.lww.com/
+privacy-policy: https://shop.lww.com/privacy-default
+---
 
-# Wolters Kluwer Health - Lippincott, Williams & Wilkins
 
-Name: Wolters Kluwer Health - Lippincott, Williams & Wilkins
-Domain: lww.com
-Home: https://shop.lww.com/
-Privacy_policy: https://shop.lww.com/privacy-default
+

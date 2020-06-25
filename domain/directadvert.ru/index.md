@@ -1,8 +1,10 @@
+---
+company-name: Direct/ADVERT
+domain: directadvert.ru
+home: http://www.directadvert.ru/
+privacy-policy: https://www.directadvert.ru/text/about#privacy_policy
+email: support@directadvert.ru
+---
 
-# Direct/ADVERT
 
-Name: Direct/ADVERT
-Domain: directadvert.ru
-Home: http://www.directadvert.ru/
-Privacy_policy: https://www.directadvert.ru/text/about#privacy_policy
-Email: support@directadvert.ru
+

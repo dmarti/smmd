@@ -1,7 +1,9 @@
+---
+company-name: MenloTechnologies
+domain: menlotechnologies.cn
+home: http://www.menlotechnologies.cn/
+email: faq@menlotechnologies.cn
+---
 
-# MenloTechnologies
 
-Name: MenloTechnologies
-Domain: menlotechnologies.cn
-Home: http://www.menlotechnologies.cn/
-Email: faq@menlotechnologies.cn
+

@@ -1,7 +1,9 @@
+---
+company-name: Oralfish
+domain: oralfish.com
+home: http://www.oralfish.com/
+email: contact@oralfish.com
+---
 
-# Oralfish
 
-Name: Oralfish
-Domain: oralfish.com
-Home: http://www.oralfish.com/
-Email: contact@oralfish.com
+

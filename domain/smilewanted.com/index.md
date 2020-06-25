@@ -1,8 +1,10 @@
+---
+company-name: "Smile Wanted"
+domain: smilewanted.com
+home: https://www.smilewanted.com
+privacy-policy: https://www.smilewanted.com/privacy.php
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Smile Wanted
 
-Name: Smile Wanted
-Domain: smilewanted.com
-Home: https://www.smilewanted.com
-Privacy_policy: https://www.smilewanted.com/privacy.php
-Member_of: Interactive Advertising Bureau (IAB)
+

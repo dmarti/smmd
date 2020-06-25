@@ -1,8 +1,10 @@
+---
+company-name: "Starcom CA"
+domain: starcomww.com
+home: http://www.starcomww.com/
+privacy-policy: http://www.starcomww.com/privacy-policy/
+owned-by: Starcom
+---
 
-# Starcom CA
 
-Name: Starcom CA
-Domain: starcomww.com
-Home: http://www.starcomww.com/
-Privacy_policy: http://www.starcomww.com/privacy-policy/
-Owned_by: Starcom
+

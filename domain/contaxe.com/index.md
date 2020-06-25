@@ -1,8 +1,10 @@
+---
+company-name: Contaxe
+domain: contaxe.com
+home: http://www.contaxe.com/
+privacy-policy: http://www.contaxe.com/de/texte/terms/
+email: business@contaxe.com
+---
 
-# Contaxe
 
-Name: Contaxe
-Domain: contaxe.com
-Home: http://www.contaxe.com/
-Privacy_policy: http://www.contaxe.com/de/texte/terms/
-Email: business@contaxe.com
+

@@ -1,8 +1,10 @@
+---
+company-name: AvePoint
+domain: avepoint.com
+home: https://www.avepoint.com/
+privacy-policy: https://www.avepoint.com/privacy-policy/
+email: legal@avepoint.com
+---
 
-# AvePoint
 
-Name: AvePoint
-Domain: avepoint.com
-Home: https://www.avepoint.com/
-Privacy_policy: https://www.avepoint.com/privacy-policy/
-Email: legal@avepoint.com
+

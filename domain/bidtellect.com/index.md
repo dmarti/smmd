@@ -1,8 +1,10 @@
+---
+company-name: BidTellect
+domain: bidtellect.com
+home: https://www.bidtellect.com/
+privacy-policy: https://www.bidtellect.com/privacy-policy/
+email: privacy@bidtellect.com
+---
 
-# BidTellect
 
-Name: BidTellect
-Domain: bidtellect.com
-Home: https://www.bidtellect.com/
-Privacy_policy: https://www.bidtellect.com/privacy-policy/
-Email: privacy@bidtellect.com
+

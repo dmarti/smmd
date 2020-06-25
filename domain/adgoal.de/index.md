@@ -1,6 +1,8 @@
+---
+company-name: adgoal
+domain: adgoal.de
+home: https://www.adgoal.de/en/
+---
 
-# adgoal
 
-Name: adgoal
-Domain: adgoal.de
-Home: https://www.adgoal.de/en/
+

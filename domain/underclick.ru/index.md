@@ -1,7 +1,9 @@
+---
+company-name: Underclick
+domain: underclick.ru
+home: http://underclick.ru/
+email: sales@underclick.ru
+---
 
-# Underclick
 
-Name: Underclick
-Domain: underclick.ru
-Home: http://underclick.ru/
-Email: sales@underclick.ru
+

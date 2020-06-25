@@ -1,8 +1,10 @@
+---
+company-name: "Terre Des Hommes (TDH)"
+domain: tdh.de
+home: https://www.tdh.de/
+privacy-policy: https://www.tdh.de/datenschutz/
+email: "s.fenkl @ tdh.de"
+---
 
-# Terre Des Hommes (TDH)
 
-Name: Terre Des Hommes (TDH)
-Domain: tdh.de
-Home: https://www.tdh.de/
-Privacy_policy: https://www.tdh.de/datenschutz/
-Email: s.fenkl @ tdh.de
+

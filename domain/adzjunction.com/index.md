@@ -1,8 +1,10 @@
+---
+company-name: "Adz Junction"
+domain: adzjunction.com
+home: http://www.adzjunction.com/
+privacy-policy: http://www.adzjunction.com/privacy
+email: info@adzjunction.com
+---
 
-# Adz Junction
 
-Name: Adz Junction
-Domain: adzjunction.com
-Home: http://www.adzjunction.com/
-Privacy_policy: http://www.adzjunction.com/privacy
-Email: info@adzjunction.com
+

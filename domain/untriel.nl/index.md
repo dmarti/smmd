@@ -1,8 +1,10 @@
+---
+company-name: Untriel
+domain: untriel.nl
+home: https://www.untriel.nl/
+privacy-policy: https://www.untriel.nl/privacy-policy/
+email: info@untriel.nl
+---
 
-# Untriel
 
-Name: Untriel
-Domain: untriel.nl
-Home: https://www.untriel.nl/
-Privacy_policy: https://www.untriel.nl/privacy-policy/
-Email: info@untriel.nl
+

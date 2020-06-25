@@ -1,7 +1,9 @@
+---
+company-name: Impactify
+domain: impactify.io
+home: https://impactify.io/
+privacy-policy: https://impactify.io/privacy-policy/
+---
 
-# Impactify
 
-Name: Impactify
-Domain: impactify.io
-Home: https://impactify.io/
-Privacy_policy: https://impactify.io/privacy-policy/
+

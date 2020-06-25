@@ -1,8 +1,10 @@
+---
+company-name: Reevoo
+domain: reevoo.com
+home: http://www.reevoo.com/
+privacy-policy: https://www.reevoo.com/cookies-policy/
+email: privacy@reevoo.com
+---
 
-# Reevoo
 
-Name: Reevoo
-Domain: reevoo.com
-Home: http://www.reevoo.com/
-Privacy_policy: https://www.reevoo.com/cookies-policy/
-Email: privacy@reevoo.com
+

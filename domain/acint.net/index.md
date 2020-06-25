@@ -1,8 +1,10 @@
+---
+company-name: "Artificial Computation Intelligence"
+domain: acint.net
+home: http://www.acint.net
+privacy-policy: http://www.acint.net/
+email: admin@acint.net
+---
 
-# Artificial Computation Intelligence
 
-Name: Artificial Computation Intelligence
-Domain: acint.net
-Home: http://www.acint.net
-Privacy_policy: http://www.acint.net/
-Email: admin@acint.net
+

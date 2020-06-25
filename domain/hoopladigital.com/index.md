@@ -1,8 +1,10 @@
+---
+company-name: "Hoopla Digital"
+domain: hoopladigital.com
+home: https://www.hoopladigital.com/home
+privacy-policy: https://www.hoopladigital.com/privacy
+email: info@hoopladigital.com
+---
 
-# Hoopla Digital
 
-Name: Hoopla Digital
-Domain: hoopladigital.com
-Home: https://www.hoopladigital.com/home
-Privacy_policy: https://www.hoopladigital.com/privacy
-Email: info@hoopladigital.com
+

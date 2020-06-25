@@ -1,8 +1,10 @@
+---
+company-name: "Beanstock Media"
+domain: beanstockmedia.com
+home: http://www.beanstockmedia.com/
+privacy-policy: http://www.beanstockmedia.com/privacy
+email: privacy@beanstockmedia.com
+---
 
-# Beanstock Media
 
-Name: Beanstock Media
-Domain: beanstockmedia.com
-Home: http://www.beanstockmedia.com/
-Privacy_policy: http://www.beanstockmedia.com/privacy
-Email: privacy@beanstockmedia.com
+

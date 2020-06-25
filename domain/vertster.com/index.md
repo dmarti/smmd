@@ -1,7 +1,9 @@
+---
+company-name: Vertster
+domain: vertster.com
+home: http://www.vertster.com/
+privacy-policy: http://www.vertster.com/privacy-policy/
+---
 
-# Vertster
 
-Name: Vertster
-Domain: vertster.com
-Home: http://www.vertster.com/
-Privacy_policy: http://www.vertster.com/privacy-policy/
+

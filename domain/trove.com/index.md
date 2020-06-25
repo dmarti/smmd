@@ -1,8 +1,10 @@
+---
+company-name: Trove
+domain: trove.com
+home: https://trove.com/
+privacy-policy: http://info.trove.com/policies
+email: help@trove.com
+---
 
-# Trove
 
-Name: Trove
-Domain: trove.com
-Home: https://trove.com/
-Privacy_policy: http://info.trove.com/policies
-Email: help@trove.com
+

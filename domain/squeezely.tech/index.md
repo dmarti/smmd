@@ -1,8 +1,10 @@
+---
+company-name: Squeezely
+domain: squeezely.tech
+home: https://squeezely.tech/
+privacy-policy: https://squeezely.tech/privacy
+email: info@squeezely.tech
+---
 
-# Squeezely
 
-Name: Squeezely
-Domain: squeezely.tech
-Home: https://squeezely.tech/
-Privacy_policy: https://squeezely.tech/privacy
-Email: info@squeezely.tech
+

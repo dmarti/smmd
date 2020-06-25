@@ -1,9 +1,11 @@
+---
+company-name: Lotadata
+domain: lotadata.com
+home: https://lotadata.com
+privacy-policy: https://lotadata.com/privacy_policy
+email: business@lotadata.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Lotadata
 
-Name: Lotadata
-Domain: lotadata.com
-Home: https://lotadata.com
-Privacy_policy: https://lotadata.com/privacy_policy
-Email: business@lotadata.com
-Member_of: Interactive Advertising Bureau (IAB)
+

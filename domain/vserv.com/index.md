@@ -1,8 +1,10 @@
+---
+company-name: Vserve
+domain: vserv.com
+home: https://www.vserv.com/
+privacy-policy: https://www.vserv.com/privacy-policy/
+email: info@vserv.mobi
+---
 
-# Vserve
 
-Name: Vserve
-Domain: vserv.com
-Home: https://www.vserv.com/
-Privacy_policy: https://www.vserv.com/privacy-policy/
-Email: info@vserv.mobi
+

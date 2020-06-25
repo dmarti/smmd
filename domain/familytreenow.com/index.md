@@ -1,7 +1,9 @@
+---
+company-name: "Family Tree Now"
+domain: familytreenow.com
+home: http://www.familytreenow.com/
+privacy-policy: https://www.familytreenow.com/privacy
+---
 
-# Family Tree Now
 
-Name: Family Tree Now
-Domain: familytreenow.com
-Home: http://www.familytreenow.com/
-Privacy_policy: https://www.familytreenow.com/privacy
+

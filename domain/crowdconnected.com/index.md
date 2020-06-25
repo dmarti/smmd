@@ -1,8 +1,10 @@
+---
+company-name: "Crowd Connected"
+domain: crowdconnected.com
+home: https://www.crowdconnected.com/
+privacy-policy: https://www.crowdconnected.com/privacy/
+email: mail@crowdconnected.com
+---
 
-# Crowd Connected
 
-Name: Crowd Connected
-Domain: crowdconnected.com
-Home: https://www.crowdconnected.com/
-Privacy_policy: https://www.crowdconnected.com/privacy/
-Email: mail@crowdconnected.com
+

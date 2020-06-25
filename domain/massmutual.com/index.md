@@ -1,7 +1,9 @@
-# MassMutual
+---
+company-name: MassMutual
+domain: massmutual.com
+opt-out-url: https://www.massmutual.com/legal/privacy-rights/
+---
 
-Name: MassMutual
 
-Domain: massmutual.com
 
-Opt_out_url: https://www.massmutual.com/legal/privacy-rights/
+

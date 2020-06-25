@@ -1,7 +1,9 @@
+---
+company-name: "Healthy Offers Inc."
+domain: healthyoffers.com
+home: https://www.healthyoffers.com/
+privacy-policy: https://www.healthyoffers.com/content/privacy-policy
+---
 
-# Healthy Offers Inc.
 
-Name: Healthy Offers Inc.
-Domain: healthyoffers.com
-Home: https://www.healthyoffers.com/
-Privacy_policy: https://www.healthyoffers.com/content/privacy-policy
+

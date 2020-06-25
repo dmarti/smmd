@@ -1,8 +1,10 @@
+---
+company-name: "Performance Horizon Group"
+domain: partnerize.com
+home: https://partnerize.com/en
+privacy-policy: https://partnerize.com/en/privacy-policy
+email: legal.support@partnerize.com
+---
 
-# Performance Horizon Group
 
-Name: Performance Horizon Group
-Domain: partnerize.com
-Home: https://partnerize.com/en
-Privacy_policy: https://partnerize.com/en/privacy-policy
-Email: legal.support@partnerize.com
+

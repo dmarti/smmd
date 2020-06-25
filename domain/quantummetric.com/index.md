@@ -1,8 +1,10 @@
+---
+company-name: "Quantum Metric"
+domain: quantummetric.com
+home: https://www.quantummetric.com/
+privacy-policy: https://www.quantummetric.com/legal/privacy/
+email: privacy@quantummetric.com
+---
 
-# Quantum Metric
 
-Name: Quantum Metric
-Domain: quantummetric.com
-Home: https://www.quantummetric.com/
-Privacy_policy: https://www.quantummetric.com/legal/privacy/
-Email: privacy@quantummetric.com
+

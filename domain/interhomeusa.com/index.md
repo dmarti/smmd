@@ -1,6 +1,8 @@
+---
+company-name: Interhome
+domain: interhomeusa.com
+home: http://www.interhomeusa.com
+---
 
-# Interhome
 
-Name: Interhome
-Domain: interhomeusa.com
-Home: http://www.interhomeusa.com
+

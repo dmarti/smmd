@@ -1,9 +1,10 @@
+---
+company-name: "Bursa de Reclama"
+domain: bursadereclama.ro
+home: https://www.bursadereclama.ro/#
+email: office@tradeads.eu
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# Bursa de Reclama
 
-Name: Bursa de Reclama
-Domain: bursadereclama.ro
-Home: https://www.bursadereclama.ro/#
-Email: office@tradeads.eu
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

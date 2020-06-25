@@ -1,10 +1,11 @@
+---
+company-name: CerebroAd
+domain: cerebroad.com
+home: https://www.cerebroad.com/
+privacy-policy: https://www.cerebroad.com/privacy-policy
+email: info@cererbroad.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# CerebroAd
 
-Name: CerebroAd
-Domain: cerebroad.com
-Home: https://www.cerebroad.com/
-Privacy_policy: https://www.cerebroad.com/privacy-policy
-Email: info@cererbroad.com
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
+

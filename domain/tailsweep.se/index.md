@@ -1,7 +1,9 @@
+---
+company-name: Tailsweep
+domain: tailsweep.se
+home: https://www.tailsweep.se/
+privacy-policy: https://bonniermag.se/cookiepolicy/
+---
 
-# Tailsweep
 
-Name: Tailsweep
-Domain: tailsweep.se
-Home: https://www.tailsweep.se/
-Privacy_policy: https://bonniermag.se/cookiepolicy/
+

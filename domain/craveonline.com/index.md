@@ -1,9 +1,11 @@
+---
+company-name: "Crave Online (Crowd Ignite)"
+domain: craveonline.com
+home: http://www.craveonline.com/
+privacy-policy: http://www.craveonline.com/privacy
+email: legal@evolvemediallc.com
+owned-by: "Gorilla Nation Media"
+---
 
-# Crave Online (Crowd Ignite)
 
-Name: Crave Online (Crowd Ignite)
-Domain: craveonline.com
-Home: http://www.craveonline.com/
-Privacy_policy: http://www.craveonline.com/privacy
-Email: legal@evolvemediallc.com
-Owned_by: Gorilla Nation Media
+

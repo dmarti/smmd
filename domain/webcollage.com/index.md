@@ -1,9 +1,11 @@
+---
+company-name: Webcollage
+domain: webcollage.com
+home: https://www.webcollage.com/
+privacy-policy: https://www.webcollage.net/MainApp/privacy/privacy-policy
+email: info@webcollage.com
+owned-by: Gladson
+---
 
-# Webcollage
 
-Name: Webcollage
-Domain: webcollage.com
-Home: https://www.webcollage.com/
-Privacy_policy: https://www.webcollage.net/MainApp/privacy/privacy-policy
-Email: info@webcollage.com
-Owned_by: Gladson
+

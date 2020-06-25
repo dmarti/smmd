@@ -1,8 +1,10 @@
+---
+company-name: appTV
+domain: apptv.com
+home: http://www.apptv.com/
+privacy-policy: https://www.apptv.com/privacy-policy
+email: privacy@appTV.com
+---
 
-# appTV
 
-Name: appTV
-Domain: apptv.com
-Home: http://www.apptv.com/
-Privacy_policy: https://www.apptv.com/privacy-policy
-Email: privacy@appTV.com
+

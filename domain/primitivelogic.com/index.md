@@ -1,7 +1,9 @@
+---
+company-name: "Primitive Logic"
+domain: primitivelogic.com
+home: https://www.primitivelogic.com/
+privacy-policy: http://
+---
 
-# Primitive Logic
 
-Name: Primitive Logic
-Domain: primitivelogic.com
-Home: https://www.primitivelogic.com/
-Privacy_policy: http://
+

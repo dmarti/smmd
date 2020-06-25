@@ -1,10 +1,12 @@
+---
+company-name: Bronto
+domain: bronto.com
+home: http://bronto.com/
+privacy-policy: https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html
+email: privacy@bronto.com
+owned-by: "Oracle Data Cloud"
+member-of: TrustE_TrustArc
+---
 
-# Bronto
 
-Name: Bronto
-Domain: bronto.com
-Home: http://bronto.com/
-Privacy_policy: https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html
-Email: privacy@bronto.com
-Owned_by: Oracle Data Cloud
-Member_of: TrustE_TrustArc
+

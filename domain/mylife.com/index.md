@@ -1,21 +1,11 @@
-
-# MyLife
-
-Name: MyLife
-
-Domain: mylife.com
-
-Home: https://www.mylife.com/
-
-Email: removalrequests@mylife.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-
-
+---
+company-name: MyLife
+domain: mylife.com
+home: https://www.mylife.com/
+email: removalrequests@mylife.com
+---
 ## How to opt out
+
 
 
 
@@ -23,7 +13,20 @@ Opt_out_url:
 
 
 
+
 ## Additional info
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

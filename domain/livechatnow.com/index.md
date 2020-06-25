@@ -1,6 +1,8 @@
+---
+company-name: LiveChatNow!
+domain: livechatnow.com
+home: http://www.livechatnow.com/
+---
 
-# LiveChatNow!
 
-Name: LiveChatNow!
-Domain: livechatnow.com
-Home: http://www.livechatnow.com/
+

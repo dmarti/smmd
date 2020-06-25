@@ -1,8 +1,10 @@
+---
+company-name: "ConsumerTrack, Inc."
+domain: consumertrack.com
+home: https://www.consumertrack.com/
+privacy-policy: https://www.consumertrack.com/privacy-policy/
+email: privacy@consumertrack.com
+---
 
-# ConsumerTrack, Inc.
 
-Name: ConsumerTrack, Inc.
-Domain: consumertrack.com
-Home: https://www.consumertrack.com/
-Privacy_policy: https://www.consumertrack.com/privacy-policy/
-Email: privacy@consumertrack.com
+

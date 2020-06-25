@@ -1,8 +1,10 @@
+---
+company-name: "Blue Triangle Technologies"
+domain: bluetriangletech.com
+home: http://www.bluetriangletech.com/
+privacy-policy: http://www.bluetriangletech.com/privacy-policy/
+email: info@bluetriangletech.com
+---
 
-# Blue Triangle Technologies
 
-Name: Blue Triangle Technologies
-Domain: bluetriangletech.com
-Home: http://www.bluetriangletech.com/
-Privacy_policy: http://www.bluetriangletech.com/privacy-policy/
-Email: info@bluetriangletech.com
+

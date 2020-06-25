@@ -1,6 +1,8 @@
+---
+company-name: Shopzilla
+domain: shopzilla.com
+home: http://www.shopzilla.com/
+---
 
-# Shopzilla
 
-Name: Shopzilla
-Domain: shopzilla.com
-Home: http://www.shopzilla.com/
+

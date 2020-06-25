@@ -1,8 +1,10 @@
+---
+company-name: Euclead
+domain: euclead.com
+home: http://www.euclead.com/
+privacy-policy: http://www.euclead.com/mentions-legales/
+email: contact@euclead.fr
+---
 
-# Euclead
 
-Name: Euclead
-Domain: euclead.com
-Home: http://www.euclead.com/
-Privacy_policy: http://www.euclead.com/mentions-legales/
-Email: contact@euclead.fr
+

@@ -1,10 +1,11 @@
+---
+company-name: ThinkGeek
+domain: thinkgeek.com
+home: https://www.thinkgeek.com/
+privacy-policy: https://www.thinkgeek.com/help/privacy.shtml
+email: legal@ThinkGeek.com
+member-of: "Network Advertising Initiative"
+---
 
-# ThinkGeek
 
-Name: ThinkGeek
-Domain: thinkgeek.com
-Home: https://www.thinkgeek.com/
-Privacy_policy: https://www.thinkgeek.com/help/privacy.shtml
-Email: legal@ThinkGeek.com
-Member_of: Better Business Bureau
-Member_of: Network Advertising Initiative
+

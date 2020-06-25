@@ -1,7 +1,9 @@
+---
+company-name: iWiW
+domain: iwiw.hu
+home: http://iwiw.hu/i/belepes
+email: info@iwiw.hu
+---
 
-# iWiW
 
-Name: iWiW
-Domain: iwiw.hu
-Home: http://iwiw.hu/i/belepes
-Email: info@iwiw.hu
+

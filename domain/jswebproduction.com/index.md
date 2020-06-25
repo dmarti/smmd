@@ -1,8 +1,10 @@
+---
+company-name: "JS Web Production"
+domain: jswebproduction.com
+home: http://www.jswebproduction.com/
+privacy-policy: http://www.jswebproduction.com/apropos.php
+email: contact@jswebproduction.com
+---
 
-# JS Web Production
 
-Name: JS Web Production
-Domain: jswebproduction.com
-Home: http://www.jswebproduction.com/
-Privacy_policy: http://www.jswebproduction.com/apropos.php
-Email: contact@jswebproduction.com
+

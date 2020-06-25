@@ -1,8 +1,10 @@
+---
+company-name: rtbLab
+domain: rtblab.de
+home: http://www.rtblab.de/
+privacy-policy: http://rvty.net/intern/agb
+email: info@easymedia-gmbh.de
+---
 
-# rtbLab
 
-Name: rtbLab
-Domain: rtblab.de
-Home: http://www.rtblab.de/
-Privacy_policy: http://rvty.net/intern/agb
-Email: info@easymedia-gmbh.de
+

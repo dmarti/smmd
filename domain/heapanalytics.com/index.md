@@ -1,8 +1,10 @@
+---
+company-name: Heap
+domain: heapanalytics.com
+home: https://heapanalytics.com/
+privacy-policy: https://heapanalytics.com/privacy
+email: support@heapanalytics.com
+---
 
-# Heap
 
-Name: Heap
-Domain: heapanalytics.com
-Home: https://heapanalytics.com/
-Privacy_policy: https://heapanalytics.com/privacy
-Email: support@heapanalytics.com
+

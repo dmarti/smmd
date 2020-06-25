@@ -1,7 +1,9 @@
+---
+company-name: Richemont
+domain: richemont.com
+home: http://www.richemont.com/
+privacy-policy: http://www.richemont.com/terms-and-conditions.html
+---
 
-# Richemont
 
-Name: Richemont
-Domain: richemont.com
-Home: http://www.richemont.com/
-Privacy_policy: http://www.richemont.com/terms-and-conditions.html
+

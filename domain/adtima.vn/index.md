@@ -1,7 +1,9 @@
+---
+company-name: Adtima
+domain: adtima.vn
+home: http://adtima.vn/
+email: contact@adtima.vn
+---
 
-# Adtima
 
-Name: Adtima
-Domain: adtima.vn
-Home: http://adtima.vn/
-Email: contact@adtima.vn
+

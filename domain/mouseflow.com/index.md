@@ -1,9 +1,11 @@
+---
+company-name: Mouseflow
+domain: mouseflow.com
+home: https://mouseflow.com/
+privacy-policy: https://mouseflow.com/privacy
+email: privacy@mouseflow.com
+member-of: "Network Advertising Initiative"
+---
 
-# Mouseflow
 
-Name: Mouseflow
-Domain: mouseflow.com
-Home: https://mouseflow.com/
-Privacy_policy: https://mouseflow.com/privacy
-Email: privacy@mouseflow.com
-Member_of: Network Advertising Initiative
+

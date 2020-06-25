@@ -1,9 +1,11 @@
+---
+company-name: AdUX
+domain: adux.com
+home: http://www.adux.com/
+privacy-policy: http://www.adux.com/donnees-personelles/
+email: privacy@adux.com
+member-of: "European Data Interactive Alliance"
+---
 
-# AdUX
 
-Name: AdUX
-Domain: adux.com
-Home: http://www.adux.com/
-Privacy_policy: http://www.adux.com/donnees-personelles/
-Email: privacy@adux.com
-Member_of: European Data Interactive Alliance
+

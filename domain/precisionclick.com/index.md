@@ -1,8 +1,10 @@
+---
+company-name: PrecisionClick
+domain: precisionclick.com
+home: http://www.precisionclick.com/
+email: privacy@precisionclick.com
+member-of: "Better Business Bureau"
+---
 
-# PrecisionClick
 
-Name: PrecisionClick
-Domain: precisionclick.com
-Home: http://www.precisionclick.com/
-Email: privacy@precisionclick.com
-Member_of: Better Business Bureau
+

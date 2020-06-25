@@ -1,8 +1,10 @@
+---
+company-name: Wishpond
+domain: wishpond.com
+home: https://www.wishpond.com/
+privacy-policy: https://www.wishpond.com/privacy-policy/
+email: support@wishpond.com
+---
 
-# Wishpond
 
-Name: Wishpond
-Domain: wishpond.com
-Home: https://www.wishpond.com/
-Privacy_policy: https://www.wishpond.com/privacy-policy/
-Email: support@wishpond.com
+

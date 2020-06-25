@@ -1,7 +1,9 @@
+---
+company-name: Traforet
+domain: traforet.com
+home: https://traforet.com/
+email: manager@traforet.com
+---
 
-# Traforet
 
-Name: Traforet
-Domain: traforet.com
-Home: https://traforet.com/
-Email: manager@traforet.com
+

@@ -1,8 +1,10 @@
+---
+company-name: RevenueHits
+domain: revenuehits.com
+home: http://www.revenuehits.com/
+privacy-policy: http://www.revenuehits.com/privacy.html
+email: info@revenuehits.com
+---
 
-# RevenueHits
 
-Name: RevenueHits
-Domain: revenuehits.com
-Home: http://www.revenuehits.com/
-Privacy_policy: http://www.revenuehits.com/privacy.html
-Email: info@revenuehits.com
+

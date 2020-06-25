@@ -1,8 +1,10 @@
+---
+company-name: "TenSquare (Web Wipe Analytics)"
+domain: tensquare.de
+home: https://www.tensquare.de/
+privacy-policy: https://www.tensquare.de/privacy.html
+email: privacy@tensquare.de
+---
 
-# TenSquare (Web Wipe Analytics)
 
-Name: TenSquare (Web Wipe Analytics)
-Domain: tensquare.de
-Home: https://www.tensquare.de/
-Privacy_policy: https://www.tensquare.de/privacy.html
-Email: privacy@tensquare.de
+

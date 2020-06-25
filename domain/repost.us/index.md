@@ -1,8 +1,10 @@
+---
+company-name: "Repost (Free Range Content)"
+domain: repost.us
+home: http://www.repost.us/
+privacy-policy: http://www.repost.us/privacy-policy
+email: privacy@freerangecontent.com
+---
 
-# Repost (Free Range Content)
 
-Name: Repost (Free Range Content)
-Domain: repost.us
-Home: http://www.repost.us/
-Privacy_policy: http://www.repost.us/privacy-policy
-Email: privacy@freerangecontent.com
+

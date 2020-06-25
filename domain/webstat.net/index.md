@@ -1,6 +1,8 @@
+---
+company-name: Web.STAT
+domain: webstat.net
+home: http://webstat.net/
+---
 
-# Web.STAT
 
-Name: Web.STAT
-Domain: webstat.net
-Home: http://webstat.net/
+

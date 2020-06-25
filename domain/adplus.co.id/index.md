@@ -1,8 +1,10 @@
+---
+company-name: ADPLUS
+domain: adplus.co.id
+home: http://www.adplus.co.id/
+privacy-policy: http://www.adplus.co.id/main/standard-page/privacy-policy
+owned-by: "Umeng (formerly Dratio)"
+---
 
-# ADPLUS
 
-Name: ADPLUS
-Domain: adplus.co.id
-Home: http://www.adplus.co.id/
-Privacy_policy: http://www.adplus.co.id/main/standard-page/privacy-policy
-Owned_by: Umeng (formerly Dratio)
+

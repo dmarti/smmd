@@ -1,7 +1,9 @@
+---
+company-name: BelStat
+domain: belstat.com
+home: http://www.belstat.com/
+privacy-policy: http://www.belstat.com/privacy.php
+---
 
-# BelStat
 
-Name: BelStat
-Domain: belstat.com
-Home: http://www.belstat.com/
-Privacy_policy: http://www.belstat.com/privacy.php
+

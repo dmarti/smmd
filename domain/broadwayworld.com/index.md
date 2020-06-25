@@ -1,7 +1,9 @@
+---
+company-name: "Broadway World"
+domain: broadwayworld.com
+home: http://broadwayworld.com/
+privacy-policy: https://www.broadwayworld.com/privacy.cfm
+---
 
-# Broadway World
 
-Name: Broadway World
-Domain: broadwayworld.com
-Home: http://broadwayworld.com/
-Privacy_policy: https://www.broadwayworld.com/privacy.cfm
+

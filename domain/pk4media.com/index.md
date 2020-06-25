@@ -1,7 +1,9 @@
+---
+company-name: PK4Media
+domain: pk4media.com
+home: http://www.pk4media.com/
+email: info@pk4media.com
+---
 
-# PK4Media
 
-Name: PK4Media
-Domain: pk4media.com
-Home: http://www.pk4media.com/ 
-Email: info@pk4media.com
+

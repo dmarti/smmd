@@ -1,6 +1,8 @@
+---
+company-name: "Exact Drive"
+domain: exactdrive.com
+home: http://www.exactdrive.com/
+---
 
-# Exact Drive
 
-Name: Exact Drive
-Domain: exactdrive.com
-Home: http://www.exactdrive.com/
+

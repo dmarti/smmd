@@ -1,8 +1,10 @@
+---
+company-name: Clickdensity
+domain: clickdensity.com
+home: http://www.clickdensity.com/
+privacy-policy: http://www.clickdensity.com/privacy_policy.htm
+email: support@clickdensity.com
+---
 
-# Clickdensity
 
-Name: Clickdensity
-Domain: clickdensity.com
-Home: http://www.clickdensity.com/
-Privacy_policy: http://www.clickdensity.com/privacy_policy.htm
-Email: support@clickdensity.com
+

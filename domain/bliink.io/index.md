@@ -1,8 +1,10 @@
+---
+company-name: "BLIINK SAS"
+domain: bliink.io
+home: https://bliink.io/
+privacy-policy: https://bliink.io/privacy-policy
+email: contact@bliink.io
+---
 
-# BLIINK SAS
 
-Name: BLIINK SAS
-Domain: bliink.io
-Home: https://bliink.io/
-Privacy_policy: https://bliink.io/privacy-policy
-Email: contact@bliink.io
+

@@ -1,7 +1,9 @@
+---
+company-name: elicit
+domain: elicitsearch.com
+home: http://www.elicitsearch.com/
+email: elicit@elicitsearch.com
+---
 
-# elicit
 
-Name: elicit
-Domain: elicitsearch.com
-Home: http://www.elicitsearch.com/
-Email: elicit@elicitsearch.com
+

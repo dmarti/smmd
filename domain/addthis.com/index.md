@@ -1,13 +1,12 @@
+---
+company-name: AddThis
+domain: addthis.com
+home: http://www.addthis.com
+privacy-policy: http://www.addthis.com/privacy/privacy-policy
+email: info@AddThis.com
+owned-by: "Oracle Corporation"
+member-of: "Network Advertising Initiative"
+---
 
-# AddThis
 
-Name: AddThis
-Domain: addthis.com
-Home: http://www.addthis.com
-Privacy_policy: http://www.addthis.com/privacy/privacy-policy
-Email: info@AddThis.com
-Owned_by: Oracle Corporation
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

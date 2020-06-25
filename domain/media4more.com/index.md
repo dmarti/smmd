@@ -1,8 +1,10 @@
+---
+company-name: "Media4More GmbH"
+domain: media4more.com
+home: https://www.media4more.com/
+privacy-policy: https://www.media4more.com/datenschutz/
+email: office@media4more.com
+---
 
-# Media4More GmbH
 
-Name: Media4More GmbH
-Domain: media4more.com
-Home: https://www.media4more.com/
-Privacy_policy: https://www.media4more.com/datenschutz/
-Email: office@media4more.com
+

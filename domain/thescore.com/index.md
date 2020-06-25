@@ -1,8 +1,10 @@
+---
+company-name: "theScore Inc."
+domain: thescore.com
+home: http://www.thescore.com/trending
+privacy-policy: http://www.thescore.com/pages/privacy
+email: privacy@thescore.com
+---
 
-# theScore Inc.
 
-Name: theScore Inc.
-Domain: thescore.com
-Home: http://www.thescore.com/trending
-Privacy_policy: http://www.thescore.com/pages/privacy
-Email: privacy@thescore.com
+

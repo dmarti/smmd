@@ -1,7 +1,9 @@
+---
+company-name: "Rich Media Banner Network"
+domain: rmbn.net
+home: http://rmbn.net/
+email: webmaster@rmbn.net
+---
 
-# Rich Media Banner Network
 
-Name: Rich Media Banner Network
-Domain: rmbn.net
-Home: http://rmbn.net/
-Email: webmaster@rmbn.net
+

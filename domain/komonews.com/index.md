@@ -1,8 +1,10 @@
+---
+company-name: "KOMO News Network"
+domain: komonews.com
+home: http://www.komonews.com/
+privacy-policy: http://www.komonews.com/about/privacy
+email: webhelp@fsci.com
+---
 
-# KOMO News Network
 
-Name: KOMO News Network
-Domain: komonews.com
-Home: http://www.komonews.com/
-Privacy_policy: http://www.komonews.com/about/privacy
-Email: webhelp@fsci.com
+

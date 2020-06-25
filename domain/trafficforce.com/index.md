@@ -1,8 +1,10 @@
+---
+company-name: TrafficForce
+domain: trafficforce.com
+home: http://www.trafficforce.com/
+privacy-policy: https://www.trafficforce.com/privacy.html
+email: privacy@trafficforce.com
+---
 
-# TrafficForce
 
-Name: TrafficForce
-Domain: trafficforce.com
-Home: http://www.trafficforce.com/
-Privacy_policy: https://www.trafficforce.com/privacy.html
-Email: privacy@trafficforce.com
+

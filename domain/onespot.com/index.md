@@ -1,7 +1,9 @@
+---
+company-name: OneSpot
+domain: onespot.com
+home: http://onespot.com/
+privacy-policy: https://www.onespot.com/privacy-policy/
+---
 
-# OneSpot
 
-Name: OneSpot
-Domain: onespot.com
-Home: http://onespot.com/
-Privacy_policy: https://www.onespot.com/privacy-policy/
+

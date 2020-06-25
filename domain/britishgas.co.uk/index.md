@@ -1,9 +1,11 @@
+---
+company-name: "British Gas"
+domain: britishgas.co.uk
+home: http://www.britishgas.co.uk/
+privacy-policy: http://www.britishgas.co.uk/privacy-policy.html
+email: CentricaDataProtection@Centrica.com
+member-of: "Interactive Advertising Bureau UK (IAB UK)"
+---
 
-# British Gas
 
-Name: British Gas
-Domain: britishgas.co.uk
-Home: http://www.britishgas.co.uk/
-Privacy_policy: http://www.britishgas.co.uk/privacy-policy.html
-Email: CentricaDataProtection@Centrica.com
-Member_of: Interactive Advertising Bureau UK (IAB UK)
+

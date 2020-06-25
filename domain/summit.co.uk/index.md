@@ -1,8 +1,10 @@
+---
+company-name: "Summit Media"
+domain: summit.co.uk
+home: https://www.summit.co.uk/
+privacy-policy: https://www.summit.co.uk/privacy-policy/
+email: welcome@summitmedia.com
+---
 
-# Summit Media
 
-Name: Summit Media
-Domain: summit.co.uk
-Home: https://www.summit.co.uk/
-Privacy_policy: https://www.summit.co.uk/privacy-policy/
-Email: welcome@summitmedia.com
+

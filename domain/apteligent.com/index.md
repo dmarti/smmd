@@ -1,10 +1,12 @@
+---
+company-name: Aptelligent
+domain: apteligent.com
+home: https://www.apteligent.com/
+privacy-policy: https://www.vmware.com/help/privacy.html
+email: privacy@vmware.com
+owned-by: vmware
+member-of: TrustE_TrustArc
+---
 
-# Aptelligent
 
-Name: Aptelligent
-Domain: apteligent.com
-Home: https://www.apteligent.com/
-Privacy_policy: https://www.vmware.com/help/privacy.html
-Email: privacy@vmware.com
-Owned_by: vmware
-Member_of: TrustE_TrustArc
+

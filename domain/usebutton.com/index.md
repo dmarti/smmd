@@ -1,8 +1,10 @@
+---
+company-name: Button
+domain: usebutton.com
+home: https://www.usebutton.com/
+privacy-policy: https://www.usebutton.com/privacy-policy
+email: privacy@usebutton.com
+---
 
-# Button
 
-Name: Button
-Domain: usebutton.com
-Home: https://www.usebutton.com/
-Privacy_policy: https://www.usebutton.com/privacy-policy
-Email: privacy@usebutton.com
+

@@ -1,13 +1,12 @@
+---
+company-name: Radial
+domain: radial.com
+home: https://www.radial.com/
+privacy-policy: https://www.radial.com/legal/website-user-privacy-notice
+email: privacy@radial.com
+owned-by: "eBay Inc."
+member-of: TrustE_TrustArc
+---
 
-# Radial
 
-Name: Radial
-Domain: radial.com
-Home: https://www.radial.com/
-Privacy_policy: https://www.radial.com/legal/website-user-privacy-notice
-Email: privacy@radial.com
-Owned_by: eBay Inc.
-Member_of: Association of National Advertisers
-Member_of: DMA_ANA
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: TrustE_TrustArc
+

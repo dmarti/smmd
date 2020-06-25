@@ -1,11 +1,11 @@
+---
+company-name: "Qualia (fka BlueCava)"
+domain: qualia.id
+home: https://qualia.id/
+privacy-policy: https://qualia.id/privacy-policy/
+email: privacy@qualia-media.com
+member-of: "Network Advertising Initiative"
+---
 
-# Qualia (fka BlueCava)
 
-Name: Qualia (fka BlueCava)
-Domain: qualia.id
-Home: https://qualia.id/
-Privacy_policy: https://qualia.id/privacy-policy/
-Email: privacy@qualia-media.com
-Member_of: Digital Advertising Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

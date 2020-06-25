@@ -1,7 +1,9 @@
+---
+company-name: StudentBeans
+domain: studentbeans.com
+home: https://studentbeans.com/us
+privacy-policy: http://
+---
 
-# StudentBeans
 
-Name: StudentBeans
-Domain: studentbeans.com
-Home: https://studentbeans.com/us
-Privacy_policy: http://
+

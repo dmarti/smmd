@@ -1,6 +1,8 @@
+---
+company-name: "Magna Advertise"
+domain: magna.ru
+home: http://magna.ru/
+---
 
-# Magna Advertise
 
-Name: Magna Advertise
-Domain: magna.ru
-Home: http://magna.ru/
+

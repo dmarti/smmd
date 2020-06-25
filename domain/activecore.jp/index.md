@@ -1,7 +1,9 @@
+---
+company-name: activecore
+domain: activecore.jp
+home: http://activecore.jp/
+privacy-policy: http://www.activecore.jp/privacy-policy/
+---
 
-# activecore
 
-Name: activecore
-Domain: activecore.jp
-Home: http://activecore.jp/
-Privacy_policy: http://www.activecore.jp/privacy-policy/
+

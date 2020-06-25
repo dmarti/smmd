@@ -1,8 +1,10 @@
+---
+company-name: Pinterest
+domain: pinterest.com
+home: https://pinterest.com/
+privacy-policy: https://policy.pinterest.com/en/privacy-policy
+email: hi@pinterest.com
+---
 
-# Pinterest
 
-Name: Pinterest
-Domain: pinterest.com
-Home: https://pinterest.com/
-Privacy_policy: https://policy.pinterest.com/en/privacy-policy
-Email: hi@pinterest.com
+

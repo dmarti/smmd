@@ -1,8 +1,10 @@
+---
+company-name: "Orion Semantics"
+domain: orion-semantics.com
+home: http://www.orion-semantics.com/
+privacy-policy: http://static.orion-semantics.com/privacy.html
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Orion Semantics
 
-Name: Orion Semantics
-Domain: orion-semantics.com
-Home: http://www.orion-semantics.com/
-Privacy_policy: http://static.orion-semantics.com/privacy.html
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,9 +1,11 @@
+---
+company-name: SAS
+domain: sas.com
+home: https://www.sas.com/en_us/home.html
+privacy-policy: https://www.sas.com/en_us/legal/privacy.html
+email: privacy@sas.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# SAS
 
-Name: SAS
-Domain: sas.com
-Home: https://www.sas.com/en_us/home.html
-Privacy_policy: https://www.sas.com/en_us/legal/privacy.html
-Email: privacy@sas.com
-Member_of: Interactive Advertising Bureau (IAB)
+

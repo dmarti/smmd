@@ -1,9 +1,11 @@
+---
+company-name: Trackset
+domain: trackset.it
+home: http://www.trackset.it/
+privacy-policy: http://www.trackset.it/cookie-privacy-policy/
+email: info@trackset.com
+member-of: "European Data Interactive Alliance"
+---
 
-# Trackset
 
-Name: Trackset
-Domain: trackset.it
-Home: http://www.trackset.it/
-Privacy_policy: http://www.trackset.it/cookie-privacy-policy/
-Email: info@trackset.com
-Member_of: European Data Interactive Alliance
+

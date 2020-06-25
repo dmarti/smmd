@@ -1,8 +1,10 @@
+---
+company-name: "Viralheat (formerly Argyle Social)"
+domain: viralheat.com
+home: https://www.viralheat.com/
+privacy-policy: https://www.cision.com/us/legal/privacy-policy/
+email: privacy@Viralheat.com
+---
 
-# Viralheat (formerly Argyle Social)
 
-Name: Viralheat (formerly Argyle Social)
-Domain: viralheat.com
-Home: https://www.viralheat.com/
-Privacy_policy: https://www.cision.com/us/legal/privacy-policy/
-Email: privacy@Viralheat.com
+

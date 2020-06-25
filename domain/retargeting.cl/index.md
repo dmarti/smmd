@@ -1,6 +1,8 @@
+---
+company-name: Retargeting
+domain: retargeting.cl
+home: http://retargeting.cl/
+---
 
-# Retargeting
 
-Name: Retargeting
-Domain: retargeting.cl
-Home: http://retargeting.cl/
+

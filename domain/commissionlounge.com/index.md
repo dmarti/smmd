@@ -1,7 +1,9 @@
+---
+company-name: "Commission Lounge"
+domain: commissionlounge.com
+home: http://www.commissionlounge.com/
+email: support@commissionlounge.com
+---
 
-# Commission Lounge
 
-Name: Commission Lounge
-Domain: commissionlounge.com
-Home: http://www.commissionlounge.com/
-Email: support@commissionlounge.com
+

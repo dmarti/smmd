@@ -1,8 +1,10 @@
+---
+company-name: "Branch Metrics Inc"
+domain: branch.io
+home: https://branch.io/
+privacy-policy: https://branch.io/privacy_policy/
+email: privacy@branchmetrics.io
+---
 
-# Branch Metrics Inc
 
-Name: Branch Metrics Inc
-Domain: branch.io
-Home: https://branch.io/
-Privacy_policy: https://branch.io/privacy_policy/
-Email: privacy@branchmetrics.io
+

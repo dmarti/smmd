@@ -1,6 +1,8 @@
+---
+company-name: Admaya
+domain: admaya.in
+home: http://www.admaya.in/
+---
 
-# Admaya
 
-Name: Admaya
-Domain: admaya.in
-Home: http://www.admaya.in/
+

@@ -1,8 +1,10 @@
+---
+company-name: NetBina
+domain: netbina.com
+home: http://www.netbina.com/
+privacy-policy: http://netbina.com/privacy-notice/
+email: privacy@netbina.com
+---
 
-# NetBina
 
-Name: NetBina
-Domain: netbina.com
-Home: http://www.netbina.com/
-Privacy_policy: http://netbina.com/privacy-notice/
-Email: privacy@netbina.com
+

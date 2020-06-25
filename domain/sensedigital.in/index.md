@@ -1,8 +1,10 @@
+---
+company-name: "Sense Digital"
+domain: sensedigital.in
+home: http://sensedigital.in/
+privacy-policy: http://sensedigital.in/privacy-policy.html
+email: privacy@sensedigital.in
+---
 
-# Sense Digital 
 
-Name: Sense Digital 
-Domain: sensedigital.in
-Home: http://sensedigital.in/
-Privacy_policy: http://sensedigital.in/privacy-policy.html
-Email: privacy@sensedigital.in
+

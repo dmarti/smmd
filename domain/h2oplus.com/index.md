@@ -1,8 +1,10 @@
+---
+company-name: H2O
+domain: h2oplus.com
+home: https://www.h2oplus.com/
+privacy-policy: https://www.h2oplus.com/pages/privacy
+email: hello@h2oplus.com
+---
 
-# H2O
 
-Name: H2O
-Domain: h2oplus.com
-Home: https://www.h2oplus.com/
-Privacy_policy: https://www.h2oplus.com/pages/privacy
-Email: hello@h2oplus.com
+

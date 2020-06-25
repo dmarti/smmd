@@ -1,6 +1,8 @@
+---
+company-name: "Portal Brazil"
+domain: brasil.gov.br
+home: http://brasil.gov.br/
+---
 
-# Portal Brazil
 
-Name: Portal Brazil
-Domain: brasil.gov.br
-Home: http://brasil.gov.br/
+

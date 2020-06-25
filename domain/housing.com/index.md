@@ -1,8 +1,10 @@
+---
+company-name: Housing.com
+domain: housing.com
+home: https://housing.com
+privacy-policy: https://housing.com/privacy-policy
+email: support@housing.com
+---
 
-# Housing.com
 
-Name: Housing.com
-Domain: housing.com
-Home: https://housing.com
-Privacy_policy: https://housing.com/privacy-policy
-Email: support@housing.com
+

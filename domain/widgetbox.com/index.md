@@ -1,9 +1,11 @@
+---
+company-name: WidgetBox
+domain: widgetbox.com
+home: http://www.widgetbox.com/
+privacy-policy: http://www.widgetbox.com/info/legal/privacy-policy/
+email: support@widgetbox.com
+owned-by: Flite
+---
 
-# WidgetBox
 
-Name: WidgetBox
-Domain: widgetbox.com
-Home: http://www.widgetbox.com/
-Privacy_policy: http://www.widgetbox.com/info/legal/privacy-policy/
-Email: support@widgetbox.com
-Owned_by: Flite
+

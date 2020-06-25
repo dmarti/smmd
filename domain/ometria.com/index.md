@@ -1,8 +1,10 @@
+---
+company-name: Ometria
+domain: ometria.com
+home: http://www.ometria.com/
+privacy-policy: https://www.ometria.com/privacy-policy
+email: info@ometria.com
+---
 
-# Ometria
 
-Name: Ometria
-Domain: ometria.com
-Home: http://www.ometria.com/
-Privacy_policy: https://www.ometria.com/privacy-policy
-Email: info@ometria.com
+

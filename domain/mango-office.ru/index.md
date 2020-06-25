@@ -1,8 +1,10 @@
+---
+company-name: "Mango Office"
+domain: mango-office.ru
+home: https://www.mango-office.ru/
+privacy-policy: https://www.mango-office.ru/policies/privacy/
+email: mango@mangotele.com
+---
 
-# Mango Office
 
-Name: Mango Office
-Domain: mango-office.ru
-Home: https://www.mango-office.ru/
-Privacy_policy: https://www.mango-office.ru/policies/privacy/
-Email: mango@mangotele.com
+

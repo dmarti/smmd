@@ -1,27 +1,17 @@
-
-# The Alesco Group LLC
-
-Name: The Alesco Group LLC
-
-Domain: Alescodata.com
-
-Home: http://Alescodata.com
-
-Email: michael [at] alescodata.com
-
-Privacy_policy: 
-
-Opt_out_url: 
-
-California_date: 01/30/2020
-
-
-
+---
+company-name: "The Alesco Group LLC"
+domain: Alescodata.com
+home: http://Alescodata.com
+email: "michael [at] alescodata.com"
+california-date: 01/30/2020
+---
 ## How to opt out
+
 
 MyDataPrivacy.com
 
 ## How to delete
+
 
 MyDataPrivacy.com
 
@@ -29,5 +19,18 @@ MyDataPrivacy.com
 
 
 
+
 5276 Summerlin Commons Way703Fort Myers, FL 33907United States
+
+
+
+
+
+
+
+
+
+
+
+
 

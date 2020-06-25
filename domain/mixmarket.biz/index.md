@@ -1,8 +1,10 @@
+---
+company-name: Mixmarket
+domain: mixmarket.biz
+home: http://mixmarket.biz
+privacy-policy: http://mixmarket.biz/confidential/
+email: mixmarket@adlabs.ru
+---
 
-# Mixmarket
 
-Name: Mixmarket
-Domain: mixmarket.biz
-Home: http://mixmarket.biz
-Privacy_policy: http://mixmarket.biz/confidential/
-Email: mixmarket@adlabs.ru
+

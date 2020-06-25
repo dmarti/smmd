@@ -1,6 +1,8 @@
+---
+company-name: "Gazprom-Media Digital"
+domain: gpm-digital.com
+home: http://www.gpm-digital.com/
+---
 
-# Gazprom-Media Digital
 
-Name: Gazprom-Media Digital
-Domain: gpm-digital.com
-Home: http://www.gpm-digital.com/
+

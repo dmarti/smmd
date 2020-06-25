@@ -1,7 +1,9 @@
+---
+company-name: "Central Index"
+domain: centralindex.com
+home: http://centralindex.com/
+email: support@centralindex.com
+---
 
-# Central Index
 
-Name: Central Index
-Domain: centralindex.com
-Home: http://centralindex.com/
-Email: support@centralindex.com
+

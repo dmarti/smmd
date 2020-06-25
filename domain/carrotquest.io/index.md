@@ -1,7 +1,9 @@
+---
+company-name: "Carrot Quest"
+domain: carrotquest.io
+home: http://www.carrotquest.io/
+email: Support@carrotquest.io
+---
 
-# Carrot Quest
 
-Name: Carrot Quest
-Domain: carrotquest.io
-Home: http://www.carrotquest.io/
-Email: Support@carrotquest.io
+

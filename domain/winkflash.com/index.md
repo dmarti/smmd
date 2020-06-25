@@ -1,7 +1,9 @@
+---
+company-name: Winkflash
+domain: winkflash.com
+home: http://www.winkflash.com/
+privacy-policy: https://www.winkflash.com/about/privacy-policy
+---
 
-# Winkflash
 
-Name: Winkflash
-Domain: winkflash.com
-Home: http://www.winkflash.com/
-Privacy_policy: https://www.winkflash.com/about/privacy-policy
+

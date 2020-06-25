@@ -1,8 +1,10 @@
+---
+company-name: Mixpanel
+domain: mixpanel.com
+home: http://mixpanel.com/
+privacy-policy: https://mixpanel.com/legal/privacy-policy/
+email: legal@mixpanel.com
+---
 
-# Mixpanel
 
-Name: Mixpanel
-Domain: mixpanel.com
-Home: http://mixpanel.com/
-Privacy_policy: https://mixpanel.com/legal/privacy-policy/
-Email: legal@mixpanel.com
+

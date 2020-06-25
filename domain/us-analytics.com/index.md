@@ -1,6 +1,8 @@
+---
+company-name: US-Analytics
+domain: us-analytics.com
+home: https://www.us-analytics.com/
+---
 
-# US-Analytics
 
-Name: US-Analytics
-Domain: us-analytics.com
-Home: https://www.us-analytics.com/
+

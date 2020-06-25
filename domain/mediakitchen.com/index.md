@@ -1,7 +1,9 @@
+---
+company-name: "The Media Kitchen"
+domain: mediakitchen.com
+home: https://www.mediakitchen.com
+member-of: "American Association of Advertising Agencies"
+---
 
-# The Media Kitchen
 
-Name: The Media Kitchen
-Domain: mediakitchen.com
-Home: https://www.mediakitchen.com
-Member_of: American Association of Advertising Agencies
+

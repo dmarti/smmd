@@ -1,8 +1,10 @@
+---
+company-name: CyberWing
+domain: cyberwing.co.jp
+home: http://www.cyberwing.co.jp/
+privacy-policy: http://www.cyberwing.co.jp/privacy/
+email: info@tocyberwing.co.jp
+---
 
-# CyberWing
 
-Name: CyberWing
-Domain: cyberwing.co.jp
-Home: http://www.cyberwing.co.jp/
-Privacy_policy: http://www.cyberwing.co.jp/privacy/
-Email: info@tocyberwing.co.jp
+

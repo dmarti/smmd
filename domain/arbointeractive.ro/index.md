@@ -1,7 +1,9 @@
+---
+company-name: ARBOinteractive
+domain: arbointeractive.ro
+home: http://www.arbointeractive.ro/
+member-of: "European Data Interactive Alliance"
+---
 
-# ARBOinteractive
 
-Name: ARBOinteractive
-Domain: arbointeractive.ro
-Home: http://www.arbointeractive.ro/
-Member_of: European Data Interactive Alliance
+

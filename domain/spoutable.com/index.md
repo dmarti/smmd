@@ -1,9 +1,11 @@
+---
+company-name: Spoutable
+domain: spoutable.com
+home: http://spoutable.com/
+privacy-policy: http://demo.spoutable.com/privacy
+email: info@spoutable.com
+owned-by: "Proper Media"
+---
 
-# Spoutable
 
-Name: Spoutable
-Domain: spoutable.com
-Home: http://spoutable.com/
-Privacy_policy: http://demo.spoutable.com/privacy
-Email: info@spoutable.com
-Owned_by: Proper Media 
+

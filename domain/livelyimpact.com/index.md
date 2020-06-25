@@ -1,8 +1,10 @@
+---
+company-name: "Lively Impact"
+domain: livelyimpact.com
+home: http://www.livelyimpact.com/
+privacy-policy: http://www.livelyimpact.com/privacy-policy.html
+email: info@livelyimpact.com
+---
 
-# Lively Impact
 
-Name: Lively Impact
-Domain: livelyimpact.com
-Home: http://www.livelyimpact.com/
-Privacy_policy: http://www.livelyimpact.com/privacy-policy.html
-Email: info@livelyimpact.com
+

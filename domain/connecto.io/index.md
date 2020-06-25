@@ -1,8 +1,10 @@
+---
+company-name: ConnectO
+domain: connecto.io
+home: http://www.connecto.io/
+privacy-policy: http://www.connecto.io/connecto/privacy/
+email: contact@connecto.io
+---
 
-# ConnectO
 
-Name: ConnectO
-Domain: connecto.io
-Home: http://www.connecto.io/
-Privacy_policy: http://www.connecto.io/connecto/privacy/
-Email: contact@connecto.io
+

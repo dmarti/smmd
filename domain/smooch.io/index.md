@@ -1,8 +1,10 @@
+---
+company-name: Smooch
+domain: smooch.io
+home: https://smooch.io/
+privacy-policy: https://smooch.io/privacy/
+email: privacy@smooch.io
+---
 
-# Smooch 
 
-Name: Smooch 
-Domain: smooch.io
-Home: https://smooch.io/
-Privacy_policy: https://smooch.io/privacy/
-Email: privacy@smooch.io
+

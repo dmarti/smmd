@@ -1,9 +1,11 @@
+---
+company-name: AdRiver
+domain: adriver.ru
+home: https://www.adriver.ru/
+privacy-policy: https://www.adriver.ru/about/privacy-en/
+email: privacy@adriver.ru
+member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+---
 
-# AdRiver
 
-Name: AdRiver
-Domain: adriver.ru
-Home: https://www.adriver.ru/
-Privacy_policy: https://www.adriver.ru/about/privacy-en/
-Email: privacy@adriver.ru
-Member_of: Interactive Advertising Bureau Europe (IAB Europe)
+

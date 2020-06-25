@@ -1,8 +1,10 @@
+---
+company-name: BrainPad
+domain: brainpad.co.jp
+home: http://www.brainpad.co.jp/english/
+privacy-policy: http://www.brainpad.co.jp/utility/privacypolicy.html
+email: privacy@brainpad.co.jp
+---
 
-# BrainPad
 
-Name: BrainPad
-Domain: brainpad.co.jp
-Home: http://www.brainpad.co.jp/english/
-Privacy_policy: http://www.brainpad.co.jp/utility/privacypolicy.html
-Email: privacy@brainpad.co.jp
+

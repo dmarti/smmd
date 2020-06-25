@@ -1,8 +1,10 @@
+---
+company-name: LeadLife
+domain: leadlife.com
+home: http://leadlife.com/
+privacy-policy: http://leadlife.com/privacy/
+email: Info@leadlife.com
+---
 
-# LeadLife
 
-Name: LeadLife
-Domain: leadlife.com
-Home: http://leadlife.com/
-Privacy_policy: http://leadlife.com/privacy/
-Email: Info@leadlife.com
+

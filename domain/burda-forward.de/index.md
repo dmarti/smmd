@@ -1,9 +1,11 @@
+---
+company-name: BurdaForward
+domain: burda-forward.de
+home: https://www.burda-forward.de/
+privacy-policy: https://www.burda-forward.de/datenschutz/
+email: datenschutz@forward-adgroup.com
+member-of: "European Data Interactive Alliance"
+---
 
-# BurdaForward
 
-Name: BurdaForward
-Domain: burda-forward.de
-Home: https://www.burda-forward.de/
-Privacy_policy: https://www.burda-forward.de/datenschutz/
-Email: datenschutz@forward-adgroup.com
-Member_of: European Data Interactive Alliance
+

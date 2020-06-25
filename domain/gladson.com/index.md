@@ -1,6 +1,8 @@
+---
+company-name: Gladson
+domain: gladson.com
+home: https://www.gladson.com/
+---
 
-# Gladson
 
-Name: Gladson
-Domain: gladson.com
-Home: https://www.gladson.com/
+

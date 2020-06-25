@@ -1,6 +1,8 @@
+---
+company-name: "Morgan Stanley"
+domain: morganstanley.com
+home: http://www.morganstanley.com
+---
 
-# Morgan Stanley
 
-Name: Morgan Stanley
-Domain: morganstanley.com
-Home: http://www.morganstanley.com
+

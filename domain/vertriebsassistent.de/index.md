@@ -1,8 +1,10 @@
+---
+company-name: DiVa
+domain: vertriebsassistent.de
+home: http://www.vertriebsassistent.de/
+privacy-policy: http://www.vertriebsassistent.de/datenschutz/
+email: vertriebsassistent@burda.com
+---
 
-# DiVa
 
-Name: DiVa
-Domain: vertriebsassistent.de
-Home: http://www.vertriebsassistent.de/
-Privacy_policy: http://www.vertriebsassistent.de/datenschutz/
-Email: vertriebsassistent@burda.com
+

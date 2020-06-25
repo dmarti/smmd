@@ -1,10 +1,12 @@
+---
+company-name: "Crystal Semantics"
+domain: crystalsemantics.com
+home: http://www.crystalsemantics.com/
+privacy-policy: http://www.xaxis.com/page/privacy-policy
+email: privacy@xaxis.com
+owned-by: "Xaxis International"
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Crystal Semantics
 
-Name: Crystal Semantics
-Domain: crystalsemantics.com
-Home: http://www.crystalsemantics.com/
-Privacy_policy: http://www.xaxis.com/page/privacy-policy
-Email: privacy@xaxis.com
-Owned_by: Xaxis International
-Member_of: Interactive Advertising Bureau (IAB)
+

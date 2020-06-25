@@ -1,7 +1,9 @@
-# Lowe's Home Improvement
+---
+company-name: "Lowe's Home Improvement"
+domain: lowes.com
+opt-out-url: https://www.lowes.com/privacyrequest
+---
 
-Name: Lowe's Home Improvement
 
-Domain: lowes.com
 
-Opt_out_url: https://www.lowes.com/privacyrequest
+

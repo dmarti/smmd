@@ -1,7 +1,9 @@
+---
+company-name: BlogBang
+domain: blogbang.com
+home: http://www.blogbang.com/
+email: info@blogbang.com
+---
 
-# BlogBang
 
-Name: BlogBang
-Domain: blogbang.com
-Home: http://www.blogbang.com/
-Email: info@blogbang.com
+

@@ -1,7 +1,9 @@
-# Blue Apron
+---
+company-name: "Blue Apron"
+domain: blueapron.com
+opt-out-url: https://www.blueapron.com/pages/privacy#ccpa
+---
 
-Name: Blue Apron
 
-Domain: blueapron.com
 
-Opt_out_url: https://www.blueapron.com/pages/privacy#ccpa
+

@@ -1,7 +1,9 @@
+---
+company-name: SiteApps
+domain: siteapps.com
+home: http://siteapps.com
+privacy-policy: http://siteapps.com/web/privacy/terms
+---
 
-# SiteApps
 
-Name: SiteApps
-Domain: siteapps.com
-Home: http://siteapps.com
-Privacy_policy: http://siteapps.com/web/privacy/terms
+

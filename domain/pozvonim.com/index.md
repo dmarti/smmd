@@ -1,7 +1,9 @@
+---
+company-name: Pozvonim
+domain: pozvonim.com
+home: https://pozvonim.com/
+email: MTT-Support@mtt.ru
+---
 
-# Pozvonim
 
-Name: Pozvonim
-Domain: pozvonim.com
-Home: https://pozvonim.com/
-Email: MTT-Support@mtt.ru
+

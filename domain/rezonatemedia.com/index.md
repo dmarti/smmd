@@ -1,6 +1,8 @@
+---
+company-name: Rezonate
+domain: rezonatemedia.com
+home: http://www.rezonatemedia.com/
+---
 
-# Rezonate
 
-Name: Rezonate
-Domain: rezonatemedia.com
-Home: http://www.rezonatemedia.com/
+

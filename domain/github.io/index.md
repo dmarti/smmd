@@ -1,6 +1,8 @@
+---
+company-name: Retrofit
+domain: github.io
+home: https://square.github.io/retrofit/
+---
 
-# Retrofit
 
-Name: Retrofit
-Domain: github.io
-Home: https://square.github.io/retrofit/
+

@@ -1,7 +1,9 @@
+---
+company-name: 3PMobile
+domain: 3pmobile.com
+home: http://www.3pmobile.com/
+privacy-policy: http://www.3pmobile.com/privacy-policy/
+---
 
-# 3PMobile
 
-Name: 3PMobile
-Domain: 3pmobile.com
-Home: http://www.3pmobile.com/
-Privacy_policy: http://www.3pmobile.com/privacy-policy/
+

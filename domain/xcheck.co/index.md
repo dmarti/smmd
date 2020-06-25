@@ -1,7 +1,9 @@
+---
+company-name: xCheck
+domain: xcheck.co
+home: http://www.xcheck.co/
+privacy-policy: http://www.xcheck.co/privacy/
+---
 
-# xCheck
 
-Name: xCheck
-Domain: xcheck.co
-Home: http://www.xcheck.co/
-Privacy_policy: http://www.xcheck.co/privacy/
+

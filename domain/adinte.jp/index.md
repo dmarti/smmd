@@ -1,7 +1,9 @@
+---
+company-name: AdInte
+domain: adinte.jp
+home: https://www.adinte.jp/
+privacy-policy: https://www.adinte.jp/privacy/
+---
 
-# AdInte
 
-Name: AdInte
-Domain: adinte.jp
-Home: https://www.adinte.jp/
-Privacy_policy: https://www.adinte.jp/privacy/
+

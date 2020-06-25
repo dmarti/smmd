@@ -1,9 +1,11 @@
+---
+company-name: FreakOut
+domain: fout.co.jp
+home: https://www.fout.co.jp/
+privacy-policy: https://js.fout.jp/info/privacy.html
+email: privacy@fout.jp
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# FreakOut
 
-Name: FreakOut
-Domain: fout.co.jp
-Home: https://www.fout.co.jp/
-Privacy_policy: https://js.fout.jp/info/privacy.html
-Email: privacy@fout.jp
-Member_of: Interactive Advertising Bureau (IAB)
+

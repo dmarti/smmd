@@ -1,8 +1,10 @@
+---
+company-name: myLoc
+domain: myloc.de
+home: https://www.myloc.de
+privacy-policy: https://www.myloc.de/unternehmen/datenschutz.html
+email: vertrieb@myloc.de
+---
 
-# myLoc
 
-Name: myLoc
-Domain: myloc.de
-Home: https://www.myloc.de
-Privacy_policy: https://www.myloc.de/unternehmen/datenschutz.html
-Email: vertrieb@myloc.de
+

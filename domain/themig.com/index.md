@@ -1,14 +1,12 @@
+---
+company-name: "Media Innovation Group"
+domain: themig.com
+home: http://www.themig.com/en-us/
+privacy-policy: http://www.themig.com/en-us/privacy.html
+email: privacy@themig.com
+owned-by: WPP
+member-of: "Network Advertising Initiative"
+---
 
-# Media Innovation Group
 
-Name: Media Innovation Group
-Domain: themig.com
-Home: http://www.themig.com/en-us/
-Privacy_policy: http://www.themig.com/en-us/privacy.html
-Email: privacy@themig.com
-Owned_by: WPP
-Member_of: American Association of Advertising Agencies
-Member_of: Digital Advertising Alliance
-Member_of: European Data Interactive Alliance
-Member_of: Interactive Advertising Bureau (IAB)
-Member_of: Network Advertising Initiative
+

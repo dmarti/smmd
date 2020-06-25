@@ -1,7 +1,9 @@
+---
+company-name: "YoAds Media"
+domain: yoadsmedia.com
+home: http://www.yoadsmedia.com
+email: info@yoadsmedia.com
+---
 
-# YoAds Media
 
-Name: YoAds Media
-Domain: yoadsmedia.com
-Home: http://www.yoadsmedia.com
-Email: info@yoadsmedia.com
+

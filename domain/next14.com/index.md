@@ -1,9 +1,11 @@
+---
+company-name: Next14
+domain: next14.com
+home: http://www.next14.com/index.php
+privacy-policy: http://www.next14.com/privacy/
+email: info@next14.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Next14
 
-Name: Next14
-Domain: next14.com
-Home: http://www.next14.com/index.php
-Privacy_policy: http://www.next14.com/privacy/
-Email: info@next14.com
-Member_of: Interactive Advertising Bureau (IAB)
+

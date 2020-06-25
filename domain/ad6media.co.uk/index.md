@@ -1,7 +1,9 @@
+---
+company-name: ad6media
+domain: ad6media.co.uk
+home: https://www.ad6media.co.uk/
+privacy-policy: https://www.ad6media.co.uk/privacy
+---
 
-# ad6media
 
-Name: ad6media
-Domain: ad6media.co.uk
-Home: https://www.ad6media.co.uk/
-Privacy_policy: https://www.ad6media.co.uk/privacy
+

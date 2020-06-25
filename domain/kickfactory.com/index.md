@@ -1,6 +1,8 @@
+---
+company-name: Kickfactory
+domain: kickfactory.com
+home: https://kickfactory.com/
+---
 
-# Kickfactory
 
-Name: Kickfactory
-Domain: kickfactory.com
-Home: https://kickfactory.com/
+

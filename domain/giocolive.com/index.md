@@ -1,7 +1,9 @@
+---
+company-name: "Gioco Live"
+domain: giocolive.com
+home: http://giocolive.com/
+privacy-policy: http://giocolive.com/politica-sui-cookies/
+---
 
-# Gioco Live
 
-Name: Gioco Live
-Domain: giocolive.com
-Home: http://giocolive.com/
-Privacy_policy: http://giocolive.com/politica-sui-cookies/
+

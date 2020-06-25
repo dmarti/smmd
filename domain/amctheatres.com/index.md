@@ -1,7 +1,9 @@
-# AMC Theatres
+---
+company-name: "AMC Theatres"
+domain: amctheatres.com
+opt-out-url: https://www.amctheatres.com/full-privacy-policy
+---
 
-Name: AMC Theatres
 
-Domain: amctheatres.com
 
-Opt_out_url: https://www.amctheatres.com/full-privacy-policy
+

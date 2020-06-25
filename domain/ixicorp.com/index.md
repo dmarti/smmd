@@ -1,10 +1,12 @@
+---
+company-name: "IXI Services"
+domain: ixicorp.com
+home: http://www.ixicorp.com/
+privacy-policy: https://datadrivenmarketing.equifax.com/website-privacy-policy/
+email: info.ixiservices@equifax.com
+owned-by: Equifax
+member-of: DMA_ANA
+---
 
-# IXI Services
 
-Name: IXI Services
-Domain: ixicorp.com
-Home: http://www.ixicorp.com/
-Privacy_policy: https://datadrivenmarketing.equifax.com/website-privacy-policy/
-Email: info.ixiservices@equifax.com
-Owned_by: Equifax
-Member_of: DMA_ANA
+

@@ -1,8 +1,10 @@
+---
+company-name: "Uncommon Goods"
+domain: uncommongoods.com
+home: https://www.uncommongoods.com/
+privacy-policy: http://www.uncommongoods.com/static/terms.jsp
+email: help@uncommongoods.com
+---
 
-# Uncommon Goods
 
-Name: Uncommon Goods
-Domain: uncommongoods.com
-Home: https://www.uncommongoods.com/
-Privacy_policy: http://www.uncommongoods.com/static/terms.jsp
-Email: help@uncommongoods.com
+

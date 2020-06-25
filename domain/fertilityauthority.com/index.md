@@ -1,8 +1,10 @@
+---
+company-name: "Fertility Authority"
+domain: fertilityauthority.com
+home: https://www.fertilityauthority.com/
+privacy-policy: https://www.fertilityauthority.com/privacy-policy
+email: info@fertilityauthority.com
+---
 
-# Fertility Authority
 
-Name: Fertility Authority
-Domain: fertilityauthority.com
-Home: https://www.fertilityauthority.com/
-Privacy_policy: https://www.fertilityauthority.com/privacy-policy
-Email: info@fertilityauthority.com
+

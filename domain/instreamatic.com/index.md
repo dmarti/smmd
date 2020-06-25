@@ -1,8 +1,10 @@
+---
+company-name: Instreamatic
+domain: instreamatic.com
+home: http://instreamatic.com/
+privacy-policy: http://instreamatic.com/privacy-policy/
+email: go@instreamatic.com
+---
 
-# Instreamatic
 
-Name: Instreamatic
-Domain: instreamatic.com
-Home: http://instreamatic.com/
-Privacy_policy: http://instreamatic.com/privacy-policy/
-Email: go@instreamatic.com
+

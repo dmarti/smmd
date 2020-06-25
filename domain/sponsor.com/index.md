@@ -1,7 +1,9 @@
+---
+company-name: Sponsorium
+domain: sponsor.com
+home: http://www.sponsor.com/
+email: info@sponsor.com
+---
 
-# Sponsorium
 
-Name: Sponsorium
-Domain: sponsor.com
-Home: http://www.sponsor.com/
-Email: info@sponsor.com
+

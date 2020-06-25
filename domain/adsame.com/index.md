@@ -1,8 +1,10 @@
+---
+company-name: AdSame
+domain: adsame.com
+home: http://www.adsame.com/english/
+privacy-policy: http://www.adsame.com/english/about/privacy.html
+email: service@adsame.com
+---
 
-# AdSame
 
-Name: AdSame
-Domain: adsame.com
-Home: http://www.adsame.com/english/
-Privacy_policy: http://www.adsame.com/english/about/privacy.html
-Email: service@adsame.com
+

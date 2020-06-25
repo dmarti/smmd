@@ -1,9 +1,11 @@
+---
+company-name: "Smart Canvas"
+domain: smartcanvas.net
+home: https://smartcanvas.net/
+privacy-policy: https://smartcanvas.net/ja/privacy
+email: mail@hitokuse.com
+member-of: "Interactive Advertising Bureau (IAB)"
+---
 
-# Smart Canvas
 
-Name: Smart Canvas
-Domain: smartcanvas.net
-Home: https://smartcanvas.net/
-Privacy_policy: https://smartcanvas.net/ja/privacy
-Email: mail@hitokuse.com
-Member_of: Interactive Advertising Bureau (IAB)
+

@@ -1,8 +1,10 @@
+---
+company-name: Qoof
+domain: qoof.com
+home: http://qoof.com/
+privacy-policy: http://qoof.com/site/privacy.aspx
+email: info@qoof.com
+---
 
-# Qoof
 
-Name: Qoof
-Domain: qoof.com
-Home: http://qoof.com/
-Privacy_policy: http://qoof.com/site/privacy.aspx
-Email: info@qoof.com
+

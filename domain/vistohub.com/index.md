@@ -1,10 +1,11 @@
+---
+company-name: "Visto (formerly Collective)"
+domain: vistohub.com
+home: https://www.vistohub.com/
+privacy-policy: https://www.vistohub.com/privacy-policy/
+email: legal@vistohub.com
+member-of: "Network Advertising Initiative"
+---
 
-# Visto (formerly Collective)
 
-Name: Visto (formerly Collective)
-Domain: vistohub.com
-Home: https://www.vistohub.com/
-Privacy_policy: https://www.vistohub.com/privacy-policy/
-Email: legal@vistohub.com
-Member_of: Digital Advertising Alliance
-Member_of: Network Advertising Initiative
+

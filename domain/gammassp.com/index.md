@@ -1,6 +1,8 @@
+---
+company-name: Gamma
+domain: gammassp.com
+home: http://gammassp.com/web/
+---
 
-# Gamma 
 
-Name: Gamma 
-Domain: gammassp.com
-Home: http://gammassp.com/web/
+

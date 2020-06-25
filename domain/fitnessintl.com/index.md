@@ -1,7 +1,9 @@
-# LA Fitness
+---
+company-name: "LA Fitness"
+domain: fitnessintl.com
+opt-out-url: https://privacyrights.fitnessintl.com/
+---
 
-Name: LA Fitness
 
-Domain: fitnessintl.com
 
-Opt_out_url: https://privacyrights.fitnessintl.com/
+

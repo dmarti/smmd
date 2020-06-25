@@ -1,8 +1,10 @@
+---
+company-name: Hyland
+domain: hyland.com
+home: https://www.hyland.com/
+privacy-policy: https://www.onbase.com/en/legal/privacy-policy/#.WsOmlajwYYo
+email: privacy@hyland.com
+---
 
-# Hyland
 
-Name: Hyland
-Domain: hyland.com
-Home: https://www.hyland.com/
-Privacy_policy: https://www.onbase.com/en/legal/privacy-policy/#.WsOmlajwYYo
-Email: privacy@hyland.com
+

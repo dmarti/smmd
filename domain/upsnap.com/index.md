@@ -1,8 +1,10 @@
+---
+company-name: UpSNAP
+domain: upsnap.com
+home: http://upsnap.com/
+privacy-policy: http://www.upsnap.com/privacy-policy/
+email: info@upsnap.com
+---
 
-# UpSNAP
 
-Name: UpSNAP
-Domain: upsnap.com
-Home: http://upsnap.com/
-Privacy_policy: http://www.upsnap.com/privacy-policy/
-Email: info@upsnap.com
+

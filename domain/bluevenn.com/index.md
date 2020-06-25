@@ -1,8 +1,10 @@
+---
+company-name: BlueVenn
+domain: bluevenn.com
+home: https://www.bluevenn.com/
+privacy-policy: https://www.bluevenn.com/privacy-policy
+email: info@bluevenn.com
+---
 
-# BlueVenn
 
-Name: BlueVenn
-Domain: bluevenn.com
-Home: https://www.bluevenn.com/
-Privacy_policy: https://www.bluevenn.com/privacy-policy
-Email: info@bluevenn.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Mercer
+domain: mercer.com
+home: https://www.mercer.com/
+privacy-policy: https://www.mercer.com/privacy.html
+email: PrivacyCoordinator@mercer.com
+---
 
-# Mercer
 
-Name: Mercer
-Domain: mercer.com
-Home: https://www.mercer.com/
-Privacy_policy: https://www.mercer.com/privacy.html
-Email: PrivacyCoordinator@mercer.com
+

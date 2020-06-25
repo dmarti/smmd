@@ -1,8 +1,10 @@
+---
+company-name: Clickwise
+domain: clickwise.net
+home: https://clickwise.net/section/home
+privacy-policy: https://clickwise.net/section/terms
+email: affiliates@clickwise.net
+---
 
-# Clickwise
 
-Name: Clickwise
-Domain: clickwise.net
-Home: https://clickwise.net/section/home
-Privacy_policy: https://clickwise.net/section/terms
-Email: affiliates@clickwise.net
+

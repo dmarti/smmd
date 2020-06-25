@@ -1,7 +1,9 @@
-# Square
+---
+company-name: Square
+domain: squareup.com
+opt-out-url: https://squareup.com/us/en/legal/general/privacy
+---
 
-Name: Square
 
-Domain: squareup.com
 
-Opt_out_url: https://squareup.com/us/en/legal/general/privacy
+

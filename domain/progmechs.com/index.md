@@ -1,8 +1,10 @@
+---
+company-name: "Programmatic Mechanics"
+domain: progmechs.com
+home: http://progmechs.com/
+privacy-policy: http://progmechs.com/privacy-policy/
+email: info@progmechs.com
+---
 
-# Programmatic Mechanics
 
-Name: Programmatic Mechanics
-Domain: progmechs.com
-Home: http://progmechs.com/
-Privacy_policy: http://progmechs.com/privacy-policy/
-Email: info@progmechs.com
+

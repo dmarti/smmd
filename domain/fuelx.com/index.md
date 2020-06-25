@@ -1,8 +1,10 @@
+---
+company-name: Fuelx
+domain: fuelx.com
+home: http://fuelx.com/
+privacy-policy: https://fuelx.com/privacy
+email: legal@fuelx.com
+---
 
-# Fuelx
 
-Name: Fuelx
-Domain: fuelx.com
-Home: http://fuelx.com/
-Privacy_policy: https://fuelx.com/privacy
-Email: legal@fuelx.com
+

@@ -1,8 +1,10 @@
+---
+company-name: Jabmo
+domain: jabmo.com
+home: https://jabmo.com/
+privacy-policy: https://jabmo.com/privacy-policy/
+email: privacy@jabmo.com
+---
 
-# Jabmo
 
-Name: Jabmo
-Domain: jabmo.com
-Home: https://jabmo.com/
-Privacy_policy: https://jabmo.com/privacy-policy/
-Email: privacy@jabmo.com
+

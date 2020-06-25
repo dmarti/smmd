@@ -1,8 +1,10 @@
+---
+company-name: BI.Garage
+domain: garage.co.jp
+home: https://bi.garage.co.jp/index.html
+privacy-policy: https://bi.garage.co.jp/privacypolicy/index.html
+email: big-privacy@garage.co.jp
+---
 
-# BI.Garage
 
-Name: BI.Garage
-Domain: garage.co.jp
-Home: https://bi.garage.co.jp/index.html
-Privacy_policy: https://bi.garage.co.jp/privacypolicy/index.html
-Email: big-privacy@garage.co.jp
+

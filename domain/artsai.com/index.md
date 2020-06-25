@@ -1,8 +1,10 @@
+---
+company-name: Artsai
+domain: artsai.com
+home: http://www.artsai.com/
+privacy-policy: http://www.artsai.com/home/privacy/
+email: getintouch@artsai.com
+---
 
-# Artsai
 
-Name: Artsai
-Domain: artsai.com
-Home: http://www.artsai.com/
-Privacy_policy: http://www.artsai.com/home/privacy/
-Email: getintouch@artsai.com
+

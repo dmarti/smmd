@@ -1,8 +1,10 @@
+---
+company-name: Appatyze
+domain: appatyze.com
+home: http://www.appatyze.com/
+privacy-policy: http://www.appatyze.com/privacy.html
+email: privacy@appatyze.com
+---
 
-# Appatyze
 
-Name: Appatyze
-Domain: appatyze.com
-Home: http://www.appatyze.com/
-Privacy_policy: http://www.appatyze.com/privacy.html
-Email: privacy@appatyze.com
+

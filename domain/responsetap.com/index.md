@@ -1,8 +1,10 @@
+---
+company-name: "ResponseTap (AdInsight)"
+domain: responsetap.com
+home: http://www.responsetap.com/
+privacy-policy: https://www.responsetap.com/privacy-policy/
+email: support@responsetap.com
+---
 
-# ResponseTap (AdInsight)
 
-Name: ResponseTap (AdInsight)
-Domain: responsetap.com
-Home: http://www.responsetap.com/
-Privacy_policy: https://www.responsetap.com/privacy-policy/
-Email: support@responsetap.com
+

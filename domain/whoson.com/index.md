@@ -1,8 +1,10 @@
+---
+company-name: WhosOn
+domain: whoson.com
+home: http://www.whoson.com/
+privacy-policy: http://www.whoson.com/privacy
+email: whoson@parker-software.com
+---
 
-# WhosOn
 
-Name: WhosOn
-Domain: whoson.com
-Home: http://www.whoson.com/
-Privacy_policy: http://www.whoson.com/privacy
-Email: whoson@parker-software.com
+
