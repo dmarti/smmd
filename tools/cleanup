@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+
+import sys
+
+
+from entry import Entry
+
+if __name__ == '__main__':
+    pathname = sys.argv[1]
+    e = Entry.from_file(pathname)
+    print(e.as_markdown())
+
