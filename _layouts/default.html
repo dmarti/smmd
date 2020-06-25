@@ -2,15 +2,34 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{%if page.title %}{{ page.title }}{% else %}{{ page.companyname }}{% endif %}</title>
+    <title>{%if page.title %}{{ page.title }}{% else %}{{ page.company-name }}{% endif %}</title>
     <link rel="stylesheet" href="/site.css">
   </head>
   <body>
     <nav>
       <a href="/">Home</a>
     </nav>
-    <h1>{%if page.title %}{{ page.title }}{% else %}{{ page.companyname }}{% endif %}</h1>
+
     <main>
+    <h1>{%if page.title %}{{ page.title }}{% else %}{{ page.company-name }}{% endif %}</h1>
+
+	<table>
+
+	{% if page.company-name %}
+		<tr><th>Company Name</th><td>{{ page.company-name }}</td>
+	{% endif %}
+	{% if page.home %}
+		<tr><th>Home</th><td><a target="_blank" href="{{page.home}}">{{ page.home }}</a></td>
+	{% endif %}
+	{% if page.email %}
+		<tr><th>Privacy email</th><td><a href="mailtp:{{page.email}}">{{ page.email }}</a></td>
+	{% endif %}
+	{% if page.california-date %}
+		<tr><th>California registration date</th><td>{{ page.california-date }}</td>
+	{% endif %}
+
+	</table>
+
       {{ content }}
     </main>
     <footer>

@@ -8,11 +8,14 @@ def clean_key(k):
     k = k.lower()
     k = k.replace('_', '-')
     k = k.replace(' ', '-')
+    if ('name' == k):
+        k = 'company-name'
     return k
 
 class Entry(object):
     def __init__(self):
         self.data = {}
+        self.extras = ''
 
     @property
     def domain(self):
@@ -27,7 +30,7 @@ class Entry(object):
         homepage = self.data.get('home')
         if homepage:
             return homepage
-        domain = self.data.get('homain')
+        domain = self.data.get('domain')
         if domain:
             return "https://%s/" % domain
         return None
@@ -41,13 +44,17 @@ class Entry(object):
     def as_markdown(self):
         result = "---\n"
         for k in self.data.keys():
-            if not "\n" in self.data[k]:
-                result += "%s: %s\n" % (k, self.data[k])
+            if self.data[k] and not "\n" in self.data[k]:
+                if ' ' in self.data[k]:
+                    result += '%s: "%s"\n' % (k, self.data[k])
+                else:
+                    result += "%s: %s\n" % (k, self.data[k])
         result += "---\n"
         for k in self.data.keys():
             if "\n" in self.data[k]:
                 result += "## %s\n" % k
                 result += self.data[k]
+        result += self.extras
         return result
 
     @classmethod
@@ -55,8 +62,13 @@ class Entry(object):
         try:
             with open(pathname) as mdfile:
                 ent = cls()
+                ent.data['Notes'] = ''
                 in_section = None
                 for line in mdfile.readlines():
+                    if line.startswith('# '):
+                        continue
+                    if line.startswith('---'):
+                        continue
                     if line.startswith('## '):
                         in_section = line[3:]
                         ent.data[in_section] = ''
@@ -65,12 +77,12 @@ class Entry(object):
                         ent.data[in_section] += line
                         continue
                     try:
-                        (key, value) = line.split(':')
+                        (key, value) = line.split(':', 1)
                         key = clean_key(key)
                         ent.data[key] = value.strip()
                         in_section = None
                     except ValueError:
-                        pass
+                        ent.extras += line
             return(ent)
         except IsADirectoryError:
             return cls.from_file(os.path.join(pathname, 'index.md'))
