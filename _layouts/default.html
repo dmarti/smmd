@@ -16,16 +16,19 @@
 	<table>
 
 	{% if page.company-name %}
-		<tr><th>Company Name</th><td>{{ page.company-name }}</td>
+		<tr><th>Company Name</th><td>{{ page.company-name }}</td></tr>
 	{% endif %}
 	{% if page.home %}
-		<tr><th>Home</th><td><a target="_blank" href="{{page.home}}">{{ page.home }}</a></td>
+		<tr><th>Home</th><td><a target="_blank" href="{{page.home}}">{{ page.home }}</a></td></tr>
 	{% endif %}
 	{% if page.email %}
-		<tr><th>Privacy email</th><td><a href="mailtp:{{page.email}}">{{ page.email }}</a></td>
+		<tr><th>Privacy email</th><td><a href="mailtp:{{page.email}}">{{ page.email }}</a></td></tr>
 	{% endif %}
 	{% if page.california-date %}
-		<tr><th>California registration date</th><td>{{ page.california-date }}</td>
+		<tr><th>California registration date</th><td>{{ page.california-date }}</td></tr>
+	{% endif %}
+	{% if page.vermont-id %}
+		<tr><th>Vermont ID</th><td><a target="_blank" href="https://bizfilings.vermont.gov/online/DatabrokerInquire/DataBrokerInformation?businessID={{ page.vermont-id }}">{{ page.vermont-id }}</a></td></tr>
 	{% endif %}
 
 	</table>
