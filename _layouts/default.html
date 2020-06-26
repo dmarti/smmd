@@ -21,6 +21,10 @@
 	{% if page.home %}
 		<tr><th>Home</th><td><a target="_blank" href="{{page.home}}">{{ page.home }}</a></td></tr>
 	{% endif %}
+	{% if page.privacy-policy %}
+		<tr><th>Privacy policy</th>
+			<td><a target="_blank" href="{{ page.privacy-policy }}">{{ page.privacy-policy }}</a></td></tr>
+	{% endif %}
 	{% if page.email %}
 		<tr><th>Privacy email</th><td><a href="mailtp:{{page.email}}">{{ page.email }}</a></td></tr>
 	{% endif %}
