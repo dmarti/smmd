@@ -1,13 +1,12 @@
 ---
-company-name: ""TouchFuse, LLC DBA Acquire Direct Marketing""
+company-name: "TouchFuse, LLC DBA Acquire Direct Marketing"
 domain: AcquireDirect.com
 home: http://www.AcquireDirect.com
-email: ""DataCompliance [at] AcquireDirect.com""
+email: "DataCompliance [at] AcquireDirect.com"
 california-date: 02/27/2020
 ---
+
 ## How to opt out
-
-
 
 A consumer may opt out of sale or submit requests under the CCPA by calling 855-940-DATA or going online to www.LeadJig.com or www.TouchFuse.com and clicking the link titled "Do Not Sell My Data" located at the bottom of the website.
 
@@ -20,21 +19,7 @@ A consumer may demand deletion of information posted online under Gov. Code sect
 ## Additional info
 
 
-
-
-
-12620 Race Track RoadTampa, FL 33626United States
-
-
-
-
-
-
-
-
-
-
-
-
-
+12620 Race Track Road
+Tampa, FL 33626
+United States
 

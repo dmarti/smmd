@@ -1,6 +1,5 @@
 ---
-fixme: "needs info"
+company-name: FIXME
+domain: gravity.com
 ---
-
-
 

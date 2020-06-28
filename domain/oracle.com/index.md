@@ -1,8 +1,8 @@
 ---
 domain: oracle.com
-company-name: ""Oracle America, Inc. (Oracle Data Cloud)""
+company-name: "Oracle America, Inc. (Oracle Data Cloud)"
 home: http://www.oracle.com
-email: ""privacy_ww [at] oracle.com""
+email: "privacy_ww [at] oracle.com"
 privacy-policy: https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html
 opt-out-url: https://datacloudoptout.oracle.com/#optout
 vermont-id: 352759
@@ -26,17 +26,4 @@ Individuals can request deletion of all their online and offline information by 
 Detailed information on the ODC’s processing practices for consumer data is available at https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html.
 
 500 Oracle Parkway, Redwood Shores, CA, 94065, USA
-
-
-
-
-
-
-
-
-
-
-
-
-
 

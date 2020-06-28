@@ -1,8 +1,8 @@
 ---
-company-name: ""Complete Mailing Lists""
+company-name: "Complete Mailing Lists"
 domain: CompleteMailingLists.com
 home: http://www.CompleteMailingLists.com
-email: ""ewoolf [at] CompleteMailingLists.com""
+email: "ewoolf [at] CompleteMailingLists.com"
 california-date: 02/07/2020
 ---
 ## How to opt out

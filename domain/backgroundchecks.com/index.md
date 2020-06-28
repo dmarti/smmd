@@ -1,9 +1,12 @@
 ---
-company-name: "Backgroundchecks.com LLC ("BGC")"
+company-name: "Backgroundchecks.com LLC (BGC)"
 domain: backgroundchecks.com
 home: www.backgroundchecks.com
+privacy-policy: https://www.backgroundchecks.com/privacypolicy
+email: info@backgroundchecks.com
 vermont-id: 366591
 ---
+
 ## How to opt out
 
 
@@ -19,17 +22,5 @@ vermont-id: 366591
 
 
 
-12770 Coit Road,, Suite 300, Dallas, TX, 75251, USA
-
-
-
-
-
-
-
-
-
-
-
-
+12770 Coit Road, Suite 300, Dallas, TX, 75251, USA
 
