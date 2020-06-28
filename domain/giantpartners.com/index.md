@@ -1,10 +1,13 @@
 ---
 company-name: "Giant Partners, Inc"
-domain: Giantpartners.com
+domain: giantpartners.com
 home: http://Giantpartners.com
 email: "Sheldon [at] Giantpartners.com"
+privacy-policy: https://giantpartners.com/privacy-policy/
 california-date: 01/22/2020
+opt-out-url: https://giantpartners.com/personal-information-request/
 ---
+
 ## How to opt out
 
 
@@ -17,20 +20,7 @@ Our Website has been updated with CCPA verbiage, forms and phone number(s) as re
 
 ## Additional info
 
-
-
-
-1461 Lawrence Dr2nd FloorThousand Oaks, CA 91320United States
-
-
-
-
-
-
-
-
-
-
-
-
+1461 Lawrence Dr 2nd Floor
+Thousand Oaks, CA 91320
+United States
 

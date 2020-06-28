@@ -1,11 +1,13 @@
 ---
 company-name: "ASLMarketing Inc."
-domain: ASLmarketing.com
+domain: aslmarketing.com
 home: http://ASLmarketing.com
 email: "JKaye [at] aslmarketing.com"
 california-date: 02/07/2020
 vermont-id: 353280
+opt-out-url: https://aslmarketing.com/opt-out/
 ---
+
 ## How to opt out
 
 
@@ -25,20 +27,7 @@ ASL does not engage in the practice of publicly displaying or permitting the dis
 ## Additional info
 
 
-
-
-500 Bi County BoulevardSuite 460Farmingdale, NY 11735United States
-
-
-
-
-
-
-
-
-
-
-
-
-
+500 Bi County Boulevard Suite 460
+Farmingdale, NY 11735
+United States
 

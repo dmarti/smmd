@@ -1,10 +1,11 @@
 ---
 company-name: "Aristotle International Inc."
-domain: Aristotle.com
+domain: aristotle.com
 home: http://www.Aristotle.com
 email: "Info [at] aristotle.com"
-opt-out-url: http://www.aristotle.com/content/view/31/152/
+opt-out-url: https://aristotle.com/privacy/do-not-sell-my-personal-info/ 
 california-date: 02/07/2020
+crunchbase: https://www.crunchbase.com/organization/aristotle
 ---
 ## How to opt out
 
@@ -21,13 +22,9 @@ California residents may exercise their rights under the CCPA by visiting our we
 
 Information about Aristotle practices can be found in this link www.Aristotle.com
 
-205 Pennsylvania Avenue SEWashington, DC 20003United States
-
-
-
-
-
-
+205 Pennsylvania Avenue SE
+Washington, DC 20003
+United States
 
 
 

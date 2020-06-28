@@ -1,6 +1,6 @@
 ---
 company-name: "Claritas LLC."
-domain: Claritas.com
+domain: claritas.com
 home: http://www.Claritas.com
 email: "al.gadbut [at] claritas.com"
 california-date: 02/27/2020
@@ -19,9 +19,9 @@ There is a link on our home page and in our privacy policy. We also offer a 1-80
 ## Additional info
 
 
-
-
-8044 Montgomery RoadSuite 455Cincinnati, OH 45236United States
+8044 Montgomery Road Suite 455
+Cincinnati, OH 45236
+United States
 
 
 

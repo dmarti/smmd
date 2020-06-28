@@ -1,6 +1,6 @@
 ---
 company-name: "Spectrum Mailing Lists"
-domain: SpectrumLists.com
+domain: spectrumlists.com
 home: http://www.SpectrumLists.com
 email: "privacy [at] spectrumlists.com"
 california-date: 02/12/2020
@@ -19,8 +19,9 @@ We do not publicly post or publicly display on the Internet the home address or 
 
 
 
-
-300 Carlsbad Village DriveSuite 108ACarlsbad, CA 92008United States
+300 Carlsbad Village Drive Suite 108A
+Carlsbad, CA 92008
+United States
 
 
 

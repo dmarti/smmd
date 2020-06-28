@@ -1,11 +1,13 @@
 ---
 company-name: "Venntel, Inc."
-domain: Venntel.com
-home: http://Venntel.com
+domain: venntel.com
+home: http://venntel.com
 email: "legal [at] venntel.com"
 california-date: 04/01/2020
 vermont-id: 369842
+opt-out-url: https://www.venntel.com/opt-out
 ---
+
 ## How to opt out
 
 
@@ -31,18 +33,7 @@ A protected individual may submit a deletion request by:
 
 Venntel takes consumers’ privacy seriously. Our third data providers are appropriately vetted, and are contractually bound to represent and warrant they have complied with all applicable laws as it relates to their collection, use, and transfer of consumer personal information. Please visit our Privacy Policy at https://www.venntel.com/privacy-policy for more information on our privacy practices and your rights.
 
-2201 Cooperative WaySuite 600Herndon, VA 20166United States
-
-
-
-
-
-
-
-
-
-
-
-
-
+2201 Cooperative Way Suite 600
+Herndon, VA 20166
+United States
 

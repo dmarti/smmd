@@ -1,8 +1,11 @@
 ---
 company-name: "Alliant Cooperative Data Solutions, LLC"
-domain: AlliantData.com
-home: http://AlliantData.com
-email: "compliance [at] alliantdata.com"
+domain: alliantdata.com
+home: http://www.alliantdata.com/
+privacy-policy: http://alliantinsight.com/alliant-privacy-policy/
+email: info@alliantdata.com
+member-of: DMA_ANA
+ccpa-email: "compliance [at] alliantdata.com"
 california-date: 02/07/2020
 vermont-id: 367873
 ---
@@ -21,18 +24,7 @@ Alliant does not display or permit the display of such information, or operate a
 
 None.
 
-301 Fields Ln.Brewster, NY 10509United States
-
-
-
-
-
-
-
-
-
-
-
-
-
+301 Fields Ln.
+Brewster, NY 10509
+United States
 
