@@ -25,8 +25,11 @@
 		<tr><th>Privacy policy</th>
 			<td><a target="_blank" href="{{ page.privacy-policy }}">{{ page.privacy-policy }}</a></td></tr>
 	{% endif %}
+	{% if page.owned-by %}
+		<tr><th>Owned by</th><td>{{ page.owned-by }}</td></tr>
+	{% endif %}
 	{% if page.email %}
-		<tr><th>Privacy email</th><td><a href="mailtp:{{page.email}}">{{ page.email }}</a></td></tr>
+		<tr><th>Privacy email</th><td><a href="mailto:{{page.email}}">{{ page.email }}</a></td></tr>
 	{% endif %}
 	{% if page.california-date %}
 		<tr><th>California registration date</th><td>{{ page.california-date }}</td></tr>
@@ -37,7 +40,19 @@
 
 	</table>
 
+
       {{ content }}
+
+	<h2>Lists</h2>
+	{{ site.list}} y
+	{% for p in site.list %}
+		{% if p.category == "list-entry" and p.domain == page.domain %}
+			{{ p.list-name }}
+			x
+		{% endif %}
+	{% endfor %}
+
+	<hr>
 
 	<div id="edit">
 		<p>Suggest changes to this page: <a href="https://github.com/dmarti/smmd/tree/gh-pages{{ page.url }}index.md">

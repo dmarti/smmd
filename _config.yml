@@ -28,3 +28,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+collections:
+  - list
