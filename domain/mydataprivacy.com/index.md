@@ -7,6 +7,7 @@ privacy-policy: https://mydataprivacy.com/privacy-policy
 opt-out-url: https://mydataprivacy.com/search
 california-date:
 vermont-id:
+owned-by: alescodata.com
 ---
 
 ## Additional info
@@ -14,4 +15,5 @@ vermont-id:
 One-stop (?) CCPA service used by
 
  * alescodata.com
+
 
