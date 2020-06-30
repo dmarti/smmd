@@ -31,5 +31,5 @@ defaults:
 
 collections:
   list:
-    layout: home
-    output: false
+    output: true
+

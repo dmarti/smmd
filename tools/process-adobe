@@ -22,15 +22,16 @@ def spew_file(pathname, content):
 def list_entry(domain, name):
     return '''---
 domain: %s
-company-name: %s
+company-name: "%s"
 category: list-entry
 layout: list-entry
+list: adobe-cloud-device-co-op
 list-name: "Adobe Experience Cloud Device Co-Op"
-list-url: https://cross-device-privacy.adobe.com/data/participating-companies.json
+list-data-url: https://cross-device-privacy.adobe.com/data/participating-companies.json
+list-home: https://cross-device-privacy.adobe.com/
 ---
 
-This is an automatically populated list entry. See [Adobe Experience Cloud Cross-Device Privacy
-Tool](https://cross-device-privacy.adobe.com/] for more info on this list.
+This is an automatically populated list entry. See [Adobe Experience Cloud Cross-Device Privacy Tool](https://cross-device-privacy.adobe.com/) for more info on this list.
 
 ''' % (domain, name)
 
@@ -48,7 +49,7 @@ if __name__ == '__main__':
             domain = result['domain']
             company_name = result['name']
         except:
-            pass
+            next
         content = list_entry(domain, company_name)
         pathname = '_list/adobe-cloud-device-co-op/%s/index.md' % domain
         spew_file(pathname, content)

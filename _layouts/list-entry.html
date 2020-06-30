@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.company-name }}</title>
+    <link rel="stylesheet" href="../../../site.css">
+  </head>
+  <body>
+    <nav>
+      <a href="../../../">Home</a>
+    </nav>
+
+    <main>
+
+	<p><a href="../../../domain/{{page.domain}}">{{page.domain}}</a> appears on list {{ page.list-name }}</p>
+
+	<div id="edit">
+		<p>Suggest changes to this page: <a href="https://github.com/dmarti/smmd/tree/gh-pages{{ page.url }}index.md">
+		https://github.com/dmarti/smmd/tree/gh-pages{{ page.url }}index.md</a></p>
+	</div>
+    </main>
+
+    </footer>
+  </body>
+</html>
