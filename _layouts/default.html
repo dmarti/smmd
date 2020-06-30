@@ -43,16 +43,15 @@
 
       {{ content }}
 
-	<h2>Lists</h2>
-	{{ site.list}} y
-	{% for p in site.list %}
-		{% if p.category == "list-entry" and p.domain == page.domain %}
-			{{ p.list-name }}
-			x
-		{% endif %}
-	{% endfor %}
+<hr>
 
-	<hr>
+{% for e in site.list %}
+	{% if e.domain == page.domain %}
+		<p><b>On list:</b> <a href="{{ e.list-url }}">{{ e.list-name }}</a></p>
+	{% endif %}
+{% endfor %}
+
+<hr>
 
 	<div id="edit">
 		<p>Suggest changes to this page: <a href="https://github.com/dmarti/smmd/tree/gh-pages{{ page.url }}index.md">

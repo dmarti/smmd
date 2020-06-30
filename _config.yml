@@ -30,4 +30,6 @@ defaults:
       layout: "default"
 
 collections:
-  - list
+  list:
+    layout: home
+    output: false
