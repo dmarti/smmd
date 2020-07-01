@@ -1,8 +1,7 @@
 ---
-company-name: SoftLater
+company-name: SoftLayer
 domain: softlayer.net
 home: http://softlayer.net
-privacy-policy: http://
 ---
 
 
