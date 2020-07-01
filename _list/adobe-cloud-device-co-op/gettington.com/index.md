@@ -1,5 +1,5 @@
 ---
-domain: Gettington.com
+domain: gettington.com
 company-name: "Gettington.com"
 category: list-entry
 layout: list-entry

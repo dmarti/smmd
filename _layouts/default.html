@@ -42,11 +42,13 @@
 
       {{ content }}
 
+<div id="lists">
 {% for e in site.list %}
 	{% if e.domain == page.domain %}
-		<p><b>On list:</b> <a target="_blank" href="{{ e.list-home }}">{{ e.list-name }}</a>  <a href="../../list/{{ e.list }}/{{ e.domain }}/">(listing)</a></p>
+		<p><b>On list:</b> <a href="../../list/#{{ e.list }}-{{ e.domain }}">{{ e.list-name }}</a></p>
 	{% endif %}
 {% endfor %}
+</div>
 
 	<div id="edit">
 		<p>Suggest changes to this page: <a href="https://github.com/dmarti/smmd/tree/gh-pages{{ page.url }}index.md">
