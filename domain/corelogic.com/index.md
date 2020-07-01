@@ -1,7 +1,9 @@
 ---
 company-name: "Teletrack, LLC"
 domain: corelogic.com
-home: www.corelogic.com
+home: https://www.corelogic.com/
+privacy-policy: https://www.corelogic.com/privacy.aspx
+email: privacy@corelogicsolutions.co.uk
 vermont-id: 352847
 ---
 ## How to opt out

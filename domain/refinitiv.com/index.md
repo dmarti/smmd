@@ -1,7 +1,7 @@
 ---
 company-name: "Refinitiv US LLC"
 domain: refinitiv.com
-home: refinitiv.com
+home: https://www.refinitiv.com/
 vermont-id: 367080
 ---
 ## How to opt out

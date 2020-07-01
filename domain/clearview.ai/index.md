@@ -1,7 +1,8 @@
 ---
 company-name: "Clearview AI, Inc."
 domain: clearview.ai
-home: www.clearview.ai
+home: https://www.clearview.ai/
+privacy-policy: https://www.clearview.ai/privacy/privacy_policy
 vermont-id: 367103
 ---
 ## How to opt out

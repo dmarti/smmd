@@ -1,10 +1,11 @@
 ---
-company-name: Virtusa.com
+company-name: "Virtusa Corporation"
 domain: virtusa.com
-home: dpooffice@virtusa.com
-opt-out-url: https://www.virtusa.com/privacy-statement/
+email: dpooffice@virtusa.com
+privacy-policy: https://www.virtusa.com/privacy-statement/
 ---
 ## How to opt out
+
 
 
 

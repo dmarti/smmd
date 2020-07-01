@@ -1,7 +1,9 @@
 ---
 company-name: "Catalist, LLC"
 domain: catalist.us
-home: www.catalist.us
+home: https://www.catalist.us/
+privacy-policy: https://catalist.us/privacy-policy/
+email: legalteam@catalist.us
 vermont-id: 368357
 ---
 ## How to opt out

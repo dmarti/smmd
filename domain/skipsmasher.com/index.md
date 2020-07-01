@@ -1,7 +1,9 @@
 ---
 company-name: "Skipsmasher, Inc."
 domain: skipsmasher.com
-home: skipsmasher.com
+home: https://skipsmasher.com/
+opt-out-url: https://www.skipsmasher.com/Consumers/
+privacy-policy: https://www.skipsmasher.com/privacy.aspx
 vermont-id: 368025
 ---
 ## How to opt out

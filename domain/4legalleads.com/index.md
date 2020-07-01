@@ -1,7 +1,8 @@
 ---
-company-name: "Advertise4Sales LLC"
-domain: 4LegalLeads.com
-home: 4LegalLeads.com
+company-name: 4LegalLeads.com
+domain: 4legalleads.com
+home: https://4LegalLeads.com/
+opt-out-url: https://4legalleads.com/removal/
 vermont-id: 366917
 ---
 ## How to opt out

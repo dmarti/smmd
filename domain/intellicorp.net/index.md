@@ -1,7 +1,7 @@
 ---
 company-name: "IntelliCorp Records, Inc."
 domain: intellicorp.net
-home: www.intellicorp.net
+home: https://www.intellicorp.net/
 vermont-id: 367712
 ---
 ## How to opt out

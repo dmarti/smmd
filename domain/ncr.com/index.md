@@ -1,8 +1,10 @@
 ---
 company-name: "NCR Corporation"
 domain: ncr.com
-home: www.ncr.com
+home: https://www.ncr.com/
 vermont-id: 367368
+privacy-policy: https://www.ncr.com/privacy
+email: office.privacy@ncr.com
 ---
 ## How to opt out
 

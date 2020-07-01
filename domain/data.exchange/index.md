@@ -1,8 +1,9 @@
 ---
 company-name: "Data Exchange"
 domain: data.exchange
-home: www.data.exchange
+home: https://www.data.exchange/
 vermont-id: 362927
+email: info@dealerx.com
 ---
 ## How to opt out
 
