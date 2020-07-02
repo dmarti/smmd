@@ -6,6 +6,7 @@ email: "legal [at] groundtruth.com"
 privacy-policy: https://www.groundtruth.com/privacy-policy/
 opt-out-url: https://www.groundtruth.com/california-ccpa-rights/
 california-date: 02/12/2020
+crunchbase: https://www.crunchbase.com/organization/xad
 ---
 ## How to opt out
 
@@ -30,16 +31,5 @@ New York, NY 10007
 
 
 Requires mobile advertising ID for consumer opt-outs.
-
-
-
-
-
-
-
-
-
-
-
 
 
