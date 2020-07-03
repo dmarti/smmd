@@ -1,9 +1,11 @@
 ---
+california-date: 03/03/2020
 company-name: "Fifty Technology Ltd"
 domain: fifty.io
-home: http://fifty.io
 email: "privacy [at] fifty.io"
-california-date: 03/03/2020
+home: http://fifty.io
+iab-listing-name: "Fifty Technology Limited"
+privacy-policy: https://fifty.io/privacy-policy.php
 ---
 ## How to opt out
 

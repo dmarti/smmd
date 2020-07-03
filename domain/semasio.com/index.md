@@ -1,9 +1,11 @@
 ---
+california-date: 01/14/2020
 company-name: "Semasio GmbH"
 domain: semasio.com
-home: http://www.semasio.com
 email: "info [at] semasio.com"
-california-date: 01/14/2020
+home: http://www.semasio.com
+iab-listing-name: "Semasio GmbH"
+privacy-policy: http://www.semasio.com/privacy-policy/
 ---
 ## How to opt out
 

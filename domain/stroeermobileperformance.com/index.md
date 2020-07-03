@@ -1,11 +1,12 @@
 ---
 company-name: "STROER Mobile Performance"
 domain: stroeermobileperformance.com
-home: https://stroeermobileperformance.com/
-privacy-policy: https://stroeermobileperformance.com/?dl=privacy
 email: legal.smp@stroeer.de
-owned-by: "Stroer (formerly adscale)"
+home: https://stroeermobileperformance.com/
+iab-listing-name: "Ströer Mobile Performance GmbH"
 member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+owned-by: "Stroer (formerly adscale)"
+privacy-policy: https://stroeermobileperformance.com/?dl=privacy
 ---
 
 

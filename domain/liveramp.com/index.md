@@ -1,11 +1,13 @@
 ---
+california-date: 03/19/2020
 company-name: "LiveRamp, Inc."
 domain: liveramp.com
-home: http://www.liveramp.com
 email: "consumercare [at] liveramp.com"
-privacy-policy: https://www.liveramp.com/privacy/
+home: http://www.liveramp.com
+iab-listing-name: "LiveRamp, Inc."
+iab-privacy-policy: https://www.liveramp.com/service-privacy-policy/
 opt-out-url: https://your-rights.liveramp.com/templates/access_individual.html
-california-date: 03/19/2020
+privacy-policy: https://www.liveramp.com/privacy/
 ---
 ## How to opt out
 

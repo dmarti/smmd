@@ -1,10 +1,12 @@
 ---
 company-name: Yieldlove
 domain: yieldlove.com
-home: https://www.yieldlove.com/
-privacy-policy: https://www.yieldlove.com/privacy
 email: privacy@yieldlove.com
+home: https://www.yieldlove.com/
+iab-listing-name: "Yieldlove GmbH"
+iab-privacy-policy: http://www.yieldlove.com/cookie-policy
 member-of: "Interactive Advertising Bureau (IAB)"
+privacy-policy: https://www.yieldlove.com/privacy
 ---
 
 

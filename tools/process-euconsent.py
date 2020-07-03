@@ -29,5 +29,8 @@ for v in data['vendors']:
         ent['iab-listing-name'] = v['name']
     else:
         ent['company-name'] = v['name']
+    if not ent.get('home'):
+        ent['home'] = "https://%s" % ent.domain
+    print(v)
     ent.write_to_file('domain/%s/index.md' % ent.domain)
 

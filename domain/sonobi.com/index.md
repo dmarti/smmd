@@ -2,8 +2,9 @@
 company-name: Sonobi
 domain: sonobi.com
 home: http://sonobi.com/
-privacy-policy: http://sonobi.com/privacy-policy/
+iab-listing-name: "Sonobi, Inc"
 member-of: "Interactive Advertising Bureau (IAB)"
+privacy-policy: http://sonobi.com/privacy-policy/
 ---
 
 

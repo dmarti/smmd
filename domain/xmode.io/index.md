@@ -1,9 +1,11 @@
 ---
+california-date: 04/01/2020
 company-name: "X-Mode Social, Inc"
 domain: xmode.io
-home: http://xmode.io
 email: "privacy [at] xmodesocial.com"
-california-date: 04/01/2020
+home: http://xmode.io
+iab-listing-name: "X-Mode Social, Inc."
+privacy-policy: http://xmode.io/privacy-policy.html
 ---
 ## How to opt out
 

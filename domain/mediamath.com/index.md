@@ -1,9 +1,11 @@
 ---
+california-date: 02/12/2020
 company-name: "MediaMath, Inc."
 domain: mediamath.com
-home: https://www.mediamath.com/
 email: "privacy [at] mediamath.com"
-california-date: 02/12/2020
+home: https://www.mediamath.com/
+iab-listing-name: "MediaMath, Inc."
+privacy-policy: http://www.mediamath.com/privacy-policy/
 ---
 ## How to opt out
 

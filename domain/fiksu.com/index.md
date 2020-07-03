@@ -1,10 +1,11 @@
 ---
 company-name: Fiksu
 domain: fiksu.com
-home: https://www.fiksu.com/
-privacy-policy: https://fiksu.com/privacy-policy/
 email: dpo@fiksu.com
+home: https://www.fiksu.com/
+iab-listing-name: "GDMServices, Inc. d/b/a FiksuDSP"
 member-of: "Interactive Advertising Bureau (IAB)"
+privacy-policy: https://fiksu.com/privacy-policy/
 ---
 
 

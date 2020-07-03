@@ -1,9 +1,11 @@
 ---
+california-date: 02/27/2020
 company-name: Ubermedia
 domain: ubermedia.com
-home: http://www.ubermedia.com
 email: "privacy [at] ubermedia.com"
-california-date: 02/27/2020
+home: http://www.ubermedia.com
+iab-listing-name: "UberMedia, Inc."
+privacy-policy: https://ubermedia.com/index.html_p=6424.html
 ---
 ## How to opt out
 

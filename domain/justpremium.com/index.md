@@ -1,9 +1,10 @@
 ---
 company-name: "Just Premium"
 domain: justpremium.com
-home: http://justpremium.com/
-privacy-policy: http://justpremium.com/privacy-policy/
 email: privacy@JustPremium.com
+home: http://justpremium.com/
+iab-listing-name: "Justpremium BV"
+privacy-policy: http://justpremium.com/privacy-policy/
 ---
 
 

@@ -1,9 +1,10 @@
 ---
 company-name: "HBFS Tech"
 domain: hbfstech.com
-home: http://www.hbfstech.com/en/
-privacy-policy: http://www.hbfstech.com/fr/privacy.html
 email: contact@hbfstech.com
+home: http://www.hbfstech.com/en/
+iab-listing-name: hbfsTech
+privacy-policy: http://www.hbfstech.com/fr/privacy.html
 ---
 
 

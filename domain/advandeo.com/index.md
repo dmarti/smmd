@@ -1,9 +1,10 @@
 ---
 company-name: Advandeo
 domain: advandeo.com
-home: http://advandeo.com
-privacy-policy: http://advandeo.com/privacy-policy/
 email: info@ad-tech-group.com
+home: http://advandeo.com
+iab-listing-name: "ATG Ad Tech Group GmbH"
+privacy-policy: http://advandeo.com/privacy-policy/
 ---
 
 

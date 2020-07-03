@@ -1,9 +1,11 @@
 ---
+california-date: 02/27/2020
 company-name: "LiveIntent, Inc."
 domain: liveintent.com
-home: https://www.liveintent.com/
 email: "legal [at] liveintent.com"
-california-date: 02/27/2020
+home: https://www.liveintent.com/
+iab-listing-name: "Liveintent Inc."
+privacy-policy: https://liveintent.com/services-privacy-policy/
 ---
 ## How to opt out
 

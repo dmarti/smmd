@@ -2,8 +2,9 @@
 company-name: Flashtalking
 domain: flashtalking.com
 home: http://www.flashtalking.com/
-privacy-policy: http://www.flashtalking.com/privacypolicy/
+iab-listing-name: "Flashtalking, Inc."
 member-of: "Interactive Advertising Bureau (IAB)"
+privacy-policy: http://www.flashtalking.com/privacypolicy/
 ---
 
 

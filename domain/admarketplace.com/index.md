@@ -1,9 +1,11 @@
 ---
+california-date: 03/03/2020
 company-name: "adMarketplace, Inc."
 domain: admarketplace.com
-home: http://www.admarketplace.com
 email: "privacy [at] admarketplace.com"
-california-date: 03/03/2020
+home: http://www.admarketplace.com
+iab-listing-name: "adMarketplace, Inc."
+privacy-policy: https://www.admarketplace.com/privacy-policy/
 ---
 ## How to opt out
 

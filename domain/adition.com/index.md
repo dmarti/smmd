@@ -1,9 +1,11 @@
 ---
 company-name: "Adition Technologies AG"
 domain: adition.com
-home: https://www.adition.com/
-privacy-policy: https://www.adition.com/datenschutz/
 email: datenschutz@adition.com
+home: https://www.adition.com/
+iab-listing-name: "ADITION technologies AG"
+iab-privacy-policy: https://www.adition.com/datenschutz
+privacy-policy: https://www.adition.com/datenschutz/
 ---
 
 

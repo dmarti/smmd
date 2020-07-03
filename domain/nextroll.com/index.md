@@ -1,9 +1,11 @@
 ---
+california-date: 02/12/2020
 company-name: "NextRoll, Inc."
 domain: nextroll.com
-home: https://www.nextroll.com/
 email: "legal [at] nextroll.com"
-california-date: 02/12/2020
+home: https://www.nextroll.com/
+iab-listing-name: "NextRoll, Inc."
+privacy-policy: https://www.nextroll.com/privacy
 ---
 ## How to opt out
 

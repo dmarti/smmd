@@ -1,9 +1,11 @@
 ---
 company-name: Twiago
 domain: twiago.com
-home: https://twiago.com/
-privacy-policy: https://twiago.com/datenschutz/
 email: info@twiago.com
+home: https://twiago.com/
+iab-listing-name: "twiago GmbH"
+iab-privacy-policy: https://www.twiago.com/datenschutz/
+privacy-policy: https://twiago.com/datenschutz/
 ---
 
 

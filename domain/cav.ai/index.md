@@ -1,9 +1,10 @@
 ---
 company-name: Cavai
 domain: cav.ai
-home: https://cav.ai/
-privacy-policy: https://cav.ai/privacy-policy/
 email: hello@cav.ai.
+home: https://cav.ai/
+iab-listing-name: "Cavai AS & UK"
+privacy-policy: https://cav.ai/privacy-policy/
 ---
 
 

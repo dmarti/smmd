@@ -1,11 +1,12 @@
 ---
 company-name: "Publicis Media"
 domain: publicismedia.de
-home: https://www.publicismedia.de/
-privacy-policy: https://www.publicismedia.de/datenschutz/
 email: info@publicismedia.de
-owned-by: "Publicis Groupe"
+home: https://www.publicismedia.de/
+iab-listing-name: "Publicis Media GmbH"
 member-of: "European Data Interactive Alliance"
+owned-by: "Publicis Groupe"
+privacy-policy: https://www.publicismedia.de/datenschutz/
 ---
 
 

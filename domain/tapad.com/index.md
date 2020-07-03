@@ -1,10 +1,12 @@
 ---
+california-date: 02/27/2020
 company-name: "Tapad, Inc."
 domain: tapad.com
-home: https://www.tapad.com/
 email: "privacy [at] tapad.com"
+home: https://www.tapad.com/
+iab-listing-name: "Tapad, Inc."
+iab-privacy-policy: https://www.tapad.com/eu-privacy-policy
 privacy-policy: https://www.tapad.com/privacy-policy
-california-date: 02/27/2020
 ---
 ## How to opt out
 

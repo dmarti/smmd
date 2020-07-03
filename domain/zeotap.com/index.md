@@ -1,9 +1,11 @@
 ---
+california-date: 02/12/2020
 company-name: "zeotap GmbH"
 domain: zeotap.com
-home: https://zeotap.com/
 email: "privacy [at] zeotap.com"
-california-date: 02/12/2020
+home: https://zeotap.com/
+iab-listing-name: "zeotap GmbH"
+privacy-policy: https://zeotap.com/privacy_policy
 ---
 ## How to opt out
 

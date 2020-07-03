@@ -1,11 +1,12 @@
 ---
+california-date: 03/23/2020
 company-name: "Neustar, Inc."
 domain: home.neustar
-home: https://www.home.neustar
 email: privacy@team.neustar
-privacy-policy: https://www.home.neustar/privacy
+home: https://www.home.neustar
+iab-listing-name: "NeuStar, Inc."
 opt-out-url: https://www.home.neustar/privacy
-california-date: 03/23/2020
+privacy-policy: https://www.home.neustar/privacy
 vermont-id: 370100
 ---
 ## How to opt out

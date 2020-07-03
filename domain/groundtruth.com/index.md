@@ -1,12 +1,13 @@
 ---
-company-name: "xAd, Inc. dba GroundTruth"
-domain: groundtruth.com
-home: http://www.groundtruth.com
-email: "legal [at] groundtruth.com"
-privacy-policy: https://www.groundtruth.com/privacy-policy/
-opt-out-url: https://www.groundtruth.com/california-ccpa-rights/
 california-date: 02/12/2020
+company-name: "xAd, Inc. dba GroundTruth"
 crunchbase: https://www.crunchbase.com/organization/xad
+domain: groundtruth.com
+email: "legal [at] groundtruth.com"
+home: http://www.groundtruth.com
+iab-listing-name: "xAd, Inc. dba GroundTruth"
+opt-out-url: https://www.groundtruth.com/california-ccpa-rights/
+privacy-policy: https://www.groundtruth.com/privacy-policy/
 ---
 ## How to opt out
 

@@ -1,10 +1,11 @@
 ---
 company-name: StartApp
 domain: startapp.com
-home: http://www.startapp.com/
-privacy-policy: https://www.startapp.com/policy/privacy-policy/
 email: support@startapp.com
+home: http://www.startapp.com/
+iab-listing-name: "StartApp Inc."
 member-of: TrustE_TrustArc
+privacy-policy: https://www.startapp.com/policy/privacy-policy/
 ---
 
 

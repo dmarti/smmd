@@ -1,10 +1,11 @@
 ---
 company-name: MiQ
 domain: wearemiq.com
-home: http://wearemiq.com/
-privacy-policy: http://wearemiq.com/privacy-policy/
 email: privacy@mediaiqdigital.com
+home: http://wearemiq.com/
+iab-listing-name: MiQ
 member-of: "Network Advertising Initiative"
+privacy-policy: http://wearemiq.com/privacy-policy/
 ---
 
 

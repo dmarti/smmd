@@ -1,10 +1,11 @@
 ---
 company-name: AddApptr
 domain: addapptr.com
-home: https://www.addapptr.com/
-privacy-policy: https://www.addapptr.com/data-privacy
 email: datenschutz@addapptr.com
+home: https://www.addapptr.com/
+iab-listing-name: "AddApptr GmbH"
 member-of: "Interactive Advertising Bureau (IAB)"
+privacy-policy: https://www.addapptr.com/data-privacy
 ---
 
 
