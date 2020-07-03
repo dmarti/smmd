@@ -11,6 +11,43 @@ def spew_file(pathname, content):
         scratch.write(content)
     os.replace(scratch.name, pathname)
 
+class ListEntry(dict):
+    def __init__(self, *args, **kwargs):
+        self.update(*args, **kwargs)
+
+    def __getitem__(self, key):
+        val = dict.__getitem__(self, key)
+        return val
+
+    def __setitem__(self, key, val):
+        dict.__setitem__(self, key, val)
+
+    def update(self, *args, **kwargs):
+        for k, v in dict(*args, **kwargs).items():
+            self[k] = v
+
+    def get(self, key, default=None):
+        try:
+            return self[key]
+        except:
+            return default
+
+    def as_markdown(self):
+        result = "---\n"
+        result += "category: list-entry\n"
+        result += "layout: list-entry\n"
+        for k in sorted(self.keys()):
+            val = self[k]
+            if ' ' in val:
+                val = '"%s"' % self[k]
+            result += "%s: %s\n" % (k, val)
+        result += "---\n"
+        result += "\nThis is an automatically generated list entry.\n"
+        return result
+
+    def write_to_file(self, pathname):
+        spew_file(pathname, self.as_markdown())
+
 
 class Entry(dict):
     def __init__(self, *args, **kwargs):
@@ -95,3 +132,4 @@ if __name__ =='__main__':
     for f in sys.argv[1:]:
         print(Entry().from_file(f).as_markdown())
         
+
