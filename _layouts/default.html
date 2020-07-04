@@ -19,11 +19,11 @@
 		<tr><th>Company Name</th><td>{{ page.company-name }}</td></tr>
 	{% endif %}
 	{% if page.home %}
-		<tr><th>Home</th><td><a target="_blank" href="{{page.home}}">{{ page.home }}</a></td></tr>
+		<tr><th>Home</th><td><a target="_blank" href="{{page.home}}">{{ page.home }}<img src="../../i/outlink.svg" alt="(external link)"></a></td></tr>
 	{% endif %}
 	{% if page.privacy-policy %}
 		<tr><th>Privacy policy</th>
-			<td><a target="_blank" href="{{ page.privacy-policy }}">{{ page.privacy-policy }}</a></td></tr>
+			<td><a target="_blank" href="{{ page.privacy-policy }}">{{ page.privacy-policy }}<img src="../../i/outlink.svg" alt="(external link)"></a></td></tr>
 	{% endif %}
 	{% if page.owned-by %}
 		<tr><th>Owned by</th><td>{{ page.owned-by }}</td></tr>
@@ -35,7 +35,7 @@
 		<tr><th>California registration date</th><td>{{ page.california-date }}</td></tr>
 	{% endif %}
 	{% if page.vermont-id %}
-		<tr><th>Vermont ID</th><td><a target="_blank" href="https://bizfilings.vermont.gov/online/DatabrokerInquire/DataBrokerInformation?businessID={{ page.vermont-id }}">{{ page.vermont-id }}</a></td></tr>
+		<tr><th>Vermont ID</th><td><a target="_blank" href="https://bizfilings.vermont.gov/online/DatabrokerInquire/DataBrokerInformation?businessID={{ page.vermont-id }}">{{ page.vermont-id }}</a><img src="../../i/outlink.svg" alt="(external link)"></td></tr>
 	{% endif %}
 
 	</table>

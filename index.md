@@ -21,7 +21,7 @@ layout: home
 {% for page in site.pages %}
 	{% if page.company-name or page.powned-by %}
     <tr><td><a href=".{{ page.url }}">{% if page.company-name %}{{ page.company-name }}{% else %}<strike>{{ page.url }}</strike>{% endif %}</a></td>
-    	<td><a target="_blank" href="{{ page.home }}">{{ page.domain }}</a></td>
+    	<td><a target="_blank" href="{{ page.home }}">{{ page.domain }}<img src="i/outlink.svg" alt="(external link)"></a></td>
     	<td>{{ page.california-date }}</td>
     	<td>{% if page.vermont-id %}<a target="_blank" href="https://bizfilings.vermont.gov/online/DatabrokerInquire/DataBrokerInformation?businessID={{ page.vermont-id }}"> {{ page.vermont-id }}</a>{% endif %}</td>
 	</tr>
