@@ -1,9 +1,10 @@
 ---
 company-name: Rippll
 domain: rippll.com
-home: https://www.rippll.com/
-privacy-policy: https://www.rippll.com/privacy
 email: privacy@rippll.com
+home: https://www.rippll.com/
+iab-listing-name: "Bit Q Holdings Limited"
+privacy-policy: https://www.rippll.com/privacy
 ---
 
 

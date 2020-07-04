@@ -1,10 +1,11 @@
 ---
 company-name: IgnitionOne
 domain: ignitionone.com
-home: http://www.ignitionone.com/
-privacy-policy: https://www.ignitionone.com/privacy-policy/
 email: privacy@ignitionone.com
+home: http://www.ignitionone.com/
+iab-listing-name: IgnitionOne
 member-of: "Network Advertising Initiative"
+privacy-policy: https://www.ignitionone.com/privacy-policy/
 ---
 
 

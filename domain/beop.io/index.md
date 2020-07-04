@@ -1,9 +1,10 @@
 ---
 company-name: BeOp
 domain: beop.io
-home: https://beop.io/
-privacy-policy: https://beop.io/privacy
 email: dpo@beop.io
+home: https://beop.io/
+iab-listing-name: BeOp
+privacy-policy: https://beop.io/privacy
 ---
 
 

@@ -1,9 +1,11 @@
 ---
 company-name: SkimLinks
 domain: skimlinks.com
-home: https://skimlinks.com/
-privacy-policy: https://skimlinks.com/privacy-policy
 email: privacy@skimlinks.com
+home: https://skimlinks.com/
+iab-listing-name: "Skimbit Ltd"
+iab-privacy-policy: https://skimlinks.com/pages/privacy-policy
+privacy-policy: https://skimlinks.com/privacy-policy
 ---
 
 

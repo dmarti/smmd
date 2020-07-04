@@ -1,9 +1,10 @@
 ---
 company-name: CAKE
 domain: getcake.com
-home: https://getcake.com
-privacy-policy: https://getcake.com/privacy-policy/
 email: privacy@getCAKE.com
+home: https://getcake.com
+iab-listing-name: "Accelerize Inc."
+privacy-policy: https://getcake.com/privacy-policy/
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-domain: oracle.com
 company-name: "Oracle America, Inc. (Oracle Data Cloud)"
-home: http://www.oracle.com
+domain: oracle.com
 email: "privacy_ww [at] oracle.com"
-privacy-policy: https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html
+home: http://www.oracle.com
+iab-listing-name: "Oracle Data Cloud"
 opt-out-url: https://datacloudoptout.oracle.com/#optout
+privacy-policy: https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html
 vermont-id: 352759
 ---
 ## How to opt out

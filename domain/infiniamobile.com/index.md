@@ -1,10 +1,11 @@
 ---
 company-name: Infinia
 domain: infiniamobile.com
-home: https://www.infiniamobile.com
-privacy-policy: http://www.infiniamobile.com/privacy_policy
 email: INFINIA@INFINIAMOBILE.COM
+home: https://www.infiniamobile.com
+iab-listing-name: "INFINIA MOBILE S.L."
 member-of: "Interactive Advertising Bureau (IAB)"
+privacy-policy: http://www.infiniamobile.com/privacy_policy
 ---
 
 

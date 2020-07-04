@@ -1,9 +1,11 @@
 ---
 company-name: Permutive
 domain: permutive.com
-home: https://permutive.com/
-privacy-policy: https://permutive.com/privacy/
 email: support@permutive.com
+home: https://permutive.com/
+iab-listing-name: Permutive
+iab-privacy-policy: https://permutive.com/privacy
+privacy-policy: https://permutive.com/privacy/
 ---
 
 

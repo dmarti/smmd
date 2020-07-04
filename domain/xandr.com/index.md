@@ -1,9 +1,11 @@
 ---
 company-name: Xandr
 domain: xandr.com
-home: https://www.xandr.com/
-privacy-policy: https://www.xandr.com/privacy/
 email: privacypolicy@att.com.
+home: https://www.xandr.com/
+iab-listing-name: "Xandr, Inc."
+iab-privacy-policy: https://www.xandr.com/privacy/platform-privacy-policy/
+privacy-policy: https://www.xandr.com/privacy/
 ---
 
 

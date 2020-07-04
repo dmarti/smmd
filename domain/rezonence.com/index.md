@@ -1,9 +1,10 @@
 ---
 company-name: Rezonence
 domain: rezonence.com
-home: https://rezonence.com
-privacy-policy: https://rezonence.com/privacy-policy/
 email: info@rezonence.com
+home: https://rezonence.com
+iab-listing-name: "Rezonence Limited"
+privacy-policy: https://rezonence.com/privacy-policy/
 ---
 
 

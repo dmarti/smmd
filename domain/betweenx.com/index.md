@@ -1,9 +1,10 @@
 ---
 company-name: "Between Exchange"
 domain: betweenx.com
-home: https://betweenx.com/
-privacy-policy: https://en.betweenx.com/pdata.pdf
 email: privacy@betweenx.com
+home: https://betweenx.com/
+iab-listing-name: "Between Exchange"
+privacy-policy: https://en.betweenx.com/pdata.pdf
 ---
 
 

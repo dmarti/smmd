@@ -1,9 +1,11 @@
 ---
+california-date: 01/29/2020
 company-name: "Exponential Interactive, Inc. doing business as VDX.tv"
 domain: vdx.tv
-home: http://vdx.tv
 email: "privacy [at] VDX.tv"
-california-date: 01/29/2020
+home: http://vdx.tv
+iab-listing-name: "Exponential Interactive, Inc d/b/a VDX.tv"
+privacy-policy: https://vdx.tv/privacy/
 ---
 ## How to opt out
 

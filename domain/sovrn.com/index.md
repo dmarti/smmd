@@ -1,9 +1,11 @@
 ---
+california-date: 04/08/2020
 company-name: "Sovrn, Inc."
 domain: sovrn.com
-home: https://www.sovrn.com/
 email: "privacy [at] sovrn.com"
-california-date: 04/08/2020
+home: https://www.sovrn.com/
+iab-listing-name: "Sovrn Holdings Inc"
+privacy-policy: https://www.sovrn.com/sovrn-privacy/
 ---
 ## How to opt out
 

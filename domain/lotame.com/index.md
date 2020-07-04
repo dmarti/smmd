@@ -1,10 +1,12 @@
 ---
+california-date: 02/27/2020
 company-name: "Lotame Solutions, Inc."
 domain: lotame.com
-home: https://www.lotame.com/
 email: "privacy [at] lotame.com"
+home: https://www.lotame.com/
+iab-listing-name: "Lotame Solutions, inc"
 opt-out-url: https://www.lotame.com/about-lotame/privacy/opt-out/
-california-date: 02/27/2020
+privacy-policy: https://www.lotame.com/about-lotame/privacy/lotame-corporate-websites-privacy-policy/
 ---
 ## How to opt out
 

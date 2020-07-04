@@ -1,10 +1,12 @@
 ---
 company-name: "Digital Audience"
 domain: digitalaudience.io
-home: https://digitalaudience.io/
-privacy-policy: http://digitalaudience.io/legal/privacy-cookies/
 email: privacy@digitalaudience.io
+home: https://digitalaudience.io/
+iab-listing-name: digitalAudience
+iab-privacy-policy: https://digitalaudience.io/legal/privacy-cookies/
 member-of: "Interactive Advertising Bureau (IAB)"
+privacy-policy: http://digitalaudience.io/legal/privacy-cookies/
 ---
 
 

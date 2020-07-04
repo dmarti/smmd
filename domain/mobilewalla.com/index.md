@@ -1,11 +1,13 @@
 ---
-company-name: Mobilewalla, Inc.
-domain: mobilewalla.com
-home: http://www.mobilewalla.com/
-privacy-policy: http://www.mobilewalla.com/business-services-privacy-policy
-email: privacy@mobilewalla.com
 ccpa-email: CCPACompliance@mobilewalla.com
+company-name: "Mobilewalla, Inc."
 crunchbase: https://www.crunchbase.com/organization/mobilewalla
+domain: mobilewalla.com
+email: privacy@mobilewalla.com
+home: http://www.mobilewalla.com/
+iab-listing-name: "Mobilewalla, Inc."
+iab-privacy-policy: https://www.mobilewalla.com/business-services-privacy-policy
+privacy-policy: http://www.mobilewalla.com/business-services-privacy-policy
 ---
 
 

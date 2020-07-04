@@ -1,9 +1,11 @@
 ---
 company-name: Temelio
 domain: temelio.com
-home: http://www.temelio.com/?lang=en
-privacy-policy: https://www.temelio.com/vie-privee
 email: contact@temelio.com
+home: http://www.temelio.com/?lang=en
+iab-listing-name: Temelio
+iab-privacy-policy: https://temelio.com/vie-privee
+privacy-policy: https://www.temelio.com/vie-privee
 ---
 
 

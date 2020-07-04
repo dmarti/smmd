@@ -1,11 +1,12 @@
 ---
 company-name: SpotXchange
 domain: spotx.tv
-home: https://www.spotx.tv/
-privacy-policy: https://www.spotx.tv/privacy-policy/
 email: info@spotx.tv
-owned-by: "RTL Group"
+home: https://www.spotx.tv/
+iab-listing-name: "SpotX, Inc."
 member-of: "Interactive Advertising Bureau Europe (IAB Europe)"
+owned-by: "RTL Group"
+privacy-policy: https://www.spotx.tv/privacy-policy/
 ---
 
 

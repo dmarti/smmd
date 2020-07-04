@@ -1,9 +1,11 @@
 ---
 company-name: "Travel Audience"
 domain: travelaudience.com
-home: https://travelaudience.com/
-privacy-policy: https://travelaudience.com/website-privacy-policy/
 email: info@travelaudience.com
+home: https://travelaudience.com/
+iab-listing-name: "travel audience GmbH"
+iab-privacy-policy: https://travelaudience.com/product-privacy-policy/
+privacy-policy: https://travelaudience.com/website-privacy-policy/
 ---
 
 

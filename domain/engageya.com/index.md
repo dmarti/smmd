@@ -1,9 +1,10 @@
 ---
 company-name: Engageya
 domain: engageya.com
-home: https://www.engageya.com/
-privacy-policy: https://www.engageya.com/privacy
 email: privacy@Engageya.com
+home: https://www.engageya.com/
+iab-listing-name: "Beaconspark Ltd"
+privacy-policy: https://www.engageya.com/privacy
 ---
 
 

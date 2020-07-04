@@ -1,9 +1,11 @@
 ---
+california-date: 02/27/2020
 company-name: "Nativo, Inc."
 domain: nativo.com
-home: https://www.nativo.com
 email: "privacy [at] nativo.com"
-california-date: 02/27/2020
+home: https://www.nativo.com
+iab-listing-name: "Nativo, Inc."
+privacy-policy: https://www.nativo.com/interest-based-ads
 ---
 ## How to opt out
 

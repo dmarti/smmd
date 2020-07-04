@@ -2,6 +2,8 @@
 company-name: "Kochava Inc."
 domain: kochava.com
 home: http://www.kochava.com/
+iab-listing-name: "Kochava Inc."
+privacy-policy: https://www.kochava.com/support-privacy/
 vermont-id: 368030
 ---
 ## How to opt out

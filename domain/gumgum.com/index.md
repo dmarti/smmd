@@ -1,9 +1,11 @@
 ---
+california-date: 02/07/2020
 company-name: "GumGum Inc."
 domain: gumgum.com
-home: https://gumgum.com/
 email: "dataprivacy [at] gumgum.com"
-california-date: 02/07/2020
+home: https://gumgum.com/
+iab-listing-name: "GumGum, Inc."
+privacy-policy: https://gumgum.com/privacy-policy
 ---
 ## How to opt out
 

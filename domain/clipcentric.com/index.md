@@ -1,10 +1,11 @@
 ---
 company-name: Clipcentric
 domain: clipcentric.com
-home: https://clipcentric.com/
-privacy-policy: https://clipcentric.com/privacy.bhtml
 email: privacyrequest@clipcentric.com
+home: https://clipcentric.com/
+iab-listing-name: "Clipcentric, Inc."
 member-of: "Interactive Advertising Bureau (IAB)"
+privacy-policy: https://clipcentric.com/privacy.bhtml
 ---
 
 

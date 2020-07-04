@@ -1,11 +1,12 @@
 ---
 company-name: "Total Jobs"
 domain: totaljobs.com
-home: https://www.totaljobs.com
-privacy-policy: https://www.totaljobs.com/privacy-policy
 email: dataprotectionofficerUK@stepstone.co.uk
-owned-by: "Axel Springer"
+home: https://www.totaljobs.com
+iab-listing-name: "Totaljobs Group Ltd"
 member-of: "Interactive Advertising Bureau UK (IAB UK)"
+owned-by: "Axel Springer"
+privacy-policy: https://www.totaljobs.com/privacy-policy
 ---
 
 

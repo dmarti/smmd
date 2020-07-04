@@ -1,9 +1,11 @@
 ---
+california-date: 03/03/2020
 company-name: "ShareThis, Inc"
 domain: sharethis.com
-home: https://sharethis.com/
 email: "privacy [at] sharethis.com"
-california-date: 03/03/2020
+home: https://sharethis.com/
+iab-listing-name: "ShareThis, Inc"
+privacy-policy: https://sharethis.com/privacy/
 ---
 ## How to opt out
 

@@ -1,9 +1,11 @@
 ---
 company-name: Maytrics
 domain: maytrics.com
-home: https://maytrics.com
-privacy-policy: https://maytrics.com/de/content/datenschutz
 email: info@maytrics.de
+home: https://maytrics.com
+iab-listing-name: "Maytrics GmbH"
+iab-privacy-policy: https://maytrics.com/privacy.php
+privacy-policy: https://maytrics.com/de/content/datenschutz
 ---
 
 

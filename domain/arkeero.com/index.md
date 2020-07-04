@@ -1,9 +1,11 @@
 ---
 company-name: Arkeero
 domain: arkeero.com
-home: https://arkeero.com/
-privacy-policy: https://arkeero.com/privacy/
 email: dpd@arkeero.com
+home: https://arkeero.com/
+iab-listing-name: Arkeero
+iab-privacy-policy: https://arkeero.com/privacy-2/
+privacy-policy: https://arkeero.com/privacy/
 ---
 
 

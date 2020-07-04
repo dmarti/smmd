@@ -1,9 +1,11 @@
 ---
+california-date: 02/07/2020
 company-name: "Taboola, Inc."
 domain: taboola.com
-home: http://www.taboola.com
 email: "privacy [at] taboola.com"
-california-date: 02/07/2020
+home: http://www.taboola.com
+iab-listing-name: "Taboola Europe Limited"
+privacy-policy: https://www.taboola.com/privacy-policy
 ---
 ## How to opt out
 

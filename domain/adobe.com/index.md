@@ -1,10 +1,11 @@
 ---
 company-name: Adobe
 domain: adobe.com
-home: adobe.com
-privacy-policy:
- - https://www.adobe.com/privacy.html
- - https://www.adobe.com/privacy/experience-cloud.html
+home: https://adobe.com
+iab-listing-name: "Adobe Advertising Cloud"
+iab-privacy-policy: https://www.adobe.com/privacy/experience-cloud.html
+privacy-policy: "- https://www.adobe.com/privacy.html
+ - https://www.adobe.com/privacy/experience-cloud.html"
 ---
 ## How to opt out
 

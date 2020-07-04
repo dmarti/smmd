@@ -1,9 +1,11 @@
 ---
+california-date: 03/03/2020
 company-name: "Amobee, Inc."
 domain: amobee.com
-home: https://www.amobee.com/
 email: "amobeeprivacy [at] amobee.com"
-california-date: 03/03/2020
+home: https://www.amobee.com/
+iab-listing-name: "Amobee, Inc."
+privacy-policy: https://www.amobee.com/trust/privacy-guidelines
 ---
 ## How to opt out
 

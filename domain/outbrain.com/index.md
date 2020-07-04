@@ -1,9 +1,11 @@
 ---
+california-date: 03/11/2020
 company-name: "Outbrain Inc."
 domain: outbrain.com
-home: http://outbrain.com
 email: "legal [at] outbrain.com"
-california-date: 03/11/2020
+home: http://outbrain.com
+iab-listing-name: "Outbrain UK Ltd"
+privacy-policy: https://www.outbrain.com/legal/privacy#privacy-policy
 ---
 ## How to opt out
 

@@ -1,10 +1,11 @@
 ---
 company-name: SmartyAds
 domain: smartyads.com
-home: https://smartyads.com/
-privacy-policy: https://smartyads.com/privacy-policy
 email: karen@smartyads.com
+home: https://smartyads.com/
+iab-listing-name: "SmartyAds Inc."
 member-of: "Interactive Advertising Bureau (IAB)"
+privacy-policy: https://smartyads.com/privacy-policy
 ---
 
 

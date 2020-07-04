@@ -1,9 +1,10 @@
 ---
 company-name: SourcePoint
 domain: sourcepoint.com
-home: https://www.sourcepoint.com/
-privacy-policy: https://www.sourcepoint.com/privacy-policy
 email: legal@sourcepoint.com
+home: https://www.sourcepoint.com/
+iab-listing-name: "Sourcepoint Technologies, Inc."
+privacy-policy: https://www.sourcepoint.com/privacy-policy
 ---
 
 

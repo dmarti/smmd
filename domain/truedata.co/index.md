@@ -1,9 +1,11 @@
 ---
+california-date: 02/07/2020
 company-name: "TrueData Solutions, Inc."
 domain: truedata.co
-home: https://www.truedata.co
 email: "privacy [at] truedata.co"
-california-date: 02/07/2020
+home: https://www.truedata.co
+iab-listing-name: "TrueData Solutions, Inc."
+privacy-policy: https://www.truedata.co/privacy-policy/
 ---
 ## How to opt out
 
