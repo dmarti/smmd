@@ -1,7 +1,13 @@
 body {
     font-family: "Source Sans Pro", sans-serif;
     text-align: center;
-    padding: 2ex;
+    padding: 0px;
+}
+
+header {
+	text-align: left;
+	border: 1px solid green;
+	margin: 0px 0px 2rem 0px;
 }
 
 main {
@@ -27,7 +33,6 @@ nav {
 p {
     margin-top: 0px;
 }
-<html><head><title>Surveillance Marketing Meta-Directory</title><style type="text/css">
 
 * {
   font-family: sans-serif;

@@ -13,4 +13,5 @@ docker rm -f smmd-preview
 docker run --name smmd-preview \
 	--volume "$(pwd)":/jekyll-site \
 	-p 4000:4000 \
-	smmd-preview
+	smmd-preview 
+
