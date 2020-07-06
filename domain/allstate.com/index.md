@@ -7,5 +7,3 @@ email: customerprivacy@allstate.com
 member-of: "Digital Advertising Alliance"
 ---
 
-
-
