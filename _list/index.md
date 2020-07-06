@@ -1,6 +1,6 @@
 ---
 section: list
-layout: section-index
+layout: index
 title: Domains on lists
 ---
 
