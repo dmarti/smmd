@@ -6,6 +6,7 @@ email: "privacy [at] taboola.com"
 home: http://www.taboola.com
 iab-listing-name: "Taboola Europe Limited"
 privacy-policy: https://www.taboola.com/privacy-policy
+priority: low
 ---
 ## How to opt out
 
@@ -27,11 +28,14 @@ Taboola may disclose or make available consumers' pseudonymous data to our trust
 16 Madison Square West, 7th FloorNew York, NY 10010United States
 
 
+## Notes
 
-
-
-
-
+Tested 7 Jul 2020. The [Access
+request](https://accessrequest.taboola.com/access/)
+page came up with "Could not find Taboola user
+id (t_gid) cookie"  Looks like tracking is still
+dependent on legacy 3rd-party cookies, marking as
+low priority.
 
 
 
