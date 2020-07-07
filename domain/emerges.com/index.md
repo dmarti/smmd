@@ -1,7 +1,7 @@
 ---
 company-name: "eMerges.com, INC"
-domain: eMerges.com
-home: www.eMerges.com
+domain: emerges.com
+home: https://www.eMerges.com/
 vermont-id: 367083
 ---
 ## How to opt out
