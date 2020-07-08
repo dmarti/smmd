@@ -1,7 +1,9 @@
 ---
 company-name: "ISO Services, Inc."
 domain: iso.com
-home: www.claimsearch.iso.com
+home: https://www.claimsearch.iso.com/
+privacy-policy: https://www.verisk.com/privacy-trademarks-use/iso-online-privacy-notice/
+owned-by: verisk.com
 vermont-id: 367721
 ---
 ## How to opt out

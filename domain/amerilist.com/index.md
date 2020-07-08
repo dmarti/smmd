@@ -1,7 +1,7 @@
 ---
 company-name: "Amerilist Inc"
 domain: amerilist.com
-home: www.amerilist.com
+home: https://www.amerilist.com/
 vermont-id: 368187
 ---
 ## How to opt out
