@@ -89,3 +89,10 @@ class Entry(object):
         except:
             raise
 
+    @classmethod
+    def lookup(cls, domain):
+        print ("lookup")
+        return cls()
+        
+
+

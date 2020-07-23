@@ -53,6 +53,7 @@ class Entry(dict):
     def __init__(self, *args, **kwargs):
         self.update(*args, **kwargs)
         self.body = ''
+        self.pathname = None
 
     def __getitem__(self, key):
         val = dict.__getitem__(self, key)
@@ -79,6 +80,10 @@ class Entry(dict):
             return default
 
     def as_markdown(self):
+        for k in ('domain',  'company-name', 'home', 'email', 'ccpa-email', 
+                  'privacy-policy', 'opt-out-url', 'owned-by',
+                  'california-date', 'vermont-id'):
+            self[k] = self.get(k, '')
         result = "---\n"
         for k in sorted(self.keys()):
             if ' ' in self[k].strip() and not '"' in self[k]:
@@ -94,7 +99,9 @@ class Entry(dict):
         result += self.body
         return result
 
-    def write_to_file(self, pathname):
+    def write_to_file(self, pathname=None):
+        if not pathname:
+            pathname = self.pathname
         spew_file(pathname, self.as_markdown())
 
     @classmethod
@@ -102,6 +109,7 @@ class Entry(dict):
         try:
             with open(pathname) as mdfile:
                 ent = cls()
+                ent.pathname = pathname
                 in_head = False
                 current_key = None
                 for line in mdfile.readlines():
@@ -125,8 +133,16 @@ class Entry(dict):
             return cls.from_file(os.path.join(pathname, 'index.md'))
         except:
             if make_new:
-                return cls()
+                tmp = cls()
+                tmp.pathname = pathname
+                return tmp
             raise
+
+    @classmethod
+    def lookup(cls, domain):
+        datadir = os.path.normpath(os.path.join(__file__, '../../domain'))
+        pathname = os.path.join(datadir, domain)
+        return cls.from_file(pathname, True)
 
 if __name__ =='__main__':
     for f in sys.argv[1:]:
