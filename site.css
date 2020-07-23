@@ -1,13 +1,25 @@
 body {
     font-family: "Source Sans Pro", sans-serif;
     text-align: center;
-    padding: 0px;
+    background-color: #eee;
 }
 
 header {
 	text-align: left;
-	border: 1px solid green;
 	margin: 0px 0px 2rem 0px;
+	padding-top: 2em;
+	padding-left: 2em;
+}
+
+header nav ul {
+	display: block;
+	list-style-type:none;
+	padding-left: 0px;
+	padding-right: 4em;
+}
+
+header nav li {
+    display: inline-block;
 }
 
 main {
@@ -15,19 +27,22 @@ main {
     margin-right: auto;
     max-width: 50em;
     text-align: left;
+    background-color: white;
+    padding: 2em;
 }
 
-h1 {font-size: large; 
-    margin: 0px;
+header h1 {
+	font-size: 200%;
+}
+
+header h1 a {
+	color: inherit;
+	text-decoration: none;
 }
 
 h2 {font-size: large; 
     border-bottom: 1px solid black;
     margin: 4ex 0px 0px 0px;
-}
-
-nav {
-    text-align: right
 }
 
 p {
@@ -97,6 +112,10 @@ th  {
 
 table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
     content: "▴▾"
+}
+
+table a {
+	text-decoration: none;
 }
 
 .broken {
