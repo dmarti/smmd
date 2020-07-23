@@ -107,3 +107,10 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 .broken a {
 	font-weight: normal;
 }
+
+footer {	
+	text-align: right;
+	padding: 1em;
+	margin-top: 1em;
+}
+
