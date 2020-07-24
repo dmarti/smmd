@@ -34,7 +34,7 @@ for more information on this list.
 
 if __name__ == '__main__':
     for domain in sys.stdin.readlines():
-        domain.strip()
+        domain = domain.strip()
         content = list_entry(domain)
         pathname = '_list/acceptable-ads/%s/index.md' % domain
         spew_file(pathname, content)
