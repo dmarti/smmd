@@ -139,10 +139,18 @@ class Entry(dict):
             raise
 
     @classmethod
+    def exists(cls, domain):
+        datadir = os.path.normpath(os.path.join(__file__, '../../domain'))
+        pathname = os.path.join(datadir, domain, 'index.md')
+        return os.path.isfile(pathname)
+
+    @classmethod
     def lookup(cls, domain):
         datadir = os.path.normpath(os.path.join(__file__, '../../domain'))
         pathname = os.path.join(datadir, domain, 'index.md')
         return cls.from_file(pathname, True)
+
+
 
 if __name__ =='__main__':
     for f in sys.argv[1:]:

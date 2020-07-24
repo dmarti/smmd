@@ -13,9 +13,15 @@ if __name__ == '__main__':
     cmd = sys.argv[1]
     try:
         domain = sys.argv[2]
+        domain.strip()
     except:
-        print("usage: smmd edit [domain]")
+        print("usage: smmd [command] [domain]")
 
-    e = Entry.lookup(domain)
-    e.write_to_file()
-    subprocess.run([editor, e.pathname])
+    if 'edit' == cmd:
+        e = Entry.lookup(domain)
+        e.write_to_file()
+        subprocess.run([editor, e.pathname])
+    elif 'check' == cmd:
+        if Entry.exists(domain):
+            print("%s" % domain)
+
