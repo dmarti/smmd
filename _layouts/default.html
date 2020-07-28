@@ -25,7 +25,7 @@
 			<td><a target="_blank" href="{{ page.privacy-policy }}">{{ page.privacy-policy }}<img src="../../i/outlink.svg" alt="(external link)"></a></td></tr>
 	{% endif %}
 	{% if page.owned-by %}
-		<tr><th>Owned by</th><td>{{ page.owned-by }}</td></tr>
+		<tr><th>Owned by</th><td><a href="../{{ page.owned-by }}">{{ page.owned-by }}</a></td></tr>
 	{% endif %}
 	{% if page.email %}
 		<tr><th>Privacy email</th><td><a href="mailto:{{page.email}}">{{ page.email }}</a></td></tr>

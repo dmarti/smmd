@@ -1,0 +1,27 @@
+#!/usr/bin/env python3
+
+import os
+import subprocess
+import sys
+
+import tldextract
+
+from smEntry import Entry
+
+if __name__ == '__main__':
+    editor = os.environ.get('EDITOR', '/bin/vi')
+    cmd = sys.argv[1]
+    try:
+        domain = sys.argv[2]
+        domain.strip()
+    except:
+        print("usage: smmd [command] [domain]")
+
+    if 'edit' == cmd:
+        e = Entry.lookup(domain)
+        e.write_to_file()
+        subprocess.run([editor, e.pathname])
+    elif 'check' == cmd:
+        if Entry.exists(domain):
+            print("%s" % domain)
+
