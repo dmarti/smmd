@@ -1,10 +1,13 @@
 ---
+california-date: 
+ccpa-email: 
 company-name: "Oracle America, Inc. (Oracle Data Cloud)"
 domain: oracle.com
 email: "privacy_ww@oracle.com"
 home: http://www.oracle.com/
 iab-listing-name: "Oracle Data Cloud"
 opt-out-url: https://datacloudoptout.oracle.com/#optout
+owned-by: 
 privacy-policy: https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html
 vermont-id: 352759
 ---
@@ -20,8 +23,15 @@ Individuals can request deletion of all their online and offline information by 
 
 ## Right to Know
 
-[Oracle | Request Your Data](https://datacloudoptout.oracle.com/request-your-data)
+[Request Your Data](https://datacloudoptout.oracle.com/request-your-data)
 
+> Thank you for successfully verifying your identity.
+> 
+> Your request has been submitted to the Oracle Data Cloud. You will receive a response with your requested data, via the email address you provided, within 30 days.
+>
+> Please contact us at oracle-datacloud-privacy_us@oracle.com with any additional questions.
+> 
+> Please do not reply to this email, it will go to an unmonitored email account.
 
 ## Additional info
 
