@@ -42,6 +42,6 @@ Detailed information on the ODC’s processing practices for consumer data is av
 
 ## In the news
 
-[Oracle’s BlueKai tracks you across the web. That data spilled online | TechCrunch](https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/)
+[Oracle’s BlueKai tracks you across the web. That data spilled online](https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/)
 
 
