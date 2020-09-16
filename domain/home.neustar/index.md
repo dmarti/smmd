@@ -1,13 +1,12 @@
 ---
 california-date: 03/23/2020
-ccpa-email: 
+ccpa-email: CCPAAccessRequest@team.neustar
 company-name: "Neustar, Inc."
 domain: home.neustar
 email: privacy@team.neustar
-home: https://www.home.neustar
+home: https://www.home.neustar/
 iab-listing-name: "NeuStar, Inc."
-opt-out-url: https://www.home.neustar/privacy
-owned-by: 
+opt-out-url: https://privacychoices.home.neustar/
 privacy-policy: https://www.home.neustar/privacy
 vermont-id: 370100
 priority: high
