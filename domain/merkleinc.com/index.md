@@ -1,10 +1,11 @@
 ---
+california-date: 01/31/2020
 company-name: "Merkle Inc."
 domain: merkleinc.com
+email: "dpous@merkleinc.com"
 home: https://www.merkleinc.com/
-email: "dpous [at] merkleinc.com"
-opt-out-url: http://www.merkleinc.com/privacy
-california-date: 01/31/2020
+opt-out-url: https://www.merkleinc.com/getting-know-your-privacy-rights/control-your-data
+privacy-policy: http://www.merkleinc.com/privacy 
 vermont-id: 366588
 ---
 ## How to opt out
@@ -44,10 +45,16 @@ https://www.4cite.com/4cite-marketing-llc-privacy-policy/ccpa/
 https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/right-to-know/
 https://compliance.4cite.com/d330f92c-d2d2-491f-a1cd-6c0e3a865a5a/request-to-delete/
 
-7001 Columbia Gateway DrColumbia, MD 21046United States
+7001 Columbia Gateway Dr
+Columbia, MD 21046
+United States
 
 
+## Notes
 
+Has a large proprietary data set. 
+
+"If you  request that we not sell your personal information, we will stop including include your personal information in future data products we give to our clients. We will keep enough information about you so that if we receive new data about you in the future we will be able to recognize that you have already asked us to opt out of the sale of your personal information and we will be able to suppress your information."
 
 
 
