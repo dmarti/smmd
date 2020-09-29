@@ -1,11 +1,15 @@
 ---
+california-date: 
+ccpa-email: 
+company-name: "The Rubicon Project, Inc."
 domain: rubiconproject.com
 email: privacy@rubiconproject.com
 home: http://rubiconproject.com
-company-name: "The Rubicon Project, Inc."
-privacy-policy: http://www.rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/
 member-of: "Online Publishers Association Europe (OPA Europe)"
+opt-out-url: 
 owned-by: magnite.com
+privacy-policy: http://www.rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/
+vermont-id: 
 ---
 
 ## In the news
