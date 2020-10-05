@@ -7,7 +7,7 @@ opt-out-url: https://support.gloo.us/s/contactsupport
 privacy-policy: https://www.gloo.us/website-privacy-statement
 ---
 
-[Gloo | Supplemental California Law Disclosures](https://www.gloo.us/supplemental-california-law-disclosures)
+More CCPA info in: [Supplemental California Law Disclosures](https://www.gloo.us/supplemental-california-law-disclosures)
 
 Opt out link goes to a support form. Put  “California Request to Know” in the subject line.
 
