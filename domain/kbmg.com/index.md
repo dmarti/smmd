@@ -1,9 +1,14 @@
 ---
+california-date: 02/07/2020
+ccpa-email: 
 company-name: "KBM Group LLC, d/b/a Wunderman Thompson Data"
 domain: kbmg.com
-home: http://www.kbmg.com
 email: "Rachel.glasser [at] wundermanthompson.com"
-california-date: 02/07/2020
+home: http://www.kbmg.com
+opt-out-url: 
+owned-by: wunderman.com
+privacy-policy: https://www.kbmg.com/about-us/privacy/
+vermont-id: 
 ---
 ## How to opt out
 
