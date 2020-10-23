@@ -3,11 +3,11 @@ california-date:
 ccpa-email: 
 company-name: Coinbase
 domain: coinbase.com
-email: 
-home: https://
-opt-out-url: https://www.coinbase.com/legal/privacy
+email: dpo@coinbase.com
+home: https://www.coinbase.com/
+opt-out-url: 
 owned-by: 
-privacy-policy: 
+privacy-policy: https://www.coinbase.com/legal/privacy
 vermont-id: 
 ---
 
