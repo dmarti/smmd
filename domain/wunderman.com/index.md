@@ -1,12 +1,15 @@
 ---
-company-name: Wunderman
+california-date: 
+ccpa-email: 
+company-name: 
 domain: wunderman.com
+email: 
 home: https://www.wunderman.com
-privacy-policy: https://www.wunderman.com/privacy-policy
-email: webmaster@wunderman.com
-owned-by: WPP
-member-of: "American Advertising Federation"
+opt-out-url: 
+owned-by: wundermanthompson.com
+privacy-policy: 
+vermont-id: 
 ---
 
-
+wunderman.com redirects to wundermanthompson.com (10 Oct 2020)
 

@@ -1,9 +1,12 @@
 ---
+california-date: 02/12/2020
+ccpa-email: 
 company-name: "APIHub, Inc."
 domain: clearbit.com
-home: http://www.clearbit.com
-email: "privacy [at] clearbit.com"
-california-date: 02/12/2020
+email: privacy@clearbit.com
+home: https://clearbit.com/
+privacy-policy: https://clearbit.com/privacy
+vermont-id: 
 ---
 ## How to opt out
 
@@ -17,12 +20,15 @@ All deletion requests for all individuals (including those protected under Gov. 
 
 ## Additional info
 
-
 www.clearbit.com/privacy
 
-90 Sheridan StSan Francisco, CA 94103United States
+90 Sheridan St
+San Francisco, CA 94103
+United States
 
+# Form to claim your personal info
 
+https://claim.clearbit.com/
 
 
 
