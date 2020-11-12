@@ -1,9 +1,14 @@
 ---
+california-date: 03/03/2020
+ccpa-email: 
 company-name: "TransUnion Risk and Alternative Data Solutions, Inc."
 domain: transunion.com
-home: https://www.transunion.com/consumer-privacy
 email: "mick.forde [at] transunion.com"
-california-date: 03/03/2020
+home: https://www.transunion.com/consumer-privacy
+opt-out-url: https://service.transunion.com/dss/ccpa_optout.page
+owned-by: 
+privacy-policy: https://www.transunion.com/privacy/transunion
+vermont-id: 
 ---
 ## How to opt out
 
@@ -17,20 +22,12 @@ TransUnion does not knowingly post online information governed by Gov. Code sect
 
 ## Additional info
 
-
-
-
 555 West Adams StreetChicago, IL 60661United States
 
+Please send your letter and documentation to the following address:
 
+TransUnion Data Privacy Request
 
+P.O. Box 130
 
-
-
-
-
-
-
-
-
-
+Woodlyn, PA 19094

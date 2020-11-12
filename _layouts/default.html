@@ -44,7 +44,7 @@
 <div id="lists">
 {% for e in site.list %}
 	{% if e.domain == page.domain %}
-		<p><b>On list:</b> <a href="../../list/#{{ e.list }}-{{ e.domain }}">{{ e.list-name }}</a></p>
+		<p><b>On list:</b> <a href="../../list/#{{ e.list }}-{{ e.domain }}">{% if e.list-name %}{{ e.list-name }}{% else %}{{ e.list }}{% endif %}</a></p>
 	{% endif %}
 {% endfor %}
 </div>
