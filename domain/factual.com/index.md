@@ -1,9 +1,12 @@
 ---
+california-date: 01/31/2020
+ccpa-email: 
 company-name: "Factual, Inc."
 domain: factual.com
-home: https://www.factual.com
-email: "privacy [at] factual.com"
-california-date: 01/31/2020
+email: privacy@factual.com
+home: https://www.factual.com/
+opt-out-url: https://www.factual.com/ccpa-requests/
+privacy-policy: http://www.factual.com/privacy/services/
 ---
 ## How to opt out
 
@@ -23,14 +26,7 @@ Factual is a location data company empowering the world’s leading marketers wi
 1999 Avenue of the Stars4th FloorLos Angeles, CA 90067United States
 
 
+## In the news
 
-
-
-
-
-
-
-
-
-
+[Banal Smartphone Apps Are the New Surveillance State | The New Republic](https://newrepublic.com/article/160238/muslim-pro-app-location-data-industry-military-surveillance)
 
