@@ -1,11 +1,12 @@
 ---
+california-date: 04/01/2020
 company-name: "Venntel, Inc."
 domain: venntel.com
-home: http://venntel.com
 email: "legal [at] venntel.com"
-california-date: 04/01/2020
-vermont-id: 369842
+home: http://venntel.com
 opt-out-url: https://www.venntel.com/opt-out
+privacy-policy: https://www.venntel.com/privacy-policy
+vermont-id: 369842
 ---
 
 ## How to opt out
@@ -37,3 +38,8 @@ Venntel takes consumers’ privacy seriously. Our third data providers are appro
 Herndon, VA 20166
 United States
 
+## In the news
+
+[How an ICE Contractor Tracks Phones Around the World](https://www.vice.com/en/article/epdpdm/ice-dhs-fbi-location-data-venntel-apps)
+
+[My Phone Was Spying on Me, so I Tracked Down the Surveillants](https://nrkbeta.no/2020/12/03/my-phone-was-spying-on-me-so-i-tracked-down-the-surveillants/)
