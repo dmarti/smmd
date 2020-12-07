@@ -1,9 +1,11 @@
 ---
+california-date: 01/31/2020
 company-name: "LexisNexis Risk Solutions"
 domain: lexisnexis.com
+email: consumer.documents@lexisnexis.com
 home: http://risk.lexisnexis.com
-email: "consumer.documents [at] lexisnexis.com"
-california-date: 01/31/2020
+opt-out-url: https://consumer.risk.lexisnexis.com/request?#california
+privacy-policy: https://risk.lexisnexis.com/privacy-policy
 vermont-id: 353281
 ---
 ## How to opt out
@@ -37,18 +39,9 @@ Addition information is available at:
 
 https://consumer.risk.lexisnexis.com/california
 
-1000 Alderman DriveAlpharetta, GA 30005United States
+1000 Alderman Drive
 
+Alpharetta, GA 30005
 
-
-
-
-
-
-
-
-
-
-
-
+United States
 
