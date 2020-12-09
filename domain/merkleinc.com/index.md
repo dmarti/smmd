@@ -64,13 +64,3 @@ Has a large proprietary data set.
 
 "If you  request that we not sell your personal information, we will stop including include your personal information in future data products we give to our clients. We will keep enough information about you so that if we receive new data about you in the future we will be able to recognize that you have already asked us to opt out of the sale of your personal information and we will be able to suppress your information."
 
-
-
-
-
-
-
-
-
-
-

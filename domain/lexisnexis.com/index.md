@@ -1,10 +1,12 @@
 ---
 california-date: 01/31/2020
+ccpa-email: 
 company-name: "LexisNexis Risk Solutions"
 domain: lexisnexis.com
 email: consumer.documents@lexisnexis.com
 home: http://risk.lexisnexis.com
 opt-out-url: https://consumer.risk.lexisnexis.com/request?#california
+owned-by: 
 privacy-policy: https://risk.lexisnexis.com/privacy-policy
 vermont-id: 353281
 ---
@@ -44,4 +46,9 @@ https://consumer.risk.lexisnexis.com/california
 Alpharetta, GA 30005
 
 United States
+
+
+## Rating
+
+Boring CCPA package returned, mostly just previous addresses.  Got both a FCRA document and a CCPA document with 1 request.
 

@@ -45,3 +45,6 @@ Detailed information on the ODC’s processing practices for consumer data is av
 [Oracle’s BlueKai tracks you across the web. That data spilled online](https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/)
 
 
+## Rating
+
+10/10, would CCPA again.  Data is wrong enough to be a barrel of laughs.
