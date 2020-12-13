@@ -1,10 +1,12 @@
 ---
 california-date: 02/27/2020
+ccpa-email: 
 company-name: "Experian Marketing Solutions, LLC."
 domain: experian.com
 email: "kai.hsien [at] experian.com"
 home: http://www.experian.com
 opt-out-url: https://experian.com/ccpa/
+owned-by: 
 privacy-policy: https://www.experian.com/privacy/prod_serv_policy
 vermont-id: 367915
 ---
@@ -37,4 +39,6 @@ United States
 
 
 
-(Submitted RtK 10 Oct 2020 -- Don)
+## Rating
+
+Submitted RtK 10 Oct 2020.  Boring result, just ID verification info like name variations, address and phone number. 1/5 stars, would not CCPA again.  -- Don
