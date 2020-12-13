@@ -4,9 +4,6 @@ layout: index
 title: High priority domains
 list: high-priority
 ---
-
-<h1>{{ page.path }} </h1>
-
 <table class="sortable">
 <tr><th>List name</th><th colspan="2">Domain</th></tr>
 {% for p in site.list %}
