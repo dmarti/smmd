@@ -1,11 +1,14 @@
 ---
+california-date: 01/31/2020
 company-name: Versium
 domain: versium.com
+email: "dlim@versium.com"
 home: http://www.versium.com
-email: "dlim [at] versium.com"
-california-date: 01/31/2020
+opt-out-url: https://versium.com/ccpa-opt-out
+privacy-policy: 
 vermont-id: 361975
 ---
+
 ## How to opt out
 
 
