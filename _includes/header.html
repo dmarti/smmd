@@ -1,9 +1,3 @@
 <header>
-	<h1><a href="{{ site.baseurl }}">Surveillance Marketing Meta-Directory</a></h1>
-	<nav>
-		<ul>
-			<li><a href="{{ site.baseurl }}/">Home</a></p></li>
-			<li><a href="{{ site.baseurl }}/list/">Lists</a></li>
-		</ul>
-	</nav>
+	<h1><a href="{% if site.baseurl %}{{ site.baseurl }}{% else %}/{% endif %}">Surveillance Marketing Meta-Directory</a></h1>
 </header>
