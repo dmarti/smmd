@@ -1,6 +1,6 @@
 ---
 company-name: Petco
-domain: 
+domain: petco.com
 email: privacy@petco.com
 home: https://www.petco.com/
 opt-out-url: https://dsar.oncentrl.com/petco_rightsrequest.html?uuid=1988
