@@ -1,35 +1,17 @@
 ---
-company-name: "Quality Planning Corporation"
+company-name: "Verisk Analytics, Inc."
 domain: verisk.com
-home: https://www.verisk.com/insurance/capabilities/underwriting/property/
-vermont-id: 367717
+email: info@verisk.com
+home: https://www.verisk.com/
+opt-out-url: https://secure.ethicspoint.com/domain/media/en/gui/69464/index.html
+privacy-policy: https://www.verisk.com/privacy-trademarks-use/ccpa/
 ---
-## How to opt out
+Contact phone number and web form.
+
+(Form submitted 24 Aug 2021)
 
 
-
-
-## How to delete
-
-
-
-
-## Additional info
-
-
-
-
-388 Market Street, # 750, San Francisco, CA, 94111, USA
-
-
-
-
-
-
-
-
-
-
-
-
+Verisk Analytics
+545 Washington Boulevard
+Jersey City, NJ 07310-1686
 
