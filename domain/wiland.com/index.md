@@ -1,12 +1,14 @@
 ---
-domain: wiland.com
-home: https://wiland.com/
-privacy-policy: https://wiland.com/privacy-policies/
-email: privacy@wiland.com
-company-name: "Wiland, Inc."
 california-date: 02/12/2020
-vermont-id: 367892
+ccpa-email: 
+company-name: "Wiland, Inc."
+domain: wiland.com
+email: privacy@wiland.com
+home: https://wiland.com/
 opt-out-url: https://www.Wiland.com/privacy-choices
+owned-by: 
+privacy-policy: https://wiland.com/privacy-policies/
+vermont-id: 367892
 ---
 
 ## How to opt out
