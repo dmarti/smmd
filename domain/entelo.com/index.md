@@ -1,10 +1,13 @@
 ---
 company-name: "Entelo, Inc."
 domain: entelo.com
-home: http://www.entelo.com
-email: "privacy [at] entelo.com"
-california-date: 02/12/2020
+home: https://www.entelo.com
+email: "privacy@entelo.com"
+privacy-policy: https://www.entelo.com/legal/privacy
 ---
+
+"Entelo, Inc. is a web-based software solution that allows recruiting professionals to recruit faster, smarter and better by using predictive algorithms and data-backed insights, as well as allows employers to interview their job applicants using video and schedule appointments with job applicants and prospective employers. Entelo provides a suite of services including Entelo Platform, Entelo Diversity, Entelo Envoy, and ConveyIQ by Entelo"
+
 ## How to opt out
 
 
@@ -28,7 +31,11 @@ We prefer email.
 
 our data collecting practices are fully described on our privacy notice: https://www.entelo.com/privacy-policy/
 
-775 Sansome St. Suite 100San Francisco, CA 94111United States
+775 Sansome St. Suite 100
+
+San Francisco, CA 94111
+
+United States
 
 
 
