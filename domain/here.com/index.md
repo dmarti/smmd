@@ -1,9 +1,12 @@
 ---
-company-name: "HERE North America LLC"
+company-name: "HERE Technologies"
 domain: here.com
-home: http://www.here.com
-email: "privacy [at] here.com"
-california-date: 02/27/2020
+email: "CAprivacy@here.com"
+home: https://www.here.com
+opt-out-url: https://privacy.here.com/dsr
+owned-by: 
+privacy-policy: https://legal.here.com/us-en/privacy/policy 
+vermont-id: 
 ---
 ## How to opt out
 
@@ -17,20 +20,9 @@ An individual can demand deletion of information posted online under Gov. Code s
 
 ## Additional info
 
+425 W Randolph Street
 
+Chicago, IL 60606
 
-
-425 W Randolph StreetChicago, IL 60606United States
-
-
-
-
-
-
-
-
-
-
-
-
+United States
 
