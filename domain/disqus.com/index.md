@@ -14,4 +14,4 @@ vermont-id:
 
 ## In the news
 
-[Zeta Global acquires commenting service Disqus | TechCrunch](https://techcrunch.com/2017/12/05/zeta-global-acquires-commenting-service-disqus/)
+[Zeta Global acquires commenting service Disqus](https://techcrunch.com/2017/12/05/zeta-global-acquires-commenting-service-disqus/)
