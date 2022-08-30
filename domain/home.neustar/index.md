@@ -12,6 +12,10 @@ vermont-id: 370100
 priority: high
 ---
 
+## In the news
+
+https://newsroom.transunion.com/transunion-and-neustar-announce-transaction-close/
+
 ## How to opt out
 
 
