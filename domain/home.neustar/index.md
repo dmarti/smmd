@@ -7,9 +7,10 @@ email: privacy@team.neustar
 home: https://www.home.neustar/
 iab-listing-name: "NeuStar, Inc."
 opt-out-url: https://privacychoices.home.neustar/
+owned-by: transunion.com
+priority: high
 privacy-policy: https://www.home.neustar/privacy
 vermont-id: 370100
-priority: high
 ---
 
 ## In the news
