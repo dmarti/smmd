@@ -1,11 +1,16 @@
 ---
+california-date: 01/30/2020
 company-name: "Specialists Marketing Services, Inc."
 domain: sms-inc.com
+email: dataprivacyteam@sms-inc.com
 home: http://www.sms-inc.com
-email: "dataprivacyteam [at] sms-inc.com"
-california-date: 01/30/2020
+opt-out-url: https://www.sms-inc.com/do-not-sell-my-personal-information/
+owned-by: 
+privacy-policy: https://www.sms-inc.com/privacy-policy-ca/
 vermont-id: 367871
 ---
+
+
 ## How to opt out
 
 
@@ -19,9 +24,11 @@ Consumers can exercise their rights under the CCPA by visiting our website at ww
 ## Additional info
 
 
+777 Terrace Ave, Suite 401
 
+Hasbrouck Heights, NJ 07604
 
-777 Terrace AveSuite 401Hasbrouck Heights, NJ 07604United States
+United States
 
 
 
