@@ -23,6 +23,10 @@ Individuals can request deletion of all their online and offline information by 
 
 ## Right to Know
 
+This is a good first CCPA RtK for people who are interested. They have a lot of data so probably have someting that's interesting.
+
+And it's wrong enough that you probably won't get freaked out too badly by sensitive stuff.
+
 [Request Your Data](https://datacloudoptout.oracle.com/request-your-data)
 
 > Thank you for successfully verifying your identity.

@@ -1,10 +1,14 @@
 ---
+california-date: 
+ccpa-email: 
 company-name: Sift
 domain: sift.com
 email: privacy@sift.com
 home: https://sift.com/
 opt-out-url: https://privacyportal.onetrust.com/webform/8b8e60c9-ab64-4620-b954-67a56e27d667/016b2f78-7d0a-4414-9d62-1bef47e49259
+owned-by: 
 privacy-policy: https://sift.com/service-privacy 
+vermont-id: 
 ---
 
 Sift Science, Inc.
