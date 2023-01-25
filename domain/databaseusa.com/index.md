@@ -1,9 +1,13 @@
 ---
+california-date: 03/09/2020
+ccpa-email: 
 company-name: DatabaseUSA
 domain: databaseusa.com
-home: https://databaseusa.com/
 email: "Privacy [at] databaseusa.com"
-california-date: 03/09/2020
+home: https://databaseusa.com/
+opt-out-url: 
+owned-by: 
+privacy-policy: 
 vermont-id: 357083
 ---
 ## How to opt out
