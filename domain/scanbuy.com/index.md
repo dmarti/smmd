@@ -1,9 +1,13 @@
 ---
+california-date: 03/23/2020
+ccpa-email: 
 company-name: "Scanbuy, Inc."
 domain: scanbuy.com
+email: privacy@scanbuy.com
 home: http://www.scanbuy.com
-email: "privacy [at] scanbuy.com"
-california-date: 03/23/2020
+opt-out-url: 
+owned-by: 
+privacy-policy: https://scanbuy.com/services-privacy-policy
 ---
 ## How to opt out
 
@@ -20,7 +24,9 @@ http://scanbuy.com/rights/data
 
 Scanbuy collects information generally known as non-personally identifiable information (“Non-PII”) from third parties, such as from website publishers, mobile app developers, and other providers of advertising technology (collectively, “Data Suppliers”) and services in a variety of ways, including through the use of browser cookies, pixel tags, and server-to-server connections with our partners. The type of information that we may process includes Device Identifiable Information (“DII”), Hashed Emails, Location Information, Inference Data, Demographic Data and Behavioral Data. We may use the data collected for advertising, analytics, ad reporting purposes or to improve our services. We may share and allow third-party partners to share Non-PII with other third parties that perform targeted advertising activities across other apps and websites. You have the right to opt-out of our sharing your information with third parties for targeted advertising purposes by using the “Do Not Sell My Personal Information” link available in our Privacy Policy by navigating to http://scanbuy.com/services-privacy-policy. If you opt-out, you will no longer be included in the targeted advertising activities conducted by Scanbuy and/or other third-party partners. However, you will continue to receive future online ads and content which may not be personalized or relevant to you. The choices that you make with Scanbuy are browser and device specific, instructions on how to make choices across different devices can be found in our Privacy Policy by navigating to http://scanbuy.com/services-privacy-policy. Additional information about Scanbuy’s data use can be found in our Privacy Policy by navigating to http://scanbuy.com/services-privacy-policy.
 
-10 E. 39th Street, 10th FloorNYC, NY 10016United States
+10 E. 39th Street, 10th Floor
+NYC, NY 10016
+United States
 
 
 

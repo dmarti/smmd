@@ -1,11 +1,15 @@
 ---
 california-date: 03/03/2020
+ccpa-email: 
 company-name: "Fifty Technology Ltd"
 domain: fifty.io
 email: "privacy [at] fifty.io"
 home: http://fifty.io
 iab-listing-name: "Fifty Technology Limited"
+opt-out-url: 
+owned-by: 
 privacy-policy: https://fifty.io/privacy-policy.php
+vermont-id: 
 ---
 ## How to opt out
 
