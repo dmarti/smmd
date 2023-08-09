@@ -1,7 +1,7 @@
 ---
-california-date: 21 September 2020
+california-date: "21 September 2020"
 ccpa-email: 
-company-name: Dynata, LLC
+company-name: "Dynata, LLC"
 domain: dynata.com
 email: privacy@dynata.com
 home: https://www.dynata.com/
@@ -13,6 +13,8 @@ vermont-id:
 ---
 
 USA privacy policy: https://www.dynata.com/privacy-policy-us/
+
+RtK response prompt, no file 9 Aug 2023 
 
 ## Address
 
