@@ -3,35 +3,26 @@ california-date: 02/07/2020
 ccpa-email: 
 company-name: "KBM Group LLC, d/b/a Wunderman Thompson Data"
 domain: kbmg.com
-email: "Rachel.glasser [at] wundermanthompson.com"
-home: http://www.kbmg.com
+email: "Rachel.glasser@wundermanthompson.com"
+home: http://www.kbmg.com/
 opt-out-url: 
 owned-by: wunderman.com
 privacy-policy: https://www.kbmg.com/about-us/privacy/
 vermont-id: 
 ---
-## How to opt out
 
+## In the news
+[WPP's Choreograph contains remnants of data unit that facilitated fraud | Campaign US](https://www.campaignlive.com/article/wpps-choreograph-contains-remnants-data-unit-facilitated-fraud/1789192)
 
-A consumer may opt our of sale or submit requests under the CCPA through the follow ways:
-1)Completing our webform to intake such requests which is available on our privacy policy
-2)emailing:
-a.Consumerassistance@wundermandata.com
-b.DoNotMail@wundermanthompson.com
-3)Or phoning 866-275-4526
-4)Consumers may also request to opt out of the sale of their personal information here: https://www.kbmg.com/about-us/ccpa-privacy-policy/#optout
+From the site 16 Aug 2023
 
-## How to delete
+> The KBMG website does not collect personal data of visitors and does not download cookies. Additionally, KBMG no longer maintains the former iBehavior database used to perform the above activities and no longer sells personal information. However, should you wish to, you can request to opt-out, delete or receive a copy of your personal information that is processed in the former iBehavior database using the forms below.
 
+> If you choose to do that, the contact information you choose to enter into the forms below will pass on to our affiliate, which managed the former iBehavior database when it was operational (the database has been closed down) and now oversees our data compliance program. That affiliate will handle your request. Our affiliate will use that information only to execute your request and will retain it solely for the purpose of maintaining a record of completion of your request. 
 
-Individuals can demand deletion by one of the methods mentioned above.
-
-## Additional info
-
-
-For more information please visit https://www.kbmg.com/about-us/privacy/
-
-2050 N. Greenville AveRichardson, TX 75082United States
+2050 N. Greenville Ave
+Richardson, TX 75082
+United States
 
 
 
