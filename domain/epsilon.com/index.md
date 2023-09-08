@@ -1,12 +1,19 @@
 ---
+california-date: 01/31/2020
 company-name: "Epsilon Data Management, LLC"
 domain: epsilon.com
+email: "privacy@epsilon.com"
 home: https://us.epsilon.com
-email: "privacy_EPS [at] lionresources.com"
 opt-out-url: https://us.epsilon.com/consumer-information#Display
-california-date: 01/31/2020
+owned-by: publicis.com
+privacy-policy: https://legal.epsilon.com/global-privacy-policies/
 vermont-id: 352693
 ---
+
+## In the news
+
+[LiveRamp and Epsilon Partner to Protect Publishers and Brands from Impact of Third-Party Cookie Deprecation | Business Wire](https://www.businesswire.com/news/home/20230907781639/en/LiveRamp-and-Epsilon-Partner-to-Protect-Publishers-and-Brands-from-Impact-of-Third-Party-Cookie-Deprecation) -- " Now, ATS publishers can enable PubLink within ATS and transact on Epsilon’s CORE ID interoperably with RampID to make their authenticated inventory available to additional advertisers and demand-side platforms. Brands using LiveRamp can continue activating on Epsilon Digital using RampID to access authenticated inventory programmatically."
+
 ## How to opt out
 
 
