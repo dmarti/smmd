@@ -1,13 +1,18 @@
 ---
+california-date: 
+ccpa-email: 
 company-name: "Clearview AI, Inc."
 domain: clearview.ai
+email: 
 home: https://www.clearview.ai/
-privacy-policy: https://www.clearview.ai/privacy/privacy_policy
+opt-out-url: 
+owned-by: 
+privacy-policy: https://www.clearview.ai/privacy-policy 
 vermont-id: 367103
 ---
 ## How to opt out
 
-
+https://www.clearview.ai/privacy-and-requests
 
 
 ## How to delete
