@@ -1,6 +1,6 @@
 ---
 california-date: 
-ccpa-email: 
+ccpa-email: datenschutz@telekom.de
 company-name: T-Mobile
 domain: t-mobile.com
 email: privacy@t-mobile.com
@@ -20,3 +20,8 @@ is.
 
 This seems to be a good one to RtK -- they are somehow sending [Facebook events](https://innovation.consumerreports.org/wp-content/uploads/2024/01/CR_Who-Shares-Your-Information-With-Facebook.pdf) about me even though I have not been a customer.
 
+Rtk: https://www.t-mobile.com/privacy-center/privacy-rights-request.html 
+
+## In the news
+
+[Deutsche Telekom reaches majority stake in T-Mobile U.S. - CEO | Reuters](https://www.reuters.com/business/media-telecom/deutsche-telekom-reaches-majority-stake-t-mobile-us-ceo-2023-04-05/)
