@@ -32,3 +32,12 @@ More information is available at: https://www.thomsonreuters.com/en/privacy-stat
 Eagan, MN 55123
 United States
 
+
+
+## RtK notes
+
+Verification procees.
+
+CSV with addresses, lots of previous addresses, real estate and work info. "People finder" section lists addresses of relatives.
+
+No vehicle info, location data, or shopping.
